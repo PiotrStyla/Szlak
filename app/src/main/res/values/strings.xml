@@ -1,45 +1,100 @@
 <resources>
     <string name="app_name">Różańcowy Szlak</string>
     <string name="wprowadzenie_button">WPROWADZENIE</string>
-    <string name="wprowadzenie1">Przeżywamy czas rozkwitu pielgrzymek. Jedni wędrują pieszo, inni jakimś środkiem lokomocji. Wyruszając w drogę mają w sercu wiele intencji. Wracają ubogaceni i wdzięczni Bogu.
+    <string name="wprowadzenie1">Przeżywamy czas rozkwitu pielgrzymek. Jedni wędrują pieszo, inni jakimś środkiem
+        lokomocji. Wyruszając w drogę mają w sercu wiele intencji. Wracają ubogaceni i wdzięczni Bogu.
     </string>
-    <string name="wprowadzenie2">Choć każda z pielgrzymek jest godna polecenia, to jednak żadna nie dorówna wędrówce duchowej, jaką może człowiek podjąć, gdy w swej modlitwie przemierza bezkresne i cudowne obszary Bożych tajemnic. Zewnętrzne wędrowanie szybko się kończy, a duchowa pielgrzymka trwa przez lata.
+    <string name="wprowadzenie2">Choć każda z pielgrzymek jest godna polecenia, to jednak żadna nie dorówna wędrówce
+        duchowej, jaką może człowiek podjąć, gdy w swej modlitwie przemierza bezkresne i cudowne obszary Bożych
+        tajemnic. Zewnętrzne wędrowanie szybko się kończy, a duchowa pielgrzymka trwa przez lata.
     </string>
-    <string name="wprowadzenie3">Niniejsze opracowanie jest zaproszeniem do udziału w jednej z najpiękniejszych pielgrzymek duchowych, jakie są proponowane nam, uczniom Chrystusa. Jest to wędrowanie do dwudziestu miejsc i dwudziestu zbawczych wydarzeń, przemieniających życie człowieka. Są to wydarzenia z życia Jezusa i Maryi, opowiedziane i przeżywane w kolejnych tajemnicach różańca świętego.
+    <string name="wprowadzenie3">Niniejsze opracowanie jest zaproszeniem do udziału w jednej z najpiękniejszych
+        pielgrzymek duchowych, jakie są proponowane nam, uczniom Chrystusa. Jest to wędrowanie do dwudziestu miejsc i
+        dwudziestu zbawczych wydarzeń, przemieniających życie człowieka. Są to wydarzenia z życia Jezusa i Maryi,
+        opowiedziane i przeżywane w kolejnych tajemnicach różańca świętego.
     </string>
-    <string name="wprowadzenie4">Na tym „różańcowym szlaku” zatrzymujemy się dwadzieścia razy i to na dłuższy czas. „Rozbijamy namiot” lub „wynajmujemy pokój” na cały miesiąc tam, gdzie dokonało się zbawcze wydarzenie. Codziennie przerywamy swoje zajęcia i tam przychodzimy. Patrzymy, pytamy, słuchamy, rozważamy słowa, które zostały wypowiedziane, myślimy o czynach, które zostały spełnione, czytamy komentarze, które daje nam Pismo Święte i nauka Kościoła na ten temat.
+    <string name="wprowadzenie4">Na tym „różańcowym szlaku” zatrzymujemy się dwadzieścia razy i to na dłuższy czas.
+        „Rozbijamy namiot” lub „wynajmujemy pokój” na cały miesiąc tam, gdzie dokonało się zbawcze wydarzenie.
+        Codziennie przerywamy swoje zajęcia i tam przychodzimy. Patrzymy, pytamy, słuchamy, rozważamy słowa, które
+        zostały wypowiedziane, myślimy o czynach, które zostały spełnione, czytamy komentarze, które daje nam Pismo
+        Święte i nauka Kościoła na ten temat.
     </string>
-    <string name="wprowadzenie5">Po takim miesięcznym duchowym pobycie w świętym miejscu można się tam poczuć „bardziej u siebie”, bliżej Jezusa i Maryi. Można na nowo odkryć, jak potężna duchowa moc jest tam obecna, jak wiele można się tam nauczyć i jak wiele skarbów ofiarowanych nam przez Chrystusa można stamtąd zabrać i zanieść ludziom.
+    <string name="wprowadzenie5">Po takim miesięcznym duchowym pobycie w świętym miejscu można się tam poczuć „bardziej
+        u siebie”, bliżej Jezusa i Maryi. Można na nowo odkryć, jak potężna duchowa moc jest tam obecna, jak wiele można
+        się tam nauczyć i jak wiele skarbów ofiarowanych nam przez Chrystusa można stamtąd zabrać i zanieść ludziom.
     </string>
-    <string name="wprowadzenie6">Opracowanie nazwane „Różańcowy szlak” będzie zapewne pomocą dla tych, którzy należą już do Żywego Różańca i w danym miesiącu rozważają konkretną tajemnicę. Jednak nie tylko oni są adresatami tych medytacji. Zachęcamy do wyruszenia na „różańcowy szlak” wszystkich, którzy jeszcze nie znają takiego sposobu odmawiania różańca.
+    <string name="wprowadzenie6">Opracowanie nazwane „Różańcowy szlak” będzie zapewne pomocą dla tych, którzy należą już
+        do Żywego Różańca i w danym miesiącu rozważają konkretną tajemnicę. Jednak nie tylko oni są adresatami tych
+        medytacji. Zachęcamy do wyruszenia na „różańcowy szlak” wszystkich, którzy jeszcze nie znają takiego sposobu
+        odmawiania różańca.
     </string>
-    <string name="wprowadzenie7">Dobrze jest, przynajmniej w niektórych dniach, odmawiać dziesiątek różańca w kościele lub kaplicy, przed Najświętszym Sakramentem.
+    <string name="wprowadzenie7">Dobrze jest, przynajmniej w niektórych dniach, odmawiać dziesiątek różańca w kościele
+        lub kaplicy, przed Najświętszym Sakramentem.
     </string>
-    <string name="wprowadzenie8"><b>Dlaczego taka droga?</b>
+    <string name="wprowadzenie8">
+        <b>Dlaczego taka droga?</b>
     </string>
-    <string name="wprowadzenie9">Na niektóre wyjazdy trzeba ludzi namawiać, zachęcać i przekonywać. Na inne decydują się jechać jakby z marszu, gdyż podana propozycja wpisuje się w ich pragnienia i oczekiwania. Duchowa wędrówka, trwająca dwadzieścia miesięcy, nie należy raczej do tych, na które ktoś się decyduje bez zastanowienia. Trzeba najpierw uważniej się jej przyjrzeć.
+    <string name="wprowadzenie9">Na niektóre wyjazdy trzeba ludzi namawiać, zachęcać i przekonywać. Na inne decydują się
+        jechać jakby z marszu, gdyż podana propozycja wpisuje się w ich pragnienia i oczekiwania. Duchowa wędrówka,
+        trwająca dwadzieścia miesięcy, nie należy raczej do tych, na które ktoś się decyduje bez zastanowienia. Trzeba
+        najpierw uważniej się jej przyjrzeć.
     </string>
-    <string name="wprowadzenie10"><b>Chcę wypraszać pomoc Boga dla siebie i innych</b>
+    <string name="wprowadzenie10">
+        <b>Chcę wypraszać pomoc Boga dla siebie i innych</b>
     </string>
-    <string name="wprowadzenie11">Warto więc w tym miejscu zapytać, dlaczego ludzie biorą do ręki różaniec? Wydaje się, że najczęstszą motywacją podjęcia tej modlitwy jest chęć wyproszenia potrzebnych łask dla siebie i dla innych. Słyszymy zaproszenia do odmawiania różańca w intencji Ojczyzny, w intencji rodzin i pokoju na świecie, w intencjach wskazanych przez Ojca Świętego. Wielu rodziców podejmuje tę modlitwę, gdyż chcą pomóc swoim dzieciom. Różaniec jest w tym przypadku głównie formą modlitwy błagalnej. Rozważanie zbawczych tajemnic, które powinno być przeżywane w różańcu, pojawia się na drugim miejscu. Niekiedy może nawet brakować pogłębionej refleksji nad życiem Jezusa i Maryi, gdyż cały wysiłek zostaje włożony w to, aby odmówić wyznaczony dziesiątek różańca.
+    <string name="wprowadzenie11">Warto więc w tym miejscu zapytać, dlaczego ludzie biorą do ręki różaniec? Wydaje się,
+        że najczęstszą motywacją podjęcia tej modlitwy jest chęć wyproszenia potrzebnych łask dla siebie i dla innych.
+        Słyszymy zaproszenia do odmawiania różańca w intencji Ojczyzny, w intencji rodzin i pokoju na świecie, w
+        intencjach wskazanych przez Ojca Świętego. Wielu rodziców podejmuje tę modlitwę, gdyż chcą pomóc swoim dzieciom.
+        Różaniec jest w tym przypadku głównie formą modlitwy błagalnej. Rozważanie zbawczych tajemnic, które powinno być
+        przeżywane w różańcu, pojawia się na drugim miejscu. Niekiedy może nawet brakować pogłębionej refleksji nad
+        życiem Jezusa i Maryi, gdyż cały wysiłek zostaje włożony w to, aby odmówić wyznaczony dziesiątek różańca.
     </string>
-    <string name="wprowadzenie12"><b>Chcę zbliżyć się do Boga i z Nim się zjednoczyć</b>
+    <string name="wprowadzenie12">
+        <b>Chcę zbliżyć się do Boga i z Nim się zjednoczyć</b>
     </string>
-    <string name="wprowadzenie13">Modlitwa w czyjejś intencji jest pięknym aktem miłości bliźniego. Niewątpliwie jest miła Bogu. Trzeba ją podejmować z całym zaangażowaniem.
+    <string name="wprowadzenie13">Modlitwa w czyjejś intencji jest pięknym aktem miłości bliźniego. Niewątpliwie jest
+        miła Bogu. Trzeba ją podejmować z całym zaangażowaniem.
     </string>
-    <string name="wprowadzenie14">Trzeba również dążyć do tego, aby w przeżywaniu modlitwy różańcowej coraz większą rolę odgrywała miłość Boga i żeby ona wysuwała się na pierwsze miejsce. Mając taką postawę człowiek odmawia dziesiątek różańca dlatego, że kocha Boga, chce się do Boga zbliżyć, lepiej poznać Jego miłość, bardziej się otworzyć na Jego obecność, pogłębić wiarę w Niego. Takie zbliżenie do Boga bynajmniej nie oddala od ludzi. Przeciwnie, człowiek z jeszcze większą troską przedstawia swoje intencje Bogu.
+    <string name="wprowadzenie14">Trzeba również dążyć do tego, aby w przeżywaniu modlitwy różańcowej coraz większą rolę
+        odgrywała miłość Boga i żeby ona wysuwała się na pierwsze miejsce. Mając taką postawę człowiek odmawia
+        dziesiątek różańca dlatego, że kocha Boga, chce się do Boga zbliżyć, lepiej poznać Jego miłość, bardziej się
+        otworzyć na Jego obecność, pogłębić wiarę w Niego. Takie zbliżenie do Boga bynajmniej nie oddala od ludzi.
+        Przeciwnie, człowiek z jeszcze większą troską przedstawia swoje intencje Bogu.
     </string>
-    <string name="wprowadzenie15">W propozycji przedstawionej w „Różańcowym szlaku” na pierwsze miejsce wysuwa się zdecydowanie doświadczenie spotkania z Bogiem, Maryją i Świętymi w przeżywanej tajemnicy. Spełniamy najpierw akt miłości wobec Boga, uświadamiamy sobie wyraźniej Jego obecność i Jego miłość, rozważamy z Maryją Jego życie. Następnie spełniamy akt miłości bliźniego prosząc o liczne i bardzo wielkie dary. Nie boimy się prosić o wiele, gdyż pogłębiona została nasza wiara we wszechmoc Boga, odnowione zostało nasza nasze zaufanie do Niego, a jedność z Nim została umocniona przez miłość.
+    <string name="wprowadzenie15">W propozycji przedstawionej w „Różańcowym szlaku” na pierwsze miejsce wysuwa się
+        zdecydowanie doświadczenie spotkania z Bogiem, Maryją i Świętymi w przeżywanej tajemnicy. Spełniamy najpierw akt
+        miłości wobec Boga, uświadamiamy sobie wyraźniej Jego obecność i Jego miłość, rozważamy z Maryją Jego życie.
+        Następnie spełniamy akt miłości bliźniego prosząc o liczne i bardzo wielkie dary. Nie boimy się prosić o wiele,
+        gdyż pogłębiona została nasza wiara we wszechmoc Boga, odnowione zostało nasza nasze zaufanie do Niego, a
+        jedność z Nim została umocniona przez miłość.
     </string>
-    <string name="wprowadzenie16"><b>Wskazania św. Jana Pawła II</b>
+    <string name="wprowadzenie16">
+        <b>Wskazania św. Jana Pawła II</b>
     </string>
-    <string name="wprowadzenie17">Odmawiając jeden dziesiątek różańca, a nie całą cząstkę, możemy poświęcić rozważanej tajemnicy więcej czasu. Możemy również bardziej starać się o wprowadzenie w życie wskazań Ojca Świętego Jana Pawła II przekazanych nam w liście apostolskim o różańcu.
+    <string name="wprowadzenie17">Odmawiając jeden dziesiątek różańca, a nie całą cząstkę, możemy poświęcić rozważanej
+        tajemnicy więcej czasu. Możemy również bardziej starać się o wprowadzenie w życie wskazań Ojca Świętego Jana
+        Pawła II przekazanych nam w liście apostolskim o różańcu.
     </string>
-    <string name="wprowadzenie18">W kolejnych zeszytach „Różańcowego szlaku” będą przypominane różne szczegółowe wyjaśnienia, które podał Papież. Zaczynamy od tego, co na końcu, od „końcowego aktu strzelistego”. Jego właściwe odmawianie wpływa na całą modlitwę.
+    <string name="wprowadzenie18">W kolejnych zeszytach „Różańcowego szlaku” będą przypominane różne szczegółowe
+        wyjaśnienia, które podał Papież. Zaczynamy od tego, co na końcu, od „końcowego aktu strzelistego”. Jego właściwe
+        odmawianie wpływa na całą modlitwę.
     </string>
-    <string name="wprowadzenie19">„Według powszechnie przyjętej praktyki, – wyjaśnia Ojciec Święty – w różańcu po doksologii trynitarnej odmawia się akt strzelisty, różny, zależnie od zwyczajów. Doceniając wartość takich inwokacji trzeba zauważyć, że owocność kontemplacji tajemnic będzie lepiej wyrażona, jeśli zadba się o to, by każdą tajemnicę zakończyć modlitwą o osiągnięcie specyficznych owoców konkretnej tajemnicy. W ten sposób różaniec będzie mógł trafniej wyrazić swój związek z życiem chrześcijańskim. Podpowiada to piękna modlitwa liturgiczna, która zachęca nas, byśmy prosili o osiągnięcie przez rozważanie tajemnic różańca tego, że będziemy «naśladować to, co zawierają, i otrzymamy to, co obiecują».
+    <string name="wprowadzenie19">„Według powszechnie przyjętej praktyki, – wyjaśnia Ojciec Święty – w różańcu po
+        doksologii trynitarnej odmawia się akt strzelisty, różny, zależnie od zwyczajów. Doceniając wartość takich
+        inwokacji trzeba zauważyć, że owocność kontemplacji tajemnic będzie lepiej wyrażona, jeśli zadba się o to, by
+        każdą tajemnicę zakończyć modlitwą o osiągnięcie specyficznych owoców konkretnej tajemnicy. W ten sposób
+        różaniec będzie mógł trafniej wyrazić swój związek z życiem chrześcijańskim. Podpowiada to piękna modlitwa
+        liturgiczna, która zachęca nas, byśmy prosili o osiągnięcie przez rozważanie tajemnic różańca tego, że będziemy
+        «naśladować to, co zawierają, i otrzymamy to, co obiecują».
     </string>
-    <string name="wprowadzenie20">W takiej modlitwie końcowej może występować, jak to ma już miejsce, uzasadniona różnorodność. Różaniec uzyskuje w ten sposób również rysy bardziej odpowiadające różnym tradycjom duchowym i różnym wspólnotom chrześcijańskim. W tej perspektywie należałoby sobie życzyć, aby były szerzone, z należytym rozeznaniem duszpasterskim, najbardziej znaczące propozycje. Można by sprawdzać ich przydatność w ośrodkach i sanktuariach maryjnych, gdzie zwraca się szczególną uwagę na praktykę różańca. W ten sposób Lud Boży mógłby, korzystać z wszelkiego autentycznego bogactwa duchowego, czerpiąc z niego pokarm duchowy dla swej kontemplacji” (RVM 35).
+    <string name="wprowadzenie20">W takiej modlitwie końcowej może występować, jak to ma już miejsce, uzasadniona
+        różnorodność. Różaniec uzyskuje w ten sposób również rysy bardziej odpowiadające różnym tradycjom duchowym i
+        różnym wspólnotom chrześcijańskim. W tej perspektywie należałoby sobie życzyć, aby były szerzone, z należytym
+        rozeznaniem duszpasterskim, najbardziej znaczące propozycje. Można by sprawdzać ich przydatność w ośrodkach i
+        sanktuariach maryjnych, gdzie zwraca się szczególną uwagę na praktykę różańca. W ten sposób Lud Boży mógłby,
+        korzystać z wszelkiego autentycznego bogactwa duchowego, czerpiąc z niego pokarm duchowy dla swej kontemplacji”
+        (RVM 35).
     </string>
     <string name="wprowadzenie21">Idąc za słowami papieża, w każdym dniu podana jest inna modlitwa o charakterze „aktu
         strzelistego”. Nawiązuje ona do treści rozważanej tajemnicy. Korzystamy z niej w modlitwie indywidualnej. Przy

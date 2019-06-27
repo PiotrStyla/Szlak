@@ -49,54 +49,55 @@
                     android:id="@+id/button_Zwiastowanie_Wstep"
                     style="@style/button_Zwiastowanie_Wstep" android:layout_marginBottom="12dp"/>
             <Button
-                    android:text="DZIEŃ 1. Modlitwa do Ojca"
+                    android:text="@string/dzie_1_modlitwa_do_ojca"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button27"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
-                    android:text="Dzień 2. Modlitwa do Syna"
+                    android:text="@string/dzie_2_modlitwa_do_syna"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button24"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
-                    android:text="DZIEŃ 3. Modlitwa do Ducha Świętego"
+                    android:text="@string/dzie_3_modlitwa_do_ducha_wi_tego"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button25"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
-                    android:text="DZIEŃ 4. Modlitwa do Maryi"
+                    android:text="@string/dzie_4_modlitwa_do_maryi"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button26"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
-                    android:text="DZIEŃ 5. Anioł Pański"
+                    android:text="@string/dzie_5_anio_pa_ski"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button33"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
-                    android:text="DZIEŃ 6. Pełna łaski"
+                    android:text="@string/dzie_6_pe_na_aski"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button28"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
-                    android:text="DZIEŃ 7. Pan z Tobą "
+                    android:text="@string/dzie_7_pan_z_tob"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button29"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
-                    android:text="DZIEŃ 8. Nie bój się Maryjo "
+                    android:text="@string/dzie_8_nie_b_j_si_maryjo"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button30"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
-                    android:text="DZIEŃ 9. Poczniesz i porodzisz Syna "
+                    android:text="@string/dzie_9_poczniesz_i_porodzisz_syna"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button31"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button32"
-                    style="@style/button_dni_zwiastowanie_padding" android:text="DZIEŃ 10. Duch zstąpi na Ciebie"/>
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="@string/dzie_10_duch_zst_pi_na_ciebie"/>
 
         </LinearLayout>
     </ScrollView>

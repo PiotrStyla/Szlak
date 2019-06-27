@@ -118,4 +118,14 @@
     <string name="marii_pannie">Marii Pannie</string>
     <string name="zwiastowanie_naj_wi_tszej">Zwiastowanie Najświętszej</string>
     <string name="tajemnica_i">Tajemnica I</string>
+    <string name="dzie_1_modlitwa_do_ojca">DZIEŃ 1. Modlitwa do Ojca</string>
+    <string name="dzie_2_modlitwa_do_syna">Dzień 2. Modlitwa do Syna</string>
+    <string name="dzie_3_modlitwa_do_ducha_wi_tego">DZIEŃ 3. Modlitwa do Ducha Świętego</string>
+    <string name="dzie_4_modlitwa_do_maryi">DZIEŃ 4. Modlitwa do Maryi</string>
+    <string name="dzie_5_anio_pa_ski">DZIEŃ 5. Anioł Pański</string>
+    <string name="dzie_6_pe_na_aski">DZIEŃ 6. Pełna łaski</string>
+    <string name="dzie_7_pan_z_tob">DZIEŃ 7. Pan z Tobą</string>
+    <string name="dzie_8_nie_b_j_si_maryjo">DZIEŃ 8. Nie bój się Maryjo</string>
+    <string name="dzie_9_poczniesz_i_porodzisz_syna">DZIEŃ 9. Poczniesz i porodzisz Syna</string>
+    <string name="dzie_10_duch_zst_pi_na_ciebie">DZIEŃ 10. Duch zstąpi na Ciebie</string>
 </resources>

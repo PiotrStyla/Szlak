@@ -12,10 +12,10 @@ class Radosne : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_radosne)
 
-//        val button_main_do_radosnych  = findViewById (R.id.button2) as Button
-//        button_main_do_radosnych.setOnClickListener {
-//            val intent2 = Intent(this, Radosne::class.java)
-//            startActivity(intent2)
-//        }
+        val button_radosne_do_zwiastowanie  = findViewById (R.id.button_Zwiastowanie) as Button
+        button_radosne_do_zwiastowanie.setOnClickListener {
+            val intent3 = Intent(this, Zwiastowanie::class.java)
+            startActivity(intent3)
+        }
     }
 }

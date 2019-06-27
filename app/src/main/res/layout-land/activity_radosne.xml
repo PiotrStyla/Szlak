@@ -8,7 +8,7 @@
         tools:context=".Radosne" android:background="#FFFFFF">
 
     <TextView
-            android:text="Część I - Radosna"
+            android:text="@string/cz_i_radosna"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView_Radosne1"
@@ -25,9 +25,9 @@
             app:layout_constraintTop_toBottomOf="@+id/textView_Radosne1" android:layout_marginBottom="8dp"
             app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintVertical_bias="0.129"
             android:layout_marginEnd="8dp" app:layout_constraintEnd_toEndOf="parent" android:layout_marginStart="8dp"
-            app:layout_constraintStart_toStartOf="parent"/>
+            app:layout_constraintStart_toStartOf="parent" android:contentDescription="@string/cz_i_radosna"/>
     <Button
-            android:text="Zwiastowanie"
+            android:text="@string/zwiastowanie"
             android:id="@+id/button_Zwiastowanie"
             style="@style/button_radosne_tajemnice"
             android:layout_width="150sp"
@@ -35,7 +35,7 @@
             app:layout_constraintBottom_toTopOf="@+id/button7" app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="32dp"/>
     <Button
-            android:text="Nawiedzenie"
+            android:text="@string/nawiedzenie"
             android:layout_width="150sp"
             android:layout_height="wrap_content"
             android:id="@+id/button6" style="@style/button_radosne_tajemnice"
@@ -43,7 +43,7 @@
             app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="32dp"
             app:layout_constraintBottom_toTopOf="@+id/button8"/>
     <Button
-            android:text="Narodzenie"
+            android:text="@string/narodzenie"
             android:layout_width="150sp"
             android:layout_height="wrap_content"
             android:id="@+id/button7" style="@style/button_radosne_tajemnice"
@@ -51,7 +51,7 @@
             app:layout_constraintBottom_toTopOf="@+id/button9" app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="32dp"/>
     <Button
-            android:text="Ofiarowanie"
+            android:text="@string/ofiarowanie"
             android:layout_width="150sp"
             android:layout_height="wrap_content"
             android:id="@+id/button8" style="@style/button_radosne_tajemnice"
@@ -59,7 +59,7 @@
             app:layout_constraintBottom_toTopOf="@+id/button10" app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="32dp"/>
     <Button
-            android:text="Odnalezienie"
+            android:text="@string/odnalezienie"
             android:layout_width="150sp"
             android:layout_height="wrap_content"
             android:id="@+id/button9" style="@style/button_radosne_tajemnice"
@@ -67,7 +67,7 @@
             app:layout_constraintStart_toStartOf="parent" android:layout_marginStart="32dp"
     />
     <Button
-            android:text="Rekolekcje"
+            android:text="@string/rekolekcje"
             android:layout_width="150sp"
             android:layout_height="wrap_content"
             android:id="@+id/button10" style="@style/button_radosne_tajemnice"

@@ -7,10 +7,10 @@
         android:layout_height="match_parent"
         tools:context=".Wprowadzenie" android:id="@+id/linearLayout">
     <TextView
-            android:text="DZIEŃ 2. Modlitwa do Syna"
+            android:text="DZIEŃ 5. Anioł Pański"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textView44"
+            android:id="@+id/textView93"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="16dp"
             android:layout_marginTop="8dp"
@@ -20,7 +20,7 @@
     <ScrollView
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView44"
+            app:layout_constraintTop_toBottomOf="@+id/textView93"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
@@ -36,10 +36,10 @@
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
             <TextView
-                    android:text="Rozważając tajemnicę Zwiastowania, spotykam nie tylko Ojca, lecz także Syna. Wchodzę w misterium, w którym dotykam prawdy, że Ojciec dokonuje dzieła zbawienia przez Syna. Ojciec jest w Synu, a Syn w Ojcu. Z pokorą proszę Jezusa, aby moja miesięczna modlitwa i rozważanie tajemnicy Zwiastowania zbliżyło mnie do Niego."
+                    android:text="Dziś staram się skupić na Bożym wysłańcu. Najczęściej określany jest on słowami „Anioł Pański”. Jest to również tytuł modlitwy, którą wiele osób odmawia trzy razy dziennie."
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView45"
+                    android:id="@+id/textView94"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp" android:textAlignment="textStart"/>
@@ -47,21 +47,25 @@
                     android:text="Modlitwa"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView46"
+                    android:id="@+id/textView95"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"
                     android:layout_marginTop="5sp"
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
             <TextView
-                    android:text="Jezu, Synu Boga żywego, jakże wielka jest Twoja miłość ku nam, skoro przyjąłeś na siebie naszą ludzką naturę i stałeś się do nas podobnym we wszystkim, oprócz grzechu. Pragnę przez cały miesiąc, odmawiając tajemnicę Zwiastowania, coraz lepiej poznawać, czym jest tajemnica Wcielenia. Wzbudź we mnie pragnienie poznawania tej cudownej tajemnicy. Rozjaśnij mój umysł, aby z pasją poznawał to, co potrafię. Napełnij mnie Duchem Świętym, aby mnie każdego dnia prowadził. "
-                    android:id="@+id/textView47"
+                    android:text="W tym tygodniu, rozpoczynam spotkanie z Bogiem od poniższej modlitwy. Jest ona zaczerpnięta z Mszy sprawowanej przy udzielaniu sakramentu bierzmowania. Liczba mnoga została zmieniona na pojedynczą, gdyż zazwyczaj to różańcowe spotkanie ma bardzo osobisty charakter."
+                    android:id="@+id/textView96"
+                    style="@style/paragraf_Text"/>
+            <TextView
+                    android:text="Boże, mój Ojcze, niech Pocieszyciel, Duch Święty, który pochodzi od Ciebie, oświeci mój umysł i doprowadzi mnie do pełnej prawdy, zgodnie z obietnicą Twego Syna. "
+                    android:id="@+id/textView97"
                     style="@style/paragraf_Text"/>
             <TextView
                     android:text="Rozważanie słowa"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView48"
+                    android:id="@+id/textView98"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"
@@ -69,18 +73,18 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Z Ewangelii według św. Mateusza (11,25-27): „Wysławiam Cię, Ojcze, Panie nieba i ziemi, że zakryłeś te rzeczy przed mądrymi i roztropnymi, a objawiłeś je prostaczkom. Tak, Ojcze, gdyż takie było Twoje upodobanie. Wszystko przekazał Mi Ojciec mój. Nikt też nie zna Syna, tylko Ojciec, ani Ojca nikt nie zna, tylko Syn, i ten, komu Syn zechce objawić”."
+                    android:text="Z Ewangelii według św. Łukasza (1,26-27): „W szóstym miesiącu posłał Bóg anioła Gabriela do miasta w Galilei, zwanego Nazaret, do Dziewicy poślubionej mężowi, imieniem Józef, z rodu Dawida; a Dziewicy było na imię Maryja”."
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView49"/>
+                    android:id="@+id/textView99"/>
             <TextView
-                    android:text="Chcąc rozważać tajemnicę Chrystusa, prawdziwego Boga i prawdziwego Człowieka, muszę w prostocie serca zwrócić się do Ojca, aby mi dał łaskę rozumienia tego misterium. Jest ono niezgłębione, ale równocześnie otwarte przed każdym, kto chce przyjąć ofiarowany mu dar poznania. Odmawiając w dzisiejszym dniu tajemnicę Zwiastowania Najświętszej Maryi Pannie, chcę prosić gorąco Jezusa, aby usnął z mego życia postawę, która sprawia, że Jego tajemnice są przede mną zakryte i udzielił mi daru prostoty, dzięki której mogę kontemplować niezwykłą prawdę, że Syn Boży stał się człowiekiem i zamieszkał pośród nas."
-                    android:id="@+id/textView50"
+                    android:text="Słowo „posłanie” należy do najważniejszych słów w Piśmie Świętym. O wielu „posłańcach” mówi Stary Testament. Są wśród nich aniołowie, prorocy i inni ludzie. Posłanie archanioła Gabriela do Maryi związane jest z rozpoczęciem nowego etapu historii zbawienia. To pierwsze ogłoszenie niezwykłej nowiny o wypełnieniu zapowiedzi. To czas realizacji: Bóg staje się jednym z nas. Modlę się do Anioła Gabriela, abym codziennie na nowo mógł usłyszeć tę radosną nowinę i przyjąć ją tak, jak przyjęła ją Maryja."
+                    android:id="@+id/textView100"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
                     android:text="Dziesiątek różańca"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView51"
+                    android:id="@+id/textView101"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"
@@ -88,24 +92,16 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Chcę odmawiać modlitwę „Ojcze nasz” w duchu słów Jezusa: „Wysławiam Cię, Ojcze, Panie nieba i ziemi”"
+                    android:text="Zwracając się do Ojca, który przez anioła ogłasza radosną nowinę, wsłuchując się z Maryją w jej niezwykłą treść, chcę uwielbiać Boga w Trójcy Świętej Jedynego i coraz wyraźniej dostrzegać Jego obecność pośród nas."
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView52"/>
+                    android:id="@+id/textView102"/>
 
 
-            <TextView
-                    android:text="W odmawianiu kolejnych „Zdrowaś Maryjo” chcę rozważać cytowane powyżej słowa z Ewangelii św. Mateusza i prosić o wstawiennictwo Maryję, która jest wzorem wszystkich „prostaczków”, ludzi o otartym i szczerym sercu."
-                    style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView53"/>
-            <TextView
-                    android:text="Moje „Chwała Ojcu...” będzie szczerym uwielbieniem Trójcy Przenajświętszej za tajemnicę Wcielenia Syna Bożego."
-                    style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView54"/>
             <TextView
                     android:text="Intencje modlitwy"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView55"
+                    android:id="@+id/textView103"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"
@@ -113,21 +109,17 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Syn Boży stał się Człowiekiem, aby nam pomóc, uratować nas, być z nami w każdej sytuacji. Przeżywając głębiej tę prawdę, chcę z większą wiarą i zaufaniem, polecić Jezusowi liczne intencje, które noszę w sercu."
+                    android:text="Boże, pomóż mi każdego dnia wsłuchiwać się w głos posłańców, którzy od Ciebie przychodzą, aby mi zwiastować radosną nowinę, że Twój Syn, Jezus Chrystus, jest pośród nas obecny w każdej chwili mojego życia."
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView56"/>
+                    android:id="@+id/textView104"/>
 
-            <TextView
-                    android:text="Proszę najpierw o łaskę prostego serca dla mnie i dla moich braci i sióstr."
-                    style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView57"/>
             <TextView
                     android:text="Proszę w intencjach, które poleca Ojciec Święty."
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView58"/>
+                    android:id="@+id/textView105"/>
             <TextView
-                    android:text="Jednoczę się z Jezusem w Jego wysławianiu Ojca, Pana nieba i ziemi, że zakrył swoje tajemnice przed mądrymi i roztropnymi, a objawił je prostaczkom. Dziękuję Mu za dar dzisiejszej modlitwy."
-                    android:id="@+id/textView59"
+                    android:text="Dziękuję Maryi, a wraz z Nią Bogu, za dar spotkania i za wszystkie otrzymane łaski."
+                    android:id="@+id/textView106"
                     style="@style/paragraf_Text_optimum"/>
 
         </LinearLayout>

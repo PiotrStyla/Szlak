@@ -7,10 +7,10 @@
         android:layout_height="match_parent"
         tools:context=".Wprowadzenie" android:id="@+id/linearLayout">
     <TextView
-            android:text="DZIEŃ 2. Modlitwa do Syna"
+            android:text="DZIEŃ 4. Modlitwa do Maryi"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textView44"
+            android:id="@+id/textView77"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="16dp"
             android:layout_marginTop="8dp"
@@ -20,7 +20,7 @@
     <ScrollView
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView44"
+            app:layout_constraintTop_toBottomOf="@+id/textView77"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
@@ -36,10 +36,10 @@
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
             <TextView
-                    android:text="Rozważając tajemnicę Zwiastowania, spotykam nie tylko Ojca, lecz także Syna. Wchodzę w misterium, w którym dotykam prawdy, że Ojciec dokonuje dzieła zbawienia przez Syna. Ojciec jest w Synu, a Syn w Ojcu. Z pokorą proszę Jezusa, aby moja miesięczna modlitwa i rozważanie tajemnicy Zwiastowania zbliżyło mnie do Niego."
+                    android:text="Różaniec jest modlitwą, którą przeżywam z Maryją. Pragnę doświadczać Jej obecności i Jego prowadzenia. Ona najlepiej rozeznawała wolę Bożą i najgłębiej kontemplowała tajemnice zbawienia. "
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView45"
+                    android:id="@+id/textView78"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp" android:textAlignment="textStart"/>
@@ -47,21 +47,21 @@
                     android:text="Modlitwa"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView46"
+                    android:id="@+id/textView79"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"
                     android:layout_marginTop="5sp"
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
             <TextView
-                    android:text="Jezu, Synu Boga żywego, jakże wielka jest Twoja miłość ku nam, skoro przyjąłeś na siebie naszą ludzką naturę i stałeś się do nas podobnym we wszystkim, oprócz grzechu. Pragnę przez cały miesiąc, odmawiając tajemnicę Zwiastowania, coraz lepiej poznawać, czym jest tajemnica Wcielenia. Wzbudź we mnie pragnienie poznawania tej cudownej tajemnicy. Rozjaśnij mój umysł, aby z pasją poznawał to, co potrafię. Napełnij mnie Duchem Świętym, aby mnie każdego dnia prowadził. "
-                    android:id="@+id/textView47"
+                    android:text="Dziękuję Ci, Maryjo, najlepsza Matko, za wszelkie dary, jakie dla mnie wypraszasz u Boga. Dziękuję Ci za przykład wiary i miłości, jaki dajesz całym swoim życiem. Pragnę Cię naśladować. Bądź ze mną dziś, gdy spojrzeniem wiary ogarniam wszystko, co dokonało się wtedy, gdy Bóg posłał do Ciebie Anioła Gabriela. Bądź ze mną, gdy w kolejnych dniach będę bardziej szczegółowo rozważał to zbawcze misterium. Ucz mnie poznawać wolę Ojca i wiernie ją wypełniać."
+                    android:id="@+id/textView80"
                     style="@style/paragraf_Text"/>
             <TextView
                     android:text="Rozważanie słowa"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView48"
+                    android:id="@+id/textView81"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"
@@ -69,18 +69,18 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Z Ewangelii według św. Mateusza (11,25-27): „Wysławiam Cię, Ojcze, Panie nieba i ziemi, że zakryłeś te rzeczy przed mądrymi i roztropnymi, a objawiłeś je prostaczkom. Tak, Ojcze, gdyż takie było Twoje upodobanie. Wszystko przekazał Mi Ojciec mój. Nikt też nie zna Syna, tylko Ojciec, ani Ojca nikt nie zna, tylko Syn, i ten, komu Syn zechce objawić”."
+                    android:text="Z Księgi Rodzaju (3,15): „Wprowadzam nieprzyjaźń między ciebie a niewiastę, pomiędzy potomstwo twoje a potomstwo jej: ono zmiażdży ci głowę, a ty zmiażdżysz mu piętę”. "
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView49"/>
+                    android:id="@+id/textView82"/>
             <TextView
-                    android:text="Chcąc rozważać tajemnicę Chrystusa, prawdziwego Boga i prawdziwego Człowieka, muszę w prostocie serca zwrócić się do Ojca, aby mi dał łaskę rozumienia tego misterium. Jest ono niezgłębione, ale równocześnie otwarte przed każdym, kto chce przyjąć ofiarowany mu dar poznania. Odmawiając w dzisiejszym dniu tajemnicę Zwiastowania Najświętszej Maryi Pannie, chcę prosić gorąco Jezusa, aby usnął z mego życia postawę, która sprawia, że Jego tajemnice są przede mną zakryte i udzielił mi daru prostoty, dzięki której mogę kontemplować niezwykłą prawdę, że Syn Boży stał się człowiekiem i zamieszkał pośród nas."
-                    android:id="@+id/textView50"
+                    android:text="Już na początku ludzkiej historii Bóg mówi o niewieście, która w żaden sposób nie ulegnie kusicielowi. Kościół widzi w niej Maryję. Ona została zachowana od grzechu pierworodnego. W wolności od grzechu trwała przez całe życie. Otaczało ją światło Boże. Była całkowicie przeniknięta łaską. W Nią się wpatruję odmawiając dziś dziesiątek różańca. Pragnę jeszcze wyraźniej zobaczyć boskie piękno, które ją przenika, czystą miłość, którą kocha Ona Boga i ludzi, pełną wolność w przyjęciu woli Bożej. "
+                    android:id="@+id/textView83"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
                     android:text="Dziesiątek różańca"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView51"
+                    android:id="@+id/textView84"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"
@@ -88,24 +88,24 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Chcę odmawiać modlitwę „Ojcze nasz” w duchu słów Jezusa: „Wysławiam Cię, Ojcze, Panie nieba i ziemi”"
+                    android:text="W Starym Testamencie Bóg wiele razy nazywał się Ojcem. Nikt lepiej od Maryi nie rozumiał głębi tej dziecięcej relacji z Bogiem. W zjednoczeniu z Nią pragnę wołać: „Ojcze nasz”."
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView52"/>
+                    android:id="@+id/textView85"/>
 
 
             <TextView
-                    android:text="W odmawianiu kolejnych „Zdrowaś Maryjo” chcę rozważać cytowane powyżej słowa z Ewangelii św. Mateusza i prosić o wstawiennictwo Maryję, która jest wzorem wszystkich „prostaczków”, ludzi o otartym i szczerym sercu."
+                    android:text="Dziś w odmawianiu kolejnych „Zdrowaś Maryjo” pragnę skupić się przede wszystkim na samej Maryi, na Jej otwartości, czystości serca, miłości. "
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView53"/>
+                    android:id="@+id/textView86"/>
             <TextView
-                    android:text="Moje „Chwała Ojcu...” będzie szczerym uwielbieniem Trójcy Przenajświętszej za tajemnicę Wcielenia Syna Bożego."
+                    android:text="Ta, która mówiła: „Wielbi dusza moja Pana” pomaga mi modlić się słowami „Chwała Ojcu...”"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView54"/>
+                    android:id="@+id/textView87"/>
             <TextView
                     android:text="Intencje modlitwy"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView55"
+                    android:id="@+id/textView88"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"
@@ -113,21 +113,21 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Syn Boży stał się Człowiekiem, aby nam pomóc, uratować nas, być z nami w każdej sytuacji. Przeżywając głębiej tę prawdę, chcę z większą wiarą i zaufaniem, polecić Jezusowi liczne intencje, które noszę w sercu."
+                    android:text="Świadom, że Maryja, moja niebieska Matka, nieustannie wstawia się za mną i za wszystkimi swoimi dziećmi, proszę Boga z tym większą wiarą o potrzebne łaski."
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView56"/>
+                    android:id="@+id/textView89"/>
 
             <TextView
-                    android:text="Proszę najpierw o łaskę prostego serca dla mnie i dla moich braci i sióstr."
+                    android:text="Proszę najpierw o łaskę głębokiej, dziecięcej ufności do Maryi, dla mnie i dla innych ludzi."
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView57"/>
+                    android:id="@+id/textView90"/>
             <TextView
                     android:text="Proszę w intencjach, które poleca Ojciec Święty."
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView58"/>
+                    android:id="@+id/textView91"/>
             <TextView
-                    android:text="Jednoczę się z Jezusem w Jego wysławianiu Ojca, Pana nieba i ziemi, że zakrył swoje tajemnice przed mądrymi i roztropnymi, a objawił je prostaczkom. Dziękuję Mu za dar dzisiejszej modlitwy."
-                    android:id="@+id/textView59"
+                    android:text="Dziękuję Maryi, a wraz z Nią Bogu, za dar spotkania i za wszystkie otrzymane łaski."
+                    android:id="@+id/textView92"
                     style="@style/paragraf_Text_optimum"/>
 
         </LinearLayout>

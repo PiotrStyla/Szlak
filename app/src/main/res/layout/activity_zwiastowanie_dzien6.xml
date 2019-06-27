@@ -7,10 +7,10 @@
         android:layout_height="match_parent"
         tools:context=".Wprowadzenie" android:id="@+id/linearLayout">
     <TextView
-            android:text="DZIEŃ 3. Modlitwa do Ducha Św."
+            android:text="DZIEŃ 6. Pełna łaski"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textView60"
+            android:id="@+id/textView107"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="16dp"
             android:layout_marginTop="8dp"
@@ -20,7 +20,7 @@
     <ScrollView
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView60"
+            app:layout_constraintTop_toBottomOf="@+id/textView107"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
@@ -36,10 +36,10 @@
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
             <TextView
-                    android:text="Wszystkie działania Boga Trójjedynego w świecie mają swoje źródło w Ojcu, wszystkie się dokonują przez Chrystusa i wszystkie są zrealizowane mocą Ducha Świętego. Kontempluję tę wspaniałą prawdę wiary odmawiając pierwszą tajemnicę radosną. Dziś proszę w sposób szczególny Ducha Świętego, aby mnie prowadził i oświecał."
+                    android:text="Każde słowo, wypowiedziane przez Bożego posłańca, godne jest uważnego wysłuchania i rozważenia. Dziś zatrzymuję się przy nazwaniu Maryi „pełną łaski”."
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView61"
+                    android:id="@+id/textView108"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp" android:textAlignment="textStart"/>
@@ -47,21 +47,22 @@
                     android:text="Modlitwa"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView62"
+                    android:id="@+id/textView109"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"
                     android:layout_marginTop="5sp"
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
             <TextView
-                    android:text="Duchu Święty, Duchu Miłości i Jedności, Twoją mocą Maryja została zachowana od grzechu pierworodnego i Twoją mocą poczęła w swym łonie Jednorodzonego Syna Bożego. Ty wzbudziłeś we mnie pragnienie poznawania tego misterium i rozważania przez cały miesiąc wydarzeń, które dokonały się w chwili Zwiastowania Najświętszej Maryi Pannie. Prowadź mnie w mojej modlitwie, aby coraz lepiej poznawał wielkość tajemnicy Wcielenia i zbawczą moc w niej ukrytą."
-                    android:id="@+id/textView63"
+                    android:text="Boże, mój Ojcze, niech Pocieszyciel, Duch Święty, który pochodzi od Ciebie, oświeci mój umysł i doprowadzi mnie do pełnej prawdy, zgodnie z obietnicą Twego Syna."
+                    android:id="@+id/textView110"
                     style="@style/paragraf_Text"/>
+
             <TextView
                     android:text="Rozważanie słowa"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView64"
+                    android:id="@+id/textView111"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"
@@ -69,18 +70,22 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Z listu św. Pawła Apostoła do Rzymian (8,26): „Duch przychodzi z pomocą naszej słabości. Gdy bowiem nie umiemy się modlić tak, jak trzeba, sam Duch przyczynia się za nami w błaganiach, których nie można wyrazić słowami”."
+                    android:text="Z Ewangelii według św. Łukasza (1,28): „Anioł wszedł do Niej i rzekł: Bądź pozdrowiona, pełna łaski, Pan z Tobą, błogosławiona jesteś między niewiastami”."
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView65"/>
+                    android:id="@+id/textView112"/>
             <TextView
-                    android:text="W każdej sprawie potrzebuję pomocy Ducha Świętego. Jednak św. Paweł podkreśla, że moja słabość objawia się najpierw w modlitwie. Trudno mi jest całkowicie skupić się na niej. Nie mniej trudno połączyć odmawianie tekstów modlitewnych z autentyczną medytacją nad Bożymi tajemnicami. W ogóle niemożliwe jest zwrócić się z głęboką wiarą do Ojca i do Jezusa bez pomocy Ducha Świętego. Proszę Go więc usilnie, aby był ze mną w czasie odmawiania dziesiątka różańca i rozważania tajemnicy Zwiastowania Najświętszej Maryi Pannie."
-                    android:id="@+id/textView66"
+                    android:text="Znaczenie słów: „Pełna łaski” omawia szeroko św. Jan Paweł II w encyklice „Redemptoris Mater”. Oto kilka fragmentów papieskiej refleksji: „Zwiastun mówi do Maryi: «łaski pełna» – mówi zaś tak, jakby to było Jej właściwe imię. Nie nazywa swej rozmówczyni imieniem własnym «Miriam (= Maryja)», ale właśnie tym nowym imieniem: «łaski pełna». Co znaczy to imię? Dlaczego anioł tak nazywa Dziewicę z Nazaretu?"
+                    android:id="@+id/textView113"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="W języku Biblii «łaska» oznacza szczególny dar, który według Nowego Testamentu ma swe źródło w trynitarnym życiu Boga samego – Boga, który jest miłością (por. 1 J 4, 8). Owocem tej miłości jest wybranie – to, o którym mówi List do Efezjan. Wybranie to jest zatem ze strony Boga odwieczną wolą zbawienia człowieka przez uczestnictwo w Bożym życiu (por. 2 P 1, 4) w Chrystusie: jest zbawieniem poprzez uczestnictwo w życiu nadprzyrodzonym [...]. Kiedy czytamy, że zwiastun mówi do Maryi «łaski pełna», kontekst ewangeliczny, w którym zbiegają się dawne objawienia i obietnice, pozwala nam zrozumieć, że chodzi tutaj o szczególne błogosławieństwo pośród wszelkich «błogosławieństw duchowych w Chrystusie» [...]. Maryja «zajmuje pierwsze miejsce wśród pokornych i ubogich Pana, którzy z ufnością oczekują od Niego zbawienia i dostępują go»” (RM 8)."
+                    android:id="@+id/textView114"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
                     android:text="Dziesiątek różańca"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView67"
+                    android:id="@+id/textView115"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"
@@ -88,24 +93,16 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Otrzymałem Ducha dziecięctwa, który woła we mnie: „Abba, Ojcze”. Prowadzony przez tego Ducha, modlę się słowami, których nauczył mnie Jezus.”"
+                    android:text="Wraz z Maryją, pełną łaski, zwracam się do Ojca i rozważam Jego odwieczny plan zbawienia, zrealizowany w Chrystusie. Wielbię Boga w Trójcy Świętej Jedynego."
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView68"/>
+                    android:id="@+id/textView116"/>
 
 
-            <TextView
-                    android:text="Tylko Duch Święty może sprawić, że zwykłe odmawianie kolejnych „Zdrowaś Maryjo” staje się pasjonującą przygodą spotkania z Maryją, a przez Nią z Jezusem, który staje się Człowiekiem. Poddaję się więc prowadzeniu przez Ducha Świętego."
-                    style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView69"/>
-            <TextView
-                    android:text="Jak mam wypowiedzieć te trzy najświętsze i najbardziej umiłowane Imiona? Pragnę je wypowiedzieć w duchu prawdziwego uwielbienia Ojca, Jego Jednorodzonego Syna oraz Ducha Świętego."
-                    style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView70"/>
             <TextView
                     android:text="Intencje modlitwy"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView71"
+                    android:id="@+id/textView117"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"
@@ -113,21 +110,17 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Duch Święty uczy nas każdej modlitwy. Wprowadza nas w modlitwę medytacyjną, budzi w nas uwielbienie, a także skruchę za grzechy. On również uzdalnia nas do wypowiedzenia płynących z serca próśb."
+                    android:text="Miłosierny Boże, pomóż mi, za przykładem Maryi, w pełni otworzyć się na Twoje niezwykłe dary, abym na moją miarę doświadczał również pełni Twojego obdarowania."
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView72"/>
+                    android:id="@+id/textView118"/>
 
-            <TextView
-                    android:text="Proszę najpierw o owoce rozważanej tajemnicy, o przeniknięcie mnie i innych ludzi światłem i mocą łaski Wcielenia Syna Bożego, o głębsze przeżycie prawdy, że Bóg aż tak mnie miłuje."
-                    style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView73"/>
             <TextView
                     android:text="Proszę w intencjach, które poleca Ojciec Święty."
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView74"/>
+                    android:id="@+id/textView119"/>
             <TextView
-                    android:text="Otrzymałem dar spotkania z Bogiem. Wyrażam więc wdzięczność za tę niezwykłą łaskę. Niech trwa we mnie światło płynące z tego spotkania."
-                    android:id="@+id/textView75"
+                    android:text="Dziękuję Maryi, a wraz z Nią Bogu, za dar spotkania i za wszystkie otrzymane łaski."
+                    android:id="@+id/textView120"
                     style="@style/paragraf_Text_optimum"/>
 
         </LinearLayout>

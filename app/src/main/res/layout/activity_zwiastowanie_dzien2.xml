@@ -128,7 +128,7 @@
             <TextView
                     android:text="Jednoczę się z Jezusem w Jego wysławianiu Ojca, Pana nieba i ziemi, że zakrył swoje tajemnice przed mądrymi i roztropnymi, a objawił je prostaczkom. Dziękuję Mu za dar dzisiejszej modlitwy."
                     android:id="@+id/textView59"
-                    android:paddingBottom="50sp"
+                    android:paddingBottom="80sp"
                     style="@style/paragraf_Text_optimum"/>
 
         </LinearLayout>

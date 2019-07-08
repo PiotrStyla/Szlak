@@ -7,10 +7,10 @@
         android:layout_height="match_parent"
         tools:context=".Wprowadzenie" android:id="@+id/linearLayout">
     <TextView
-            android:text="DZIEŃ 6. Pełna łaski"
+            android:text="DZIEŃ 8. Nie bój się Maryjo"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textView107"
+            android:id="@+id/textView134"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="16dp"
             android:layout_marginTop="8dp"
@@ -36,10 +36,10 @@
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
             <TextView
-                    android:text="Każde słowo, wypowiedziane przez Bożego posłańca, godne jest uważnego wysłuchania i rozważenia. Dziś zatrzymuję się przy nazwaniu Maryi „pełną łaski”."
+                    android:text="Choć Maryja była pełna łaski i doświadczała szczególnej obecności Pana w swoim życiu, to jednak w chwili Zwiastowania słyszy słowa: „Nie bój się”. Widocznie lęk wkradał się do Jej serca."
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView108"
+                    android:id="@+id/textView135"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp" android:textAlignment="textStart"/>
@@ -47,7 +47,7 @@
                     android:text="Modlitwa"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView109"
+                    android:id="@+id/textView136"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"
@@ -55,14 +55,14 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
             <TextView
                     android:text="Boże, mój Ojcze, niech Pocieszyciel, Duch Święty, który pochodzi od Ciebie, oświeci mój umysł i doprowadzi mnie do pełnej prawdy, zgodnie z obietnicą Twego Syna."
-                    android:id="@+id/textView110"
+                    android:id="@+id/textView137"
                     style="@style/paragraf_Text"/>
 
             <TextView
                     android:text="Rozważanie słowa"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView111"
+                    android:id="@+id/textView138"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"
@@ -70,22 +70,22 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Z Ewangelii według św. Łukasza (1,28): „Anioł wszedł do Niej i rzekł: Bądź pozdrowiona, pełna łaski, Pan z Tobą, błogosławiona jesteś między niewiastami”."
+                    android:text="Z Ewangelii według św. Łukasza (1,29-30): „Maryja zmieszała się na te słowa i rozważała, co miałoby znaczyć to pozdrowienie. Lecz anioł rzekł do Niej: «Nie bój się, Maryjo, znalazłaś bowiem łaskę u Boga”."
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView112"/>
+                    android:id="@+id/textView139"/>
             <TextView
-                    android:text="Znaczenie słów: „Pełna łaski” omawia szeroko św. Jan Paweł II w encyklice „Redemptoris Mater”. Oto kilka fragmentów papieskiej refleksji: „Zwiastun mówi do Maryi: «łaski pełna» – mówi zaś tak, jakby to było Jej właściwe imię. Nie nazywa swej rozmówczyni imieniem własnym «Miriam (= Maryja)», ale właśnie tym nowym imieniem: «łaski pełna». Co znaczy to imię? Dlaczego anioł tak nazywa Dziewicę z Nazaretu?"
-                    android:id="@+id/textView113"
+                    android:text="Gdy człowiek jest zaskoczony czymś nowym i wielkim, zazwyczaj przeżywa chwile zmieszania i niepewności. Maryja jest niewątpliwie zdumiona widokiem Anioła i usłyszanymi słowami. Ewangelista mówi, że była „zmieszana”. W innych tłumaczeniach czytamy, że była „zatrwożona”. Potrzebne więc było wyjaśnienie. Potrzebne były również słowa: „Nie bój się”. "
+                    android:id="@+id/textView140"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="W języku Biblii «łaska» oznacza szczególny dar, który według Nowego Testamentu ma swe źródło w trynitarnym życiu Boga samego – Boga, który jest miłością (por. 1 J 4, 8). Owocem tej miłości jest wybranie – to, o którym mówi List do Efezjan. Wybranie to jest zatem ze strony Boga odwieczną wolą zbawienia człowieka przez uczestnictwo w Bożym życiu (por. 2 P 1, 4) w Chrystusie: jest zbawieniem poprzez uczestnictwo w życiu nadprzyrodzonym [...]. Kiedy czytamy, że zwiastun mówi do Maryi «łaski pełna», kontekst ewangeliczny, w którym zbiegają się dawne objawienia i obietnice, pozwala nam zrozumieć, że chodzi tutaj o szczególne błogosławieństwo pośród wszelkich «błogosławieństw duchowych w Chrystusie» [...]. Maryja «zajmuje pierwsze miejsce wśród pokornych i ubogich Pana, którzy z ufnością oczekują od Niego zbawienia i dostępują go»” (RM 8)."
-                    android:id="@+id/textView114"
+                    android:text="Stajemy tu wobec tajemnicy powołania. Jest ono czymś wielkim, gdyż pochodzi od samego Boga i jest zaproszeniem do udziału w realizacji Jego zbawczego planu wobec ludzi. Każdy powołany doświadcza w swoim życiu wątpliwości i niepokojów, zagrożeń i lęków. Chrystus wielokrotnie mówił do Apostołów: „Nie lękajcie się”. Słowa te powtarzał od początku swego pontyfikatu św. Jan Paweł II. "
+                    android:id="@+id/textView141"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
                     android:text="Dziesiątek różańca"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView115"
+                    android:id="@+id/textView142"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"
@@ -93,16 +93,16 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Wraz z Maryją, pełną łaski, zwracam się do Ojca i rozważam Jego odwieczny plan zbawienia, zrealizowany w Chrystusie. Wielbię Boga w Trójcy Świętej Jedynego."
+                    android:text="Wszyscy, którzy głęboko przeżywają modlitwę, mówią, że doświadczają również uspokojenia. Boży pokój pokonuje lęk i pomnaża zaufanie do Boga, który dając powołanie, daje też siły do jego wypełnienia. W ten świat pokoju pragnę głębiej wejść w dzisiejszej modlitwie różańcowej."
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView116"/>
+                    android:id="@+id/textView143"/>
 
 
             <TextView
                     android:text="Intencje modlitwy"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView117"
+                    android:id="@+id/textView144"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"
@@ -110,17 +110,17 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Miłosierny Boże, pomóż mi, za przykładem Maryi, w pełni otworzyć się na Twoje niezwykłe dary, abym na moją miarę doświadczał również pełni Twojego obdarowania."
+                    android:text="Pomóż mi, Panie, pokonywać wszelkie lęki mojego życia. Broń mnie przez nerwowością, brakiem zaufania do Ciebie, zapomnieniem o Twojej obecności. Pomóż mnie i wszystkim ludziom usłyszeć Twoje słowa: „Nie lękajcie się”."
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView118"/>
+                    android:id="@+id/textView145"/>
 
             <TextView
                     android:text="Proszę w intencjach, które poleca Ojciec Święty."
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView119"/>
+                    android:id="@+id/textView146"/>
             <TextView
                     android:text="Dziękuję Maryi, a wraz z Nią Bogu, za dar spotkania i za wszystkie otrzymane łaski."
-                    android:id="@+id/textView120"
+                    android:id="@+id/textView147"
                     style="@style/paragraf_Text_optimum"
                     android:paddingBottom="80sp"/>
 

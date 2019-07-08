@@ -10,7 +10,7 @@
             android:text="DZIEŃ 7. Pan z Tobą"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textView107"
+            android:id="@+id/textView121"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="16dp"
             android:layout_marginTop="8dp"
@@ -39,7 +39,7 @@
                     android:text="Anioł mówi do Maryi: „Pan z Tobą”. Pełnia łaski, którą cieszyła się Maryja, oznaczała szczególną obecność Boga w Jej życiu.”."
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView108"
+                    android:id="@+id/textView122"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp" android:textAlignment="textStart"/>
@@ -47,7 +47,7 @@
                     android:text="Modlitwa"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView109"
+                    android:id="@+id/textView123"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"
@@ -62,7 +62,7 @@
                     android:text="Rozważanie słowa"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView111"
+                    android:id="@+id/textView124"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"
@@ -72,20 +72,20 @@
             <TextView
                     android:text="Z Ewangelii według św. Łukasza (1,28): „Anioł wszedł do Niej i rzekł: Bądź pozdrowiona, pełna łaski, Pan z Tobą, błogosławiona jesteś między niewiastami”."
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView112"/>
+                    android:id="@+id/textView125"/>
             <TextView
                     android:text="W Starym Testamencie Bóg wielokrotnie zwracał się do swoich wybranych słowami: „Ja jestem z Tobą”. Prorok Jeremiasz usłyszał zapewnienie (1,8.18-19): „Nie lękaj się ich, bo jestem z tobą, by cię chronić - wyrocznia Pana. Oto Ja czynię cię dzisiaj twierdzą warowną, kolumną żelazną i murem spiżowym przeciw całej ziemi, przeciw królom judzkim i ich przywódcom, ich kapłanom i ludowi tej ziemi.	 Będą walczyć przeciw tobie, ale nie zdołają cię zwyciężyć, gdyż Ja jestem z tobą - wyrocznia Pana - by cię ochraniać”. Podobne zapewnienie słyszeli inni prorocy. "
-                    android:id="@+id/textView113"
+                    android:id="@+id/textView126"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
                     android:text="Bóg, który powołuje i powierza człowiekowi określone zadania, ofiarowuje mu również dar swojej szczególnej obecności i opieki. Również Maryja w chwili zwiastowania słyszy zapewnienie, że Bóg jest z Nią. Uczestnicy Eucharystii słyszą aż cztery razy słowa, które wypowiada kapłan: „Pan z wami”. Rozważając tajemnicę różańca chcę z Maryją jeszcze głębiej doświadczyć obecności Pana."
-                    android:id="@+id/textView114"
+                    android:id="@+id/textView127"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
                     android:text="Dziesiątek różańca"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView115"
+                    android:id="@+id/textView128"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"
@@ -95,14 +95,14 @@
             <TextView
                     android:text="Świadomość obecności Boga jest szczególnie intensywna w czasie modlitwy. Wtedy rozmawiam z Bogiem, stoję lub klęczę przed Nim. Wpatruję się oczyma wiary w Niego. Ta prawda przenika jeszcze bardziej moją dzisiejszą modlitwę."
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView116"/>
+                    android:id="@+id/textView129"/>
 
 
             <TextView
                     android:text="Intencje modlitwy"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView117"
+                    android:id="@+id/textView130"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"
@@ -112,17 +112,17 @@
             <TextView
                     android:text="Nie pozwól, Panie, abym kiedykolwiek zapomniał o Twojej obecności przy mnie. Wierzę, że jesteś ze mną w każdej chwili. Proszę Cię o ten dar także dla wszystkich moich braci i sióstr."
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView118"/>
+                    android:id="@+id/textView131"/>
 
             <TextView
                     android:text="Proszę w intencjach, które poleca Ojciec Święty."
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView119"/>
+                    android:id="@+id/textView132"/>
             <TextView
                     android:text="Dziękuję Maryi, a wraz z Nią Bogu, za dar spotkania i za wszystkie otrzymane łaski."
-                    android:id="@+id/textView120"
+                    android:id="@+id/textView133"
                     style="@style/paragraf_Text_optimum"
-                    android:paddingBottom="50sp"/>
+                    android:paddingBottom="80sp"/>
 
         </LinearLayout>
     </ScrollView>

@@ -7,7 +7,7 @@
         android:layout_height="match_parent"
         tools:context=".Wprowadzenie" android:id="@+id/linearLayout">
     <TextView
-            android:text="DZIEŃ 3. Modlitwa do Ducha Św."
+            android:text="@string/dzie_3_modlitwa_do_ducha_w"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView60"
@@ -36,7 +36,7 @@
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
             <TextView
-                    android:text="Wszystkie działania Boga Trójjedynego w świecie mają swoje źródło w Ojcu, wszystkie się dokonują przez Chrystusa i wszystkie są zrealizowane mocą Ducha Świętego. Kontempluję tę wspaniałą prawdę wiary odmawiając pierwszą tajemnicę radosną. Dziś proszę w sposób szczególny Ducha Świętego, aby mnie prowadził i oświecał."
+                    android:text="@string/wszystkie_dzia_ania_boga_tr_jjedynego_w_wiecie_maj_swoje_r_d_o_w_ojcu_wszystkie_si_dokonuj_przez_chrystusa_i_wszystkie_s_zrealizowane_moc_ducha_wi_tego_kontempluj_t_wspania_prawd_wiary_odmawiaj_c_pierwsz_tajemnic_radosn_dzi_prosz_w_spos_b_szczeg_lny_ducha_wi_tego_aby_mnie_prowadzi_i_o_wieca"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView61"
@@ -44,7 +44,7 @@
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp" android:textAlignment="textStart"/>
             <TextView
-                    android:text="Modlitwa"
+                    android:text="@string/modlitwa"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView62"
@@ -54,11 +54,11 @@
                     android:layout_marginTop="5sp"
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
             <TextView
-                    android:text="Duchu Święty, Duchu Miłości i Jedności, Twoją mocą Maryja została zachowana od grzechu pierworodnego i Twoją mocą poczęła w swym łonie Jednorodzonego Syna Bożego. Ty wzbudziłeś we mnie pragnienie poznawania tego misterium i rozważania przez cały miesiąc wydarzeń, które dokonały się w chwili Zwiastowania Najświętszej Maryi Pannie. Prowadź mnie w mojej modlitwie, aby coraz lepiej poznawał wielkość tajemnicy Wcielenia i zbawczą moc w niej ukrytą."
+                    android:text="@string/duchu_wi_ty_duchu_mi_o_ci_i_jedno_ci_twoj_moc_maryja_zosta_a_zachowana_od_grzechu_pierworodnego_i_twoj_moc_pocz_a_w_swym_onie_jednorodzonego_syna_bo_ego_ty_wzbudzi_e_we_mnie_pragnienie_poznawania_tego_misterium_i_rozwa_ania_przez_ca_y_miesi_c_wydarze_kt_re_dokona_y_si_w_chwili_zwiastowania_naj_wi_tszej_maryi_pannie_prowad_mnie_w_mojej_modlitwie_aby_coraz_lepiej_poznawa_wielko_tajemnicy_wcielenia_i_zbawcz_moc_w_niej_ukryt"
                     android:id="@+id/textView63"
                     style="@style/paragraf_Text"/>
             <TextView
-                    android:text="Rozważanie słowa"
+                    android:text="@string/rozwa_anie_s_owa"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView64"
@@ -69,15 +69,15 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Z listu św. Pawła Apostoła do Rzymian (8,26): „Duch przychodzi z pomocą naszej słabości. Gdy bowiem nie umiemy się modlić tak, jak trzeba, sam Duch przyczynia się za nami w błaganiach, których nie można wyrazić słowami”."
+                    android:text="@string/z_listu_w_paw_a_aposto_a_do_rzymian_8_26_duch_przychodzi_z_pomoc_naszej_s_abo_ci_gdy_bowiem_nie_umiemy_si_modli_tak_jak_trzeba_sam_duch_przyczynia_si_za_nami_w_b_aganiach_kt_rych_nie_mo_na_wyrazi_s_owami"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView65"/>
             <TextView
-                    android:text="W każdej sprawie potrzebuję pomocy Ducha Świętego. Jednak św. Paweł podkreśla, że moja słabość objawia się najpierw w modlitwie. Trudno mi jest całkowicie skupić się na niej. Nie mniej trudno połączyć odmawianie tekstów modlitewnych z autentyczną medytacją nad Bożymi tajemnicami. W ogóle niemożliwe jest zwrócić się z głęboką wiarą do Ojca i do Jezusa bez pomocy Ducha Świętego. Proszę Go więc usilnie, aby był ze mną w czasie odmawiania dziesiątka różańca i rozważania tajemnicy Zwiastowania Najświętszej Maryi Pannie."
+                    android:text="@string/w_ka_dej_sprawie_potrzebuj_pomocy_ducha_wi_tego_jednak_w_pawe_podkre_la_e_moja_s_abo_objawia_si_najpierw_w_modlitwie_trudno_mi_jest_ca_kowicie_skupi_si_na_niej_nie_mniej_trudno_po_czy_odmawianie_tekst_w_modlitewnych_z_autentyczn_medytacj_nad_bo_ymi_tajemnicami_w_og_le_niemo_liwe_jest_zwr_ci_si_z_g_bok_wiar_do_ojca_i_do_jezusa_bez_pomocy_ducha_wi_tego_prosz_go_wi_c_usilnie_aby_by_ze_mn_w_czasie_odmawiania_dziesi_tka_r_a_ca_i_rozwa_ania_tajemnicy_zwiastowania_naj_wi_tszej_maryi_pannie"
                     android:id="@+id/textView66"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="Dziesiątek różańca"
+                    android:text="@string/dziesi_tek_r_a_ca"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView67"
@@ -88,21 +88,21 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Otrzymałem Ducha dziecięctwa, który woła we mnie: „Abba, Ojcze”. Prowadzony przez tego Ducha, modlę się słowami, których nauczył mnie Jezus.”"
+                    android:text="@string/otrzyma_em_ducha_dzieci_ctwa_kt_ry_wo_a_we_mnie_abba_ojcze_prowadzony_przez_tego_ducha_modl_si_s_owami_kt_rych_nauczy_mnie_jezus"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView68"/>
 
 
             <TextView
-                    android:text="Tylko Duch Święty może sprawić, że zwykłe odmawianie kolejnych „Zdrowaś Maryjo” staje się pasjonującą przygodą spotkania z Maryją, a przez Nią z Jezusem, który staje się Człowiekiem. Poddaję się więc prowadzeniu przez Ducha Świętego."
+                    android:text="@string/tylko_duch_wi_ty_mo_e_sprawi_e_zwyk_e_odmawianie_kolejnych_zdrowa_maryjo_staje_si_pasjonuj_c_przygod_spotkania_z_maryj_a_przez_ni_z_jezusem_kt_ry_staje_si_cz_owiekiem_poddaj_si_wi_c_prowadzeniu_przez_ducha_wi_tego"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView69"/>
             <TextView
-                    android:text="Jak mam wypowiedzieć te trzy najświętsze i najbardziej umiłowane Imiona? Pragnę je wypowiedzieć w duchu prawdziwego uwielbienia Ojca, Jego Jednorodzonego Syna oraz Ducha Świętego."
+                    android:text="@string/jak_mam_wypowiedzie_te_trzy_naj_wi_tsze_i_najbardziej_umi_owane_imiona_pragn_je_wypowiedzie_w_duchu_prawdziwego_uwielbienia_ojca_jego_jednorodzonego_syna_oraz_ducha_wi_tego"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView70"/>
             <TextView
-                    android:text="Intencje modlitwy"
+                    android:text="@string/intencje_modlitwy"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView71"
@@ -113,20 +113,20 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Duch Święty uczy nas każdej modlitwy. Wprowadza nas w modlitwę medytacyjną, budzi w nas uwielbienie, a także skruchę za grzechy. On również uzdalnia nas do wypowiedzenia płynących z serca próśb."
+                    android:text="@string/duch_wi_ty_uczy_nas_ka_dej_modlitwy_wprowadza_nas_w_modlitw_medytacyjn_budzi_w_nas_uwielbienie_a_tak_e_skruch_za_grzechy_on_r_wnie_uzdalnia_nas_do_wypowiedzenia_p_yn_cych_z_serca_pr_b"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView72"/>
 
             <TextView
-                    android:text="Proszę najpierw o owoce rozważanej tajemnicy, o przeniknięcie mnie i innych ludzi światłem i mocą łaski Wcielenia Syna Bożego, o głębsze przeżycie prawdy, że Bóg aż tak mnie miłuje."
+                    android:text="@string/prosz_najpierw_o_owoce_rozwa_anej_tajemnicy_o_przenikni_cie_mnie_i_innych_ludzi_wiat_em_i_moc_aski_wcielenia_syna_bo_ego_o_g_bsze_prze_ycie_prawdy_e_b_g_a_tak_mnie_mi_uje"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView73"/>
             <TextView
-                    android:text="Proszę w intencjach, które poleca Ojciec Święty."
+                    android:text="@string/prosz_w_intencjach_kt_re_poleca_ojciec_wi_ty"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView74"/>
             <TextView
-                    android:text="Otrzymałem dar spotkania z Bogiem. Wyrażam więc wdzięczność za tę niezwykłą łaskę. Niech trwa we mnie światło płynące z tego spotkania."
+                    android:text="@string/otrzyma_em_dar_spotkania_z_bogiem_wyra_am_wi_c_wdzi_czno_za_t_niezwyk_ask_niech_trwa_we_mnie_wiat_o_p_yn_ce_z_tego_spotkania"
                     android:id="@+id/textView75"
                     android:paddingBottom="80sp"
                     style="@style/paragraf_Text_optimum"/>

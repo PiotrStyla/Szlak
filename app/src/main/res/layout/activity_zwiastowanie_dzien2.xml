@@ -7,7 +7,7 @@
         android:layout_height="match_parent"
         tools:context=".Wprowadzenie" android:id="@+id/linearLayout">
     <TextView
-            android:text="DZIEŃ 2. Modlitwa do Syna"
+            android:text="@string/dzie_2_modlitwa_do_syna1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView44"
@@ -36,7 +36,7 @@
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
             <TextView
-                    android:text="Rozważając tajemnicę Zwiastowania, spotykam nie tylko Ojca, lecz także Syna. Wchodzę w misterium, w którym dotykam prawdy, że Ojciec dokonuje dzieła zbawienia przez Syna. Ojciec jest w Synu, a Syn w Ojcu. Z pokorą proszę Jezusa, aby moja miesięczna modlitwa i rozważanie tajemnicy Zwiastowania zbliżyło mnie do Niego."
+                    android:text="@string/rozwa_aj_c_tajemnic_zwiastowania_spotykam_nie_tylko_ojca_lecz_tak_e_syna_wchodz_w_misterium_w_kt_rym_dotykam_prawdy_e_ojciec_dokonuje_dzie_a_zbawienia_przez_syna_ojciec_jest_w_synu_a_syn_w_ojcu_z_pokor_prosz_jezusa_aby_moja_miesi_czna_modlitwa_i_rozwa_anie_tajemnicy_zwiastowania_zbli_y_o_mnie_do_niego"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView45"
@@ -44,7 +44,7 @@
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp" android:textAlignment="textStart"/>
             <TextView
-                    android:text="Modlitwa"
+                    android:text="@string/modlitwa"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView46"
@@ -54,11 +54,11 @@
                     android:layout_marginTop="5sp"
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
             <TextView
-                    android:text="Jezu, Synu Boga żywego, jakże wielka jest Twoja miłość ku nam, skoro przyjąłeś na siebie naszą ludzką naturę i stałeś się do nas podobnym we wszystkim, oprócz grzechu. Pragnę przez cały miesiąc, odmawiając tajemnicę Zwiastowania, coraz lepiej poznawać, czym jest tajemnica Wcielenia. Wzbudź we mnie pragnienie poznawania tej cudownej tajemnicy. Rozjaśnij mój umysł, aby z pasją poznawał to, co potrafię. Napełnij mnie Duchem Świętym, aby mnie każdego dnia prowadził. "
+                    android:text="@string/jezu_synu_boga_ywego_jak_e_wielka_jest_twoja_mi_o_ku_nam_skoro_przyj_e_na_siebie_nasz_ludzk_natur_i_sta_e_si_do_nas_podobnym_we_wszystkim_opr_cz_grzechu_pragn_przez_ca_y_miesi_c_odmawiaj_c_tajemnic_zwiastowania_coraz_lepiej_poznawa_czym_jest_tajemnica_wcielenia_wzbud_we_mnie_pragnienie_poznawania_tej_cudownej_tajemnicy_rozja_nij_m_j_umys_aby_z_pasj_poznawa_to_co_potrafi_nape_nij_mnie_duchem_wi_tym_aby_mnie_ka_dego_dnia_prowadzi"
                     android:id="@+id/textView47"
                     style="@style/paragraf_Text"/>
             <TextView
-                    android:text="Rozważanie słowa"
+                    android:text="@string/rozwa_anie_s_owa"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView48"
@@ -69,15 +69,15 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Z Ewangelii według św. Mateusza (11,25-27): „Wysławiam Cię, Ojcze, Panie nieba i ziemi, że zakryłeś te rzeczy przed mądrymi i roztropnymi, a objawiłeś je prostaczkom. Tak, Ojcze, gdyż takie było Twoje upodobanie. Wszystko przekazał Mi Ojciec mój. Nikt też nie zna Syna, tylko Ojciec, ani Ojca nikt nie zna, tylko Syn, i ten, komu Syn zechce objawić”."
+                    android:text="@string/z_ewangelii_wed_ug_w_mateusza_11_25_27_wys_awiam_ci_ojcze_panie_nieba_i_ziemi_e_zakry_e_te_rzeczy_przed_m_drymi_i_roztropnymi_a_objawi_e_je_prostaczkom_tak_ojcze_gdy_takie_by_o_twoje_upodobanie_wszystko_przekaza_mi_ojciec_m_j_nikt_te_nie_zna_syna_tylko_ojciec_ani_ojca_nikt_nie_zna_tylko_syn_i_ten_komu_syn_zechce_objawi"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView49"/>
             <TextView
-                    android:text="Chcąc rozważać tajemnicę Chrystusa, prawdziwego Boga i prawdziwego Człowieka, muszę w prostocie serca zwrócić się do Ojca, aby mi dał łaskę rozumienia tego misterium. Jest ono niezgłębione, ale równocześnie otwarte przed każdym, kto chce przyjąć ofiarowany mu dar poznania. Odmawiając w dzisiejszym dniu tajemnicę Zwiastowania Najświętszej Maryi Pannie, chcę prosić gorąco Jezusa, aby usnął z mego życia postawę, która sprawia, że Jego tajemnice są przede mną zakryte i udzielił mi daru prostoty, dzięki której mogę kontemplować niezwykłą prawdę, że Syn Boży stał się człowiekiem i zamieszkał pośród nas."
+                    android:text="@string/chc_c_rozwa_a_tajemnic_chrystusa_prawdziwego_boga_i_prawdziwego_cz_owieka_musz_w_prostocie_serca_zwr_ci_si_do_ojca_aby_mi_da_ask_rozumienia_tego_misterium_jest_ono_niezg_bione_ale_r_wnocze_nie_otwarte_przed_ka_dym_kto_chce_przyj_ofiarowany_mu_dar_poznania_odmawiaj_c_w_dzisiejszym_dniu_tajemnic_zwiastowania_naj_wi_tszej_maryi_pannie_chc_prosi_gor_co_jezusa_aby_usn_z_mego_ycia_postaw_kt_ra_sprawia_e_jego_tajemnice_s_przede_mn_zakryte_i_udzieli_mi_daru_prostoty_dzi_ki_kt_rej_mog_kontemplowa_niezwyk_prawd_e_syn_bo_y_sta_si_cz_owiekiem_i_zamieszka_po_r_d_nas"
                     android:id="@+id/textView50"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="Dziesiątek różańca"
+                    android:text="@string/dziesi_tek_r_a_ca"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView51"
@@ -88,21 +88,21 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Chcę odmawiać modlitwę „Ojcze nasz” w duchu słów Jezusa: „Wysławiam Cię, Ojcze, Panie nieba i ziemi”"
+                    android:text="@string/chc_odmawia_modlitw_ojcze_nasz_w_duchu_s_w_jezusa_wys_awiam_ci_ojcze_panie_nieba_i_ziemi"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView52"/>
 
 
             <TextView
-                    android:text="W odmawianiu kolejnych „Zdrowaś Maryjo” chcę rozważać cytowane powyżej słowa z Ewangelii św. Mateusza i prosić o wstawiennictwo Maryję, która jest wzorem wszystkich „prostaczków”, ludzi o otartym i szczerym sercu."
+                    android:text="@string/w_odmawianiu_kolejnych_zdrowa_maryjo_chc_rozwa_a_cytowane_powy_ej_s_owa_z_ewangelii_w_mateusza_i_prosi_o_wstawiennictwo_maryj_kt_ra_jest_wzorem_wszystkich_prostaczk_w_ludzi_o_otartym_i_szczerym_sercu"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView53"/>
             <TextView
-                    android:text="Moje „Chwała Ojcu...” będzie szczerym uwielbieniem Trójcy Przenajświętszej za tajemnicę Wcielenia Syna Bożego."
+                    android:text="@string/moje_chwa_a_ojcu_b_dzie_szczerym_uwielbieniem_tr_jcy_przenaj_wi_tszej_za_tajemnic_wcielenia_syna_bo_ego1"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView54"/>
             <TextView
-                    android:text="Intencje modlitwy"
+                    android:text="@string/intencje_modlitwy"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView55"
@@ -113,20 +113,20 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Syn Boży stał się Człowiekiem, aby nam pomóc, uratować nas, być z nami w każdej sytuacji. Przeżywając głębiej tę prawdę, chcę z większą wiarą i zaufaniem, polecić Jezusowi liczne intencje, które noszę w sercu."
+                    android:text="@string/syn_bo_y_sta_si_cz_owiekiem_aby_nam_pom_c_uratowa_nas_by_z_nami_w_ka_dej_sytuacji_prze_ywaj_c_g_biej_t_prawd_chc_z_wi_ksz_wiar_i_zaufaniem_poleci_jezusowi_liczne_intencje_kt_re_nosz_w_sercu"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView56"/>
 
             <TextView
-                    android:text="Proszę najpierw o łaskę prostego serca dla mnie i dla moich braci i sióstr."
+                    android:text="@string/prosz_najpierw_o_ask_prostego_serca_dla_mnie_i_dla_moich_braci_i_si_str"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView57"/>
             <TextView
-                    android:text="Proszę w intencjach, które poleca Ojciec Święty."
+                    android:text="@string/prosz_w_intencjach_kt_re_poleca_ojciec_wi_ty"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView58"/>
             <TextView
-                    android:text="Jednoczę się z Jezusem w Jego wysławianiu Ojca, Pana nieba i ziemi, że zakrył swoje tajemnice przed mądrymi i roztropnymi, a objawił je prostaczkom. Dziękuję Mu za dar dzisiejszej modlitwy."
+                    android:text="@string/jednocz_si_z_jezusem_w_jego_wys_awianiu_ojca_pana_nieba_i_ziemi_e_zakry_swoje_tajemnice_przed_m_drymi_i_roztropnymi_a_objawi_je_prostaczkom_dzi_kuj_mu_za_dar_dzisiejszej_modlitwy"
                     android:id="@+id/textView59"
                     android:paddingBottom="80sp"
                     style="@style/paragraf_Text_optimum"/>

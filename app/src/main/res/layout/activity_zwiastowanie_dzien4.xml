@@ -7,7 +7,7 @@
         android:layout_height="match_parent"
         tools:context=".Wprowadzenie" android:id="@+id/linearLayout">
     <TextView
-            android:text="DZIEŃ 4. Modlitwa do Maryi"
+            android:text="@string/dzie_4_modlitwa_do_maryi1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView77"
@@ -36,7 +36,7 @@
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
             <TextView
-                    android:text="Różaniec jest modlitwą, którą przeżywam z Maryją. Pragnę doświadczać Jej obecności i Jego prowadzenia. Ona najlepiej rozeznawała wolę Bożą i najgłębiej kontemplowała tajemnice zbawienia. "
+                    android:text="@string/r_aniec_jest_modlitw_kt_r_prze_ywam_z_maryj_pragn_do_wiadcza_jej_obecno_ci_i_jego_prowadzenia_ona_najlepiej_rozeznawa_a_wol_bo_i_najg_biej_kontemplowa_a_tajemnice_zbawienia"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView78"
@@ -44,7 +44,7 @@
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp" android:textAlignment="textStart"/>
             <TextView
-                    android:text="Modlitwa"
+                    android:text="@string/modlitwa"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView79"
@@ -54,11 +54,11 @@
                     android:layout_marginTop="5sp"
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
             <TextView
-                    android:text="Dziękuję Ci, Maryjo, najlepsza Matko, za wszelkie dary, jakie dla mnie wypraszasz u Boga. Dziękuję Ci za przykład wiary i miłości, jaki dajesz całym swoim życiem. Pragnę Cię naśladować. Bądź ze mną dziś, gdy spojrzeniem wiary ogarniam wszystko, co dokonało się wtedy, gdy Bóg posłał do Ciebie Anioła Gabriela. Bądź ze mną, gdy w kolejnych dniach będę bardziej szczegółowo rozważał to zbawcze misterium. Ucz mnie poznawać wolę Ojca i wiernie ją wypełniać."
+                    android:text="@string/dzi_kuj_ci_maryjo_najlepsza_matko_za_wszelkie_dary_jakie_dla_mnie_wypraszasz_u_boga_dzi_kuj_ci_za_przyk_ad_wiary_i_mi_o_ci_jaki_dajesz_ca_ym_swoim_yciem_pragn_ci_na_ladowa_b_d_ze_mn_dzi_gdy_spojrzeniem_wiary_ogarniam_wszystko_co_dokona_o_si_wtedy_gdy_b_g_pos_a_do_ciebie_anio_a_gabriela_b_d_ze_mn_gdy_w_kolejnych_dniach_b_d_bardziej_szczeg_owo_rozwa_a_to_zbawcze_misterium_ucz_mnie_poznawa_wol_ojca_i_wiernie_j_wype_nia"
                     android:id="@+id/textView80"
                     style="@style/paragraf_Text"/>
             <TextView
-                    android:text="Rozważanie słowa"
+                    android:text="@string/rozwa_anie_s_owa"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView81"
@@ -69,15 +69,15 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Z Księgi Rodzaju (3,15): „Wprowadzam nieprzyjaźń między ciebie a niewiastę, pomiędzy potomstwo twoje a potomstwo jej: ono zmiażdży ci głowę, a ty zmiażdżysz mu piętę”. "
+                    android:text="@string/z_ksi_gi_rodzaju_3_15_wprowadzam_nieprzyja_mi_dzy_ciebie_a_niewiast_pomi_dzy_potomstwo_twoje_a_potomstwo_jej_ono_zmia_d_y_ci_g_ow_a_ty_zmia_d_ysz_mu_pi_t"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView82"/>
             <TextView
-                    android:text="Już na początku ludzkiej historii Bóg mówi o niewieście, która w żaden sposób nie ulegnie kusicielowi. Kościół widzi w niej Maryję. Ona została zachowana od grzechu pierworodnego. W wolności od grzechu trwała przez całe życie. Otaczało ją światło Boże. Była całkowicie przeniknięta łaską. W Nią się wpatruję odmawiając dziś dziesiątek różańca. Pragnę jeszcze wyraźniej zobaczyć boskie piękno, które ją przenika, czystą miłość, którą kocha Ona Boga i ludzi, pełną wolność w przyjęciu woli Bożej. "
+                    android:text="@string/ju_na_pocz_tku_ludzkiej_historii_b_g_m_wi_o_niewie_cie_kt_ra_w_aden_spos_b_nie_ulegnie_kusicielowi_ko_ci_widzi_w_niej_maryj_ona_zosta_a_zachowana_od_grzechu_pierworodnego_w_wolno_ci_od_grzechu_trwa_a_przez_ca_e_ycie_otacza_o_j_wiat_o_bo_e_by_a_ca_kowicie_przenikni_ta_ask_w_ni_si_wpatruj_odmawiaj_c_dzi_dziesi_tek_r_a_ca_pragn_jeszcze_wyra_niej_zobaczy_boskie_pi_kno_kt_re_j_przenika_czyst_mi_o_kt_r_kocha_ona_boga_i_ludzi_pe_n_wolno_w_przyj_ciu_woli_bo_ej"
                     android:id="@+id/textView83"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="Dziesiątek różańca"
+                    android:text="@string/dziesi_tek_r_a_ca"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView84"
@@ -88,21 +88,21 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="W Starym Testamencie Bóg wiele razy nazywał się Ojcem. Nikt lepiej od Maryi nie rozumiał głębi tej dziecięcej relacji z Bogiem. W zjednoczeniu z Nią pragnę wołać: „Ojcze nasz”."
+                    android:text="@string/w_starym_testamencie_b_g_wiele_razy_nazywa_si_ojcem_nikt_lepiej_od_maryi_nie_rozumia_g_bi_tej_dzieci_cej_relacji_z_bogiem_w_zjednoczeniu_z_ni_pragn_wo_a_ojcze_nasz"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView85"/>
 
 
             <TextView
-                    android:text="Dziś w odmawianiu kolejnych „Zdrowaś Maryjo” pragnę skupić się przede wszystkim na samej Maryi, na Jej otwartości, czystości serca, miłości. "
+                    android:text="@string/dzi_w_odmawianiu_kolejnych_zdrowa_maryjo_pragn_skupi_si_przede_wszystkim_na_samej_maryi_na_jej_otwarto_ci_czysto_ci_serca_mi_o_ci"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView86"/>
             <TextView
-                    android:text="Ta, która mówiła: „Wielbi dusza moja Pana” pomaga mi modlić się słowami „Chwała Ojcu...”"
+                    android:text="@string/ta_kt_ra_m_wi_a_wielbi_dusza_moja_pana_pomaga_mi_modli_si_s_owami_chwa_a_ojcu"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView87"/>
             <TextView
-                    android:text="Intencje modlitwy"
+                    android:text="@string/intencje_modlitwy"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView88"
@@ -113,20 +113,20 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Świadom, że Maryja, moja niebieska Matka, nieustannie wstawia się za mną i za wszystkimi swoimi dziećmi, proszę Boga z tym większą wiarą o potrzebne łaski."
+                    android:text="@string/wiadom_e_maryja_moja_niebieska_matka_nieustannie_wstawia_si_za_mn_i_za_wszystkimi_swoimi_dzie_mi_prosz_boga_z_tym_wi_ksz_wiar_o_potrzebne_aski"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView89"/>
 
             <TextView
-                    android:text="Proszę najpierw o łaskę głębokiej, dziecięcej ufności do Maryi, dla mnie i dla innych ludzi."
+                    android:text="@string/prosz_najpierw_o_ask_g_bokiej_dzieci_cej_ufno_ci_do_maryi_dla_mnie_i_dla_innych_ludzi"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView90"/>
             <TextView
-                    android:text="Proszę w intencjach, które poleca Ojciec Święty."
+                    android:text="@string/prosz_w_intencjach_kt_re_poleca_ojciec_wi_ty"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView91"/>
             <TextView
-                    android:text="Dziękuję Maryi, a wraz z Nią Bogu, za dar spotkania i za wszystkie otrzymane łaski."
+                    android:text="@string/dzi_kuj_maryi_a_wraz_z_ni_bogu_za_dar_spotkania_i_za_wszystkie_otrzymane_aski"
                     android:id="@+id/textView92"
                     android:paddingBottom="80sp"
                     style="@style/paragraf_Text_optimum"/>

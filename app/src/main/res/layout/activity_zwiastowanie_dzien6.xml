@@ -7,7 +7,7 @@
         android:layout_height="match_parent"
         tools:context=".Wprowadzenie" android:id="@+id/linearLayout">
     <TextView
-            android:text="DZIEŃ 6. Pełna łaski"
+            android:text="@string/dzie_6_pe_na_aski1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView107"
@@ -36,7 +36,7 @@
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
             <TextView
-                    android:text="Każde słowo, wypowiedziane przez Bożego posłańca, godne jest uważnego wysłuchania i rozważenia. Dziś zatrzymuję się przy nazwaniu Maryi „pełną łaski”."
+                    android:text="@string/ka_de_s_owo_wypowiedziane_przez_bo_ego_pos_a_ca_godne_jest_uwa_nego_wys_uchania_i_rozwa_enia_dzi_zatrzymuj_si_przy_nazwaniu_maryi_pe_n_aski"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView108"
@@ -44,7 +44,7 @@
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp" android:textAlignment="textStart"/>
             <TextView
-                    android:text="Modlitwa"
+                    android:text="@string/modlitwa"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView109"
@@ -54,12 +54,12 @@
                     android:layout_marginTop="5sp"
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
             <TextView
-                    android:text="Boże, mój Ojcze, niech Pocieszyciel, Duch Święty, który pochodzi od Ciebie, oświeci mój umysł i doprowadzi mnie do pełnej prawdy, zgodnie z obietnicą Twego Syna."
+                    android:text="@string/bo_e_m_j_ojcze_niech_pocieszyciel_duch_wi_ty_kt_ry_pochodzi_od_ciebie_o_wieci_m_j_umys_i_doprowadzi_mnie_do_pe_nej_prawdy_zgodnie_z_obietnic_twego_syna1"
                     android:id="@+id/textView110"
                     style="@style/paragraf_Text"/>
 
             <TextView
-                    android:text="Rozważanie słowa"
+                    android:text="@string/rozwa_anie_s_owa"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView111"
@@ -70,19 +70,19 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Z Ewangelii według św. Łukasza (1,28): „Anioł wszedł do Niej i rzekł: Bądź pozdrowiona, pełna łaski, Pan z Tobą, błogosławiona jesteś między niewiastami”."
+                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_1_28_anio_wszed_do_niej_i_rzek_b_d_pozdrowiona_pe_na_aski_pan_z_tob_b_ogos_awiona_jeste_mi_dzy_niewiastami"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView112"/>
             <TextView
-                    android:text="Znaczenie słów: „Pełna łaski” omawia szeroko św. Jan Paweł II w encyklice „Redemptoris Mater”. Oto kilka fragmentów papieskiej refleksji: „Zwiastun mówi do Maryi: «łaski pełna» – mówi zaś tak, jakby to było Jej właściwe imię. Nie nazywa swej rozmówczyni imieniem własnym «Miriam (= Maryja)», ale właśnie tym nowym imieniem: «łaski pełna». Co znaczy to imię? Dlaczego anioł tak nazywa Dziewicę z Nazaretu?"
+                    android:text="@string/znaczenie_s_w_pe_na_aski_omawia_szeroko_w_jan_pawe_ii_w_encyklice_redemptoris_mater_oto_kilka_fragment_w_papieskiej_refleksji_zwiastun_m_wi_do_maryi_aski_pe_na_m_wi_za_tak_jakby_to_by_o_jej_w_a_ciwe_imi_nie_nazywa_swej_rozm_wczyni_imieniem_w_asnym_miriam_maryja_ale_w_a_nie_tym_nowym_imieniem_aski_pe_na_co_znaczy_to_imi_dlaczego_anio_tak_nazywa_dziewic_z_nazaretu"
                     android:id="@+id/textView113"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="W języku Biblii «łaska» oznacza szczególny dar, który według Nowego Testamentu ma swe źródło w trynitarnym życiu Boga samego – Boga, który jest miłością (por. 1 J 4, 8). Owocem tej miłości jest wybranie – to, o którym mówi List do Efezjan. Wybranie to jest zatem ze strony Boga odwieczną wolą zbawienia człowieka przez uczestnictwo w Bożym życiu (por. 2 P 1, 4) w Chrystusie: jest zbawieniem poprzez uczestnictwo w życiu nadprzyrodzonym [...]. Kiedy czytamy, że zwiastun mówi do Maryi «łaski pełna», kontekst ewangeliczny, w którym zbiegają się dawne objawienia i obietnice, pozwala nam zrozumieć, że chodzi tutaj o szczególne błogosławieństwo pośród wszelkich «błogosławieństw duchowych w Chrystusie» [...]. Maryja «zajmuje pierwsze miejsce wśród pokornych i ubogich Pana, którzy z ufnością oczekują od Niego zbawienia i dostępują go»” (RM 8)."
+                    android:text="@string/w_j_zyku_biblii_aska_oznacza_szczeg_lny_dar_kt_ry_wed_ug_nowego_testamentu_ma_swe_r_d_o_w_trynitarnym_yciu_boga_samego_boga_kt_ry_jest_mi_o_ci_por_1_j_4_8_owocem_tej_mi_o_ci_jest_wybranie_to_o_kt_rym_m_wi_list_do_efezjan_wybranie_to_jest_zatem_ze_strony_boga_odwieczn_wol_zbawienia_cz_owieka_przez_uczestnictwo_w_bo_ym_yciu_por_2_p_1_4_w_chrystusie_jest_zbawieniem_poprzez_uczestnictwo_w_yciu_nadprzyrodzonym_kiedy_czytamy_e_zwiastun_m_wi_do_maryi_aski_pe_na_kontekst_ewangeliczny_w_kt_rym_zbiegaj_si_dawne_objawienia_i_obietnice_pozwala_nam_zrozumie_e_chodzi_tutaj_o_szczeg_lne_b_ogos_awie_stwo_po_r_d_wszelkich_b_ogos_awie_stw_duchowych_w_chrystusie_maryja_zajmuje_pierwsze_miejsce_w_r_d_pokornych_i_ubogich_pana_kt_rzy_z_ufno_ci_oczekuj_od_niego_zbawienia_i_dost_puj_go_rm_8"
                     android:id="@+id/textView114"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="Dziesiątek różańca"
+                    android:text="@string/dziesi_tek_r_a_ca"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView115"
@@ -93,13 +93,13 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Wraz z Maryją, pełną łaski, zwracam się do Ojca i rozważam Jego odwieczny plan zbawienia, zrealizowany w Chrystusie. Wielbię Boga w Trójcy Świętej Jedynego."
+                    android:text="@string/wraz_z_maryj_pe_n_aski_zwracam_si_do_ojca_i_rozwa_am_jego_odwieczny_plan_zbawienia_zrealizowany_w_chrystusie_wielbi_boga_w_tr_jcy_wi_tej_jedynego"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView116"/>
 
 
             <TextView
-                    android:text="Intencje modlitwy"
+                    android:text="@string/intencje_modlitwy"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView117"
@@ -110,16 +110,16 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Miłosierny Boże, pomóż mi, za przykładem Maryi, w pełni otworzyć się na Twoje niezwykłe dary, abym na moją miarę doświadczał również pełni Twojego obdarowania."
+                    android:text="@string/mi_osierny_bo_e_pom_mi_za_przyk_adem_maryi_w_pe_ni_otworzy_si_na_twoje_niezwyk_e_dary_abym_na_moj_miar_do_wiadcza_r_wnie_pe_ni_twojego_obdarowania"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView118"/>
 
             <TextView
-                    android:text="Proszę w intencjach, które poleca Ojciec Święty."
+                    android:text="@string/prosz_w_intencjach_kt_re_poleca_ojciec_wi_ty"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView119"/>
             <TextView
-                    android:text="Dziękuję Maryi, a wraz z Nią Bogu, za dar spotkania i za wszystkie otrzymane łaski."
+                    android:text="@string/dzi_kuj_maryi_a_wraz_z_ni_bogu_za_dar_spotkania_i_za_wszystkie_otrzymane_aski"
                     android:id="@+id/textView120"
                     style="@style/paragraf_Text_optimum"
                     android:paddingBottom="80sp"/>

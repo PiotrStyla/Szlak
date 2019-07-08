@@ -7,7 +7,7 @@
         android:layout_height="match_parent"
         tools:context=".Wprowadzenie" android:id="@+id/linearLayout">
     <TextView
-            android:text="DZIEŃ 1. Modlitwa do Ojca."
+            android:text="@string/dzie_1_modlitwa_do_ojca1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView3"
@@ -36,7 +36,7 @@
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
             <TextView
-                    android:text="Wszystkie zbawcze wydarzenia mają swe źródło w miłości Ojca. To On posłał Syna, a Syn wypełniał Jego wolę. Zwracam się więc najpierw do mojego Ojca w niebie."
+                    android:text="@string/wszystkie_zbawcze_wydarzenia_maj_swe_r_d_o_w_mi_o_ci_ojca_to_on_pos_a_syna_a_syn_wype_nia_jego_wol_zwracam_si_wi_c_najpierw_do_mojego_ojca_w_niebie"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView29"
@@ -44,7 +44,7 @@
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp" android:textAlignment="textStart"/>
             <TextView
-                    android:text="Modlitwa"
+                    android:text="@string/modlitwa"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView30"
@@ -54,11 +54,11 @@
                     android:layout_marginTop="5sp"
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
             <TextView
-                    android:text="Ojcze najlepszy, pomóż mi zobaczyć Twoją ojcowską miłość, objawioną w tajemnicy Wcielenia Twego Syna. Twoja troska o każdego człowieka, także o mnie, skłoniła Cię do dokonania dzieła okupienia. Ty posyłasz Anioła do Maryi, by Jej zwiastował dobrą nowinę. Ku Tobie więc kieruję dziś moje oczy, moje serce i moją modlitwę. Zgodnie z zaleceniem Jezusa wchodzę do izdebki, zamykam drzwi, by rozmawiać z Tobą, moim Ojcem."
+                    android:text="@string/ojcze_najlepszy_pom_mi_zobaczy_twoj_ojcowsk_mi_o_objawion_w_tajemnicy_wcielenia_twego_syna_twoja_troska_o_ka_dego_cz_owieka_tak_e_o_mnie_sk_oni_a_ci_do_dokonania_dzie_a_okupienia_ty_posy_asz_anio_a_do_maryi_by_jej_zwiastowa_dobr_nowin_ku_tobie_wi_c_kieruj_dzi_moje_oczy_moje_serce_i_moj_modlitw_zgodnie_z_zaleceniem_jezusa_wchodz_do_izdebki_zamykam_drzwi_by_rozmawia_z_tob_moim_ojcem"
                     android:id="@+id/textView31"
                     style="@style/paragraf_Text"/>
             <TextView
-                    android:text="Rozważanie słowa"
+                    android:text="@string/rozwa_anie_s_owa"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView32"
@@ -69,7 +69,7 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Z listu św. Pawła Apostoła do Galatów (4,6-7): „Na dowód tego, że jesteście synami, Bóg wysłał do serc naszych Ducha Syna swego, który woła: «Abba, Ojcze!» A zatem nie jesteś już niewolnikiem, lecz synem. Jeżeli zaś synem, to i dziedzicem z woli Bożej”."
+                    android:text="@string/z_listu_w_paw_a_aposto_a_do_galat_w_4_6_7_na_dow_d_tego_e_jeste_cie_synami_b_g_wys_a_do_serc_naszych_ducha_syna_swego_kt_ry_wo_a_abba_ojcze_a_zatem_nie_jeste_ju_niewolnikiem_lecz_synem_je_eli_za_synem_to_i_dziedzicem_z_woli_bo_ej"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView33"
@@ -77,11 +77,11 @@
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"/>
             <TextView
-                    android:text="Rozważam tajemnicę Zwiastowania jako syn Boga, jako Jego dziecko, jako ktoś, kto już otrzymał udział w życiu Ojca niebieskiego. Odmawiając dziesiątek różańca wpatruję się w kochające oczy Ojca. One patrzą na mnie. Jestem tego świadom. Ta prawda mnie przenika, raduje i daje siły do skupienia. Ja również chce ku Niemu skierować całą swoją uwagę. Dzisiejszą modlitwę pragnę przeżyć jako spotkanie z moim Ojcem, który z miłości ku mnie posyła Anioła do Maryi i rozpoczyna realizację zapowiedzianego dzieła zbawienia."
+                    android:text="@string/rozwa_am_tajemnic_zwiastowania_jako_syn_boga_jako_jego_dziecko_jako_kto_kto_ju_otrzyma_udzia_w_yciu_ojca_niebieskiego_odmawiaj_c_dziesi_tek_r_a_ca_wpatruj_si_w_kochaj_ce_oczy_ojca_one_patrz_na_mnie_jestem_tego_wiadom_ta_prawda_mnie_przenika_raduje_i_daje_si_y_do_skupienia_ja_r_wnie_chce_ku_niemu_skierowa_ca_swoj_uwag_dzisiejsz_modlitw_pragn_prze_y_jako_spotkanie_z_moim_ojcem_kt_ry_z_mi_o_ci_ku_mnie_posy_a_anio_a_do_maryi_i_rozpoczyna_realizacj_zapowiedzianego_dzie_a_zbawienia"
                     android:id="@+id/textView34"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="Dziesiątek różańca"
+                    android:text="@string/dziesi_tek_r_a_ca"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView35"
@@ -92,7 +92,7 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="W każdym wezwaniu modlitwy „Ojcze nasz” pragnę zwracać się całym sercem ku Ojca."
+                    android:text="@string/w_ka_dym_wezwaniu_modlitwy_ojcze_nasz_pragn_zwraca_si_ca_ym_sercem_ku_ojca"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView36"
@@ -102,7 +102,7 @@
 
 
             <TextView
-                    android:text="W odmawianiu kolejnych „Zdrowaś Maryjo” chcę rozważać cytowane powyżej słowa z listu do Galatów. Nie jestem już niewolnikiem. Jestem dzieckiem. Mogę mówić: „Abba, Ojcze”. Czynię to z Maryją."
+                    android:text="@string/w_odmawianiu_kolejnych_zdrowa_maryjo_chc_rozwa_a_cytowane_powy_ej_s_owa_z_listu_do_galat_w_nie_jestem_ju_niewolnikiem_jestem_dzieckiem_mog_m_wi_abba_ojcze_czyni_to_z_maryj"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView37"
@@ -110,7 +110,7 @@
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"/>
             <TextView
-                    android:text="Moje „Chwała Ojcu...” będzie szczerym uwielbieniem Trójcy Przenajświętszej za tajemnicę Wcielenia Syna Bożego."
+                    android:text="@string/moje_chwa_a_ojcu_b_dzie_szczerym_uwielbieniem_tr_jcy_przenaj_wi_tszej_za_tajemnic_wcielenia_syna_bo_ego"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView38"
@@ -118,7 +118,7 @@
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"/>
             <TextView
-                    android:text="Intencje modlitwy"
+                    android:text="@string/intencje_modlitwy"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView39"
@@ -129,7 +129,7 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Będąc blisko Ojca, doświadczając mocniej Jego miłości, mogę z tym większą wiarą przedstawić Mu intencje modlitwy. Modlę się przez wstawiennictwo Maryi."
+                    android:text="@string/b_d_c_blisko_ojca_do_wiadczaj_c_mocniej_jego_mi_o_ci_mog_z_tym_wi_ksz_wiar_przedstawi_mu_intencje_modlitwy_modl_si_przez_wstawiennictwo_maryi"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView40"
@@ -138,7 +138,7 @@
                     android:lineSpacingExtra="3sp"/>
 
             <TextView
-                    android:text="Proszę najpierw, aby wszyscy ochrzczeni mocniej uwierzyli, że Ojciec ich miłuje i dokonuje dzieła zbawienia z miłości ku nim."
+                    android:text="@string/prosz_najpierw_aby_wszyscy_ochrzczeni_mocniej_uwierzyli_e_ojciec_ich_mi_uje_i_dokonuje_dzie_a_zbawienia_z_mi_o_ci_ku_nim"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView41"
@@ -146,7 +146,7 @@
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"/>
             <TextView
-                    android:text="Proszę w intencjach, które poleca Ojciec Święty."
+                    android:text="@string/prosz_w_intencjach_kt_re_poleca_ojciec_wi_ty"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView42"
@@ -154,7 +154,7 @@
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"/>
             <TextView
-                    android:text="Kończę modlitwę dziękczynieniem za dar spotkania, które jest zawsze zaszczytem i wyróżnieniem. Rozmawiałem z Bogiem i rozważałem Jego boskie tajemnice."
+                    android:text="@string/ko_cz_modlitw_dzi_kczynieniem_za_dar_spotkania_kt_re_jest_zawsze_zaszczytem_i_wyr_nieniem_rozmawia_em_z_bogiem_i_rozwa_a_em_jego_boskie_tajemnice"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView43"

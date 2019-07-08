@@ -128,4 +128,388 @@
     <string name="dzie_8_nie_b_j_si_maryjo">DZIEŃ 8. Nie bój się Maryjo</string>
     <string name="dzie_9_poczniesz_i_porodzisz_syna">DZIEŃ 9. Poczniesz i porodzisz Syna</string>
     <string name="dzie_10_duch_zst_pi_na_ciebie">DZIEŃ 10. Duch zstąpi na Ciebie</string>
+    <string name="tajemnice_radosne">Tajemnice Radosne</string>
+    <string name="tajemnice_wiat_a">TAJEMNICE ŚWIATŁA</string>
+    <string name="tajemnice_bolesne">TAJEMNICE BOLESNE</string>
+    <string name="tajemnice_chwalebne">TAJEMNICE CHWALEBNE</string>
+    <string name="cz_i_radosna1">Część I - Radosna</string>
+    <string name="zwiastowanie1">Zwiastowanie</string>
+    <string name="nawiedzenie1">Nawiedzenie</string>
+    <string name="narodzenie1">Narodzenie</string>
+    <string name="ofiarowanie1">Ofiarowanie</string>
+    <string name="odnalezienie1">Odnalezienie</string>
+    <string name="rekolekcje1">Rekolekcje</string>
+    <string name="ikona_tajemnica_radosna">ikona_tajemnica_radosna</string>
+    <string name="dzie_1_modlitwa_do_ojca1">DZIEŃ 1. Modlitwa do Ojca.</string>
+    <string name="wszystkie_zbawcze_wydarzenia_maj_swe_r_d_o_w_mi_o_ci_ojca_to_on_pos_a_syna_a_syn_wype_nia_jego_wol_zwracam_si_wi_c_najpierw_do_mojego_ojca_w_niebie">
+        Wszystkie zbawcze wydarzenia mają swe źródło w miłości Ojca. To On posłał Syna, a Syn wypełniał Jego wolę.
+        Zwracam się więc najpierw do mojego Ojca w niebie.
+    </string>
+    <string name="modlitwa">Modlitwa</string>
+    <string name="ojcze_najlepszy_pom_mi_zobaczy_twoj_ojcowsk_mi_o_objawion_w_tajemnicy_wcielenia_twego_syna_twoja_troska_o_ka_dego_cz_owieka_tak_e_o_mnie_sk_oni_a_ci_do_dokonania_dzie_a_okupienia_ty_posy_asz_anio_a_do_maryi_by_jej_zwiastowa_dobr_nowin_ku_tobie_wi_c_kieruj_dzi_moje_oczy_moje_serce_i_moj_modlitw_zgodnie_z_zaleceniem_jezusa_wchodz_do_izdebki_zamykam_drzwi_by_rozmawia_z_tob_moim_ojcem">
+        Ojcze najlepszy, pomóż mi zobaczyć Twoją ojcowską miłość, objawioną w tajemnicy Wcielenia Twego Syna. Twoja
+        troska o każdego człowieka, także o mnie, skłoniła Cię do dokonania dzieła okupienia. Ty posyłasz Anioła do
+        Maryi, by Jej zwiastował dobrą nowinę. Ku Tobie więc kieruję dziś moje oczy, moje serce i moją modlitwę. Zgodnie
+        z zaleceniem Jezusa wchodzę do izdebki, zamykam drzwi, by rozmawiać z Tobą, moim Ojcem.
+    </string>
+    <string name="rozwa_anie_s_owa">Rozważanie słowa</string>
+    <string name="z_listu_w_paw_a_aposto_a_do_galat_w_4_6_7_na_dow_d_tego_e_jeste_cie_synami_b_g_wys_a_do_serc_naszych_ducha_syna_swego_kt_ry_wo_a_abba_ojcze_a_zatem_nie_jeste_ju_niewolnikiem_lecz_synem_je_eli_za_synem_to_i_dziedzicem_z_woli_bo_ej">
+        Z listu św. Pawła Apostoła do Galatów (4,6-7): „Na dowód tego, że jesteście synami, Bóg wysłał do serc naszych
+        Ducha Syna swego, który woła: «Abba, Ojcze!» A zatem nie jesteś już niewolnikiem, lecz synem. Jeżeli zaś synem,
+        to i dziedzicem z woli Bożej”.
+    </string>
+    <string name="rozwa_am_tajemnic_zwiastowania_jako_syn_boga_jako_jego_dziecko_jako_kto_kto_ju_otrzyma_udzia_w_yciu_ojca_niebieskiego_odmawiaj_c_dziesi_tek_r_a_ca_wpatruj_si_w_kochaj_ce_oczy_ojca_one_patrz_na_mnie_jestem_tego_wiadom_ta_prawda_mnie_przenika_raduje_i_daje_si_y_do_skupienia_ja_r_wnie_chce_ku_niemu_skierowa_ca_swoj_uwag_dzisiejsz_modlitw_pragn_prze_y_jako_spotkanie_z_moim_ojcem_kt_ry_z_mi_o_ci_ku_mnie_posy_a_anio_a_do_maryi_i_rozpoczyna_realizacj_zapowiedzianego_dzie_a_zbawienia">
+        Rozważam tajemnicę Zwiastowania jako syn Boga, jako Jego dziecko, jako ktoś, kto już otrzymał udział w życiu
+        Ojca niebieskiego. Odmawiając dziesiątek różańca wpatruję się w kochające oczy Ojca. One patrzą na mnie. Jestem
+        tego świadom. Ta prawda mnie przenika, raduje i daje siły do skupienia. Ja również chce ku Niemu skierować całą
+        swoją uwagę. Dzisiejszą modlitwę pragnę przeżyć jako spotkanie z moim Ojcem, który z miłości ku mnie posyła
+        Anioła do Maryi i rozpoczyna realizację zapowiedzianego dzieła zbawienia.
+    </string>
+    <string name="dziesi_tek_r_a_ca">Dziesiątek różańca</string>
+    <string name="w_ka_dym_wezwaniu_modlitwy_ojcze_nasz_pragn_zwraca_si_ca_ym_sercem_ku_ojca">W każdym wezwaniu modlitwy
+        „Ojcze nasz” pragnę zwracać się całym sercem ku Ojca.
+    </string>
+    <string name="w_odmawianiu_kolejnych_zdrowa_maryjo_chc_rozwa_a_cytowane_powy_ej_s_owa_z_listu_do_galat_w_nie_jestem_ju_niewolnikiem_jestem_dzieckiem_mog_m_wi_abba_ojcze_czyni_to_z_maryj">
+        W odmawianiu kolejnych „Zdrowaś Maryjo” chcę rozważać cytowane powyżej słowa z listu do Galatów. Nie jestem już
+        niewolnikiem. Jestem dzieckiem. Mogę mówić: „Abba, Ojcze”. Czynię to z Maryją.
+    </string>
+    <string name="moje_chwa_a_ojcu_b_dzie_szczerym_uwielbieniem_tr_jcy_przenaj_wi_tszej_za_tajemnic_wcielenia_syna_bo_ego">
+        Moje „Chwała Ojcu...” będzie szczerym uwielbieniem Trójcy Przenajświętszej za tajemnicę Wcielenia Syna Bożego.
+    </string>
+    <string name="intencje_modlitwy">Intencje modlitwy</string>
+    <string name="b_d_c_blisko_ojca_do_wiadczaj_c_mocniej_jego_mi_o_ci_mog_z_tym_wi_ksz_wiar_przedstawi_mu_intencje_modlitwy_modl_si_przez_wstawiennictwo_maryi">
+        Będąc blisko Ojca, doświadczając mocniej Jego miłości, mogę z tym większą wiarą przedstawić Mu intencje
+        modlitwy. Modlę się przez wstawiennictwo Maryi.
+    </string>
+    <string name="prosz_najpierw_aby_wszyscy_ochrzczeni_mocniej_uwierzyli_e_ojciec_ich_mi_uje_i_dokonuje_dzie_a_zbawienia_z_mi_o_ci_ku_nim">
+        Proszę najpierw, aby wszyscy ochrzczeni mocniej uwierzyli, że Ojciec ich miłuje i dokonuje dzieła zbawienia z
+        miłości ku nim.
+    </string>
+    <string name="prosz_w_intencjach_kt_re_poleca_ojciec_wi_ty">Proszę w intencjach, które poleca Ojciec Święty.
+    </string>
+    <string name="ko_cz_modlitw_dzi_kczynieniem_za_dar_spotkania_kt_re_jest_zawsze_zaszczytem_i_wyr_nieniem_rozmawia_em_z_bogiem_i_rozwa_a_em_jego_boskie_tajemnice">
+        Kończę modlitwę dziękczynieniem za dar spotkania, które jest zawsze zaszczytem i wyróżnieniem. Rozmawiałem z
+        Bogiem i rozważałem Jego boskie tajemnice.
+    </string>
+    <string name="dzie_2_modlitwa_do_syna1">DZIEŃ 2. Modlitwa do Syna</string>
+    <string name="rozwa_aj_c_tajemnic_zwiastowania_spotykam_nie_tylko_ojca_lecz_tak_e_syna_wchodz_w_misterium_w_kt_rym_dotykam_prawdy_e_ojciec_dokonuje_dzie_a_zbawienia_przez_syna_ojciec_jest_w_synu_a_syn_w_ojcu_z_pokor_prosz_jezusa_aby_moja_miesi_czna_modlitwa_i_rozwa_anie_tajemnicy_zwiastowania_zbli_y_o_mnie_do_niego">
+        Rozważając tajemnicę Zwiastowania, spotykam nie tylko Ojca, lecz także Syna. Wchodzę w misterium, w którym
+        dotykam prawdy, że Ojciec dokonuje dzieła zbawienia przez Syna. Ojciec jest w Synu, a Syn w Ojcu. Z pokorą
+        proszę Jezusa, aby moja miesięczna modlitwa i rozważanie tajemnicy Zwiastowania zbliżyło mnie do Niego.
+    </string>
+    <string name="jezu_synu_boga_ywego_jak_e_wielka_jest_twoja_mi_o_ku_nam_skoro_przyj_e_na_siebie_nasz_ludzk_natur_i_sta_e_si_do_nas_podobnym_we_wszystkim_opr_cz_grzechu_pragn_przez_ca_y_miesi_c_odmawiaj_c_tajemnic_zwiastowania_coraz_lepiej_poznawa_czym_jest_tajemnica_wcielenia_wzbud_we_mnie_pragnienie_poznawania_tej_cudownej_tajemnicy_rozja_nij_m_j_umys_aby_z_pasj_poznawa_to_co_potrafi_nape_nij_mnie_duchem_wi_tym_aby_mnie_ka_dego_dnia_prowadzi">
+        Jezu, Synu Boga żywego, jakże wielka jest Twoja miłość ku nam, skoro przyjąłeś na siebie naszą ludzką naturę i
+        stałeś się do nas podobnym we wszystkim, oprócz grzechu. Pragnę przez cały miesiąc, odmawiając tajemnicę
+        Zwiastowania, coraz lepiej poznawać, czym jest tajemnica Wcielenia. Wzbudź we mnie pragnienie poznawania tej
+        cudownej tajemnicy. Rozjaśnij mój umysł, aby z pasją poznawał to, co potrafię. Napełnij mnie Duchem Świętym, aby
+        mnie każdego dnia prowadził.
+    </string>
+    <string name="z_ewangelii_wed_ug_w_mateusza_11_25_27_wys_awiam_ci_ojcze_panie_nieba_i_ziemi_e_zakry_e_te_rzeczy_przed_m_drymi_i_roztropnymi_a_objawi_e_je_prostaczkom_tak_ojcze_gdy_takie_by_o_twoje_upodobanie_wszystko_przekaza_mi_ojciec_m_j_nikt_te_nie_zna_syna_tylko_ojciec_ani_ojca_nikt_nie_zna_tylko_syn_i_ten_komu_syn_zechce_objawi">
+        Z Ewangelii według św. Mateusza (11,25-27): „Wysławiam Cię, Ojcze, Panie nieba i ziemi, że zakryłeś te rzeczy
+        przed mądrymi i roztropnymi, a objawiłeś je prostaczkom. Tak, Ojcze, gdyż takie było Twoje upodobanie. Wszystko
+        przekazał Mi Ojciec mój. Nikt też nie zna Syna, tylko Ojciec, ani Ojca nikt nie zna, tylko Syn, i ten, komu Syn
+        zechce objawić”.
+    </string>
+    <string name="chc_c_rozwa_a_tajemnic_chrystusa_prawdziwego_boga_i_prawdziwego_cz_owieka_musz_w_prostocie_serca_zwr_ci_si_do_ojca_aby_mi_da_ask_rozumienia_tego_misterium_jest_ono_niezg_bione_ale_r_wnocze_nie_otwarte_przed_ka_dym_kto_chce_przyj_ofiarowany_mu_dar_poznania_odmawiaj_c_w_dzisiejszym_dniu_tajemnic_zwiastowania_naj_wi_tszej_maryi_pannie_chc_prosi_gor_co_jezusa_aby_usn_z_mego_ycia_postaw_kt_ra_sprawia_e_jego_tajemnice_s_przede_mn_zakryte_i_udzieli_mi_daru_prostoty_dzi_ki_kt_rej_mog_kontemplowa_niezwyk_prawd_e_syn_bo_y_sta_si_cz_owiekiem_i_zamieszka_po_r_d_nas">
+        Chcąc rozważać tajemnicę Chrystusa, prawdziwego Boga i prawdziwego Człowieka, muszę w prostocie serca zwrócić
+        się do Ojca, aby mi dał łaskę rozumienia tego misterium. Jest ono niezgłębione, ale równocześnie otwarte przed
+        każdym, kto chce przyjąć ofiarowany mu dar poznania. Odmawiając w dzisiejszym dniu tajemnicę Zwiastowania
+        Najświętszej Maryi Pannie, chcę prosić gorąco Jezusa, aby usnął z mego życia postawę, która sprawia, że Jego
+        tajemnice są przede mną zakryte i udzielił mi daru prostoty, dzięki której mogę kontemplować niezwykłą prawdę,
+        że Syn Boży stał się człowiekiem i zamieszkał pośród nas.
+    </string>
+    <string name="chc_odmawia_modlitw_ojcze_nasz_w_duchu_s_w_jezusa_wys_awiam_ci_ojcze_panie_nieba_i_ziemi">Chcę
+        odmawiać modlitwę „Ojcze nasz” w duchu słów Jezusa: „Wysławiam Cię, Ojcze, Panie nieba i ziemi”
+    </string>
+    <string name="w_odmawianiu_kolejnych_zdrowa_maryjo_chc_rozwa_a_cytowane_powy_ej_s_owa_z_ewangelii_w_mateusza_i_prosi_o_wstawiennictwo_maryj_kt_ra_jest_wzorem_wszystkich_prostaczk_w_ludzi_o_otartym_i_szczerym_sercu">
+        W odmawianiu kolejnych „Zdrowaś Maryjo” chcę rozważać cytowane powyżej słowa z Ewangelii św. Mateusza i prosić o
+        wstawiennictwo Maryję, która jest wzorem wszystkich „prostaczków”, ludzi o otartym i szczerym sercu.
+    </string>
+    <string name="moje_chwa_a_ojcu_b_dzie_szczerym_uwielbieniem_tr_jcy_przenaj_wi_tszej_za_tajemnic_wcielenia_syna_bo_ego1">
+        Moje „Chwała Ojcu...” będzie szczerym uwielbieniem Trójcy Przenajświętszej za tajemnicę Wcielenia Syna Bożego.
+    </string>
+    <string name="syn_bo_y_sta_si_cz_owiekiem_aby_nam_pom_c_uratowa_nas_by_z_nami_w_ka_dej_sytuacji_prze_ywaj_c_g_biej_t_prawd_chc_z_wi_ksz_wiar_i_zaufaniem_poleci_jezusowi_liczne_intencje_kt_re_nosz_w_sercu">
+        Syn Boży stał się Człowiekiem, aby nam pomóc, uratować nas, być z nami w każdej sytuacji. Przeżywając głębiej tę
+        prawdę, chcę z większą wiarą i zaufaniem, polecić Jezusowi liczne intencje, które noszę w sercu.
+    </string>
+    <string name="prosz_najpierw_o_ask_prostego_serca_dla_mnie_i_dla_moich_braci_i_si_str">Proszę najpierw o łaskę
+        prostego serca dla mnie i dla moich braci i sióstr.
+    </string>
+    <string name="jednocz_si_z_jezusem_w_jego_wys_awianiu_ojca_pana_nieba_i_ziemi_e_zakry_swoje_tajemnice_przed_m_drymi_i_roztropnymi_a_objawi_je_prostaczkom_dzi_kuj_mu_za_dar_dzisiejszej_modlitwy">
+        Jednoczę się z Jezusem w Jego wysławianiu Ojca, Pana nieba i ziemi, że zakrył swoje tajemnice przed mądrymi i
+        roztropnymi, a objawił je prostaczkom. Dziękuję Mu za dar dzisiejszej modlitwy.
+    </string>
+    <string name="dzie_3_modlitwa_do_ducha_w">DZIEŃ 3. Modlitwa do Ducha Św.</string>
+    <string name="wszystkie_dzia_ania_boga_tr_jjedynego_w_wiecie_maj_swoje_r_d_o_w_ojcu_wszystkie_si_dokonuj_przez_chrystusa_i_wszystkie_s_zrealizowane_moc_ducha_wi_tego_kontempluj_t_wspania_prawd_wiary_odmawiaj_c_pierwsz_tajemnic_radosn_dzi_prosz_w_spos_b_szczeg_lny_ducha_wi_tego_aby_mnie_prowadzi_i_o_wieca">
+        Wszystkie działania Boga Trójjedynego w świecie mają swoje źródło w Ojcu, wszystkie się dokonują przez Chrystusa
+        i wszystkie są zrealizowane mocą Ducha Świętego. Kontempluję tę wspaniałą prawdę wiary odmawiając pierwszą
+        tajemnicę radosną. Dziś proszę w sposób szczególny Ducha Świętego, aby mnie prowadził i oświecał.
+    </string>
+    <string name="duchu_wi_ty_duchu_mi_o_ci_i_jedno_ci_twoj_moc_maryja_zosta_a_zachowana_od_grzechu_pierworodnego_i_twoj_moc_pocz_a_w_swym_onie_jednorodzonego_syna_bo_ego_ty_wzbudzi_e_we_mnie_pragnienie_poznawania_tego_misterium_i_rozwa_ania_przez_ca_y_miesi_c_wydarze_kt_re_dokona_y_si_w_chwili_zwiastowania_naj_wi_tszej_maryi_pannie_prowad_mnie_w_mojej_modlitwie_aby_coraz_lepiej_poznawa_wielko_tajemnicy_wcielenia_i_zbawcz_moc_w_niej_ukryt">
+        Duchu Święty, Duchu Miłości i Jedności, Twoją mocą Maryja została zachowana od grzechu pierworodnego i Twoją
+        mocą poczęła w swym łonie Jednorodzonego Syna Bożego. Ty wzbudziłeś we mnie pragnienie poznawania tego misterium
+        i rozważania przez cały miesiąc wydarzeń, które dokonały się w chwili Zwiastowania Najświętszej Maryi Pannie.
+        Prowadź mnie w mojej modlitwie, aby coraz lepiej poznawał wielkość tajemnicy Wcielenia i zbawczą moc w niej
+        ukrytą.
+    </string>
+    <string name="z_listu_w_paw_a_aposto_a_do_rzymian_8_26_duch_przychodzi_z_pomoc_naszej_s_abo_ci_gdy_bowiem_nie_umiemy_si_modli_tak_jak_trzeba_sam_duch_przyczynia_si_za_nami_w_b_aganiach_kt_rych_nie_mo_na_wyrazi_s_owami">
+        Z listu św. Pawła Apostoła do Rzymian (8,26): „Duch przychodzi z pomocą naszej słabości. Gdy bowiem nie umiemy
+        się modlić tak, jak trzeba, sam Duch przyczynia się za nami w błaganiach, których nie można wyrazić słowami”.
+    </string>
+    <string name="w_ka_dej_sprawie_potrzebuj_pomocy_ducha_wi_tego_jednak_w_pawe_podkre_la_e_moja_s_abo_objawia_si_najpierw_w_modlitwie_trudno_mi_jest_ca_kowicie_skupi_si_na_niej_nie_mniej_trudno_po_czy_odmawianie_tekst_w_modlitewnych_z_autentyczn_medytacj_nad_bo_ymi_tajemnicami_w_og_le_niemo_liwe_jest_zwr_ci_si_z_g_bok_wiar_do_ojca_i_do_jezusa_bez_pomocy_ducha_wi_tego_prosz_go_wi_c_usilnie_aby_by_ze_mn_w_czasie_odmawiania_dziesi_tka_r_a_ca_i_rozwa_ania_tajemnicy_zwiastowania_naj_wi_tszej_maryi_pannie">
+        W każdej sprawie potrzebuję pomocy Ducha Świętego. Jednak św. Paweł podkreśla, że moja słabość objawia się
+        najpierw w modlitwie. Trudno mi jest całkowicie skupić się na niej. Nie mniej trudno połączyć odmawianie tekstów
+        modlitewnych z autentyczną medytacją nad Bożymi tajemnicami. W ogóle niemożliwe jest zwrócić się z głęboką wiarą
+        do Ojca i do Jezusa bez pomocy Ducha Świętego. Proszę Go więc usilnie, aby był ze mną w czasie odmawiania
+        dziesiątka różańca i rozważania tajemnicy Zwiastowania Najświętszej Maryi Pannie.
+    </string>
+    <string name="otrzyma_em_ducha_dzieci_ctwa_kt_ry_wo_a_we_mnie_abba_ojcze_prowadzony_przez_tego_ducha_modl_si_s_owami_kt_rych_nauczy_mnie_jezus">
+        Otrzymałem Ducha dziecięctwa, który woła we mnie: „Abba, Ojcze”. Prowadzony przez tego Ducha, modlę się słowami,
+        których nauczył mnie Jezus.”
+    </string>
+    <string name="tylko_duch_wi_ty_mo_e_sprawi_e_zwyk_e_odmawianie_kolejnych_zdrowa_maryjo_staje_si_pasjonuj_c_przygod_spotkania_z_maryj_a_przez_ni_z_jezusem_kt_ry_staje_si_cz_owiekiem_poddaj_si_wi_c_prowadzeniu_przez_ducha_wi_tego">
+        Tylko Duch Święty może sprawić, że zwykłe odmawianie kolejnych „Zdrowaś Maryjo” staje się pasjonującą przygodą
+        spotkania z Maryją, a przez Nią z Jezusem, który staje się Człowiekiem. Poddaję się więc prowadzeniu przez Ducha
+        Świętego.
+    </string>
+    <string name="jak_mam_wypowiedzie_te_trzy_naj_wi_tsze_i_najbardziej_umi_owane_imiona_pragn_je_wypowiedzie_w_duchu_prawdziwego_uwielbienia_ojca_jego_jednorodzonego_syna_oraz_ducha_wi_tego">
+        Jak mam wypowiedzieć te trzy najświętsze i najbardziej umiłowane Imiona? Pragnę je wypowiedzieć w duchu
+        prawdziwego uwielbienia Ojca, Jego Jednorodzonego Syna oraz Ducha Świętego.
+    </string>
+    <string name="duch_wi_ty_uczy_nas_ka_dej_modlitwy_wprowadza_nas_w_modlitw_medytacyjn_budzi_w_nas_uwielbienie_a_tak_e_skruch_za_grzechy_on_r_wnie_uzdalnia_nas_do_wypowiedzenia_p_yn_cych_z_serca_pr_b">
+        Duch Święty uczy nas każdej modlitwy. Wprowadza nas w modlitwę medytacyjną, budzi w nas uwielbienie, a także
+        skruchę za grzechy. On również uzdalnia nas do wypowiedzenia płynących z serca próśb.
+    </string>
+    <string name="prosz_najpierw_o_owoce_rozwa_anej_tajemnicy_o_przenikni_cie_mnie_i_innych_ludzi_wiat_em_i_moc_aski_wcielenia_syna_bo_ego_o_g_bsze_prze_ycie_prawdy_e_b_g_a_tak_mnie_mi_uje">
+        Proszę najpierw o owoce rozważanej tajemnicy, o przeniknięcie mnie i innych ludzi światłem i mocą łaski
+        Wcielenia Syna Bożego, o głębsze przeżycie prawdy, że Bóg aż tak mnie miłuje.
+    </string>
+    <string name="otrzyma_em_dar_spotkania_z_bogiem_wyra_am_wi_c_wdzi_czno_za_t_niezwyk_ask_niech_trwa_we_mnie_wiat_o_p_yn_ce_z_tego_spotkania">
+        Otrzymałem dar spotkania z Bogiem. Wyrażam więc wdzięczność za tę niezwykłą łaskę. Niech trwa we mnie światło
+        płynące z tego spotkania.
+    </string>
+    <string name="dzie_4_modlitwa_do_maryi1">DZIEŃ 4. Modlitwa do Maryi</string>
+    <string name="r_aniec_jest_modlitw_kt_r_prze_ywam_z_maryj_pragn_do_wiadcza_jej_obecno_ci_i_jego_prowadzenia_ona_najlepiej_rozeznawa_a_wol_bo_i_najg_biej_kontemplowa_a_tajemnice_zbawienia">
+        Różaniec jest modlitwą, którą przeżywam z Maryją. Pragnę doświadczać Jej obecności i Jego prowadzenia. Ona
+        najlepiej rozeznawała wolę Bożą i najgłębiej kontemplowała tajemnice zbawienia.
+    </string>
+    <string name="dzi_kuj_ci_maryjo_najlepsza_matko_za_wszelkie_dary_jakie_dla_mnie_wypraszasz_u_boga_dzi_kuj_ci_za_przyk_ad_wiary_i_mi_o_ci_jaki_dajesz_ca_ym_swoim_yciem_pragn_ci_na_ladowa_b_d_ze_mn_dzi_gdy_spojrzeniem_wiary_ogarniam_wszystko_co_dokona_o_si_wtedy_gdy_b_g_pos_a_do_ciebie_anio_a_gabriela_b_d_ze_mn_gdy_w_kolejnych_dniach_b_d_bardziej_szczeg_owo_rozwa_a_to_zbawcze_misterium_ucz_mnie_poznawa_wol_ojca_i_wiernie_j_wype_nia">
+        Dziękuję Ci, Maryjo, najlepsza Matko, za wszelkie dary, jakie dla mnie wypraszasz u Boga. Dziękuję Ci za
+        przykład wiary i miłości, jaki dajesz całym swoim życiem. Pragnę Cię naśladować. Bądź ze mną dziś, gdy
+        spojrzeniem wiary ogarniam wszystko, co dokonało się wtedy, gdy Bóg posłał do Ciebie Anioła Gabriela. Bądź ze
+        mną, gdy w kolejnych dniach będę bardziej szczegółowo rozważał to zbawcze misterium. Ucz mnie poznawać wolę Ojca
+        i wiernie ją wypełniać.
+    </string>
+    <string name="z_ksi_gi_rodzaju_3_15_wprowadzam_nieprzyja_mi_dzy_ciebie_a_niewiast_pomi_dzy_potomstwo_twoje_a_potomstwo_jej_ono_zmia_d_y_ci_g_ow_a_ty_zmia_d_ysz_mu_pi_t">
+        Z Księgi Rodzaju (3,15): „Wprowadzam nieprzyjaźń między ciebie a niewiastę, pomiędzy potomstwo twoje a potomstwo
+        jej: ono zmiażdży ci głowę, a ty zmiażdżysz mu piętę”.
+    </string>
+    <string name="ju_na_pocz_tku_ludzkiej_historii_b_g_m_wi_o_niewie_cie_kt_ra_w_aden_spos_b_nie_ulegnie_kusicielowi_ko_ci_widzi_w_niej_maryj_ona_zosta_a_zachowana_od_grzechu_pierworodnego_w_wolno_ci_od_grzechu_trwa_a_przez_ca_e_ycie_otacza_o_j_wiat_o_bo_e_by_a_ca_kowicie_przenikni_ta_ask_w_ni_si_wpatruj_odmawiaj_c_dzi_dziesi_tek_r_a_ca_pragn_jeszcze_wyra_niej_zobaczy_boskie_pi_kno_kt_re_j_przenika_czyst_mi_o_kt_r_kocha_ona_boga_i_ludzi_pe_n_wolno_w_przyj_ciu_woli_bo_ej">
+        Już na początku ludzkiej historii Bóg mówi o niewieście, która w żaden sposób nie ulegnie kusicielowi. Kościół
+        widzi w niej Maryję. Ona została zachowana od grzechu pierworodnego. W wolności od grzechu trwała przez całe
+        życie. Otaczało ją światło Boże. Była całkowicie przeniknięta łaską. W Nią się wpatruję odmawiając dziś
+        dziesiątek różańca. Pragnę jeszcze wyraźniej zobaczyć boskie piękno, które ją przenika, czystą miłość, którą
+        kocha Ona Boga i ludzi, pełną wolność w przyjęciu woli Bożej.
+    </string>
+    <string name="w_starym_testamencie_b_g_wiele_razy_nazywa_si_ojcem_nikt_lepiej_od_maryi_nie_rozumia_g_bi_tej_dzieci_cej_relacji_z_bogiem_w_zjednoczeniu_z_ni_pragn_wo_a_ojcze_nasz">
+        W Starym Testamencie Bóg wiele razy nazywał się Ojcem. Nikt lepiej od Maryi nie rozumiał głębi tej dziecięcej
+        relacji z Bogiem. W zjednoczeniu z Nią pragnę wołać: „Ojcze nasz”.
+    </string>
+    <string name="dzi_w_odmawianiu_kolejnych_zdrowa_maryjo_pragn_skupi_si_przede_wszystkim_na_samej_maryi_na_jej_otwarto_ci_czysto_ci_serca_mi_o_ci">
+        Dziś w odmawianiu kolejnych „Zdrowaś Maryjo” pragnę skupić się przede wszystkim na samej Maryi, na Jej
+        otwartości, czystości serca, miłości.
+    </string>
+    <string name="ta_kt_ra_m_wi_a_wielbi_dusza_moja_pana_pomaga_mi_modli_si_s_owami_chwa_a_ojcu">Ta, która mówiła:
+        „Wielbi dusza moja Pana” pomaga mi modlić się słowami „Chwała Ojcu...”
+    </string>
+    <string name="wiadom_e_maryja_moja_niebieska_matka_nieustannie_wstawia_si_za_mn_i_za_wszystkimi_swoimi_dzie_mi_prosz_boga_z_tym_wi_ksz_wiar_o_potrzebne_aski">
+        Świadom, że Maryja, moja niebieska Matka, nieustannie wstawia się za mną i za wszystkimi swoimi dziećmi, proszę
+        Boga z tym większą wiarą o potrzebne łaski.
+    </string>
+    <string name="prosz_najpierw_o_ask_g_bokiej_dzieci_cej_ufno_ci_do_maryi_dla_mnie_i_dla_innych_ludzi">Proszę najpierw
+        o łaskę głębokiej, dziecięcej ufności do Maryi, dla mnie i dla innych ludzi.
+    </string>
+    <string name="dzi_kuj_maryi_a_wraz_z_ni_bogu_za_dar_spotkania_i_za_wszystkie_otrzymane_aski">Dziękuję Maryi, a wraz
+        z Nią Bogu, za dar spotkania i za wszystkie otrzymane łaski.
+    </string>
+    <string name="dzie_5_anio_pa_ski1">DZIEŃ 5. Anioł Pański</string>
+    <string name="dzi_staram_si_skupi_na_bo_ym_wys_a_cu_najcz_ciej_okre_lany_jest_on_s_owami_anio_pa_ski_jest_to_r_wnie_tytu_modlitwy_kt_r_wiele_os_b_odmawia_trzy_razy_dziennie">
+        Dziś staram się skupić na Bożym wysłańcu. Najczęściej określany jest on słowami „Anioł Pański”. Jest to również
+        tytuł modlitwy, którą wiele osób odmawia trzy razy dziennie.
+    </string>
+    <string name="w_tym_tygodniu_rozpoczynam_spotkanie_z_bogiem_od_poni_szej_modlitwy_jest_ona_zaczerpni_ta_z_mszy_sprawowanej_przy_udzielaniu_sakramentu_bierzmowania_liczba_mnoga_zosta_a_zmieniona_na_pojedyncz_gdy_zazwyczaj_to_r_a_cowe_spotkanie_ma_bardzo_osobisty_charakter">
+        W tym tygodniu, rozpoczynam spotkanie z Bogiem od poniższej modlitwy. Jest ona zaczerpnięta z Mszy sprawowanej
+        przy udzielaniu sakramentu bierzmowania. Liczba mnoga została zmieniona na pojedynczą, gdyż zazwyczaj to
+        różańcowe spotkanie ma bardzo osobisty charakter.
+    </string>
+    <string name="bo_e_m_j_ojcze_niech_pocieszyciel_duch_wi_ty_kt_ry_pochodzi_od_ciebie_o_wieci_m_j_umys_i_doprowadzi_mnie_do_pe_nej_prawdy_zgodnie_z_obietnic_twego_syna">
+        Boże, mój Ojcze, niech Pocieszyciel, Duch Święty, który pochodzi od Ciebie, oświeci mój umysł i doprowadzi mnie
+        do pełnej prawdy, zgodnie z obietnicą Twego Syna.
+    </string>
+    <string name="z_ewangelii_wed_ug_w_ukasza_1_26_27_w_sz_stym_miesi_cu_pos_a_b_g_anio_a_gabriela_do_miasta_w_galilei_zwanego_nazaret_do_dziewicy_po_lubionej_m_owi_imieniem_j_zef_z_rodu_dawida_a_dziewicy_by_o_na_imi_maryja">
+        Z Ewangelii według św. Łukasza (1,26-27): „W szóstym miesiącu posłał Bóg anioła Gabriela do miasta w Galilei,
+        zwanego Nazaret, do Dziewicy poślubionej mężowi, imieniem Józef, z rodu Dawida; a Dziewicy było na imię Maryja”.
+    </string>
+    <string name="s_owo_pos_anie_nale_y_do_najwa_niejszych_s_w_w_pi_mie_wi_tym_o_wielu_pos_a_cach_m_wi_stary_testament_s_w_r_d_nich_anio_owie_prorocy_i_inni_ludzie_pos_anie_archanio_a_gabriela_do_maryi_zwi_zane_jest_z_rozpocz_ciem_nowego_etapu_historii_zbawienia_to_pierwsze_og_oszenie_niezwyk_ej_nowiny_o_wype_nieniu_zapowiedzi_to_czas_realizacji_b_g_staje_si_jednym_z_nas_modl_si_do_anio_a_gabriela_abym_codziennie_na_nowo_m_g_us_ysze_t_radosn_nowin_i_przyj_j_tak_jak_przyj_a_j_maryja">
+        Słowo „posłanie” należy do najważniejszych słów w Piśmie Świętym. O wielu „posłańcach” mówi Stary Testament. Są
+        wśród nich aniołowie, prorocy i inni ludzie. Posłanie archanioła Gabriela do Maryi związane jest z rozpoczęciem
+        nowego etapu historii zbawienia. To pierwsze ogłoszenie niezwykłej nowiny o wypełnieniu zapowiedzi. To czas
+        realizacji: Bóg staje się jednym z nas. Modlę się do Anioła Gabriela, abym codziennie na nowo mógł usłyszeć tę
+        radosną nowinę i przyjąć ją tak, jak przyjęła ją Maryja.
+    </string>
+    <string name="zwracaj_c_si_do_ojca_kt_ry_przez_anio_a_og_asza_radosn_nowin_ws_uchuj_c_si_z_maryj_w_jej_niezwyk_tre_chc_uwielbia_boga_w_tr_jcy_wi_tej_jedynego_i_coraz_wyra_niej_dostrzega_jego_obecno_po_r_d_nas">
+        Zwracając się do Ojca, który przez anioła ogłasza radosną nowinę, wsłuchując się z Maryją w jej niezwykłą treść,
+        chcę uwielbiać Boga w Trójcy Świętej Jedynego i coraz wyraźniej dostrzegać Jego obecność pośród nas.
+    </string>
+    <string name="bo_e_pom_mi_ka_dego_dnia_ws_uchiwa_si_w_g_os_pos_a_c_w_kt_rzy_od_ciebie_przychodz_aby_mi_zwiastowa_radosn_nowin_e_tw_j_syn_jezus_chrystus_jest_po_r_d_nas_obecny_w_ka_dej_chwili_mojego_ycia">
+        Boże, pomóż mi każdego dnia wsłuchiwać się w głos posłańców, którzy od Ciebie przychodzą, aby mi zwiastować
+        radosną nowinę, że Twój Syn, Jezus Chrystus, jest pośród nas obecny w każdej chwili mojego życia.
+    </string>
+    <string name="dzie_6_pe_na_aski1">DZIEŃ 6. Pełna łaski</string>
+    <string name="ka_de_s_owo_wypowiedziane_przez_bo_ego_pos_a_ca_godne_jest_uwa_nego_wys_uchania_i_rozwa_enia_dzi_zatrzymuj_si_przy_nazwaniu_maryi_pe_n_aski">
+        Każde słowo, wypowiedziane przez Bożego posłańca, godne jest uważnego wysłuchania i rozważenia. Dziś zatrzymuję
+        się przy nazwaniu Maryi „pełną łaski”.
+    </string>
+    <string name="bo_e_m_j_ojcze_niech_pocieszyciel_duch_wi_ty_kt_ry_pochodzi_od_ciebie_o_wieci_m_j_umys_i_doprowadzi_mnie_do_pe_nej_prawdy_zgodnie_z_obietnic_twego_syna1">
+        Boże, mój Ojcze, niech Pocieszyciel, Duch Święty, który pochodzi od Ciebie, oświeci mój umysł i doprowadzi mnie
+        do pełnej prawdy, zgodnie z obietnicą Twego Syna.
+    </string>
+    <string name="z_ewangelii_wed_ug_w_ukasza_1_28_anio_wszed_do_niej_i_rzek_b_d_pozdrowiona_pe_na_aski_pan_z_tob_b_ogos_awiona_jeste_mi_dzy_niewiastami">
+        Z Ewangelii według św. Łukasza (1,28): „Anioł wszedł do Niej i rzekł: Bądź pozdrowiona, pełna łaski, Pan z Tobą,
+        błogosławiona jesteś między niewiastami”.
+    </string>
+    <string name="znaczenie_s_w_pe_na_aski_omawia_szeroko_w_jan_pawe_ii_w_encyklice_redemptoris_mater_oto_kilka_fragment_w_papieskiej_refleksji_zwiastun_m_wi_do_maryi_aski_pe_na_m_wi_za_tak_jakby_to_by_o_jej_w_a_ciwe_imi_nie_nazywa_swej_rozm_wczyni_imieniem_w_asnym_miriam_maryja_ale_w_a_nie_tym_nowym_imieniem_aski_pe_na_co_znaczy_to_imi_dlaczego_anio_tak_nazywa_dziewic_z_nazaretu">
+        Znaczenie słów: „Pełna łaski” omawia szeroko św. Jan Paweł II w encyklice „Redemptoris Mater”. Oto kilka
+        fragmentów papieskiej refleksji: „Zwiastun mówi do Maryi: «łaski pełna» – mówi zaś tak, jakby to było Jej
+        właściwe imię. Nie nazywa swej rozmówczyni imieniem własnym «Miriam (= Maryja)», ale właśnie tym nowym imieniem:
+        «łaski pełna». Co znaczy to imię? Dlaczego anioł tak nazywa Dziewicę z Nazaretu?
+    </string>
+    <string name="w_j_zyku_biblii_aska_oznacza_szczeg_lny_dar_kt_ry_wed_ug_nowego_testamentu_ma_swe_r_d_o_w_trynitarnym_yciu_boga_samego_boga_kt_ry_jest_mi_o_ci_por_1_j_4_8_owocem_tej_mi_o_ci_jest_wybranie_to_o_kt_rym_m_wi_list_do_efezjan_wybranie_to_jest_zatem_ze_strony_boga_odwieczn_wol_zbawienia_cz_owieka_przez_uczestnictwo_w_bo_ym_yciu_por_2_p_1_4_w_chrystusie_jest_zbawieniem_poprzez_uczestnictwo_w_yciu_nadprzyrodzonym_kiedy_czytamy_e_zwiastun_m_wi_do_maryi_aski_pe_na_kontekst_ewangeliczny_w_kt_rym_zbiegaj_si_dawne_objawienia_i_obietnice_pozwala_nam_zrozumie_e_chodzi_tutaj_o_szczeg_lne_b_ogos_awie_stwo_po_r_d_wszelkich_b_ogos_awie_stw_duchowych_w_chrystusie_maryja_zajmuje_pierwsze_miejsce_w_r_d_pokornych_i_ubogich_pana_kt_rzy_z_ufno_ci_oczekuj_od_niego_zbawienia_i_dost_puj_go_rm_8">
+        <![CDATA[W języku Biblii «łaska» oznacza szczególny dar, który według Nowego Testamentu ma swe źródło w trynitarnym życiu Boga samego – Boga, który jest miłością (por. 1 J 4, 8). Owocem tej miłości jest wybranie – to, o którym mówi List do Efezjan. Wybranie to jest zatem ze strony Boga odwieczną wolą zbawienia człowieka przez uczestnictwo w Bożym życiu (por. 2 P 1, 4) w Chrystusie: jest zbawieniem poprzez uczestnictwo w życiu nadprzyrodzonym [...]. Kiedy czytamy, że zwiastun mówi do Maryi «łaski pełna», kontekst ewangeliczny, w którym zbiegają się dawne objawienia i obietnice, pozwala nam zrozumieć, że chodzi tutaj o szczególne błogosławieństwo pośród wszelkich «błogosławieństw duchowych w Chrystusie» [...]. Maryja «zajmuje pierwsze miejsce wśród pokornych i ubogich Pana, którzy z ufnością oczekują od Niego zbawienia i dostępują go»” (RM 8).]]></string>
+    <string name="wraz_z_maryj_pe_n_aski_zwracam_si_do_ojca_i_rozwa_am_jego_odwieczny_plan_zbawienia_zrealizowany_w_chrystusie_wielbi_boga_w_tr_jcy_wi_tej_jedynego">
+        Wraz z Maryją, pełną łaski, zwracam się do Ojca i rozważam Jego odwieczny plan zbawienia, zrealizowany w
+        Chrystusie. Wielbię Boga w Trójcy Świętej Jedynego.
+    </string>
+    <string name="mi_osierny_bo_e_pom_mi_za_przyk_adem_maryi_w_pe_ni_otworzy_si_na_twoje_niezwyk_e_dary_abym_na_moj_miar_do_wiadcza_r_wnie_pe_ni_twojego_obdarowania">
+        Miłosierny Boże, pomóż mi, za przykładem Maryi, w pełni otworzyć się na Twoje niezwykłe dary, abym na moją miarę
+        doświadczał również pełni Twojego obdarowania.
+    </string>
+    <string name="dzie_7_pan_z_tob1">DZIEŃ 7. Pan z Tobą</string>
+    <string name="anio_m_wi_do_maryi_pan_z_tob_pe_nia_aski_kt_r_cieszy_a_si_maryja_oznacza_a_szczeg_ln_obecno_boga_w_jej_yciu">
+        Anioł mówi do Maryi: „Pan z Tobą”. Pełnia łaski, którą cieszyła się Maryja, oznaczała szczególną obecność Boga w
+        Jej życiu.”.
+    </string>
+    <string name="w_starym_testamencie_b_g_wielokrotnie_zwraca_si_do_swoich_wybranych_s_owami_ja_jestem_z_tob_prorok_jeremiasz_us_ysza_zapewnienie_1_8_18_19_nie_l_kaj_si_ich_bo_jestem_z_tob_by_ci_chroni_wyrocznia_pana_oto_ja_czyni_ci_dzisiaj_twierdz_warown_kolumn_elazn_i_murem_spi_owym_przeciw_ca_ej_ziemi_przeciw_kr_lom_judzkim_i_ich_przyw_dcom_ich_kap_anom_i_ludowi_tej_ziemi_b_d_walczy_przeciw_tobie_ale_nie_zdo_aj_ci_zwyci_y_gdy_ja_jestem_z_tob_wyrocznia_pana_by_ci_ochrania_podobne_zapewnienie_s_yszeli_inni_prorocy">
+        W Starym Testamencie Bóg wielokrotnie zwracał się do swoich wybranych słowami: „Ja jestem z Tobą”. Prorok
+        Jeremiasz usłyszał zapewnienie (1,8.18-19): „Nie lękaj się ich, bo jestem z tobą, by cię chronić - wyrocznia
+        Pana. Oto Ja czynię cię dzisiaj twierdzą warowną, kolumną żelazną i murem spiżowym przeciw całej ziemi, przeciw
+        królom judzkim i ich przywódcom, ich kapłanom i ludowi tej ziemi. Będą walczyć przeciw tobie, ale nie zdołają
+        cię zwyciężyć, gdyż Ja jestem z tobą - wyrocznia Pana - by cię ochraniać”. Podobne zapewnienie słyszeli inni
+        prorocy.
+    </string>
+    <string name="b_g_kt_ry_powo_uje_i_powierza_cz_owiekowi_okre_lone_zadania_ofiarowuje_mu_r_wnie_dar_swojej_szczeg_lnej_obecno_ci_i_opieki_r_wnie_maryja_w_chwili_zwiastowania_s_yszy_zapewnienie_e_b_g_jest_z_ni_uczestnicy_eucharystii_s_ysz_a_cztery_razy_s_owa_kt_re_wypowiada_kap_an_pan_z_wami_rozwa_aj_c_tajemnic_r_a_ca_chc_z_maryj_jeszcze_g_biej_do_wiadczy_obecno_ci_pana">
+        Bóg, który powołuje i powierza człowiekowi określone zadania, ofiarowuje mu również dar swojej szczególnej
+        obecności i opieki. Również Maryja w chwili zwiastowania słyszy zapewnienie, że Bóg jest z Nią. Uczestnicy
+        Eucharystii słyszą aż cztery razy słowa, które wypowiada kapłan: „Pan z wami”. Rozważając tajemnicę różańca chcę
+        z Maryją jeszcze głębiej doświadczyć obecności Pana.
+    </string>
+    <string name="wiadomo_obecno_ci_boga_jest_szczeg_lnie_intensywna_w_czasie_modlitwy_wtedy_rozmawiam_z_bogiem_stoj_lub_kl_cz_przed_nim_wpatruj_si_oczyma_wiary_w_niego_ta_prawda_przenika_jeszcze_bardziej_moj_dzisiejsz_modlitw">
+        Świadomość obecności Boga jest szczególnie intensywna w czasie modlitwy. Wtedy rozmawiam z Bogiem, stoję lub
+        klęczę przed Nim. Wpatruję się oczyma wiary w Niego. Ta prawda przenika jeszcze bardziej moją dzisiejszą
+        modlitwę.
+    </string>
+    <string name="nie_pozw_l_panie_abym_kiedykolwiek_zapomnia_o_twojej_obecno_ci_przy_mnie_wierz_e_jeste_ze_mn_w_ka_dej_chwili_prosz_ci_o_ten_dar_tak_e_dla_wszystkich_moich_braci_i_si_str">
+        Nie pozwól, Panie, abym kiedykolwiek zapomniał o Twojej obecności przy mnie. Wierzę, że jesteś ze mną w każdej
+        chwili. Proszę Cię o ten dar także dla wszystkich moich braci i sióstr.
+    </string>
+    <string name="dzie_8_nie_b_j_si_maryjo1">DZIEŃ 8. Nie bój się Maryjo</string>
+    <string name="cho_maryja_by_a_pe_na_aski_i_do_wiadcza_a_szczeg_lnej_obecno_ci_pana_w_swoim_yciu_to_jednak_w_chwili_zwiastowania_s_yszy_s_owa_nie_b_j_si_widocznie_l_k_wkrada_si_do_jej_serca">
+        Choć Maryja była pełna łaski i doświadczała szczególnej obecności Pana w swoim życiu, to jednak w chwili
+        Zwiastowania słyszy słowa: „Nie bój się”. Widocznie lęk wkradał się do Jej serca.
+    </string>
+    <string name="z_ewangelii_wed_ug_w_ukasza_1_29_30_maryja_zmiesza_a_si_na_te_s_owa_i_rozwa_a_a_co_mia_oby_znaczy_to_pozdrowienie_lecz_anio_rzek_do_niej_nie_b_j_si_maryjo_znalaz_a_bowiem_ask_u_boga">
+        Z Ewangelii według św. Łukasza (1,29-30): „Maryja zmieszała się na te słowa i rozważała, co miałoby znaczyć to
+        pozdrowienie. Lecz anioł rzekł do Niej: «Nie bój się, Maryjo, znalazłaś bowiem łaskę u Boga”.
+    </string>
+    <string name="gdy_cz_owiek_jest_zaskoczony_czym_nowym_i_wielkim_zazwyczaj_prze_ywa_chwile_zmieszania_i_niepewno_ci_maryja_jest_niew_tpliwie_zdumiona_widokiem_anio_a_i_us_yszanymi_s_owami_ewangelista_m_wi_e_by_a_zmieszana_w_innych_t_umaczeniach_czytamy_e_by_a_zatrwo_ona_potrzebne_wi_c_by_o_wyja_nienie_potrzebne_by_y_r_wnie_s_owa_nie_b_j_si">
+        Gdy człowiek jest zaskoczony czymś nowym i wielkim, zazwyczaj przeżywa chwile zmieszania i niepewności. Maryja
+        jest niewątpliwie zdumiona widokiem Anioła i usłyszanymi słowami. Ewangelista mówi, że była „zmieszana”. W
+        innych tłumaczeniach czytamy, że była „zatrwożona”. Potrzebne więc było wyjaśnienie. Potrzebne były również
+        słowa: „Nie bój się”.
+    </string>
+    <string name="stajemy_tu_wobec_tajemnicy_powo_ania_jest_ono_czym_wielkim_gdy_pochodzi_od_samego_boga_i_jest_zaproszeniem_do_udzia_u_w_realizacji_jego_zbawczego_planu_wobec_ludzi_ka_dy_powo_any_do_wiadcza_w_swoim_yciu_w_tpliwo_ci_i_niepokoj_w_zagro_e_i_l_k_w_chrystus_wielokrotnie_m_wi_do_aposto_w_nie_l_kajcie_si_s_owa_te_powtarza_od_pocz_tku_swego_pontyfikatu_w_jan_pawe_ii">
+        Stajemy tu wobec tajemnicy powołania. Jest ono czymś wielkim, gdyż pochodzi od samego Boga i jest zaproszeniem
+        do udziału w realizacji Jego zbawczego planu wobec ludzi. Każdy powołany doświadcza w swoim życiu wątpliwości i
+        niepokojów, zagrożeń i lęków. Chrystus wielokrotnie mówił do Apostołów: „Nie lękajcie się”. Słowa te powtarzał
+        od początku swego pontyfikatu św. Jan Paweł II.
+    </string>
+    <string name="wszyscy_kt_rzy_g_boko_prze_ywaj_modlitw_m_wi_e_do_wiadczaj_r_wnie_uspokojenia_bo_y_pok_j_pokonuje_l_k_i_pomna_a_zaufanie_do_boga_kt_ry_daj_c_powo_anie_daje_te_si_y_do_jego_wype_nienia_w_ten_wiat_pokoju_pragn_g_biej_wej_w_dzisiejszej_modlitwie_r_a_cowej">
+        Wszyscy, którzy głęboko przeżywają modlitwę, mówią, że doświadczają również uspokojenia. Boży pokój pokonuje lęk
+        i pomnaża zaufanie do Boga, który dając powołanie, daje też siły do jego wypełnienia. W ten świat pokoju pragnę
+        głębiej wejść w dzisiejszej modlitwie różańcowej.
+    </string>
+    <string name="pom_mi_panie_pokonywa_wszelkie_l_ki_mojego_ycia_bro_mnie_przez_nerwowo_ci_brakiem_zaufania_do_ciebie_zapomnieniem_o_twojej_obecno_ci_pom_mnie_i_wszystkim_ludziom_us_ysze_twoje_s_owa_nie_l_kajcie_si">
+        Pomóż mi, Panie, pokonywać wszelkie lęki mojego życia. Broń mnie przez nerwowością, brakiem zaufania do Ciebie,
+        zapomnieniem o Twojej obecności. Pomóż mnie i wszystkim ludziom usłyszeć Twoje słowa: „Nie lękajcie się”.
+    </string>
+    <string name="dzie_9_poczniesz_i_porodzisz_syna1">DZIEŃ 9. Poczniesz i porodzisz Syna</string>
+    <string name="po_raz_kolejny_wracam_do_nazareta_skiego_domu_gdzie_maryja_rozmawia_z_anio_em_nie_jestem_tylko_biernym_obserwatorem_s_owa_anio_a_dotycz_nie_tylko_maryi_lecz_s_przes_aniem_dla_wszystkich_ludzi_postawa_maryi_jest_przyk_adem_dla_powo_anych">
+        Po raz kolejny wracam do nazaretańskiego domu, gdzie Maryja rozmawia z Aniołem. Nie jestem tylko biernym
+        obserwatorem. Słowa Anioła dotyczą nie tylko Maryi, lecz są przesłaniem dla wszystkich ludzi. Postawa Maryi jest
+        przykładem dla powołanych.
+    </string>
+    <string name="z_ewangelii_wed_ug_w_ukasza_1_31_33_anio_rzek_do_maryi_oto_poczniesz_i_porodzisz_syna_kt_remu_nadasz_imi_jezus_b_dzie_on_wielki_i_b_dzie_nazwany_synem_najwy_szego_a_pan_b_g_da_mu_tron_jego_praojca_dawida_b_dzie_panowa_nad_domem_jakuba_na_wieki_a_jego_panowaniu_nie_b_dzie_ko_ca">
+        Z Ewangelii według św. Łukasza (1,31-33): „Anioł rzekł do Maryi: Oto poczniesz i porodzisz Syna, któremu nadasz
+        imię Jezus. Będzie On wielki i będzie nazwany Synem Najwyższego, a Pan Bóg da Mu tron Jego praojca, Dawida.
+        Będzie panował nad domem Jakuba na wieki, a Jego panowaniu nie będzie końca”.
+    </string>
+    <string name="powo_anie_maryi_dotyczy_jezusa_kt_ry_jest_synem_najwy_szego_ma_zosta_jego_matk_jako_matka_b_dzie_przez_ca_e_ycie_odkrywa_kim_jest_jej_syn_s_owa_kt_re_s_yszy_od_anio_a_b_d_nabiera_coraz_g_bszego_znaczenia_w_miar_up_ywu_lat_i_wype_niania_przez_jezusa_jego_misji_nadane_mu_zostanie_imi_b_dzie_nazywa_boga_ojcem_objawi_swoj_wielko_obejmie_panowanie_nad_domem_jakuba">
+        Powołanie Maryi dotyczy Jezusa, który jest Synem Najwyższego. Ma zostać Jego Matką. Jako Matka będzie przez całe
+        życie odkrywać, kim jest Jej Syn. Słowa, które słyszy od Anioła, będą nabierać coraz głębszego znaczenia w miarę
+        upływu lat i wypełniania przez Jezusa Jego misji. Nadane Mu zostanie imię, będzie nazywał Boga Ojcem, objawi
+        swoją wielkość, obejmie panowanie nad domem Jakuba.
+    </string>
+    <string name="maryja_ma_przyj_syna_najwy_szego_w_swoje_zwyczajne_ziemskie_ycie_i_odda_si_ca_kowicie_jemu_w_powo_aniu_maryi_odnajdujemy_pierwowz_r_wszystkich_powo_a_w_ka_dym_z_nich_chodzi_najpierw_o_to_aby_przyj_syna_bo_ego_w_swoje_ycie_i_jemu_si_ca_kowicie_odda_r_ne_s_zewn_trzne_kszta_ty_powo_ania_r_norodne_s_charyzmaty_i_pos_ugi_kt_re_b_g_nam_powierza_ale_to_co_najwa_niejsze_jest_wsp_lne_jeste_my_powo_ani_do_przyj_cia_boga_w_swoje_ycie_i_zjednoczenia_z_nim_wi_zami_najg_bszej_mi_o_ci">
+        Maryja ma przyjąć Syna Najwyższego w swoje zwyczajne ziemskie życie i oddać się całkowicie Jemu. W powołaniu
+        Maryi odnajdujemy pierwowzór wszystkich powołań. W każdym z nich chodzi najpierw o to, aby przyjąć Syna Bożego w
+        swoje życie i Jemu się całkowicie oddać. Różne są zewnętrzne kształty powołania, różnorodne są charyzmaty i
+        posługi, które Bóg nam powierza, ale to, co najważniejsze, jest wspólne. Jesteśmy powołani do przyjęcia Boga w
+        swoje życie i zjednoczenia z Nim więzami najgłębszej miłości.
+    </string>
+    <string name="codzienne_odmawianie_dziesi_tka_r_a_ca_ma_w_sobie_co_z_maryjnego_w_drowania_dzie_po_dniu_z_jezusem_wi_kszo_tych_dni_nie_wyr_nia_si_niczym_szczeg_lnym_ich_wielko_ci_pi_knem_i_nadzwyczajno_ci_jest_obecno_pana_chc_t_prawd_coraz_g_biej_prze_ywa">
+        Codzienne odmawianie dziesiątka różańca ma w sobie coś z maryjnego wędrowania dzień po dniu z Jezusem. Większość
+        tych dni nie wyróżnia się niczym szczególnym. Ich wielkością, pięknem i nadzwyczajnością jest obecność Pana.
+        Chcę tę prawdę coraz głębiej przeżywać.
+    </string>
+    <string name="duchu_wi_ty_kt_ry_zachowa_e_maryj_od_grzechu_pierworodnego_i_uzdolni_e_j_do_wype_nienia_zada_matki_syna_bo_ego_udziel_i_mnie_swojej_aski_aby_wiernie_wype_ni_w_asne_powo_anie_prosz_o_ten_dar_tak_e_dla_moich_braci_i_si_str">
+        Duchu Święty, który zachowałeś Maryję od grzechu pierworodnego i uzdolniłeś Ją do wypełnienia zadań Matki Syna
+        Bożego, udziel i mnie swojej łaski, aby wiernie wypełnił własne powołanie. Proszę o ten dar także dla moich
+        braci i sióstr.
+    </string>
+    <string name="dzie_10_duch_zst_pi_na_ciebie1">DZIEŃ 10. Duch zstąpi na Ciebie</string>
+    <string name="tak_e_dzi_chc_by_z_maryj_w_jej_prze_yciu_tajemnicy_zwiastowania_ws_uchuj_si_w_jej_s_owa_i_w_odpowied_jakiej_udziela_jej_anio_gabriel">
+        Także dziś chcę być z Maryją w Jej przeżyciu tajemnicy Zwiastowania. Wsłuchuję się w Jej słowa i w odpowiedź,
+        jakiej udziela Jej Anioł Gabriel.
+    </string>
+    <string name="z_ewangelii_wed_ug_w_ukasza_1_34_37_na_to_maryja_rzek_a_do_anio_a_jak_e_si_to_stanie_skoro_nie_znam_m_a_anio_jej_odpowiedzia_duch_wi_ty_zst_pi_na_ciebie_i_moc_najwy_szego_os_oni_ci_dlatego_te_wi_te_kt_re_si_narodzi_b_dzie_nazwane_synem_bo_ym_a_oto_r_wnie_krewna_twoja_el_bieta_pocz_a_w_swej_staro_ci_syna_i_jest_ju_w_sz_stym_miesi_cu_ta_kt_ra_uchodzi_za_niep_odn_dla_boga_bowiem_nie_ma_nic_niemo_liwego">
+        Z Ewangelii według św. Łukasza (1,34-37): „Na to Maryja rzekła do anioła: «Jakże się to stanie, skoro nie znam
+        męża?» Anioł Jej odpowiedział: «Duch Święty zstąpi na Ciebie i moc Najwyższego osłoni Cię. Dlatego też Święte,
+        które się narodzi, będzie nazwane Synem Bożym. A oto również krewna Twoja, Elżbieta, poczęła w swej starości
+        syna i jest już w szóstym miesiącu ta, która uchodzi za niepłodną. Dla Boga bowiem nie ma nic niemożliwego»”.
+    </string>
+    <string name="pytanie_maryi_jest_bardzo_wa_ne_ona_nie_m_wi_to_niemo_liwe_chce_tylko_wiedzie_jak_ma_si_spe_ni_zapowied_e_pocznie_i_porodzi_syna_odpowied_jest_wa_na_dla_niej_samej_i_dla_wszystkich_powo_anych_przez_boga_bo_e_plany_realizuj_si_moc_ducha_wi_tego_to_on_wkracza_w_ycie_ludzi_i_dokonuje_dzie_kt_re_przekraczaj_mo_liwo_ci_ludzkiej_natury_adne_z_powo_a_nie_jest_mo_liwe_do_zrealizowania_tylko_ludzkimi_si_ami_jest_w_nich_bowiem_obecne_co_co_si_ga_poza_ziemi_pochodzi_z_nieba_i_do_nieba_prowadzi_umocnieni_duchem_wi_tym_chrze_cijanie_podejmuj_dzie_a_kt_re_ich_przerastaj_najwa_niejsze_z_nich_to_d_enie_do_wi_to_ci_do_pe_nego_zjednoczenia_z_bogiem_do_pokonania_grzechu_w_swoim_yciu_w_maryi_to_dzie_o_dokona_o_si_w_spos_b_doskona_y_my_za_do_tej_doskona_o_ci_d_ymy">
+        Pytanie Maryi jest bardzo ważne. Ona nie mówi: „To niemożliwe”. Chce tylko wiedzieć, jak ma się spełnić
+        zapowiedź, że pocznie i porodzi Syna. Odpowiedź jest ważna dla Niej samej i dla wszystkich powołanych przez
+        Boga. Boże plany realizują się mocą Ducha Świętego. To On wkracza w życie ludzi i dokonuje dzieł, które
+        przekraczają możliwości ludzkiej natury. Żadne z powołań nie jest możliwe do zrealizowania tylko ludzkimi
+        siłami. Jest w nich bowiem obecne coś, co sięga poza ziemię. Pochodzi z nieba i do nieba prowadzi. Umocnieni
+        Duchem Świętym chrześcijanie podejmują dzieła, które ich przerastają. Najważniejsze z nich to dążenie do
+        świętości, do pełnego zjednoczenia z Bogiem, do pokonania grzechu w swoim życiu. W Maryi to dzieło dokonało się
+        w sposób doskonały. My zaś do tej doskonałości dążymy.
+    </string>
+    <string name="kiedy_rozpoczynam_modlitw_tak_e_t_r_a_cow_s_ysz_s_owa_duch_wi_ty_zst_pi_na_ciebie_tylko_w_ten_spos_b_mog_autentycznie_rozmawia_z_ojcem_i_zjednoczy_si_z_jezusem_dzi_kuj_duchowi_wi_temu_i_staram_si_podda_ca_kowicie_jego_prowadzeniu">
+        Kiedy rozpoczynam modlitwę, także tę różańcową, słyszę słowa: „Duch Święty zstąpi na Ciebie”. Tylko w ten sposób
+        mogę autentycznie rozmawiać z Ojcem i zjednoczyć się z Jezusem. Dziękuję Duchowi Świętemu i staram się poddać
+        całkowicie Jego prowadzeniu.
+    </string>
 </resources>

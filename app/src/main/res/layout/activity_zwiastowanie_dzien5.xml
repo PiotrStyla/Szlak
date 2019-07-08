@@ -7,7 +7,7 @@
         android:layout_height="match_parent"
         tools:context=".Wprowadzenie" android:id="@+id/linearLayout">
 <TextView
-android:text="DZIEŃ 5. Anioł Pański"
+android:text="@string/dzie_5_anio_pa_ski1"
 android:layout_width="wrap_content"
 android:layout_height="wrap_content"
 android:id="@+id/textView93"
@@ -36,7 +36,7 @@ android:paddingBottom="5sp">
               android:layout_height="wrap_content"
               android:orientation="vertical">
     <TextView
-            android:text="Dziś staram się skupić na Bożym wysłańcu. Najczęściej określany jest on słowami „Anioł Pański”. Jest to również tytuł modlitwy, którą wiele osób odmawia trzy razy dziennie."
+            android:text="@string/dzi_staram_si_skupi_na_bo_ym_wys_a_cu_najcz_ciej_okre_lany_jest_on_s_owami_anio_pa_ski_jest_to_r_wnie_tytu_modlitwy_kt_r_wiele_os_b_odmawia_trzy_razy_dziennie"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/textView94"
@@ -44,7 +44,7 @@ android:paddingBottom="5sp">
             android:textSize="16sp"
             android:lineSpacingExtra="3sp" android:textAlignment="textStart"/>
     <TextView
-            android:text="Modlitwa"
+            android:text="@string/modlitwa"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/textView95"
@@ -54,15 +54,15 @@ android:paddingBottom="5sp">
             android:layout_marginTop="5sp"
             android:layout_marginBottom="5sp" android:textStyle="bold"/>
     <TextView
-            android:text="W tym tygodniu, rozpoczynam spotkanie z Bogiem od poniższej modlitwy. Jest ona zaczerpnięta z Mszy sprawowanej przy udzielaniu sakramentu bierzmowania. Liczba mnoga została zmieniona na pojedynczą, gdyż zazwyczaj to różańcowe spotkanie ma bardzo osobisty charakter."
+            android:text="@string/w_tym_tygodniu_rozpoczynam_spotkanie_z_bogiem_od_poni_szej_modlitwy_jest_ona_zaczerpni_ta_z_mszy_sprawowanej_przy_udzielaniu_sakramentu_bierzmowania_liczba_mnoga_zosta_a_zmieniona_na_pojedyncz_gdy_zazwyczaj_to_r_a_cowe_spotkanie_ma_bardzo_osobisty_charakter"
             android:id="@+id/textView96"
             style="@style/paragraf_Text"/>
     <TextView
-            android:text="Boże, mój Ojcze, niech Pocieszyciel, Duch Święty, który pochodzi od Ciebie, oświeci mój umysł i doprowadzi mnie do pełnej prawdy, zgodnie z obietnicą Twego Syna. "
+            android:text="@string/bo_e_m_j_ojcze_niech_pocieszyciel_duch_wi_ty_kt_ry_pochodzi_od_ciebie_o_wieci_m_j_umys_i_doprowadzi_mnie_do_pe_nej_prawdy_zgodnie_z_obietnic_twego_syna"
             android:id="@+id/textView97"
             style="@style/paragraf_Text"/>
     <TextView
-            android:text="Rozważanie słowa"
+            android:text="@string/rozwa_anie_s_owa"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/textView98"
@@ -73,15 +73,15 @@ android:paddingBottom="5sp">
             android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
     <TextView
-            android:text="Z Ewangelii według św. Łukasza (1,26-27): „W szóstym miesiącu posłał Bóg anioła Gabriela do miasta w Galilei, zwanego Nazaret, do Dziewicy poślubionej mężowi, imieniem Józef, z rodu Dawida; a Dziewicy było na imię Maryja”."
+            android:text="@string/z_ewangelii_wed_ug_w_ukasza_1_26_27_w_sz_stym_miesi_cu_pos_a_b_g_anio_a_gabriela_do_miasta_w_galilei_zwanego_nazaret_do_dziewicy_po_lubionej_m_owi_imieniem_j_zef_z_rodu_dawida_a_dziewicy_by_o_na_imi_maryja"
             style="@style/paragraf_Text_optimum"
             android:id="@+id/textView99"/>
     <TextView
-            android:text="Słowo „posłanie” należy do najważniejszych słów w Piśmie Świętym. O wielu „posłańcach” mówi Stary Testament. Są wśród nich aniołowie, prorocy i inni ludzie. Posłanie archanioła Gabriela do Maryi związane jest z rozpoczęciem nowego etapu historii zbawienia. To pierwsze ogłoszenie niezwykłej nowiny o wypełnieniu zapowiedzi. To czas realizacji: Bóg staje się jednym z nas. Modlę się do Anioła Gabriela, abym codziennie na nowo mógł usłyszeć tę radosną nowinę i przyjąć ją tak, jak przyjęła ją Maryja."
+            android:text="@string/s_owo_pos_anie_nale_y_do_najwa_niejszych_s_w_w_pi_mie_wi_tym_o_wielu_pos_a_cach_m_wi_stary_testament_s_w_r_d_nich_anio_owie_prorocy_i_inni_ludzie_pos_anie_archanio_a_gabriela_do_maryi_zwi_zane_jest_z_rozpocz_ciem_nowego_etapu_historii_zbawienia_to_pierwsze_og_oszenie_niezwyk_ej_nowiny_o_wype_nieniu_zapowiedzi_to_czas_realizacji_b_g_staje_si_jednym_z_nas_modl_si_do_anio_a_gabriela_abym_codziennie_na_nowo_m_g_us_ysze_t_radosn_nowin_i_przyj_j_tak_jak_przyj_a_j_maryja"
             android:id="@+id/textView100"
             style="@style/paragraf_Text_optimum"/>
     <TextView
-            android:text="Dziesiątek różańca"
+            android:text="@string/dziesi_tek_r_a_ca"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/textView101"
@@ -92,13 +92,13 @@ android:paddingBottom="5sp">
             android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
     <TextView
-            android:text="Zwracając się do Ojca, który przez anioła ogłasza radosną nowinę, wsłuchując się z Maryją w jej niezwykłą treść, chcę uwielbiać Boga w Trójcy Świętej Jedynego i coraz wyraźniej dostrzegać Jego obecność pośród nas."
+            android:text="@string/zwracaj_c_si_do_ojca_kt_ry_przez_anio_a_og_asza_radosn_nowin_ws_uchuj_c_si_z_maryj_w_jej_niezwyk_tre_chc_uwielbia_boga_w_tr_jcy_wi_tej_jedynego_i_coraz_wyra_niej_dostrzega_jego_obecno_po_r_d_nas"
             style="@style/paragraf_Text_optimum"
             android:id="@+id/textView102"/>
 
 
     <TextView
-            android:text="Intencje modlitwy"
+            android:text="@string/intencje_modlitwy"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/textView103"
@@ -109,16 +109,16 @@ android:paddingBottom="5sp">
             android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
     <TextView
-            android:text="Boże, pomóż mi każdego dnia wsłuchiwać się w głos posłańców, którzy od Ciebie przychodzą, aby mi zwiastować radosną nowinę, że Twój Syn, Jezus Chrystus, jest pośród nas obecny w każdej chwili mojego życia."
+            android:text="@string/bo_e_pom_mi_ka_dego_dnia_ws_uchiwa_si_w_g_os_pos_a_c_w_kt_rzy_od_ciebie_przychodz_aby_mi_zwiastowa_radosn_nowin_e_tw_j_syn_jezus_chrystus_jest_po_r_d_nas_obecny_w_ka_dej_chwili_mojego_ycia"
             style="@style/paragraf_Text_optimum"
             android:id="@+id/textView104"/>
 
     <TextView
-            android:text="Proszę w intencjach, które poleca Ojciec Święty."
+            android:text="@string/prosz_w_intencjach_kt_re_poleca_ojciec_wi_ty"
             style="@style/paragraf_Text_optimum"
             android:id="@+id/textView105"/>
     <TextView
-            android:text="Dziękuję Maryi, a wraz z Nią Bogu, za dar spotkania i za wszystkie otrzymane łaski."
+            android:text="@string/dzi_kuj_maryi_a_wraz_z_ni_bogu_za_dar_spotkania_i_za_wszystkie_otrzymane_aski"
             android:id="@+id/textView106"
             android:paddingBottom="80sp"
             style="@style/paragraf_Text_optimum"/>

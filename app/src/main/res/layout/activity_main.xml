@@ -24,7 +24,7 @@
             android:paddingRight="5dp" android:layout_marginTop="8dp"
             app:layout_constraintTop_toBottomOf="@+id/button5"/>
     <Button
-            android:text="Tajemnice Radosne"
+            android:text="@string/tajemnice_radosne"
             android:layout_width="160dp"
             android:layout_height="160dp"
             android:id="@+id/button2"
@@ -35,7 +35,7 @@
             android:layout_marginTop="32dp" app:layout_constraintTop_toTopOf="parent" android:textColorLink="#000000"
             android:textColor="#283593"/>
     <Button
-            android:text="TAJEMNICE ŚWIATŁA"
+            android:text="@string/tajemnice_wiat_a"
             android:layout_width="160dp"
             android:layout_height="160dp"
             android:id="@+id/button3"
@@ -45,7 +45,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="@+id/button2" android:textColor="#00695C"/>
     <Button
-            android:text="TAJEMNICE BOLESNE"
+            android:text="@string/tajemnice_bolesne"
             android:layout_width="160dp"
             android:layout_height="160dp"
             android:id="@+id/button4"
@@ -54,7 +54,7 @@
             android:layout_marginTop="32dp" app:layout_constraintTop_toBottomOf="@+id/button2"
             android:textColor="#C62828"/>
     <Button
-            android:text="TAJEMNICE CHWALEBNE"
+            android:text="@string/tajemnice_chwalebne"
             android:layout_width="160dp"
             android:layout_height="160dp"
             android:id="@+id/button5" android:background="@drawable/ikonachwalebna"

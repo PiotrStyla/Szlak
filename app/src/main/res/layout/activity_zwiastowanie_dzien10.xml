@@ -7,7 +7,7 @@
         android:layout_height="match_parent"
         tools:context=".Wprowadzenie" android:id="@+id/linearLayout">
     <TextView
-            android:text="DZIEŃ 10. Duch zstąpi na Ciebie"
+            android:text="@string/dzie_10_duch_zst_pi_na_ciebie1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView162"
@@ -20,7 +20,7 @@
     <ScrollView
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView107"
+            app:layout_constraintTop_toBottomOf="@+id/textView162"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
@@ -36,7 +36,7 @@
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
             <TextView
-                    android:text="Także dziś chcę być z Maryją w Jej przeżyciu tajemnicy Zwiastowania. Wsłuchuję się w Jej słowa i w odpowiedź, jakiej udziela Jej Anioł Gabriel."
+                    android:text="@string/tak_e_dzi_chc_by_z_maryj_w_jej_prze_yciu_tajemnicy_zwiastowania_ws_uchuj_si_w_jej_s_owa_i_w_odpowied_jakiej_udziela_jej_anio_gabriel"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView163"
@@ -44,79 +44,55 @@
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp" android:textAlignment="textStart"/>
             <TextView
-                    android:text="Modlitwa"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
+                    android:text="@string/modlitwa"
                     android:id="@+id/textView164"
-                    android:layout_marginEnd="16dp"
-                    android:textSize="16sp"
-                    android:lineSpacingExtra="3sp"
-                    android:layout_marginTop="5sp"
-                    android:layout_marginBottom="5sp" android:textStyle="bold"/>
+                    style="@style/modlitwa"/>
             <TextView
-                    android:text="Boże, mój Ojcze, niech Pocieszyciel, Duch Święty, który pochodzi od Ciebie, oświeci mój umysł i doprowadzi mnie do pełnej prawdy, zgodnie z obietnicą Twego Syna."
+                    android:text="@string/bo_e_m_j_ojcze_niech_pocieszyciel_duch_wi_ty_kt_ry_pochodzi_od_ciebie_o_wieci_m_j_umys_i_doprowadzi_mnie_do_pe_nej_prawdy_zgodnie_z_obietnic_twego_syna"
                     android:id="@+id/textView165"
                     style="@style/paragraf_Text"/>
 
             <TextView
-                    android:text="Rozważanie słowa"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
+                    android:text="@string/rozwa_anie_s_owa"
                     android:id="@+id/textView166"
-                    android:layout_marginEnd="16dp"
-                    android:textSize="16sp"
-                    android:lineSpacingExtra="3sp"
-                    android:layout_marginTop="5sp"
-                    android:layout_marginBottom="5sp" android:textStyle="bold"/>
+                    style="@style/rozwazanie_slowa"/>
 
             <TextView
-                    android:text="Z Ewangelii według św. Łukasza (1,34-37): „Na to Maryja rzekła do anioła: «Jakże się to stanie, skoro nie znam męża?» Anioł Jej odpowiedział: «Duch Święty zstąpi na Ciebie i moc Najwyższego osłoni Cię. Dlatego też Święte, które się narodzi, będzie nazwane Synem Bożym. A oto również krewna Twoja, Elżbieta, poczęła w swej starości syna i jest już w szóstym miesiącu ta, która uchodzi za niepłodną. Dla Boga bowiem nie ma nic niemożliwego»”."
+                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_1_34_37_na_to_maryja_rzek_a_do_anio_a_jak_e_si_to_stanie_skoro_nie_znam_m_a_anio_jej_odpowiedzia_duch_wi_ty_zst_pi_na_ciebie_i_moc_najwy_szego_os_oni_ci_dlatego_te_wi_te_kt_re_si_narodzi_b_dzie_nazwane_synem_bo_ym_a_oto_r_wnie_krewna_twoja_el_bieta_pocz_a_w_swej_staro_ci_syna_i_jest_ju_w_sz_stym_miesi_cu_ta_kt_ra_uchodzi_za_niep_odn_dla_boga_bowiem_nie_ma_nic_niemo_liwego"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView167"/>
             <TextView
-                    android:text="Pytanie Maryi jest bardzo ważne. Ona nie mówi: „To niemożliwe”. Chce tylko wiedzieć, jak ma się spełnić zapowiedź, że pocznie i porodzi Syna. Odpowiedź jest ważna dla Niej samej i dla wszystkich powołanych przez Boga. Boże plany realizują się mocą Ducha Świętego. To On wkracza w życie ludzi i dokonuje dzieł, które przekraczają możliwości ludzkiej natury. Żadne z powołań nie jest możliwe do zrealizowania tylko ludzkimi siłami. Jest w nich bowiem obecne coś, co sięga poza ziemię. Pochodzi z nieba i do nieba prowadzi. Umocnieni Duchem Świętym chrześcijanie podejmują dzieła, które ich przerastają. Najważniejsze z nich to dążenie do świętości, do pełnego zjednoczenia z Bogiem, do pokonania grzechu w swoim życiu. W Maryi to dzieło dokonało się w sposób doskonały. My zaś do tej doskonałości dążymy."
+                    android:text="@string/pytanie_maryi_jest_bardzo_wa_ne_ona_nie_m_wi_to_niemo_liwe_chce_tylko_wiedzie_jak_ma_si_spe_ni_zapowied_e_pocznie_i_porodzi_syna_odpowied_jest_wa_na_dla_niej_samej_i_dla_wszystkich_powo_anych_przez_boga_bo_e_plany_realizuj_si_moc_ducha_wi_tego_to_on_wkracza_w_ycie_ludzi_i_dokonuje_dzie_kt_re_przekraczaj_mo_liwo_ci_ludzkiej_natury_adne_z_powo_a_nie_jest_mo_liwe_do_zrealizowania_tylko_ludzkimi_si_ami_jest_w_nich_bowiem_obecne_co_co_si_ga_poza_ziemi_pochodzi_z_nieba_i_do_nieba_prowadzi_umocnieni_duchem_wi_tym_chrze_cijanie_podejmuj_dzie_a_kt_re_ich_przerastaj_najwa_niejsze_z_nich_to_d_enie_do_wi_to_ci_do_pe_nego_zjednoczenia_z_bogiem_do_pokonania_grzechu_w_swoim_yciu_w_maryi_to_dzie_o_dokona_o_si_w_spos_b_doskona_y_my_za_do_tej_doskona_o_ci_d_ymy"
                     android:id="@+id/textView168"
                     style="@style/paragraf_Text_optimum"/>
 
             <TextView
-                    android:text="Dziesiątek różańca"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
+                    android:text="@string/dziesi_tek_r_a_ca"
                     android:id="@+id/textView169"
-                    android:layout_marginEnd="16dp"
-                    android:textSize="16sp"
-                    android:lineSpacingExtra="3sp"
-                    android:layout_marginTop="5sp"
-                    android:layout_marginBottom="5sp" android:textStyle="bold"/>
+                    style="@style/dziesiatek_rozanca"/>
 
             <TextView
-                    android:text="Kiedy rozpoczynam modlitwę, także tę różańcową, słyszę słowa: „Duch Święty zstąpi na Ciebie”. Tylko w ten sposób mogę autentycznie rozmawiać z Ojcem i zjednoczyć się z Jezusem. Dziękuję Duchowi Świętemu i staram się poddać całkowicie Jego prowadzeniu."
+                    android:text="@string/kiedy_rozpoczynam_modlitw_tak_e_t_r_a_cow_s_ysz_s_owa_duch_wi_ty_zst_pi_na_ciebie_tylko_w_ten_spos_b_mog_autentycznie_rozmawia_z_ojcem_i_zjednoczy_si_z_jezusem_dzi_kuj_duchowi_wi_temu_i_staram_si_podda_ca_kowicie_jego_prowadzeniu"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView170"/>
 
 
             <TextView
-                    android:text="Intencje modlitwy"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
+                    android:text="@string/intencje_modlitwy"
                     android:id="@+id/textView171"
-                    android:layout_marginEnd="16dp"
-                    android:textSize="16sp"
-                    android:lineSpacingExtra="3sp"
-                    android:layout_marginTop="5sp"
-                    android:layout_marginBottom="5sp" android:textStyle="bold"/>
+                    style="@style/intencje_modlitwy"/>
 
             <TextView
-                    android:text="Duchu Święty, który zachowałeś Maryję od grzechu pierworodnego i uzdolniłeś Ją do wypełnienia zadań Matki Syna Bożego, udziel i mnie swojej łaski, aby wiernie wypełnił własne powołanie. Proszę o ten dar także dla moich braci i sióstr."
+                    android:text="@string/duchu_wi_ty_kt_ry_zachowa_e_maryj_od_grzechu_pierworodnego_i_uzdolni_e_j_do_wype_nienia_zada_matki_syna_bo_ego_udziel_i_mnie_swojej_aski_aby_wiernie_wype_ni_w_asne_powo_anie_prosz_o_ten_dar_tak_e_dla_moich_braci_i_si_str"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView172"/>
 
             <TextView
-                    android:text="Proszę w intencjach, które poleca Ojciec Święty."
+                    android:text="@string/prosz_w_intencjach_kt_re_poleca_ojciec_wi_ty"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView173"/>
             <TextView
-                    android:text="Dziękuję Maryi, a wraz z Nią Bogu, za dar spotkania i za wszystkie otrzymane łaski."
+                    android:text="@string/dzi_kuj_maryi_a_wraz_z_ni_bogu_za_dar_spotkania_i_za_wszystkie_otrzymane_aski"
                     android:id="@+id/textView174"
                     style="@style/paragraf_Text_optimum"
                     android:paddingBottom="80sp"/>

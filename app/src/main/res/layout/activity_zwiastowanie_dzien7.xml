@@ -7,7 +7,7 @@
         android:layout_height="match_parent"
         tools:context=".Wprowadzenie" android:id="@+id/linearLayout">
     <TextView
-            android:text="DZIEŃ 7. Pan z Tobą"
+            android:text="@string/dzie_7_pan_z_tob1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView121"
@@ -20,7 +20,7 @@
     <ScrollView
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView107"
+            app:layout_constraintTop_toBottomOf="@+id/textView121"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
@@ -36,7 +36,7 @@
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
             <TextView
-                    android:text="Anioł mówi do Maryi: „Pan z Tobą”. Pełnia łaski, którą cieszyła się Maryja, oznaczała szczególną obecność Boga w Jej życiu.”."
+                    android:text="@string/anio_m_wi_do_maryi_pan_z_tob_pe_nia_aski_kt_r_cieszy_a_si_maryja_oznacza_a_szczeg_ln_obecno_boga_w_jej_yciu"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView122"
@@ -44,7 +44,7 @@
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp" android:textAlignment="textStart"/>
             <TextView
-                    android:text="Modlitwa"
+                    android:text="@string/modlitwa"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView123"
@@ -54,12 +54,12 @@
                     android:layout_marginTop="5sp"
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
             <TextView
-                    android:text="Boże, mój Ojcze, niech Pocieszyciel, Duch Święty, który pochodzi od Ciebie, oświeci mój umysł i doprowadzi mnie do pełnej prawdy, zgodnie z obietnicą Twego Syna."
+                    android:text="@string/bo_e_m_j_ojcze_niech_pocieszyciel_duch_wi_ty_kt_ry_pochodzi_od_ciebie_o_wieci_m_j_umys_i_doprowadzi_mnie_do_pe_nej_prawdy_zgodnie_z_obietnic_twego_syna"
                     android:id="@+id/textView110"
                     style="@style/paragraf_Text"/>
 
             <TextView
-                    android:text="Rozważanie słowa"
+                    android:text="@string/rozwa_anie_s_owa"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView124"
@@ -70,19 +70,19 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Z Ewangelii według św. Łukasza (1,28): „Anioł wszedł do Niej i rzekł: Bądź pozdrowiona, pełna łaski, Pan z Tobą, błogosławiona jesteś między niewiastami”."
+                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_1_28_anio_wszed_do_niej_i_rzek_b_d_pozdrowiona_pe_na_aski_pan_z_tob_b_ogos_awiona_jeste_mi_dzy_niewiastami"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView125"/>
             <TextView
-                    android:text="W Starym Testamencie Bóg wielokrotnie zwracał się do swoich wybranych słowami: „Ja jestem z Tobą”. Prorok Jeremiasz usłyszał zapewnienie (1,8.18-19): „Nie lękaj się ich, bo jestem z tobą, by cię chronić - wyrocznia Pana. Oto Ja czynię cię dzisiaj twierdzą warowną, kolumną żelazną i murem spiżowym przeciw całej ziemi, przeciw królom judzkim i ich przywódcom, ich kapłanom i ludowi tej ziemi.	 Będą walczyć przeciw tobie, ale nie zdołają cię zwyciężyć, gdyż Ja jestem z tobą - wyrocznia Pana - by cię ochraniać”. Podobne zapewnienie słyszeli inni prorocy. "
+                    android:text="@string/w_starym_testamencie_b_g_wielokrotnie_zwraca_si_do_swoich_wybranych_s_owami_ja_jestem_z_tob_prorok_jeremiasz_us_ysza_zapewnienie_1_8_18_19_nie_l_kaj_si_ich_bo_jestem_z_tob_by_ci_chroni_wyrocznia_pana_oto_ja_czyni_ci_dzisiaj_twierdz_warown_kolumn_elazn_i_murem_spi_owym_przeciw_ca_ej_ziemi_przeciw_kr_lom_judzkim_i_ich_przyw_dcom_ich_kap_anom_i_ludowi_tej_ziemi_b_d_walczy_przeciw_tobie_ale_nie_zdo_aj_ci_zwyci_y_gdy_ja_jestem_z_tob_wyrocznia_pana_by_ci_ochrania_podobne_zapewnienie_s_yszeli_inni_prorocy"
                     android:id="@+id/textView126"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="Bóg, który powołuje i powierza człowiekowi określone zadania, ofiarowuje mu również dar swojej szczególnej obecności i opieki. Również Maryja w chwili zwiastowania słyszy zapewnienie, że Bóg jest z Nią. Uczestnicy Eucharystii słyszą aż cztery razy słowa, które wypowiada kapłan: „Pan z wami”. Rozważając tajemnicę różańca chcę z Maryją jeszcze głębiej doświadczyć obecności Pana."
+                    android:text="@string/b_g_kt_ry_powo_uje_i_powierza_cz_owiekowi_okre_lone_zadania_ofiarowuje_mu_r_wnie_dar_swojej_szczeg_lnej_obecno_ci_i_opieki_r_wnie_maryja_w_chwili_zwiastowania_s_yszy_zapewnienie_e_b_g_jest_z_ni_uczestnicy_eucharystii_s_ysz_a_cztery_razy_s_owa_kt_re_wypowiada_kap_an_pan_z_wami_rozwa_aj_c_tajemnic_r_a_ca_chc_z_maryj_jeszcze_g_biej_do_wiadczy_obecno_ci_pana"
                     android:id="@+id/textView127"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="Dziesiątek różańca"
+                    android:text="@string/dziesi_tek_r_a_ca"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView128"
@@ -93,13 +93,13 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Świadomość obecności Boga jest szczególnie intensywna w czasie modlitwy. Wtedy rozmawiam z Bogiem, stoję lub klęczę przed Nim. Wpatruję się oczyma wiary w Niego. Ta prawda przenika jeszcze bardziej moją dzisiejszą modlitwę."
+                    android:text="@string/wiadomo_obecno_ci_boga_jest_szczeg_lnie_intensywna_w_czasie_modlitwy_wtedy_rozmawiam_z_bogiem_stoj_lub_kl_cz_przed_nim_wpatruj_si_oczyma_wiary_w_niego_ta_prawda_przenika_jeszcze_bardziej_moj_dzisiejsz_modlitw"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView129"/>
 
 
             <TextView
-                    android:text="Intencje modlitwy"
+                    android:text="@string/intencje_modlitwy"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView130"
@@ -110,16 +110,16 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Nie pozwól, Panie, abym kiedykolwiek zapomniał o Twojej obecności przy mnie. Wierzę, że jesteś ze mną w każdej chwili. Proszę Cię o ten dar także dla wszystkich moich braci i sióstr."
+                    android:text="@string/nie_pozw_l_panie_abym_kiedykolwiek_zapomnia_o_twojej_obecno_ci_przy_mnie_wierz_e_jeste_ze_mn_w_ka_dej_chwili_prosz_ci_o_ten_dar_tak_e_dla_wszystkich_moich_braci_i_si_str"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView131"/>
 
             <TextView
-                    android:text="Proszę w intencjach, które poleca Ojciec Święty."
+                    android:text="@string/prosz_w_intencjach_kt_re_poleca_ojciec_wi_ty"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView132"/>
             <TextView
-                    android:text="Dziękuję Maryi, a wraz z Nią Bogu, za dar spotkania i za wszystkie otrzymane łaski."
+                    android:text="@string/dzi_kuj_maryi_a_wraz_z_ni_bogu_za_dar_spotkania_i_za_wszystkie_otrzymane_aski"
                     android:id="@+id/textView133"
                     style="@style/paragraf_Text_optimum"
                     android:paddingBottom="80sp"/>

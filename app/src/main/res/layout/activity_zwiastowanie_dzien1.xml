@@ -160,7 +160,8 @@
                     android:id="@+id/textView43"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
-                    android:lineSpacingExtra="3sp"/>
+                    android:lineSpacingExtra="3sp"
+                    android:paddingBottom="50sp"/>
 
         </LinearLayout>
     </ScrollView>

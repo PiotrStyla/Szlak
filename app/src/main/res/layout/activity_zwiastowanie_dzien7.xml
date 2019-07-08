@@ -7,7 +7,7 @@
         android:layout_height="match_parent"
         tools:context=".Wprowadzenie" android:id="@+id/linearLayout">
     <TextView
-            android:text="DZIEŃ 6. Pełna łaski"
+            android:text="DZIEŃ 7. Pan z Tobą"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView107"
@@ -36,7 +36,7 @@
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
             <TextView
-                    android:text="Każde słowo, wypowiedziane przez Bożego posłańca, godne jest uważnego wysłuchania i rozważenia. Dziś zatrzymuję się przy nazwaniu Maryi „pełną łaski”."
+                    android:text="Anioł mówi do Maryi: „Pan z Tobą”. Pełnia łaski, którą cieszyła się Maryja, oznaczała szczególną obecność Boga w Jej życiu.”."
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView108"
@@ -74,11 +74,11 @@
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView112"/>
             <TextView
-                    android:text="Znaczenie słów: „Pełna łaski” omawia szeroko św. Jan Paweł II w encyklice „Redemptoris Mater”. Oto kilka fragmentów papieskiej refleksji: „Zwiastun mówi do Maryi: «łaski pełna» – mówi zaś tak, jakby to było Jej właściwe imię. Nie nazywa swej rozmówczyni imieniem własnym «Miriam (= Maryja)», ale właśnie tym nowym imieniem: «łaski pełna». Co znaczy to imię? Dlaczego anioł tak nazywa Dziewicę z Nazaretu?"
+                    android:text="W Starym Testamencie Bóg wielokrotnie zwracał się do swoich wybranych słowami: „Ja jestem z Tobą”. Prorok Jeremiasz usłyszał zapewnienie (1,8.18-19): „Nie lękaj się ich, bo jestem z tobą, by cię chronić - wyrocznia Pana. Oto Ja czynię cię dzisiaj twierdzą warowną, kolumną żelazną i murem spiżowym przeciw całej ziemi, przeciw królom judzkim i ich przywódcom, ich kapłanom i ludowi tej ziemi.	 Będą walczyć przeciw tobie, ale nie zdołają cię zwyciężyć, gdyż Ja jestem z tobą - wyrocznia Pana - by cię ochraniać”. Podobne zapewnienie słyszeli inni prorocy. "
                     android:id="@+id/textView113"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="W języku Biblii «łaska» oznacza szczególny dar, który według Nowego Testamentu ma swe źródło w trynitarnym życiu Boga samego – Boga, który jest miłością (por. 1 J 4, 8). Owocem tej miłości jest wybranie – to, o którym mówi List do Efezjan. Wybranie to jest zatem ze strony Boga odwieczną wolą zbawienia człowieka przez uczestnictwo w Bożym życiu (por. 2 P 1, 4) w Chrystusie: jest zbawieniem poprzez uczestnictwo w życiu nadprzyrodzonym [...]. Kiedy czytamy, że zwiastun mówi do Maryi «łaski pełna», kontekst ewangeliczny, w którym zbiegają się dawne objawienia i obietnice, pozwala nam zrozumieć, że chodzi tutaj o szczególne błogosławieństwo pośród wszelkich «błogosławieństw duchowych w Chrystusie» [...]. Maryja «zajmuje pierwsze miejsce wśród pokornych i ubogich Pana, którzy z ufnością oczekują od Niego zbawienia i dostępują go»” (RM 8)."
+                    android:text="Bóg, który powołuje i powierza człowiekowi określone zadania, ofiarowuje mu również dar swojej szczególnej obecności i opieki. Również Maryja w chwili zwiastowania słyszy zapewnienie, że Bóg jest z Nią. Uczestnicy Eucharystii słyszą aż cztery razy słowa, które wypowiada kapłan: „Pan z wami”. Rozważając tajemnicę różańca chcę z Maryją jeszcze głębiej doświadczyć obecności Pana."
                     android:id="@+id/textView114"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
@@ -93,7 +93,7 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Wraz z Maryją, pełną łaski, zwracam się do Ojca i rozważam Jego odwieczny plan zbawienia, zrealizowany w Chrystusie. Wielbię Boga w Trójcy Świętej Jedynego."
+                    android:text="Świadomość obecności Boga jest szczególnie intensywna w czasie modlitwy. Wtedy rozmawiam z Bogiem, stoję lub klęczę przed Nim. Wpatruję się oczyma wiary w Niego. Ta prawda przenika jeszcze bardziej moją dzisiejszą modlitwę."
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView116"/>
 
@@ -110,7 +110,7 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Miłosierny Boże, pomóż mi, za przykładem Maryi, w pełni otworzyć się na Twoje niezwykłe dary, abym na moją miarę doświadczał również pełni Twojego obdarowania."
+                    android:text="Nie pozwól, Panie, abym kiedykolwiek zapomniał o Twojej obecności przy mnie. Wierzę, że jesteś ze mną w każdej chwili. Proszę Cię o ten dar także dla wszystkich moich braci i sióstr."
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView118"/>
 

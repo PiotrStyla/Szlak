@@ -7,10 +7,10 @@
         android:layout_height="match_parent"
         tools:context=".Wprowadzenie" android:id="@+id/linearLayout">
     <TextView
-            android:text="DZIEŃ 8. Nie bój się Maryjo"
+            android:text="DZIEŃ 9. Poczniesz i porodzisz Syna"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textView134"
+            android:id="@+id/textView148"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="16dp"
             android:layout_marginTop="8dp"
@@ -36,10 +36,10 @@
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
             <TextView
-                    android:text="Choć Maryja była pełna łaski i doświadczała szczególnej obecności Pana w swoim życiu, to jednak w chwili Zwiastowania słyszy słowa: „Nie bój się”. Widocznie lęk wkradał się do Jej serca."
+                    android:text="Po raz kolejny wracam do nazaretańskiego domu, gdzie Maryja rozmawia z Aniołem. Nie jestem tylko biernym obserwatorem. Słowa Anioła dotyczą nie tylko Maryi, lecz są przesłaniem dla wszystkich ludzi. Postawa Maryi jest przykładem dla powołanych."
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView135"
+                    android:id="@+id/textView149"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp" android:textAlignment="textStart"/>
@@ -47,7 +47,7 @@
                     android:text="Modlitwa"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView136"
+                    android:id="@+id/textView150"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"
@@ -55,14 +55,14 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
             <TextView
                     android:text="Boże, mój Ojcze, niech Pocieszyciel, Duch Święty, który pochodzi od Ciebie, oświeci mój umysł i doprowadzi mnie do pełnej prawdy, zgodnie z obietnicą Twego Syna."
-                    android:id="@+id/textView137"
+                    android:id="@+id/textView151"
                     style="@style/paragraf_Text"/>
 
             <TextView
                     android:text="Rozważanie słowa"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView138"
+                    android:id="@+id/textView152"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"
@@ -70,22 +70,22 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Z Ewangelii według św. Łukasza (1,29-30): „Maryja zmieszała się na te słowa i rozważała, co miałoby znaczyć to pozdrowienie. Lecz anioł rzekł do Niej: «Nie bój się, Maryjo, znalazłaś bowiem łaskę u Boga”."
+                    android:text="Z Ewangelii według św. Łukasza (1,31-33): „Anioł rzekł do Maryi: Oto poczniesz i porodzisz Syna, któremu nadasz imię Jezus. Będzie On wielki i będzie nazwany Synem Najwyższego, a Pan Bóg da Mu tron Jego praojca, Dawida. Będzie panował nad domem Jakuba na wieki, a Jego panowaniu nie będzie końca”."
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView139"/>
+                    android:id="@+id/textView153"/>
             <TextView
-                    android:text="Gdy człowiek jest zaskoczony czymś nowym i wielkim, zazwyczaj przeżywa chwile zmieszania i niepewności. Maryja jest niewątpliwie zdumiona widokiem Anioła i usłyszanymi słowami. Ewangelista mówi, że była „zmieszana”. W innych tłumaczeniach czytamy, że była „zatrwożona”. Potrzebne więc było wyjaśnienie. Potrzebne były również słowa: „Nie bój się”. "
-                    android:id="@+id/textView140"
+                    android:text="Powołanie Maryi dotyczy Jezusa, który jest Synem Najwyższego. Ma zostać Jego Matką. Jako Matka będzie przez całe życie odkrywać, kim jest Jej Syn. Słowa, które słyszy od Anioła, będą nabierać coraz głębszego znaczenia w miarę upływu lat i wypełniania przez Jezusa Jego misji. Nadane Mu zostanie imię, będzie nazywał Boga Ojcem, objawi swoją wielkość, obejmie panowanie nad domem Jakuba."
+                    android:id="@+id/textView154"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="Stajemy tu wobec tajemnicy powołania. Jest ono czymś wielkim, gdyż pochodzi od samego Boga i jest zaproszeniem do udziału w realizacji Jego zbawczego planu wobec ludzi. Każdy powołany doświadcza w swoim życiu wątpliwości i niepokojów, zagrożeń i lęków. Chrystus wielokrotnie mówił do Apostołów: „Nie lękajcie się”. Słowa te powtarzał od początku swego pontyfikatu św. Jan Paweł II. "
-                    android:id="@+id/textView141"
+                    android:text="Maryja ma przyjąć Syna Najwyższego w swoje zwyczajne ziemskie życie i oddać się całkowicie Jemu. W powołaniu Maryi odnajdujemy pierwowzór wszystkich powołań. W każdym z nich chodzi najpierw o to, aby przyjąć Syna Bożego w swoje życie i Jemu się całkowicie oddać. Różne są zewnętrzne kształty powołania, różnorodne są charyzmaty i posługi, które Bóg nam powierza, ale to, co najważniejsze, jest wspólne. Jesteśmy powołani do przyjęcia Boga w swoje życie i zjednoczenia z Nim więzami najgłębszej miłości."
+                    android:id="@+id/textView155"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
                     android:text="Dziesiątek różańca"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView142"
+                    android:id="@+id/textView156"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"
@@ -93,16 +93,16 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Wszyscy, którzy głęboko przeżywają modlitwę, mówią, że doświadczają również uspokojenia. Boży pokój pokonuje lęk i pomnaża zaufanie do Boga, który dając powołanie, daje też siły do jego wypełnienia. W ten świat pokoju pragnę głębiej wejść w dzisiejszej modlitwie różańcowej."
+                    android:text="Codzienne odmawianie dziesiątka różańca ma w sobie coś z maryjnego wędrowania dzień po dniu z Jezusem. Większość tych dni nie wyróżnia się niczym szczególnym. Ich wielkością, pięknem i nadzwyczajnością jest obecność Pana. Chcę tę prawdę coraz głębiej przeżywać."
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView143"/>
+                    android:id="@+id/textView157"/>
 
 
             <TextView
                     android:text="Intencje modlitwy"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/textView144"
+                    android:id="@+id/textView158"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"
@@ -110,17 +110,17 @@
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
             <TextView
-                    android:text="Pomóż mi, Panie, pokonywać wszelkie lęki mojego życia. Broń mnie przez nerwowością, brakiem zaufania do Ciebie, zapomnieniem o Twojej obecności. Pomóż mnie i wszystkim ludziom usłyszeć Twoje słowa: „Nie lękajcie się”."
+                    android:text="Duchu Święty, który zachowałeś Maryję od grzechu pierworodnego i uzdolniłeś Ją do wypełnienia zadań Matki Syna Bożego, udziel i mnie swojej łaski, aby wiernie wypełnił własne powołanie. Proszę o ten dar także dla moich braci i sióstr."
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView145"/>
+                    android:id="@+id/textView159"/>
 
             <TextView
                     android:text="Proszę w intencjach, które poleca Ojciec Święty."
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView146"/>
+                    android:id="@+id/textView160"/>
             <TextView
                     android:text="Dziękuję Maryi, a wraz z Nią Bogu, za dar spotkania i za wszystkie otrzymane łaski."
-                    android:id="@+id/textView147"
+                    android:id="@+id/textView161"
                     style="@style/paragraf_Text_optimum"
                     android:paddingBottom="80sp"/>
 

@@ -9,6 +9,10 @@
             android:roundIcon="@mipmap/ic_launcher_round_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
+        <activity android:name=".ZwiastowanieDzien14">
+        </activity>
+        <activity android:name=".ZwiastowanieDzien13">
+        </activity>
         <activity android:name=".ZwiastowanieDzien12">
         </activity>
         <activity android:name=".ZwiastowanieDzien11">

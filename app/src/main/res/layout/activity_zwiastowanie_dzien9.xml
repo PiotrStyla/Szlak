@@ -5,17 +5,22 @@
         xmlns:app="http://schemas.android.com/apk/res-auto"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".Wprowadzenie" android:id="@+id/linearLayout">
+        tools:context=".Wprowadzenie"
+        android:id="@+id/linearLayout"
+        android:layout_marginEnd="16dp">
     <TextView
-            android:text="@string/dzie_9_poczniesz_i_porodzisz_syna1"
+            android:text="@string/dzie_9_rozmowa_z_anio_em_poczniesz_i_porodzisz_syna"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView148"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="16dp"
-            android:layout_marginTop="8dp"
             app:layout_constraintTop_toTopOf="parent"
-            android:textSize="20sp" android:textStyle="bold"/>
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_marginTop="18dp"
+            android:lineSpacingExtra="4sp"
+            android:paddingEnd="10sp"/>
 
     <ScrollView
             android:layout_width="wrap_content"
@@ -25,13 +30,13 @@
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="24dp"
-            android:layout_marginTop="38dp"
             android:scrollbarStyle="outsideOverlay"
             android:clipToPadding="false"
             android:paddingStart="8sp"
-            android:paddingTop="5sp"
             android:paddingEnd="5sp"
-            android:paddingBottom="5sp">
+            android:paddingBottom="5sp"
+            android:layout_marginTop="72dp"
+            android:paddingTop="10sp">
         <LinearLayout android:layout_width="match_parent"
                       android:layout_height="wrap_content"
                       android:orientation="vertical">

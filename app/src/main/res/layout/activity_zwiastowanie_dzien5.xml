@@ -5,124 +5,130 @@
         xmlns:app="http://schemas.android.com/apk/res-auto"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".Wprowadzenie" android:id="@+id/linearLayout">
-<TextView
-android:text="@string/dzie_5_anio_pa_ski1"
-android:layout_width="wrap_content"
-android:layout_height="wrap_content"
-android:id="@+id/textView93"
-app:layout_constraintStart_toStartOf="parent"
-android:layout_marginStart="16dp"
-android:layout_marginTop="8dp"
-app:layout_constraintTop_toTopOf="parent"
-android:textSize="20sp" android:textStyle="bold"/>
-
-<ScrollView
-android:layout_width="wrap_content"
-android:layout_height="match_parent"
-app:layout_constraintTop_toBottomOf="@+id/textView93"
-app:layout_constraintEnd_toEndOf="parent"
-android:layout_marginEnd="8dp"
-app:layout_constraintStart_toStartOf="parent"
-android:layout_marginStart="24dp"
-android:layout_marginTop="38dp"
-android:scrollbarStyle="outsideOverlay"
-android:clipToPadding="false"
-android:paddingStart="8sp"
-android:paddingTop="5sp"
-android:paddingEnd="5sp"
-android:paddingBottom="5sp">
-<LinearLayout android:layout_width="match_parent"
-              android:layout_height="wrap_content"
-              android:orientation="vertical">
+        tools:context=".Wprowadzenie"
+        android:id="@+id/linearLayout"
+        android:layout_marginEnd="16dp">
     <TextView
-            android:text="@string/dzi_staram_si_skupi_na_bo_ym_wys_a_cu_najcz_ciej_okre_lany_jest_on_s_owami_anio_pa_ski_jest_to_r_wnie_tytu_modlitwy_kt_r_wiele_os_b_odmawia_trzy_razy_dziennie"
-            android:layout_width="match_parent"
+            android:text="@string/dzie_5_rozmowa_z_anio_em_anio_pa_ski"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textView94"
-            android:layout_marginEnd="16dp"
-            android:textSize="16sp"
-            android:lineSpacingExtra="3sp" android:textAlignment="textStart"/>
-    <TextView
-            android:text="@string/modlitwa"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/textView95"
-            android:layout_marginEnd="16dp"
-            android:textSize="16sp"
-            android:lineSpacingExtra="3sp"
-            android:layout_marginTop="5sp"
-            android:layout_marginBottom="5sp" android:textStyle="bold"/>
-    <TextView
-            android:text="@string/w_tym_tygodniu_rozpoczynam_spotkanie_z_bogiem_od_poni_szej_modlitwy_jest_ona_zaczerpni_ta_z_mszy_sprawowanej_przy_udzielaniu_sakramentu_bierzmowania_liczba_mnoga_zosta_a_zmieniona_na_pojedyncz_gdy_zazwyczaj_to_r_a_cowe_spotkanie_ma_bardzo_osobisty_charakter"
-            android:id="@+id/textView96"
-            style="@style/paragraf_Text"/>
-    <TextView
-            android:text="@string/bo_e_m_j_ojcze_niech_pocieszyciel_duch_wi_ty_kt_ry_pochodzi_od_ciebie_o_wieci_m_j_umys_i_doprowadzi_mnie_do_pe_nej_prawdy_zgodnie_z_obietnic_twego_syna"
-            android:id="@+id/textView97"
-            style="@style/paragraf_Text"/>
-    <TextView
-            android:text="@string/rozwa_anie_s_owa"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/textView98"
-            android:layout_marginEnd="16dp"
-            android:textSize="16sp"
-            android:lineSpacingExtra="3sp"
-            android:layout_marginTop="5sp"
-            android:layout_marginBottom="5sp" android:textStyle="bold"/>
+            android:id="@+id/textView93"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:layout_marginTop="18dp"
+            android:lineSpacingExtra="4sp"
+            android:paddingEnd="14sp"
+            android:textStyle="bold"/>
 
-    <TextView
-            android:text="@string/z_ewangelii_wed_ug_w_ukasza_1_26_27_w_sz_stym_miesi_cu_pos_a_b_g_anio_a_gabriela_do_miasta_w_galilei_zwanego_nazaret_do_dziewicy_po_lubionej_m_owi_imieniem_j_zef_z_rodu_dawida_a_dziewicy_by_o_na_imi_maryja"
-            style="@style/paragraf_Text_optimum"
-            android:id="@+id/textView99"/>
-    <TextView
-            android:text="@string/s_owo_pos_anie_nale_y_do_najwa_niejszych_s_w_w_pi_mie_wi_tym_o_wielu_pos_a_cach_m_wi_stary_testament_s_w_r_d_nich_anio_owie_prorocy_i_inni_ludzie_pos_anie_archanio_a_gabriela_do_maryi_zwi_zane_jest_z_rozpocz_ciem_nowego_etapu_historii_zbawienia_to_pierwsze_og_oszenie_niezwyk_ej_nowiny_o_wype_nieniu_zapowiedzi_to_czas_realizacji_b_g_staje_si_jednym_z_nas_modl_si_do_anio_a_gabriela_abym_codziennie_na_nowo_m_g_us_ysze_t_radosn_nowin_i_przyj_j_tak_jak_przyj_a_j_maryja"
-            android:id="@+id/textView100"
-            style="@style/paragraf_Text_optimum"/>
-    <TextView
-            android:text="@string/dziesi_tek_r_a_ca"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/textView101"
-            android:layout_marginEnd="16dp"
-            android:textSize="16sp"
-            android:lineSpacingExtra="3sp"
-            android:layout_marginTop="5sp"
-            android:layout_marginBottom="5sp" android:textStyle="bold"/>
+    <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView93"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp"
+            android:layout_marginTop="72dp"
+            android:paddingTop="10sp"
+    >
+        <LinearLayout android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:orientation="vertical">
+            <TextView
+                    android:text="@string/dzi_staram_si_skupi_na_bo_ym_wys_a_cu_najcz_ciej_okre_lany_jest_on_s_owami_anio_pa_ski_jest_to_r_wnie_tytu_modlitwy_kt_r_wiele_os_b_odmawia_trzy_razy_dziennie"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView94"
+                    android:layout_marginEnd="16dp"
+                    android:textSize="16sp"
+                    android:lineSpacingExtra="3sp" android:textAlignment="textStart"/>
+            <TextView
+                    android:text="@string/modlitwa"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView95"
+                    android:layout_marginEnd="16dp"
+                    android:textSize="16sp"
+                    android:lineSpacingExtra="3sp"
+                    android:layout_marginTop="5sp"
+                    android:layout_marginBottom="5sp" android:textStyle="bold"/>
+            <TextView
+                    android:text="@string/w_tym_tygodniu_rozpoczynam_spotkanie_z_bogiem_od_poni_szej_modlitwy_jest_ona_zaczerpni_ta_z_mszy_sprawowanej_przy_udzielaniu_sakramentu_bierzmowania_liczba_mnoga_zosta_a_zmieniona_na_pojedyncz_gdy_zazwyczaj_to_r_a_cowe_spotkanie_ma_bardzo_osobisty_charakter"
+                    android:id="@+id/textView96"
+                    style="@style/paragraf_Text"/>
+            <TextView
+                    android:text="@string/bo_e_m_j_ojcze_niech_pocieszyciel_duch_wi_ty_kt_ry_pochodzi_od_ciebie_o_wieci_m_j_umys_i_doprowadzi_mnie_do_pe_nej_prawdy_zgodnie_z_obietnic_twego_syna"
+                    android:id="@+id/textView97"
+                    style="@style/paragraf_Text"/>
+            <TextView
+                    android:text="@string/rozwa_anie_s_owa"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView98"
+                    android:layout_marginEnd="16dp"
+                    android:textSize="16sp"
+                    android:lineSpacingExtra="3sp"
+                    android:layout_marginTop="5sp"
+                    android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
-    <TextView
-            android:text="@string/zwracaj_c_si_do_ojca_kt_ry_przez_anio_a_og_asza_radosn_nowin_ws_uchuj_c_si_z_maryj_w_jej_niezwyk_tre_chc_uwielbia_boga_w_tr_jcy_wi_tej_jedynego_i_coraz_wyra_niej_dostrzega_jego_obecno_po_r_d_nas"
-            style="@style/paragraf_Text_optimum"
-            android:id="@+id/textView102"/>
+            <TextView
+                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_1_26_27_w_sz_stym_miesi_cu_pos_a_b_g_anio_a_gabriela_do_miasta_w_galilei_zwanego_nazaret_do_dziewicy_po_lubionej_m_owi_imieniem_j_zef_z_rodu_dawida_a_dziewicy_by_o_na_imi_maryja"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView99"/>
+            <TextView
+                    android:text="@string/s_owo_pos_anie_nale_y_do_najwa_niejszych_s_w_w_pi_mie_wi_tym_o_wielu_pos_a_cach_m_wi_stary_testament_s_w_r_d_nich_anio_owie_prorocy_i_inni_ludzie_pos_anie_archanio_a_gabriela_do_maryi_zwi_zane_jest_z_rozpocz_ciem_nowego_etapu_historii_zbawienia_to_pierwsze_og_oszenie_niezwyk_ej_nowiny_o_wype_nieniu_zapowiedzi_to_czas_realizacji_b_g_staje_si_jednym_z_nas_modl_si_do_anio_a_gabriela_abym_codziennie_na_nowo_m_g_us_ysze_t_radosn_nowin_i_przyj_j_tak_jak_przyj_a_j_maryja"
+                    android:id="@+id/textView100"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/dziesi_tek_r_a_ca"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView101"
+                    android:layout_marginEnd="16dp"
+                    android:textSize="16sp"
+                    android:lineSpacingExtra="3sp"
+                    android:layout_marginTop="5sp"
+                    android:layout_marginBottom="5sp" android:textStyle="bold"/>
+
+            <TextView
+                    android:text="@string/zwracaj_c_si_do_ojca_kt_ry_przez_anio_a_og_asza_radosn_nowin_ws_uchuj_c_si_z_maryj_w_jej_niezwyk_tre_chc_uwielbia_boga_w_tr_jcy_wi_tej_jedynego_i_coraz_wyra_niej_dostrzega_jego_obecno_po_r_d_nas"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView102"/>
 
 
-    <TextView
-            android:text="@string/intencje_modlitwy"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/textView103"
-            android:layout_marginEnd="16dp"
-            android:textSize="16sp"
-            android:lineSpacingExtra="3sp"
-            android:layout_marginTop="5sp"
-            android:layout_marginBottom="5sp" android:textStyle="bold"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView103"
+                    android:layout_marginEnd="16dp"
+                    android:textSize="16sp"
+                    android:lineSpacingExtra="3sp"
+                    android:layout_marginTop="5sp"
+                    android:layout_marginBottom="5sp" android:textStyle="bold"/>
 
-    <TextView
-            android:text="@string/bo_e_pom_mi_ka_dego_dnia_ws_uchiwa_si_w_g_os_pos_a_c_w_kt_rzy_od_ciebie_przychodz_aby_mi_zwiastowa_radosn_nowin_e_tw_j_syn_jezus_chrystus_jest_po_r_d_nas_obecny_w_ka_dej_chwili_mojego_ycia"
-            style="@style/paragraf_Text_optimum"
-            android:id="@+id/textView104"/>
+            <TextView
+                    android:text="@string/bo_e_pom_mi_ka_dego_dnia_ws_uchiwa_si_w_g_os_pos_a_c_w_kt_rzy_od_ciebie_przychodz_aby_mi_zwiastowa_radosn_nowin_e_tw_j_syn_jezus_chrystus_jest_po_r_d_nas_obecny_w_ka_dej_chwili_mojego_ycia"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView104"/>
 
-    <TextView
-            android:text="@string/prosz_w_intencjach_kt_re_poleca_ojciec_wi_ty"
-            style="@style/paragraf_Text_optimum"
-            android:id="@+id/textView105"/>
-    <TextView
-            android:text="@string/dzi_kuj_maryi_a_wraz_z_ni_bogu_za_dar_spotkania_i_za_wszystkie_otrzymane_aski"
-            android:id="@+id/textView106"
-            android:paddingBottom="80sp"
-            style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/prosz_w_intencjach_kt_re_poleca_ojciec_wi_ty"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView105"/>
+            <TextView
+                    android:text="@string/dzi_kuj_maryi_a_wraz_z_ni_bogu_za_dar_spotkania_i_za_wszystkie_otrzymane_aski"
+                    android:id="@+id/textView106"
+                    android:paddingBottom="80sp"
+                    style="@style/paragraf_Text_optimum"/>
 
-</LinearLayout>
-</ScrollView>
-        </android.support.constraint.ConstraintLayout>
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

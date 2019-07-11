@@ -127,7 +127,7 @@
     <string name="dzie_7_pan_z_tob">DZIEŃ 7. Pan z Tobą</string>
     <string name="dzie_8_nie_b_j_si_maryjo">DZIEŃ 8. Nie bój się Maryjo</string>
     <string name="dzie_9_poczniesz_i_porodzisz_syna">DZIEŃ 9. Poczniesz i porodzisz Syna</string>
-    <string name="dzie_10_duch_zst_pi_na_ciebie">DZIEŃ 10. Duch zstąpi na Ciebie</string>
+    <string name="dzie_10_duch_zst_pi_na_ciebie">DZIEŃ 10. Rozmowa z Aniołem - Duch Zstąpi na Ciebie</string>
     <string name="tajemnice_radosne">Tajemnice Radosne</string>
     <string name="tajemnice_wiat_a">TAJEMNICE ŚWIATŁA</string>
     <string name="tajemnice_bolesne">TAJEMNICE BOLESNE</string>
@@ -511,5 +511,22 @@
         Kiedy rozpoczynam modlitwę, także tę różańcową, słyszę słowa: „Duch Święty zstąpi na Ciebie”. Tylko w ten sposób
         mogę autentycznie rozmawiać z Ojcem i zjednoczyć się z Jezusem. Dziękuję Duchowi Świętemu i staram się poddać
         całkowicie Jego prowadzeniu.
+    </string>
+    <string name="dzie_10_rozmowa_z_anio_em_duch_zst_pi_na_ciebie">DZIEŃ 10. Rozmowa z Aniołem - Duch Zstąpi na Ciebie
+    </string>
+    <string name="dzie_9_rozmowa_z_anio_em_poczniesz_i_porodzisz_syna">DZIEŃ 9. Rozmowa z Aniołem Poczniesz i Porodzisz
+        Syna
+    </string>
+    <string name="dzie_8_rozmowa_z_anio_em_nie_b_j_si_maryjo">DZIEŃ 8. Rozmowa z Aniołem - Nie Bój Się Maryjo</string>
+    <string name="dzie_7_rozmowa_z_anio_em_pan_z_tob">DZIEŃ 7. Rozmowa z Aniołem - Pan z Tobą</string>
+    <string name="dzie_6_rozmowa_z_anio_em_pe_na_aski">DZIEŃ 6. Rozmowa z Aniołem - Pełna Łaski</string>
+    <string name="dzie_5_rozmowa_z_anio_em_anio_pa_ski">DZIEŃ 5. Rozmowa z Aniołem - Anioł Pański</string>
+    <string name="dzie_4_pro_ba_o_wiat_o_i_si_y_modlitwa_do_maryi">DZIEŃ 4. Prośba o Światło i Siły - Modlitwa do
+        Maryi
+    </string>
+    <string name="dzie_3_pro_ba_o_wiat_o_i_si_y_modlitwa_do_ducha_wi_tego">DZIEŃ 3. Prośba o Światło i Siły - Modlitwa
+        do Ducha Świętego
+    </string>
+    <string name="dzie_2_pro_ba_o_wiat_o_i_si_y_modlitwa_do_syna">Dzień 2. Prośba o Światło i Siły Modlitwa do Syna
     </string>
 </resources>

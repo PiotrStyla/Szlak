@@ -14,7 +14,7 @@
             android:id="@+id/textView228"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="16dp"
-            android:layout_marginTop="18dp"
+            android:layout_marginTop="16dp"
             android:lineSpacingExtra="4sp"
             app:layout_constraintTop_toTopOf="parent"
             android:textSize="20sp"

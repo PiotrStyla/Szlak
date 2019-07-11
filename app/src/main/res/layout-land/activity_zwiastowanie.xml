@@ -118,27 +118,27 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button34"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 11. Niech mi się stanie"/>
+                    android:text="@string/dzie_11_niech_mi_si_stanie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button35"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 12. Przed założeniem świata"/>
+                    android:text="@string/dzie_12_przed_za_o_eniem_wiata"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button36"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 13. W Starym Przymierzu"/>
+                    android:text="@string/dzie_13_w_starym_przymierzu"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button37"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 14. Pełnia czasu"/>
+                    android:text="@string/dzie_14_pe_nia_czasu"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button38"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 15. Cała Pełnia"/>
+                    android:text="@string/dzie_15_ca_a_pe_nia"/>
         </LinearLayout>
     </ScrollView>
 </LinearLayout>

@@ -124,6 +124,11 @@
                     android:layout_height="wrap_content" android:id="@+id/button38"
                     style="@style/button_dni_zwiastowanie_padding"
                     android:text="DZIEŃ 15. Cała Pełnia"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button39"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="DZIEŃ 16. Pełnia darów"/>
 
 
 

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="16dp"
+        tools:context=".Wprowadzenie"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="@string/dzie_16_tajemnica_pe_ni_pe_nia_dar_w"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView241"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="4sp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingEnd="10sp"/>
+
+    <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView241"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="78dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="10sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:orientation="vertical">
+            <TextView
+                    android:text="@string/modlitwa"
+                    android:id="@+id/textView242"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/bo_e_m_j_ojcze_niech_pocieszyciel_duch_wi_ty_kt_ry_pochodzi_od_ciebie_o_wieci_m_j_umys_i_doprowadzi_mnie_do_pe_nej_prawdy_zgodnie_z_obietnic_twego_syna"
+                    android:id="@+id/textView243"
+                    style="@style/paragraf_Text"/>
+
+            <TextView
+                    android:text="@string/rozwa_anie_s_owa"
+                    android:id="@+id/textView244"
+                    style="@style/rozwazanie_slowa"/>
+
+            <TextView
+                    android:text="Z listu św. Pawła Apostoła do Efezjan (1,22-23): „Bóg wszystko poddał pod Jego stopy, a Jego samego ustanowił nade wszystko Głową dla Kościoła, który jest Jego Ciałem, Pełnią Tego, który napełnia wszystko wszelkimi sposobami”."
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView245"/>
+            <TextView
+                    android:text="Św. Paweł wyjaśnia, że Chrystus wszelkimi sposobami napełnia swoje mistyczne Ciało, czyli Kościół. Jest to wspólnota, która cieszy się Pełnią obecności Chrystusa."
+                    android:id="@+id/textView246"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="Rozważam to misterium z perspektywy tajemnicy Zwiastowania Najświętszej Maryi Pannie. W chwili Wcielenia Syna Bożego nie ma jeszcze Kościoła w znaczeniu konkretnej wspólnoty osób, ale żyje już Ten, który jest Głową Kościoła i z którego przebitego boku narodzi się Kościół. "
+                    android:id="@+id/textView247"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="U początku tej drogi, w chwili poczęcia Jezusa, darem pełni cieszy się Maryja. Ona jest pełna łaski, pełna Ducha Świętego, pełna obecności Boga. Uosabia to, co ma się stać udziałem całego Kościoła i ku czemu zmierza każdy ochrzczony. Również do mnie odnoszą się słowa św. Pawła: Chrystus „napełnia wszystko, a więc także mnie, wszelkimi sposobami”. Czy w to wierzę? Czy chcę przyjąć tak wielkie bogactwo łaski, że można je opisać tylko słowem „pełnia”?"
+                    android:id="@+id/textView248"
+                    style="@style/paragraf_Text_optimum"/>
+
+            <TextView
+                    android:text="@string/dziesi_tek_r_a_ca"
+                    android:id="@+id/textView249"
+                    style="@style/dziesiatek_rozanca"/>
+
+            <TextView
+                    android:text="...\n"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView250"/>
+
+            <TextView
+                    android:text="@string/intencje_modlitwy"
+                    android:id="@+id/textView251"
+                    style="@style/intencje_modlitwy"/>
+
+            <TextView
+                    android:text="...\n"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView252"/>
+
+            <TextView
+                    android:text="@string/prosz_w_intencjach_kt_re_poleca_ojciec_wi_ty"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView253"/>
+            <TextView
+                    android:text="@string/dzi_kuj_maryi_a_wraz_z_ni_bogu_za_dar_spotkania_i_za_wszystkie_otrzymane_aski"
+                    android:id="@+id/textView254"
+                    style="@style/paragraf_Text_optimum"
+                    android:paddingBottom="80sp"/>
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

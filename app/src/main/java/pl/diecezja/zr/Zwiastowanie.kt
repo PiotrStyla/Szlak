@@ -122,6 +122,11 @@ class Zwiastowanie : AppCompatActivity() {
             val intentZwiastowanieDzien21 = Intent(this, ZwiastowanieDzien21::class.java)
             startActivity(intentZwiastowanieDzien21)
         }
+        val buttonZwiastowanieDoDzien22  = findViewById<Button>(R.id.button45)
+        buttonZwiastowanieDoDzien22.setOnClickListener {
+            val intentZwiastowanieDzien22 = Intent(this, ZwiastowanieDzien22::class.java)
+            startActivity(intentZwiastowanieDzien22)
+        }
 
 
 

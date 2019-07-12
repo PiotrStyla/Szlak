@@ -154,6 +154,11 @@
                     android:layout_height="wrap_content" android:id="@+id/button44"
                     style="@style/button_dni_zwiastowanie_padding"
                     android:text="DZIEŃ 21. Stało się Ciałem"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button45"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="DZIEŃ 22. Świat Go nie poznał"/>
 
 
 

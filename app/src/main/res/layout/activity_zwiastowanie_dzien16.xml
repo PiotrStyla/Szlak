@@ -55,19 +55,19 @@
                     style="@style/rozwazanie_slowa"/>
 
             <TextView
-                    android:text="Z listu św. Pawła Apostoła do Efezjan (1,22-23): „Bóg wszystko poddał pod Jego stopy, a Jego samego ustanowił nade wszystko Głową dla Kościoła, który jest Jego Ciałem, Pełnią Tego, który napełnia wszystko wszelkimi sposobami”."
+                    android:text="@string/z_listu_w_paw_a_aposto_a_do_efezjan_1_22_23_b_g_wszystko_podda_pod_jego_stopy_a_jego_samego_ustanowi_nade_wszystko_g_ow_dla_ko_cio_a_kt_ry_jest_jego_cia_em_pe_ni_tego_kt_ry_nape_nia_wszystko_wszelkimi_sposobami"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView245"/>
             <TextView
-                    android:text="Św. Paweł wyjaśnia, że Chrystus wszelkimi sposobami napełnia swoje mistyczne Ciało, czyli Kościół. Jest to wspólnota, która cieszy się Pełnią obecności Chrystusa."
+                    android:text="@string/w_pawe_wyja_nia_e_chrystus_wszelkimi_sposobami_nape_nia_swoje_mistyczne_cia_o_czyli_ko_ci_jest_to_wsp_lnota_kt_ra_cieszy_si_pe_ni_obecno_ci_chrystusa"
                     android:id="@+id/textView246"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="Rozważam to misterium z perspektywy tajemnicy Zwiastowania Najświętszej Maryi Pannie. W chwili Wcielenia Syna Bożego nie ma jeszcze Kościoła w znaczeniu konkretnej wspólnoty osób, ale żyje już Ten, który jest Głową Kościoła i z którego przebitego boku narodzi się Kościół. "
+                    android:text="@string/rozwa_am_to_misterium_z_perspektywy_tajemnicy_zwiastowania_naj_wi_tszej_maryi_pannie_w_chwili_wcielenia_syna_bo_ego_nie_ma_jeszcze_ko_cio_a_w_znaczeniu_konkretnej_wsp_lnoty_os_b_ale_yje_ju_ten_kt_ry_jest_g_ow_ko_cio_a_i_z_kt_rego_przebitego_boku_narodzi_si_ko_ci"
                     android:id="@+id/textView247"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="U początku tej drogi, w chwili poczęcia Jezusa, darem pełni cieszy się Maryja. Ona jest pełna łaski, pełna Ducha Świętego, pełna obecności Boga. Uosabia to, co ma się stać udziałem całego Kościoła i ku czemu zmierza każdy ochrzczony. Również do mnie odnoszą się słowa św. Pawła: Chrystus „napełnia wszystko, a więc także mnie, wszelkimi sposobami”. Czy w to wierzę? Czy chcę przyjąć tak wielkie bogactwo łaski, że można je opisać tylko słowem „pełnia”?"
+                    android:text="@string/u_pocz_tku_tej_drogi_w_chwili_pocz_cia_jezusa_darem_pe_ni_cieszy_si_maryja_ona_jest_pe_na_aski_pe_na_ducha_wi_tego_pe_na_obecno_ci_boga_uosabia_to_co_ma_si_sta_udzia_em_ca_ego_ko_cio_a_i_ku_czemu_zmierza_ka_dy_ochrzczony_r_wnie_do_mnie_odnosz_si_s_owa_w_paw_a_chrystus_nape_nia_wszystko_a_wi_c_tak_e_mnie_wszelkimi_sposobami_czy_w_to_wierz_czy_chc_przyj_tak_wielkie_bogactwo_aski_e_mo_na_je_opisa_tylko_s_owem_pe_nia"
                     android:id="@+id/textView248"
                     style="@style/paragraf_Text_optimum"/>
 
@@ -77,7 +77,7 @@
                     style="@style/dziesiatek_rozanca"/>
 
             <TextView
-                    android:text="...\n"
+                    android:text="@string/n"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView250"/>
 
@@ -87,7 +87,7 @@
                     style="@style/intencje_modlitwy"/>
 
             <TextView
-                    android:text="...\n"
+                    android:text="@string/n"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView252"/>
 

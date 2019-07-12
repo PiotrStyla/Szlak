@@ -9,7 +9,7 @@ tools:context=".Wprowadzenie"
 android:id="@+id/linearLayout"
 android:layout_marginEnd="16dp">
 <TextView
-        android:text="Dzień 12. Tajemnica Pełni - Przed Założeniem Świata"
+        android:text="@string/dzie_12_tajemnica_pe_ni_przed_za_o_eniem_wiata"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/textView188"
@@ -55,11 +55,11 @@ android:layout_marginEnd="16dp">
                 style="@style/rozwazanie_slowa"/>
 
         <TextView
-                android:text="Z listu św. Pawła Apostoła do Efezjan (1,3-6): „Niech będzie błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa; który napełnił nas wszelkim błogosławieństwem duchowym na wyżynach niebieskich – w Chrystusie. W Nim bowiem wybrał nas przez założeniem świata, abyśmy byli święci i nieskalani przed Jego obliczem. Z miłości przeznaczył nas dla siebie jako przybranych synów przez Jezusa Chrystusa, według postanowienia swej woli, ku chwale majestatu swej łaski, którą obdarzył nas w Umiłowanym”."
+                android:text="@string/z_listu_w_paw_a_aposto_a_do_efezjan_1_3_6_niech_b_dzie_b_ogos_awiony_b_g_i_ojciec_pana_naszego_jezusa_chrystusa_kt_ry_nape_ni_nas_wszelkim_b_ogos_awie_stwem_duchowym_na_wy_ynach_niebieskich_w_chrystusie_w_nim_bowiem_wybra_nas_przez_za_o_eniem_wiata_aby_my_byli_wi_ci_i_nieskalani_przed_jego_obliczem_z_mi_o_ci_przeznaczy_nas_dla_siebie_jako_przybranych_syn_w_przez_jezusa_chrystusa_wed_ug_postanowienia_swej_woli_ku_chwale_majestatu_swej_aski_kt_r_obdarzy_nas_w_umi_owanym"
                 style="@style/paragraf_Text_optimum"
                 android:id="@+id/textView192"/>
         <TextView
-                android:text="Św. Paweł wyjaśnia, że wydarzenia, które dokonały się w czasie Zwiastowania i wszystkie inne, dotyczące ludzkiego życia, mają swoje źródło w miłości Ojca, Syna i Ducha Świętego. Prowadzeni przez Apostoła kierujemy naszą myśl daleko, poza granice ziemskiego czasu, w stronę wieczności Boga. Już wtedy, zanim świat został stworzony, każdy człowiek był w myśli i w Sercu Boga. Istnienie każdego człowieka i każdego bytu jest związane z Chrystusem. W Chrystusie zostaliśmy wybrani. Rozważając tajemnicę różańcową kieruję myśl ku Chrystusowi, w którym istnieję i w którym zostałem wybrany."
+                android:text="@string/w_pawe_wyja_nia_e_wydarzenia_kt_re_dokona_y_si_w_czasie_zwiastowania_i_wszystkie_inne_dotycz_ce_ludzkiego_ycia_maj_swoje_r_d_o_w_mi_o_ci_ojca_syna_i_ducha_wi_tego_prowadzeni_przez_aposto_a_kierujemy_nasz_my_l_daleko_poza_granice_ziemskiego_czasu_w_stron_wieczno_ci_boga_ju_wtedy_zanim_wiat_zosta_stworzony_ka_dy_cz_owiek_by_w_my_li_i_w_sercu_boga_istnienie_ka_dego_cz_owieka_i_ka_dego_bytu_jest_zwi_zane_z_chrystusem_w_chrystusie_zostali_my_wybrani_rozwa_aj_c_tajemnic_r_a_cow_kieruj_my_l_ku_chrystusowi_w_kt_rym_istniej_i_w_kt_rym_zosta_em_wybrany"
                 android:id="@+id/textView193"
                 style="@style/paragraf_Text_optimum"/>
 
@@ -69,15 +69,15 @@ android:layout_marginEnd="16dp">
                 style="@style/dziesiatek_rozanca"/>
 
         <TextView
-                android:text="W pierwszym tygodniu medytacji nad tajemnicą Wcielenia Syna Bożego rozważałem teksty zapisane w Ewangelii św. Łukasza. Dzięki nim wiem, jak wyglądała rozmowa Maryi z Aniołem. Zakończyła się ona słowami Maryi: „Niech mi się stanie według twego słowa”. Wierzę, że to był właśnie moment poczęcia Jezusa mocą Ducha Świętego. "
+                android:text="@string/w_pierwszym_tygodniu_medytacji_nad_tajemnic_wcielenia_syna_bo_ego_rozwa_a_em_teksty_zapisane_w_ewangelii_w_ukasza_dzi_ki_nim_wiem_jak_wygl_da_a_rozmowa_maryi_z_anio_em_zako_czy_a_si_ona_s_owami_maryi_niech_mi_si_stanie_wed_ug_twego_s_owa_wierz_e_to_by_w_a_nie_moment_pocz_cia_jezusa_moc_ducha_wi_tego"
                 style="@style/paragraf_Text_optimum"
                 android:id="@+id/textView195"/>
         <TextView
-                android:text="Chcę to misterium coraz lepiej poznawać rozważając wraz z odmawianiem dziesiątka różańca, teksty św. Pawła. Chodzi głównie o te fragmenty, w których Apostoł mówi o Pełni czasów, w której Syn Boży przyszedł na ziemię oraz o Pełni darów, która jest w Chrystusie. Słowo „pełnia” jest stale na moich ustach. Powtarzam je, gdy mówię: „Zdrowaś Maryjo, łaskiś pełna”. Tu słowo to odnosi się do Maryi, ale św. Paweł odnosi je głównie do Chrystusa. Te teksty pragnę rozważać."
+                android:text="@string/chc_to_misterium_coraz_lepiej_poznawa_rozwa_aj_c_wraz_z_odmawianiem_dziesi_tka_r_a_ca_teksty_w_paw_a_chodzi_g_wnie_o_te_fragmenty_w_kt_rych_aposto_m_wi_o_pe_ni_czas_w_w_kt_rej_syn_bo_y_przyszed_na_ziemi_oraz_o_pe_ni_dar_w_kt_ra_jest_w_chrystusie_s_owo_pe_nia_jest_stale_na_moich_ustach_powtarzam_je_gdy_m_wi_zdrowa_maryjo_aski_pe_na_tu_s_owo_to_odnosi_si_do_maryi_ale_w_pawe_odnosi_je_g_wnie_do_chrystusa_te_teksty_pragn_rozwa_a"
                 style="@style/paragraf_Text_optimum"
                 android:id="@+id/textView196"/>
         <TextView
-                android:text="Teraz zamieszczone są tylko teksty biblijne i rozważania na poszczególne dni. Wszystkie inne części, składające się na przeżycie różańcowej tajemnicy (modlitwa wstępna, odmówienie dziesiątka różańca, przedstawienie Bogu intencji modlitewnych, modlitwa dziękczynna) są pozostawione twórczej inwencji osób korzystających z tych pomocy."
+                android:text="@string/teraz_zamieszczone_s_tylko_teksty_biblijne_i_rozwa_ania_na_poszczeg_lne_dni_wszystkie_inne_cz_ci_sk_adaj_ce_si_na_prze_ycie_r_a_cowej_tajemnicy_modlitwa_wst_pna_odm_wienie_dziesi_tka_r_a_ca_przedstawienie_bogu_intencji_modlitewnych_modlitwa_dzi_kczynna_s_pozostawione_tw_rczej_inwencji_os_b_korzystaj_cych_z_tych_pomocy"
                 style="@style/paragraf_Text_optimum"
                 android:id="@+id/textView197"/>
 
@@ -88,7 +88,7 @@ android:layout_marginEnd="16dp">
                 style="@style/intencje_modlitwy"/>
 
         <TextView
-                android:text=".../n"
+                android:text="@string/n"
                 style="@style/paragraf_Text_optimum"
                 android:id="@+id/textView199"/>
 

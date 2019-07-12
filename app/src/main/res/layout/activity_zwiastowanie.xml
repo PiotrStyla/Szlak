@@ -129,6 +129,31 @@
                     android:layout_height="wrap_content" android:id="@+id/button39"
                     style="@style/button_dni_zwiastowanie_padding"
                     android:text="DZIEŃ 16. Pełnia darów"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button40"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="DZIEŃ 17. Napełnieni Pełnią"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button41"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="DZIEŃ 18. Dar wzrostu"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button42"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="DZIEŃ 19. Na początku było Słowo"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button43"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="DZIEŃ 20. Bogiem Było Słowo"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button44"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="DZIEŃ 21. Stało się Ciałem"/>
 
 
 

@@ -9,7 +9,7 @@
         android:id="@+id/linearLayout"
         android:layout_marginEnd="16dp">
     <TextView
-            android:text="Dzień 11. Rozmowa z Aniołem - Niech Mi Się Stanie"
+            android:text="@string/dzie_11_rozmowa_z_anio_em_niech_mi_si_stanie"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView175"
@@ -41,7 +41,7 @@
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
             <TextView
-                    android:text="Różańcowa modlitwa w minionym tygodniu odwoływała się do ewangelicznego opisu rozmowy Maryi z Aniołem. Dziś jej zakończenie. To słowa Maryi wyrażające gotowość przyjęcia wszystkiego, co Bóg Jej proponuje i daje."
+                    android:text="@string/r_a_cowa_modlitwa_w_minionym_tygodniu_odwo_ywa_a_si_do_ewangelicznego_opisu_rozmowy_maryi_z_anio_em_dzi_jej_zako_czenie_to_s_owa_maryi_wyra_aj_ce_gotowo_przyj_cia_wszystkiego_co_b_g_jej_proponuje_i_daje"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView176"
@@ -63,11 +63,11 @@
                     style="@style/rozwazanie_slowa"/>
 
             <TextView
-                    android:text="Z Ewangelii według św. Łukasza (1,38): „Na to rzekła Maryja: «Oto Ja służebnica Pańska, niech Mi się stanie według twego słowa!» Wtedy odszedł od Niej anioł”."
+                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_1_38_na_to_rzek_a_maryja_oto_ja_s_u_ebnica_pa_ska_niech_mi_si_stanie_wed_ug_twego_s_owa_wtedy_odszed_od_niej_anio"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView180"/>
             <TextView
-                    android:text="Św. Jan Paweł II wyjaśniając słowa Maryi pisze: „Przy zwiastowaniu Maryja, okazując «posłuszeństwo wiary» Temu, który przemawiał do Niej słowami swego zwiastuna, poprzez «pełną uległość rozumu i woli wobec Boga objawiającego» – w pełni powierzyła się Bogu. Odpowiedziała więc całym swoim ludzkim, niewieścim «ja». Zawierało się w tej odpowiedzi wiary doskonałe współdziałanie «z łaską Bożą uprzedzającą i wspomagającą» oraz doskonała wrażliwość na działanie Ducha Świętego, który «darami swymi wiarę stale udoskonala» [...]. Maryja «całkowicie poświęciła samą siebie, jako służebnicę Pańską, osobie i dziełu swego Syna». Syna tego zaś – jak uczą Ojcowie pierwej poczęła duchem niż ciałem: właśnie przez wiarę! Słusznie przeto sławi Maryję Elżbieta: «Błogosławiona jesteś, któraś uwierzyła, że spełnią się słowa powiedziane Ci od Pana»”."
+                    android:text="@string/w_jan_pawe_ii_wyja_niaj_c_s_owa_maryi_pisze_przy_zwiastowaniu_maryja_okazuj_c_pos_usze_stwo_wiary_temu_kt_ry_przemawia_do_niej_s_owami_swego_zwiastuna_poprzez_pe_n_uleg_o_rozumu_i_woli_wobec_boga_objawiaj_cego_w_pe_ni_powierzy_a_si_bogu_odpowiedzia_a_wi_c_ca_ym_swoim_ludzkim_niewie_cim_ja_zawiera_o_si_w_tej_odpowiedzi_wiary_doskona_e_wsp_dzia_anie_z_ask_bo_uprzedzaj_c_i_wspomagaj_c_oraz_doskona_a_wra_liwo_na_dzia_anie_ducha_wi_tego_kt_ry_darami_swymi_wiar_stale_udoskonala_maryja_ca_kowicie_po_wi_ci_a_sam_siebie_jako_s_u_ebnic_pa_sk_osobie_i_dzie_u_swego_syna_syna_tego_za_jak_ucz_ojcowie_pierwej_pocz_a_duchem_ni_cia_em_w_a_nie_przez_wiar_s_usznie_przeto_s_awi_maryj_el_bieta_b_ogos_awiona_jeste_kt_ra_uwierzy_a_e_spe_ni_si_s_owa_powiedziane_ci_od_pana"
                     android:id="@+id/textView181"
                     style="@style/paragraf_Text_optimum"/>
 
@@ -77,7 +77,7 @@
                     style="@style/dziesiatek_rozanca"/>
 
             <TextView
-                    android:text="Zwracam się do Ojca niebieskiego, który wybrał Maryję na Matkę swego Syna. Zwracam się w dziesiątku różańca do Maryi rozważając odpowiedź, jakiej Ona udzieliła Bogu. Uwieńczeniem tego przeżycia jest śpiew uwielbienia: „Chwała Ojcu...”."
+                    android:text="@string/zwracam_si_do_ojca_niebieskiego_kt_ry_wybra_maryj_na_matk_swego_syna_zwracam_si_w_dziesi_tku_r_a_ca_do_maryi_rozwa_aj_c_odpowied_jakiej_ona_udzieli_a_bogu_uwie_czeniem_tego_prze_ycia_jest_piew_uwielbienia_chwa_a_ojcu"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView183"/>
 
@@ -88,7 +88,7 @@
                     style="@style/intencje_modlitwy"/>
 
             <TextView
-                    android:text="Umocnij mnie, Panie, abym za przykładem Maryi zawsze ukazywał Ci posłuszeństwo wiary. Niech spłynie na mnie i na wszystkich ludzi błogosławieństwo przeznaczone dla tych, którzy uwierzyli."
+                    android:text="@string/umocnij_mnie_panie_abym_za_przyk_adem_maryi_zawsze_ukazywa_ci_pos_usze_stwo_wiary_niech_sp_ynie_na_mnie_i_na_wszystkich_ludzi_b_ogos_awie_stwo_przeznaczone_dla_tych_kt_rzy_uwierzyli"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView185"/>
 

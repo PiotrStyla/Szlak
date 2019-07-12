@@ -97,6 +97,31 @@ class Zwiastowanie : AppCompatActivity() {
             val intentZwiastowanieDzien16 = Intent(this, ZwiastowanieDzien16::class.java)
             startActivity(intentZwiastowanieDzien16)
         }
+        val buttonZwiastowanieDoDzien17  = findViewById<Button>(R.id.button40)
+        buttonZwiastowanieDoDzien17.setOnClickListener {
+            val intentZwiastowanieDzien17 = Intent(this, ZwiastowanieDzien17::class.java)
+            startActivity(intentZwiastowanieDzien17)
+        }
+        val buttonZwiastowanieDoDzien18  = findViewById<Button>(R.id.button41)
+        buttonZwiastowanieDoDzien18.setOnClickListener {
+            val intentZwiastowanieDzien18 = Intent(this, ZwiastowanieDzien18::class.java)
+            startActivity(intentZwiastowanieDzien18)
+        }
+        val buttonZwiastowanieDoDzien19  = findViewById<Button>(R.id.button42)
+        buttonZwiastowanieDoDzien19.setOnClickListener {
+            val intentZwiastowanieDzien19 = Intent(this, ZwiastowanieDzien19::class.java)
+            startActivity(intentZwiastowanieDzien19)
+        }
+        val buttonZwiastowanieDoDzien20  = findViewById<Button>(R.id.button43)
+        buttonZwiastowanieDoDzien20.setOnClickListener {
+            val intentZwiastowanieDzien20 = Intent(this, ZwiastowanieDzien20::class.java)
+            startActivity(intentZwiastowanieDzien20)
+        }
+        val buttonZwiastowanieDoDzien21  = findViewById<Button>(R.id.button44)
+        buttonZwiastowanieDoDzien21.setOnClickListener {
+            val intentZwiastowanieDzien21 = Intent(this, ZwiastowanieDzien21::class.java)
+            startActivity(intentZwiastowanieDzien21)
+        }
 
 
 

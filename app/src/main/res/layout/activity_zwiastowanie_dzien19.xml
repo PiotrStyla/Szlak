@@ -9,91 +9,90 @@
         tools:context=".Wprowadzenie"
         android:id="@+id/linearLayout">
     <TextView
-            android:text="@string/dzie_13_tajemnica_pe_ni_w_starym_przymierzu"
+            android:text="@string/dzie_19_s_owo_cia_em_si_sta_o_na_pocz_tku_by_o_s_owo"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textView202"
+            android:id="@+id/textView281"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="16dp"
-            app:layout_constraintTop_toTopOf="parent"
-            android:textSize="20sp"
             android:layout_marginTop="16dp"
             android:lineSpacingExtra="4sp"
-            android:paddingEnd="10sp"
-            android:textStyle="bold"/>
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingEnd="10sp"/>
 
     <ScrollView
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView202"
+            app:layout_constraintTop_toBottomOf="@+id/textView281"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="24dp"
+            android:layout_marginTop="78dp"
             android:scrollbarStyle="outsideOverlay"
             android:clipToPadding="false"
             android:paddingStart="8sp"
+            android:paddingTop="10sp"
             android:paddingEnd="5sp"
-            android:paddingBottom="5sp"
-            android:layout_marginTop="78dp"
-            android:paddingTop="10sp">
+            android:paddingBottom="5sp">
         <LinearLayout android:layout_width="match_parent"
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
             <TextView
                     android:text="@string/modlitwa"
-                    android:id="@+id/textView203"
+                    android:id="@+id/textView282"
                     style="@style/modlitwa"/>
             <TextView
                     android:text="@string/bo_e_m_j_ojcze_niech_pocieszyciel_duch_wi_ty_kt_ry_pochodzi_od_ciebie_o_wieci_m_j_umys_i_doprowadzi_mnie_do_pe_nej_prawdy_zgodnie_z_obietnic_twego_syna"
-                    android:id="@+id/textView204"
+                    android:id="@+id/textView283"
                     style="@style/paragraf_Text"/>
 
             <TextView
                     android:text="@string/rozwa_anie_s_owa"
-                    android:id="@+id/textView205"
+                    android:id="@+id/textView284"
                     style="@style/rozwazanie_slowa"/>
 
             <TextView
-                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_24_25_27_jezus_rzek_do_nich_o_nierozumni_jak_nieskore_s_wasze_serca_do_wierzenia_we_wszystko_co_powiedzieli_prorocy_czy_mesjasz_nie_mia_tego_cierpie_aby_wej_do_swej_chwa_y_i_zaczynaj_c_od_moj_esza_poprzez_wszystkich_prorok_w_wyk_ada_im_co_we_wszystkich_pismach_odnosi_o_si_do_niego"
+                    android:text="@string/z_ewangelii_wed_ug_w_jana_1_1_3_na_pocz_tku_by_o_s_owo_a_s_owo_by_o_u_boga_i_bogiem_by_o_s_owo_ono_by_o_na_pocz_tku_u_boga_wszystko_przez_nie_si_sta_o_a_bez_niego_nic_si_nie_sta_o_co_si_sta_o"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView206"/>
+                    android:id="@+id/textView285"/>
             <TextView
-                    android:text="@string/wszystko_co_dokona_o_si_w_dziele_stworzenia_jest_ukierunkowane_na_chrystusa_wszystko_tak_e_co_dokona_o_si_w_starym_testamencie_nabiera_w_a_ciwego_znaczenia_w_chrystusie_historia_narodu_wybranego_na_ka_dym_jej_etapie_zapowiada_i_przygotowuje_dzie_o_zbawienia_kt_rego_dokona_oczekiwany_mesjasz"
-                    android:id="@+id/textView207"
+                    android:text="@string/w_s_owach_w_paw_a_cz_sto_powraca_o_okre_lenie_pe_nia_w_jan_wprowadza_nas_w_misterium_chrystusa_odwo_uj_c_si_do_innego_okre_lenia_m_wi_o_s_owie_i_tym_imieniem_nazywa_jezusa_syna_bo_ego_ju_stary_testament_w_r_ny_spos_b_zapowiada_to_misterium_w_ksi_dze_m_dro_ci_czytamy_gdy_g_boka_cisza_zalega_a_wszystko_a_noc_w_swoim_biegu_dosi_ga_a_po_owy_wszechmocne_twe_s_owo_z_nieba_z_kr_lewskiej_stolicy_jak_miecz_ostry_nios_c_tw_j_nieodwo_alny_rozkaz_run_o_mdr_18_14_15"
+                    android:id="@+id/textView286"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="@string/pobo_ni_izraelici_z_wiar_oczekiwali_spe_nienia_obietnic_pana_nikt_jednak_tak_na_niego_nie_czeka_i_tak_go_nie_wygl_da_jak_maryja_ona_by_a_pewnego_rodzaju_uciele_nieniem_tego_t_sknego_wyczekiwania_mesjasza_niezachwianie_wierzy_a_e_b_g_prowadzi_sw_j_lud_i_spe_nia_swoje_obietnice_rozwa_aj_c_dziesi_tek_r_a_ca_chc_budzi_w_sobie_pragnienie_spotkania_ze_zbawicielem_i_wiar_w_to_e_spe_nia_on_wszystkie_swoje_obietnice"
-                    android:id="@+id/textView208"
+                    android:text="@string/jan_pawe_ii_medytuj_c_na_s_owami_prologu_w_jana_aposto_a_stwierdza_e_duch_wi_ty_pozwala_tutaj_ewangeli_cie_zaprawd_przenikn_g_boko_ci_bo_e_audiencja_generalna_3_06_1987_ten_sam_duch_kt_ry_prowadzi_w_jana_prowadzi_r_wnie_maryj_i_prowadzi_tak_e_mnie_dzi_ki_niemu_mog_zg_bia_s_owa_ewangelii_chc_je_rozwa_a_z_maryj_w_kolejnych_dniach_tego_tygodnia_odmawiaj_c_dziesi_tek_r_a_ca"
+                    android:id="@+id/textView287"
                     style="@style/paragraf_Text_optimum"/>
-
             <TextView
                     android:text="@string/dziesi_tek_r_a_ca"
-                    android:id="@+id/textView209"
+                    android:id="@+id/textView288"
                     style="@style/dziesiatek_rozanca"/>
 
             <TextView
                     android:text="@string/n"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView210"/>
+                    android:id="@+id/textView289"/>
 
             <TextView
                     android:text="@string/intencje_modlitwy"
-                    android:id="@+id/textView211"
+                    android:id="@+id/textView290"
                     style="@style/intencje_modlitwy"/>
 
             <TextView
                     android:text="@string/n"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView212"/>
+                    android:id="@+id/textView291"/>
 
             <TextView
                     android:text="@string/prosz_w_intencjach_kt_re_poleca_ojciec_wi_ty"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView213"/>
+                    android:id="@+id/textView292"/>
             <TextView
                     android:text="@string/dzi_kuj_maryi_a_wraz_z_ni_bogu_za_dar_spotkania_i_za_wszystkie_otrzymane_aski"
-                    android:id="@+id/textView214"
+                    android:id="@+id/textView293"
                     style="@style/paragraf_Text_optimum"
                     android:paddingBottom="80sp"/>
 

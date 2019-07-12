@@ -8,7 +8,7 @@
         android:layout_marginEnd="16dp"
         tools:context=".Wprowadzenie" android:id="@+id/linearLayout">
     <TextView
-            android:text="Dzień 15. Tajemnica Pełni - Cała Pełnia"
+            android:text="@string/dzie_15_tajemnica_pe_ni_ca_a_pe_nia"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView228"
@@ -54,15 +54,15 @@
                     style="@style/rozwazanie_slowa"/>
 
             <TextView
-                    android:text="Z listu św. Pawła Apostoła do Kolosan (1,19-20. 2,9): „Zechciał bowiem Bóg, aby w Nim zamieszkała cała Pełnia, i aby przez Niego znów pojednać wszystko z sobą: przez Niego - i to, co na ziemi, i to, co w niebiosach, wprowadziwszy pokój przez krew Jego krzyża. W Nim bowiem mieszka cała Pełnia: Bóstwo, na sposób ciała”."
+                    android:text="@string/z_listu_w_paw_a_aposto_a_do_kolosan_1_19_20_2_9_zechcia_bowiem_b_g_aby_w_nim_zamieszka_a_ca_a_pe_nia_i_aby_przez_niego_zn_w_pojedna_wszystko_z_sob_przez_niego_i_to_co_na_ziemi_i_to_co_w_niebiosach_wprowadziwszy_pok_j_przez_krew_jego_krzy_a_w_nim_bowiem_mieszka_ca_a_pe_nia_b_stwo_na_spos_b_cia_a"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView232"/>
             <TextView
-                    android:text="Kiedy w Chrystusie zamieszkała „cała Pełnia, Bóstwo na sposób ciała”? Nie mamy wątpliwości, że Chrystus zjednoczył w sobie pełnię Bóstwa z pełnią Człowieczeństwa w pierwszej chwili swego poczęcia. Choć w początkowym okresie ziemskiego życia Jego ludzkie ciało dopiero się formowało w łonie Matki, to jednak od początku „mieszkała w Nim cała Pełnia: Bóstwo na sposób ciała”. "
+                    android:text="@string/kiedy_w_chrystusie_zamieszka_a_ca_a_pe_nia_b_stwo_na_spos_b_cia_a_nie_mamy_w_tpliwo_ci_e_chrystus_zjednoczy_w_sobie_pe_ni_b_stwa_z_pe_ni_cz_owiecze_stwa_w_pierwszej_chwili_swego_pocz_cia_cho_w_pocz_tkowym_okresie_ziemskiego_ycia_jego_ludzkie_cia_o_dopiero_si_formowa_o_w_onie_matki_to_jednak_od_pocz_tku_mieszka_a_w_nim_ca_a_pe_nia_b_stwo_na_spos_b_cia_a"
                     android:id="@+id/textView233"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="Odmawiając dziesiątek różańca chcę wyznać wiarę w tę prawdę i w tej wierze się umocnić. Chcę oddać cześć Jezusowi już w pierwszej chwili Jego ziemskiej wędrówki, gdy jest jeszcze mały i niewidoczny jak każde poczęte dziecko. Chcę wyznać, że w momencie, w którym Bóg stał się Człowiekiem, wszystko na świecie się zmieniło. Zmieniło się przez sam fakt obecności Boga w ludzkiej postaci. Ludzie jeszcze o tym nie wiedzieli, ale cud Wcielenia już się dokonał."
+                    android:text="@string/odmawiaj_c_dziesi_tek_r_a_ca_chc_wyzna_wiar_w_t_prawd_i_w_tej_wierze_si_umocni_chc_odda_cze_jezusowi_ju_w_pierwszej_chwili_jego_ziemskiej_w_dr_wki_gdy_jest_jeszcze_ma_y_i_niewidoczny_jak_ka_de_pocz_te_dziecko_chc_wyzna_e_w_momencie_w_kt_rym_b_g_sta_si_cz_owiekiem_wszystko_na_wiecie_si_zmieni_o_zmieni_o_si_przez_sam_fakt_obecno_ci_boga_w_ludzkiej_postaci_ludzie_jeszcze_o_tym_nie_wiedzieli_ale_cud_wcielenia_ju_si_dokona"
                     android:id="@+id/textView234"
                     style="@style/paragraf_Text_optimum"/>
 
@@ -72,7 +72,7 @@
                     style="@style/dziesiatek_rozanca"/>
 
             <TextView
-                    android:text="...\n"
+                    android:text="@string/n"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView236"/>
 
@@ -82,7 +82,7 @@
                     style="@style/intencje_modlitwy"/>
 
             <TextView
-                    android:text="...\n"
+                    android:text="@string/n"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView238"/>
 

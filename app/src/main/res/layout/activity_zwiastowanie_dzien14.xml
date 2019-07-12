@@ -8,7 +8,7 @@
         android:layout_marginEnd="16dp"
         tools:context=".Wprowadzenie" android:id="@+id/linearLayout">
     <TextView
-            android:text="Dzień 14. Tajemnica Pełni - Pełnia Czasu"
+            android:text="@string/dzie_14_tajemnica_pe_ni_pe_nia_czasu"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView215"
@@ -53,15 +53,15 @@
                     style="@style/rozwazanie_slowa"/>
 
             <TextView
-                    android:text="Z listu św. Pawła Apostoła do Galatów (4,4-5): „Gdy nadeszła pełnia czasu, zesłał Bóg Syna swego, zrodzonego z niewiasty, zrodzonego pod Prawem, aby wykupił tych, którzy podlegali Prawu, abyśmy mogli otrzymać przybrane synostwo”."
+                    android:text="@string/z_listu_w_paw_a_aposto_a_do_galat_w_4_4_5_gdy_nadesz_a_pe_nia_czasu_zes_a_b_g_syna_swego_zrodzonego_z_niewiasty_zrodzonego_pod_prawem_aby_wykupi_tych_kt_rzy_podlegali_prawu_aby_my_mogli_otrzyma_przybrane_synostwo"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView219"/>
             <TextView
-                    android:text="Ojciec Święty Jan Paweł II od tych właśnie słów rozpoczyna swoją encyklikę o „Redemptoris Mater”. Są to więc szczególnie ważne słowa, do których warto wracać. „Ta «pełnia» – pisze Ojciec Święty – wskazuje na wyznaczony odwiecznie moment, w którym Ojciec posłał Syna swego, «aby każdy, kto w Niego wierzy, nie zginął, ale miał życie wieczne» (J 3,16). Oznacza ona błogosławioną chwilę, w której Słowo, które było u Boga, «stało się ciałem i zamieszkało wśród nas» (J 1,1.14), stając się naszym bratem” (RM 1). "
+                    android:text="@string/ojciec_wi_ty_jan_pawe_ii_od_tych_w_a_nie_s_w_rozpoczyna_swoj_encyklik_o_redemptoris_mater_s_to_wi_c_szczeg_lnie_wa_ne_s_owa_do_kt_rych_warto_wraca_ta_pe_nia_pisze_ojciec_wi_ty_wskazuje_na_wyznaczony_odwiecznie_moment_w_kt_rym_ojciec_pos_a_syna_swego_aby_ka_dy_kto_w_niego_wierzy_nie_zgin_ale_mia_ycie_wieczne_j_3_16_oznacza_ona_b_ogos_awion_chwil_w_kt_rej_s_owo_kt_re_by_o_u_boga_sta_o_si_cia_em_i_zamieszka_o_w_r_d_nas_j_1_1_14_staj_c_si_naszym_bratem_rm_1"
                     android:id="@+id/textView220"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="Wszystko, co ziemia mogła przygotować na przyjście Mesjasza, zostało dokonane. Wszystko w historii zbawienia, co miało poprzedzać przewidziany odwiecznie przez Boga moment Wcielenia, wypełniło się. Nadszedł moment najważniejszy w historii. Syn Boży staje się człowiekiem. Wszechmocny Bóg przyjmuje ludzką postać. Prawda ta rodzi pełnię mojego zdumienia, zachwytu i wdzięczności. Rozważam ją z Maryją."
+                    android:text="@string/wszystko_co_ziemia_mog_a_przygotowa_na_przyj_cie_mesjasza_zosta_o_dokonane_wszystko_w_historii_zbawienia_co_mia_o_poprzedza_przewidziany_odwiecznie_przez_boga_moment_wcielenia_wype_ni_o_si_nadszed_moment_najwa_niejszy_w_historii_syn_bo_y_staje_si_cz_owiekiem_wszechmocny_b_g_przyjmuje_ludzk_posta_prawda_ta_rodzi_pe_ni_mojego_zdumienia_zachwytu_i_wdzi_czno_ci_rozwa_am_j_z_maryj"
                     android:id="@+id/textView221"
                     style="@style/paragraf_Text_optimum"/>
 
@@ -71,7 +71,7 @@
                     style="@style/dziesiatek_rozanca"/>
 
             <TextView
-                    android:text="...\n"
+                    android:text="@string/n"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView223"/>
 
@@ -81,7 +81,7 @@
                     style="@style/intencje_modlitwy"/>
 
             <TextView
-                    android:text="...\n"
+                    android:text="@string/n"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView225"/>
 

@@ -12,87 +12,87 @@ class Zwiastowanie : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_zwiastowanie)
 
-        val button_zwiastowanie_do_wstep  = findViewById (R.id.button_Zwiastowanie_Wstep) as Button
-        button_zwiastowanie_do_wstep.setOnClickListener {
-            val intent_zwiastowanie_wstep = Intent(this, ZwiastowanieWstep::class.java)
-            startActivity(intent_zwiastowanie_wstep)
+        val buttonZwiastowanieDoWstep  = findViewById (R.id.button_Zwiastowanie_Wstep) as Button
+        buttonZwiastowanieDoWstep.setOnClickListener {
+            val intentZwiastowanieWstep = Intent(this, ZwiastowanieWstep::class.java)
+            startActivity(intentZwiastowanieWstep)
         }
-        val button_zwiastowanie_do_dzien1  = findViewById (R.id.button27) as Button
-        button_zwiastowanie_do_dzien1.setOnClickListener {
-            val intent_zwiastowanie_dzien1 = Intent(this, ZwiastowanieDzien1::class.java)
-            startActivity(intent_zwiastowanie_dzien1)
+        val buttonZwiastowanieDoDzien1  = findViewById<Button>(R.id.button27)
+        buttonZwiastowanieDoDzien1.setOnClickListener {
+            val intentZwiastowanieDzien1 = Intent(this, ZwiastowanieDzien1::class.java)
+            startActivity(intentZwiastowanieDzien1)
         }
-        val button_zwiastowanie_do_dzien2  = findViewById (R.id.button24) as Button
-        button_zwiastowanie_do_dzien2.setOnClickListener {
-            val intent_zwiastowanie_dzien2 = Intent(this, ZwiastowanieDzien2::class.java)
-            startActivity(intent_zwiastowanie_dzien2)
+        val buttonZwiastowanieDoDzien2  = findViewById<Button>(R.id.button24)
+        buttonZwiastowanieDoDzien2.setOnClickListener {
+            val intentZwiastowanieDzien2 = Intent(this, ZwiastowanieDzien2::class.java)
+            startActivity(intentZwiastowanieDzien2)
         }
-        val button_zwiastowanie_do_dzien3  = findViewById (R.id.button25) as Button
-        button_zwiastowanie_do_dzien3.setOnClickListener {
-            val intent_zwiastowanie_dzien3 = Intent(this, ZwiastowanieDzien3::class.java)
-            startActivity(intent_zwiastowanie_dzien3)
+        val buttonZwiastowanieDoDzien3  = findViewById<Button>(R.id.button25)
+        buttonZwiastowanieDoDzien3.setOnClickListener {
+            val intentZwiastowanieDzien3 = Intent(this, ZwiastowanieDzien3::class.java)
+            startActivity(intentZwiastowanieDzien3)
         }
-        val button_zwiastowanie_do_dzien4  = findViewById (R.id.button26) as Button
-        button_zwiastowanie_do_dzien4.setOnClickListener {
-            val intent_zwiastowanie_dzien4 = Intent(this, ZwiastowanieDzien4::class.java)
-            startActivity(intent_zwiastowanie_dzien4)
+        val buttonZwiastowanieDoDzien4  = findViewById<Button>(R.id.button26)
+        buttonZwiastowanieDoDzien4.setOnClickListener {
+            val intentZwiastowanieDzien4 = Intent(this, ZwiastowanieDzien4::class.java)
+            startActivity(intentZwiastowanieDzien4)
         }
-        val button_zwiastowanie_do_dzien5  = findViewById (R.id.button33) as Button
-        button_zwiastowanie_do_dzien5.setOnClickListener {
-            val intent_zwiastowanie_dzien5 = Intent(this, ZwiastowanieDzien5::class.java)
-            startActivity(intent_zwiastowanie_dzien5)
+        val buttonZwiastowanieDoDzien5  = findViewById<Button>(R.id.button33)
+        buttonZwiastowanieDoDzien5.setOnClickListener {
+            val intentZwiastowanieDzien5 = Intent(this, ZwiastowanieDzien5::class.java)
+            startActivity(intentZwiastowanieDzien5)
         }
-        val button_zwiastowanie_do_dzien6  = findViewById (R.id.button28) as Button
-        button_zwiastowanie_do_dzien6.setOnClickListener {
-            val intent_zwiastowanie_dzien6 = Intent(this, ZwiastowanieDzien6::class.java)
-            startActivity(intent_zwiastowanie_dzien6)
+        val buttonZwiastowanieDoDzien6  = findViewById<Button>(R.id.button28)
+        buttonZwiastowanieDoDzien6.setOnClickListener {
+            val intentZwiastowanieDzien6 = Intent(this, ZwiastowanieDzien6::class.java)
+            startActivity(intentZwiastowanieDzien6)
         }
-        val button_zwiastowanie_do_dzien7  = findViewById (R.id.button29) as Button
-        button_zwiastowanie_do_dzien7.setOnClickListener {
-            val intent_zwiastowanie_dzien7 = Intent(this, ZwiastowanieDzien7::class.java)
-            startActivity(intent_zwiastowanie_dzien7)
+        val buttonZwiastowanieDoDzien7  = findViewById<Button>(R.id.button29)
+        buttonZwiastowanieDoDzien7.setOnClickListener {
+            val intentZwiastowanieDzien7 = Intent(this, ZwiastowanieDzien7::class.java)
+            startActivity(intentZwiastowanieDzien7)
         }
-        val button_zwiastowanie_do_dzien8  = findViewById (R.id.button30) as Button
-        button_zwiastowanie_do_dzien8.setOnClickListener {
-            val intent_zwiastowanie_dzien8 = Intent(this, ZwiastowanieDzien8::class.java)
-            startActivity(intent_zwiastowanie_dzien8)
+        val buttonZwiastowanieDoDzien8  = findViewById<Button>(R.id.button30)
+        buttonZwiastowanieDoDzien8.setOnClickListener {
+            val intentZwiastowanieDzien8 = Intent(this, ZwiastowanieDzien8::class.java)
+            startActivity(intentZwiastowanieDzien8)
         }
-        val button_zwiastowanie_do_dzien9  = findViewById (R.id.button31) as Button
-        button_zwiastowanie_do_dzien9.setOnClickListener {
-            val intent_zwiastowanie_dzien9 = Intent(this, ZwiastowanieDzien9::class.java)
-            startActivity(intent_zwiastowanie_dzien9)
+        val buttonZwiastowanieDoDzien9  = findViewById<Button>(R.id.button31)
+        buttonZwiastowanieDoDzien9.setOnClickListener {
+            val intentZwiastowanieDzien9 = Intent(this, ZwiastowanieDzien9::class.java)
+            startActivity(intentZwiastowanieDzien9)
         }
-        val button_zwiastowanie_do_dzien10  = findViewById (R.id.button32) as Button
-        button_zwiastowanie_do_dzien10.setOnClickListener {
-            val intent_zwiastowanie_dzien10 = Intent(this, ZwiastowanieDzien10::class.java)
-            startActivity(intent_zwiastowanie_dzien10)
+        val buttonZwiastowanieDoDzien10  = findViewById<Button>(R.id.button32)
+        buttonZwiastowanieDoDzien10.setOnClickListener {
+            val intentZwiastowanieDzien10 = Intent(this, ZwiastowanieDzien10::class.java)
+            startActivity(intentZwiastowanieDzien10)
         }
-        val button_zwiastowanie_do_dzien11  = findViewById (R.id.button34) as Button
-        button_zwiastowanie_do_dzien11.setOnClickListener {
-            val intent_zwiastowanie_dzien11 = Intent(this, ZwiastowanieDzien11::class.java)
-            startActivity(intent_zwiastowanie_dzien11)
+        val buttonZwiastowanieDoDzien11  = findViewById<Button>(R.id.button34)
+        buttonZwiastowanieDoDzien11.setOnClickListener {
+            val intentZwiastowanieDzien11 = Intent(this, ZwiastowanieDzien11::class.java)
+            startActivity(intentZwiastowanieDzien11)
         }
-        val button_zwiastowanie_do_dzien12  = findViewById (R.id.button35) as Button
-        button_zwiastowanie_do_dzien12.setOnClickListener {
-            val intent_zwiastowanie_dzien12 = Intent(this, ZwiastowanieDzien12::class.java)
-            startActivity(intent_zwiastowanie_dzien12)
+        val buttonZwiastowanieDoDzien12  = findViewById<Button>(R.id.button35)
+        buttonZwiastowanieDoDzien12.setOnClickListener {
+            val intentZwiastowanieDzien12 = Intent(this, ZwiastowanieDzien12::class.java)
+            startActivity(intentZwiastowanieDzien12)
         }
-        val button_zwiastowanie_do_dzien13  = findViewById (R.id.button36) as Button
-        button_zwiastowanie_do_dzien13.setOnClickListener {
-            val intent_zwiastowanie_dzien13 = Intent(this, ZwiastowanieDzien13::class.java)
-            startActivity(intent_zwiastowanie_dzien13)
+        val buttonZwiastowanieDoDzien13  = findViewById<Button>(R.id.button36)
+        buttonZwiastowanieDoDzien13.setOnClickListener {
+            val intentZwiastowanieDzien13 = Intent(this, ZwiastowanieDzien13::class.java)
+            startActivity(intentZwiastowanieDzien13)
         }
-        val button_zwiastowanie_do_dzien14  = findViewById (R.id.button37) as Button
-        button_zwiastowanie_do_dzien14.setOnClickListener {
-            val intent_zwiastowanie_dzien14 = Intent(this, ZwiastowanieDzien14::class.java)
-            startActivity(intent_zwiastowanie_dzien14)
+        val buttonZwiastowanieDoDzien14  = findViewById<Button>(R.id.button37)
+        buttonZwiastowanieDoDzien14.setOnClickListener {
+            val intentZwiastowanieDzien14 = Intent(this, ZwiastowanieDzien14::class.java)
+            startActivity(intentZwiastowanieDzien14)
         }
-        val buttonZwiastowanieDoDzien15  = findViewById (R.id.button38) as Button
+        val buttonZwiastowanieDoDzien15  = findViewById<Button>(R.id.button38)
         buttonZwiastowanieDoDzien15.setOnClickListener {
             val intentZwiastowanieDzien15 = Intent(this, ZwiastowanieDzien15::class.java)
             startActivity(intentZwiastowanieDzien15)
         }
-        val buttonZwiastowanieDoDzien16  = findViewById (R.id.button39) as Button
+        val buttonZwiastowanieDoDzien16  = findViewById<Button>(R.id.button39)
         buttonZwiastowanieDoDzien16.setOnClickListener {
             val intentZwiastowanieDzien16 = Intent(this, ZwiastowanieDzien16::class.java)
             startActivity(intentZwiastowanieDzien16)

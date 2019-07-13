@@ -164,6 +164,16 @@
                     android:layout_height="wrap_content" android:id="@+id/button46"
                     style="@style/button_dni_zwiastowanie_padding"
                     android:text="DZIEŃ 23. Ci, którzy Go nie przyjęli"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button47"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="DZIEŃ 24. Ci, którzy Je przyjęli"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button48"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="DZIEŃ 25. Łaska po łasce"/>
 
 
 

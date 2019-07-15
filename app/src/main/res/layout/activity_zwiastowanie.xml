@@ -173,12 +173,22 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button48"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 25. Łaska po łasce"/>
+                    android:text="@string/dzie_25_aska_po_asce"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button49"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 26. Dziękczynienie"/>
+                    android:text="@string/dzie_26_dzi_kczynienie"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button50"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="@string/dzie_27_apostolstwo"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button51"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="DZIEŃ 28. Podsumowanie"/>
 
 
 

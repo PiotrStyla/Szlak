@@ -41,7 +41,7 @@
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
             <TextView
-                    android:text="Moje dziękczynienie wyrażam najpierw w modlitwie. Chcę wypowiedzieć słowa wdzięczności, gdyż mam świadomość, jak wiele otrzymałem w ciągu tego miesiąca spotkań, rozmów i rozważań."
+                    android:text="@string/moje_dzi_kczynienie_wyra_am_najpierw_w_modlitwie_chc_wypowiedzie_s_owa_wdzi_czno_ci_gdy_mam_wiadomo_jak_wiele_otrzyma_em_w_ci_gu_tego_miesi_ca_spotka_rozm_w_i_rozwa_a"
                     style="@style/paragraf_Text_optimum"
                     android:textStyle="italic"
                     android:id="@+id/textView375"/>
@@ -50,7 +50,7 @@
                     android:id="@+id/textView376"
                     style="@style/modlitwa"/>
             <TextView
-                    android:text="„Śpiewajcie Panu pieśń nową, śpiewajcie Panu, wszystkie krainy! Śpiewajcie Panu, błogosławcie Jego imię, z dnia na dzień głoście Jego zbawienie! Rozgłaszajcie Jego chwałę wśród narodów, Jego cuda - wśród wszystkich ludów!” (Ps 96,1-3). Włączam się, o Panie, w pieśń psalmisty i proszę, aby moja dzisiejsza modlitwa była pieśnią wdzięczności za dary, jakie otrzymałem w rozważaniu tajemnicy Zwiastowania Najświętszej Maryi Pannie."
+                    android:text="@string/piewajcie_panu_pie_now_piewajcie_panu_wszystkie_krainy_piewajcie_panu_b_ogos_awcie_jego_imi_z_dnia_na_dzie_g_o_cie_jego_zbawienie_rozg_aszajcie_jego_chwa_w_r_d_narod_w_jego_cuda_w_r_d_wszystkich_lud_w_ps_96_1_3_w_czam_si_o_panie_w_pie_psalmisty_i_prosz_aby_moja_dzisiejsza_modlitwa_by_a_pie_ni_wdzi_czno_ci_za_dary_jakie_otrzyma_em_w_rozwa_aniu_tajemnicy_zwiastowania_naj_wi_tszej_maryi_pannie"
                     android:id="@+id/textView377"
                     style="@style/paragraf_Text"/>
 
@@ -60,11 +60,11 @@
                     style="@style/rozwazanie_slowa"/>
 
             <TextView
-                    android:text="Z listu św. Pawła Apostoła do Efezjan (1,3-6): „Niech będzie błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa; który napełnił nas wszelkim błogosławieństwem duchowym na wyżynach niebieskich - w Chrystusie. W Nim bowiem wybrał nas przez założeniem świata, abyśmy byli święci i nieskalani przed Jego obliczem. Z miłości przeznaczył nas dla siebie jako przybranych synów przez Jezusa Chrystusa, według postanowienia swej woli, ku chwale majestatu swej łaski, którą obdarzył nas w Umiłowanym”."
+                    android:text="@string/z_listu_w_paw_a_aposto_a_do_efezjan_1_3_6_niech_b_dzie_b_ogos_awiony_b_g_i_ojciec_pana_naszego_jezusa_chrystusa_kt_ry_nape_ni_nas_wszelkim_b_ogos_awie_stwem_duchowym_na_wy_ynach_niebieskich_w_chrystusie_w_nim_bowiem_wybra_nas_przez_za_o_eniem_wiata_aby_my_byli_wi_ci_i_nieskalani_przed_jego_obliczem_z_mi_o_ci_przeznaczy_nas_dla_siebie_jako_przybranych_syn_w_przez_jezusa_chrystusa_wed_ug_postanowienia_swej_woli_ku_chwale_majestatu_swej_aski_kt_r_obdarzy_nas_w_umi_owanym"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView379"/>
             <TextView
-                    android:text="Rozważam i dziś tajemnicę Zwiastowania. Uświadamiam sobie jeszcze wyraźniej, jak wielkie kryje ona w sobie skarby, jak wielką miłość okazał nam Bóg stając się człowiekiem, jak niezwykłym darem jest dla mnie wiara w tę prawdę. W duchu wdzięczności za tę wiarę, za te spotkania i za wszelkie duchowe dobro, jakie promieniuje na mnie i na cały świat z tej tajemnicy, odmawiam dziesiątek różańca. „Niech będzie błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa; który napełnił nas wszelkim błogosławieństwem duchowym”."
+                    android:text="@string/rozwa_am_i_dzi_tajemnic_zwiastowania_u_wiadamiam_sobie_jeszcze_wyra_niej_jak_wielkie_kryje_ona_w_sobie_skarby_jak_wielk_mi_o_okaza_nam_b_g_staj_c_si_cz_owiekiem_jak_niezwyk_ym_darem_jest_dla_mnie_wiara_w_t_prawd_w_duchu_wdzi_czno_ci_za_t_wiar_za_te_spotkania_i_za_wszelkie_duchowe_dobro_jakie_promieniuje_na_mnie_i_na_ca_y_wiat_z_tej_tajemnicy_odmawiam_dziesi_tek_r_a_ca_niech_b_dzie_b_ogos_awiony_b_g_i_ojciec_pana_naszego_jezusa_chrystusa_kt_ry_nape_ni_nas_wszelkim_b_ogos_awie_stwem_duchowym"
                     android:id="@+id/textView380"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
@@ -73,15 +73,15 @@
                     style="@style/dziesiatek_rozanca"/>
 
             <TextView
-                    android:text="Modlitwa „Ojcze nasz” ma charakter prośby. Jednak można ją odmawiać w duchu wdzięczności za to, że wszystkie te prośby zostały przez Ojca wysłuchane, a ja ubogacony darami, o które prosiłem."
+                    android:text="@string/modlitwa_ojcze_nasz_ma_charakter_pro_by_jednak_mo_na_j_odmawia_w_duchu_wdzi_czno_ci_za_to_e_wszystkie_te_pro_by_zosta_y_przez_ojca_wys_uchane_a_ja_ubogacony_darami_o_kt_re_prosi_em"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView382"/>
             <TextView
-                    android:text="W odmawianiu kolejnych „Zdrowaś Maryjo” chcę być blisko Maryi w Jej uwielbieniu Boga i Jej rozważaniu Bożych tajemnic. Pragnę również wypowiedzieć moją wdzięczność wobec Niej, mojej niebieskiej Matki."
+                    android:text="@string/w_odmawianiu_kolejnych_zdrowa_maryjo_chc_by_blisko_maryi_w_jej_uwielbieniu_boga_i_jej_rozwa_aniu_bo_ych_tajemnic_pragn_r_wnie_wypowiedzie_moj_wdzi_czno_wobec_niej_mojej_niebieskiej_matki"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView383"/>
             <TextView
-                    android:text="Moje „Chwała Ojcu...” będzie szczerym uwielbieniem Trójcy Przenajświętszej za tajemnicę Wcielenia Syna Bożego, a także za nieustanne objawianie mnie i moim braciom tej tajemnicy."
+                    android:text="@string/moje_chwa_a_ojcu_b_dzie_szczerym_uwielbieniem_tr_jcy_przenaj_wi_tszej_za_tajemnic_wcielenia_syna_bo_ego_a_tak_e_za_nieustanne_objawianie_mnie_i_moim_braciom_tej_tajemnicy"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView384"/>
 
@@ -91,7 +91,7 @@
                     style="@style/intencje_modlitwy"/>
 
             <TextView
-                    android:text="Pierwszą intencją mojej modlitwy jest dziś dziękczynienie. Pragnę w nim trwać, gdyż wielkie są dary Pana. Obym zawsze wyraźnie widział obecność niewidzialnego Boga pośród nas."
+                    android:text="@string/pierwsz_intencj_mojej_modlitwy_jest_dzi_dzi_kczynienie_pragn_w_nim_trwa_gdy_wielkie_s_dary_pana_obym_zawsze_wyra_nie_widzia_obecno_niewidzialnego_boga_po_r_d_nas"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView386"/>
 
@@ -100,7 +100,7 @@
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView387"/>
             <TextView
-                    android:text="Kończę modlitwę dziękczynieniem za dar spotkania, które jest zawsze zaszczytem i wyróżnieniem. Rozmawiałem z Bogiem i rozważałem Jego boskie tajemnice."
+                    android:text="@string/ko_cz_modlitw_dzi_kczynieniem_za_dar_spotkania_kt_re_jest_zawsze_zaszczytem_i_wyr_nieniem_rozmawia_em_z_bogiem_i_rozwa_a_em_jego_boskie_tajemnice"
                     android:id="@+id/textView388"
                     style="@style/paragraf_Text_optimum"
                     android:paddingBottom="80sp"/>

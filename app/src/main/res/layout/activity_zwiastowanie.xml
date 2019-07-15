@@ -98,57 +98,57 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button32"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_10_duch_zst_pi_na_ciebie"/>
+                    android:text="@string/dzie_10_duch_zst_pi_na_ciebie1"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button34"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 11. Niech mi się stanie"/>
+                    android:text="@string/dzie_11_niech_mi_si_stanie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button35"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 12. Przed założeniem świata"/>
+                    android:text="@string/dzie_12_przed_za_o_eniem_wiata"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button36"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 13. W Starym Przymierzu"/>
+                    android:text="@string/dzie_13_w_starym_przymierzu"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button37"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 14. Pełnia czasu"/>
+                    android:text="@string/dzie_14_pe_nia_czasu"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button38"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 15. Cała Pełnia"/>
+                    android:text="@string/dzie_15_ca_a_pe_nia"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button39"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 16. Pełnia darów"/>
+                    android:text="@string/dzie_16_pe_nia_dar_w"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button40"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 17. Napełnieni Pełnią"/>
+                    android:text="@string/dzie_17_nape_nieni_pe_ni"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button41"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 18. Dar wzrostu"/>
+                    android:text="@string/dzie_18_dar_wzrostu"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button42"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 19. Na początku było Słowo"/>
+                    android:text="@string/dzie_19_na_pocz_tku_by_o_s_owo"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button43"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 20. Bogiem Było Słowo"/>
+                    android:text="@string/dzie_20_bogiem_by_o_s_owo"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button44"
@@ -158,22 +158,27 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button45"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 22. Świat Go nie poznał"/>
+                    android:text="@string/dzie_22_wiat_go_nie_pozna"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button46"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 23. Ci, którzy Go nie przyjęli"/>
+                    android:text="@string/dzie_23_ci_kt_rzy_go_nie_przyj_li"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button47"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 24. Ci, którzy Je przyjęli"/>
+                    android:text="@string/dzie_24_ci_kt_rzy_je_przyj_li"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button48"
                     style="@style/button_dni_zwiastowanie_padding"
                     android:text="DZIEŃ 25. Łaska po łasce"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button49"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="DZIEŃ 26. Dziękczynienie"/>
 
 
 

@@ -113,7 +113,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button32"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_10_duch_zst_pi_na_ciebie"/>
+                    android:text="@string/dzie_10_duch_zst_pi_na_ciebie1"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button34"
@@ -139,6 +139,61 @@
                     android:layout_height="wrap_content" android:id="@+id/button38"
                     style="@style/button_dni_zwiastowanie_padding"
                     android:text="@string/dzie_15_ca_a_pe_nia"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button39"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="@string/dzie_16_pe_nia_dar_w"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button40"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="@string/dzie_17_nape_nieni_pe_ni"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button41"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="@string/dzie_18_dar_wzrostu"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button42"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="@string/dzie_19_na_pocz_tku_by_o_s_owo"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button43"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="@string/dzie_20_bogiem_by_o_s_owo"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button44"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="@string/dzie_21_sta_o_si_cia_em"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button45"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="@string/dzie_22_wiat_go_nie_pozna"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button46"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="@string/dzie_23_ci_kt_rzy_go_nie_przyj_li"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button47"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="@string/dzie_24_ci_kt_rzy_je_przyj_li"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button48"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="DZIEŃ 25. Łaska po łasce"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button49"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="DZIEŃ 26. Dziękczynienie"/>
         </LinearLayout>
     </ScrollView>
 </LinearLayout>

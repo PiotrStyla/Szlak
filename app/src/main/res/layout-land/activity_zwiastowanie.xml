@@ -204,6 +204,16 @@
                     android:layout_height="wrap_content" android:id="@+id/button51"
                     style="@style/button_dni_zwiastowanie_padding"
                     android:text="DZIEŃ 28. Podsumowanie"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button52"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="DZIEŃ 29. Podsumowanie"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button53"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="DZIEŃ 30. Podsumowanie"/>
         </LinearLayout>
     </ScrollView>
 </LinearLayout>

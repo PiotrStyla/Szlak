@@ -63,7 +63,7 @@
                     android:id="@+id/textView365"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="„Z Jego pełności wszyscyśmy otrzymali łaskę po łasce”. Bóg wie, jakiej łaski potrzebuję dziś i jakiej będę potrzebował jutro. Jego miłość sprawia, że otrzymuję dar światła, bym nie błądził w ciemnościach, dar wolności, bym nie trwał w uzależnieniach, dar modlitwy, bym chętnie rozmawiał z Ojcem niebieskim, dar pokory, bym się wynosił nad innych, dar miłości i wszystkie inne dary, dzięki którym upodabniam się do Jezusa Chrystusa."
+                    android:text="„Z Jego pełności wszyscyśmy otrzymali łaskę po łasce”. Bóg wie, jakiej łaski potrzebuję dziś i jakiej będę potrzebował jutro. Jego miłość sprawia, że otrzymuję dar światła, bym nie błądził w ciemnościach, dar wolności, bym nie trwał w uzależnieniach, dar modlitwy, bym chętnie rozmawiał z Ojcem niebieskim, dar pokory, bym się nie wynosił nad innych, dar miłości i wszystkie inne dary, dzięki którym upodabniam się do Jezusa Chrystusa."
                     android:id="@+id/textView366"
                     style="@style/paragraf_Text_optimum"/>
             <TextView

@@ -104,7 +104,7 @@
     <string name="wprowadzenie_Tytul">Wprowadzenie</string>
     <string name="cz_i_radosna">Część I - Radosna</string>
     <string name="zwiastowanie">Zwiastowanie</string>
-    <string name="nawiedzenie">Nawiedzenie</string>
+    <string name="nawiedzenie2">Nawiedzenie</string>
     <string name="narodzenie">Narodzenie</string>
     <string name="ofiarowanie">Ofiarowanie</string>
     <string name="odnalezienie">Odnalezienie</string>
@@ -955,4 +955,6 @@
         nieustannie ubogacały moje życie i uzdalniały mnie do jeszcze piękniejszej służby braciom.
     </string>
     <string name="dzie_27_apostolstwo">DZIEŃ 27. Apostolstwo</string>
+    <string name="nawiedzenie">Nawiedzenie</string>
+    <string name="tajemnica_ii">Tajemnica II</string>
 </resources>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Nawiedzenie"
+        android:orientation="vertical">
+
+    <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        <LinearLayout android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:orientation="vertical">
+            <TextView
+                    android:text="@string/tajemnica_ii"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginEnd="8dp" android:layout_marginTop="16dp"
+                    android:textSize="18sp" android:textColor="#039BE5" android:textAlignment="center"
+                    android:typeface="sans"/>
+            <TextView
+                    android:text="@string/nawiedzenie2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView2"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginStart="8dp" android:layout_marginTop="8dp" android:textSize="20sp"
+                    android:textColor="#039BE5" android:textAlignment="center"/>
+
+            <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="120dp"
+                    app:srcCompat="@drawable/nawiedzenie"
+                    android:id="@+id/imageNawiedzenie"
+                    android:layout_marginTop="16dp"
+                    android:contentDescription="@string/obrazzwiastowania"/>
+            <Button
+                    android:text="@string/wst_p"
+                    android:id="@+id/button_Zwiastowanie_Wstep"
+                    style="@style/button_Zwiastowanie_Wstep" android:layout_marginBottom="12dp"/>
+            <Button
+                    android:text="@string/dzie_1_modlitwa_do_ojca"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button54"
+                    style="@style/button_dni_zwiastowanie_padding"/>
+            <Button
+                    android:text="@string/dzie_2_modlitwa_do_syna"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button24"
+                    style="@style/button_dni_zwiastowanie_padding"/>
+            <Button
+                    android:text="@string/dzie_3_modlitwa_do_ducha_wi_tego"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button25"
+                    style="@style/button_dni_zwiastowanie_padding"/>
+            <Button
+                    android:text="@string/dzie_4_modlitwa_do_maryi"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button26"
+                    style="@style/button_dni_zwiastowanie_padding"/>
+            <Button
+                    android:text="@string/dzie_5_anio_pa_ski"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button33"
+                    style="@style/button_dni_zwiastowanie_padding"/>
+            <Button
+                    android:text="@string/dzie_6_pe_na_aski"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button28"
+                    style="@style/button_dni_zwiastowanie_padding"/>
+            <Button
+                    android:text="@string/dzie_7_pan_z_tob"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button29"
+                    style="@style/button_dni_zwiastowanie_padding"/>
+            <Button
+                    android:text="@string/dzie_8_nie_b_j_si_maryjo"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button30"
+                    style="@style/button_dni_zwiastowanie_padding"/>
+            <Button
+                    android:text="@string/dzie_9_poczniesz_i_porodzisz_syna"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button31"
+                    style="@style/button_dni_zwiastowanie_padding"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button32"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="@string/dzie_10_duch_zst_pi_na_ciebie1"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button34"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="@string/dzie_11_niech_mi_si_stanie"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button35"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="@string/dzie_12_przed_za_o_eniem_wiata"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button36"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="@string/dzie_13_w_starym_przymierzu"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button37"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="@string/dzie_14_pe_nia_czasu"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button38"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="@string/dzie_15_ca_a_pe_nia"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button39"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="@string/dzie_16_pe_nia_dar_w"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button40"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="@string/dzie_17_nape_nieni_pe_ni"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button41"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="@string/dzie_18_dar_wzrostu"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button42"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="@string/dzie_19_na_pocz_tku_by_o_s_owo"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button43"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="@string/dzie_20_bogiem_by_o_s_owo"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button44"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="DZIEŃ 21. Stało się Ciałem"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button45"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="@string/dzie_22_wiat_go_nie_pozna"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button46"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="@string/dzie_23_ci_kt_rzy_go_nie_przyj_li"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button47"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="@string/dzie_24_ci_kt_rzy_je_przyj_li"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button48"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="@string/dzie_25_aska_po_asce"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button49"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="@string/dzie_26_dzi_kczynienie"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button50"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="@string/dzie_27_apostolstwo"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button51"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="DZIEŃ 28. Podsumowanie"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button52"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="DZIEŃ 29. Podsumowanie"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:id="@+id/button53"
+                    style="@style/button_dni_zwiastowanie_padding"
+                    android:text="DZIEŃ 30. Podsumowanie"/>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

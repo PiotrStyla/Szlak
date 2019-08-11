@@ -17,5 +17,11 @@ class Radosne : AppCompatActivity() {
             val intent3 = Intent(this, Zwiastowanie::class.java)
             startActivity(intent3)
         }
+
+        val button_radosne_do_nawiedzenie  = findViewById (R.id.button_Nawiedzenie) as Button
+        button_radosne_do_nawiedzenie.setOnClickListener {
+            val intent4 = Intent(this, Nawiedzenie::class.java)
+            startActivity(intent4)
+        }
     }
 }

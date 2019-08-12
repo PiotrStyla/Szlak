@@ -51,7 +51,7 @@
             <Button
                     android:text="@string/dzie_2_modlitwa_do_syna"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button24"
+                    android:layout_height="wrap_content" android:id="@+id/button55"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
                     android:text="@string/dzie_3_modlitwa_do_ducha_wi_tego"

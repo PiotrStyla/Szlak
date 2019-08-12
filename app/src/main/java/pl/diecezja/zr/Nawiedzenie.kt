@@ -16,15 +16,15 @@ class Nawiedzenie : AppCompatActivity() {
             val intentZwiastowanieWstep = Intent(this, ZwiastowanieWstep::class.java)
             startActivity(intentZwiastowanieWstep)
         }
-        val buttonZwiastowanieDoDzien1 = findViewById<Button>(R.id.button54)
-        buttonZwiastowanieDoDzien1.setOnClickListener {
+        val buttonNawiedzenieDoDzien1 = findViewById<Button>(R.id.button54)
+        buttonNawiedzenieDoDzien1.setOnClickListener {
             val intentNawiedzenieDzien1 = Intent(this, NawiedzenieDzien1::class.java)
             startActivity(intentNawiedzenieDzien1)
         }
-        val buttonZwiastowanieDoDzien2 = findViewById<Button>(R.id.button24)
-        buttonZwiastowanieDoDzien2.setOnClickListener {
-            val intentZwiastowanieDzien2 = Intent(this, ZwiastowanieDzien2::class.java)
-            startActivity(intentZwiastowanieDzien2)
+        val buttonNawiedzenieDoDzien2 = findViewById<Button>(R.id.button55)
+        buttonNawiedzenieDoDzien2.setOnClickListener {
+            val intentNawiedzenieDzien2 = Intent(this, NawiedzenieDzien2::class.java)
+            startActivity(intentNawiedzenieDzien2)
         }
         val buttonZwiastowanieDoDzien3 = findViewById<Button>(R.id.button25)
         buttonZwiastowanieDoDzien3.setOnClickListener {

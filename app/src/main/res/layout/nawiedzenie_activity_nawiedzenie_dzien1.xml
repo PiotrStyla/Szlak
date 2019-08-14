@@ -117,7 +117,8 @@
                     android:text="Kieruję do Boga prośby. Jest ich wiele i są jednym z motywów, dla których biorę do ręki różaniec. Chcę pomóc sobie i innym ludziom wypraszając dla nich potrzebne łaski."
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView459"
-                    android:textStyle="italic"/>
+                    android:textStyle="italic"
+                    android:paddingBottom="80sp"/>
 
 
         </LinearLayout>

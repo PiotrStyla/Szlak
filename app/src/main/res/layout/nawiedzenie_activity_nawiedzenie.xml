@@ -64,14 +64,14 @@
                     android:layout_height="wrap_content" android:id="@+id/button57"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
-                    android:text="@string/dzie_5_anio_pa_ski"
+                    android:text="@string/dzie_5_w_drodze_do_el_biety"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button33"
+                    android:layout_height="wrap_content" android:id="@+id/button58"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
-                    android:text="@string/dzie_6_pe_na_aski"
+                    android:text="@string/dzie_6_pozdrowienie_maryi"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button28"
+                    android:layout_height="wrap_content" android:id="@+id/button59"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
                     android:text="@string/dzie_7_pan_z_tob"

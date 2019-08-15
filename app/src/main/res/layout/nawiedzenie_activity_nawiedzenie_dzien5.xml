@@ -5,6 +5,120 @@
         xmlns:app="http://schemas.android.com/apk/res-auto"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".NawiedzenieDzien5">
+        android:layout_marginEnd="16dp"
+        tools:context=".NawiedzenieDzien5"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="@string/dzie_5_w_drodze_do_el_biety"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView508"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="4sp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingEnd="10sp"/>
 
+    <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView508"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="78dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="10sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:orientation="vertical">
+            <TextView
+                    android:text="@string/umocniony_ask_pana_i_wspierany_wstawiennictwem_maryi_rozpoczynam_medytacj_o_zbawczych_wydarzeniach_jakie_dokona_y_si_w_czasie_nawiedzenia_w_el_biety_przez_maryj_w_niezwyk_e_znaczenie_ewangelicznego_przekazu_wprowadzaj_mnie_s_owa_w_jana_paw_a_ii_z_audiencji_generalnej_2_10_1996"
+                    style="@style/paragraf_Text_optimum"
+                    android:textStyle="italic"
+                    android:id="@+id/textView509"/>
+            <TextView
+                    android:text="@string/w_relacji_o_nawiedzeniu_ukasz_ukazuje_nam_jak_aska_wcielenia_kt_ra_najpierw_nape_ni_a_maryj_przynosi_teraz_zbawienie_i_rado_domowi_el_biety_zbawiciel_ludzi_ukryty_w_onie_swej_matki_udziela_daru_ducha_wi_tego_objawiaj_c_si_ju_od_pierwszych_chwil_swej_obecno_ci_na_ziemi_opisuj_c_odej_cie_maryi_do_judei_ewangelista_u_ywa_czasownika_anistemi_kt_ry_znaczy_powsta_poruszy_si_zwa_ywszy_e_czasownik_ten_jest_stosowany_w_ewangeliach_na_oznaczenie_zmartwychwstania_jezusa_mk_8_31_9_9_31_k_24_7_46_lub_dzia_a_materialnych_kt_re_wi_si_z_wysi_kiem_duchowym_k_5_27_28_15_18_20_mo_emy_przypuszcza_e_w_intencji_ukasza_s_owo_to_ma_podkre_la_zdecydowany_wysi_ek_woli_maryi_kt_ra_pod_natchnieniem_ducha_wi_tego_przygotowuje_si_do_wydania_na_wiat_zbawiciela"
+                    style="@style/paragraf_Text_optimum"
+                    android:textStyle="italic"
+                    android:id="@+id/textView510"/>
+            <TextView
+                    android:text="@string/ewangeliczny_opis_wydarze_zwi_zanych_w_nawiedzeniem_w_el_biety_rozpoczyna_si_od_informacji_e_maryja_wyrusza_w_drog_trwa_a_ona_do_d_ugo_gdy_oko_o_4_dni_na_miar_moich_mo_liwo_ci_chc_duchowo_towarzyszy_maryi"
+                    style="@style/paragraf_Text_optimum"
+                    android:textStyle="italic"
+                    android:id="@+id/textView511"/>
+            <TextView
+                    android:text="@string/modlitwa"
+                    android:id="@+id/textView512"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/wszechmog_cy_wieczny_bo_e_z_twojego_natchnienia_naj_wi_tsza_maryja_panna_kt_ra_nosi_a_w_onie_twojego_syna_nawiedzi_a_el_biet_spraw_aby_my_byli_pos_uszni_natchnieniom_ducha_wi_tego_i_zawsze_mogli_z_maryj_ciebie_uwielbia_przez_chrystusa_pana_naszego_amen"
+                    android:id="@+id/textView513"
+                    style="@style/paragraf_Text"/>
+
+            <TextView
+                    android:text="@string/rozwa_anie_s_owa"
+                    android:id="@+id/textView514"
+                    style="@style/rozwazanie_slowa"/>
+
+            <TextView
+                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_1_39_40_w_tym_czasie_maryja_wybra_a_si_i_posz_a_z_po_piechem_w_g_ry_do_pewnego_miasta_w_pokoleniu_judy_wesz_a_do_domu_zachariasza_i_pozdrowi_a_el_biet"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView515"/>
+            <TextView
+                    android:text="@string/w_ukasz_m_wi_e_maryja_wybra_a_si_w_drog_w_tym_czasie_by_o_to_zaraz_po_prze_yciu_anielskiego_zwiastowania_w_jej_sercu_zrodzi_a_si_taka_potrzeba_rado_i_entuzjazm_musia_j_wype_nia_skoro_posz_a_z_po_piechem_ten_po_piech_nie_by_spowodowany_tym_e_musi_zd_y_na_okre_lon_godzin_rodzi_si_on_raczej_z_tego_co_dzia_o_si_w_niej_samej_zapewne_jej_my_li_by_y_wype_nione_wielkimi_prze_yciami_ywo_brzmia_y_jej_jeszcze_w_uszach_s_owa_anio_a_oznajmiaj_ce_jej_decyzj_najwy_szego_mocno_musia_o_bi_jej_serce_gdy_sta_a_si_matk_oznajmi_to_r_wnie_el_bieta_w_s_owach_a_sk_d_e_mi_to_e_matka_mojego_pana_przychodzi_do_mnie"
+                    android:id="@+id/textView516"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/droga_maryi_trwa_a_oko_o_czterech_dni_sz_a_zapewne_z_innymi_lud_mi_ale_mo_emy_przypuszcza_e_opr_cz_rozm_w_z_nimi_pragn_a_tak_e_chwil_samotno_ci_i_osobistej_rozmowy_z_bogiem_poranki_i_wieczory_a_pewnie_i_noce_by_y_dobr_okazj_do_zg_biania_bo_ych_plan_w_je_li_po_doj_ciu_do_el_biety_wy_piewa_a_swoje_magnificat_to_w_sercu_taka_pie_musia_a_rozbrzmiewa_przez_ca_drog"
+                    android:id="@+id/textView517"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/czy_mog_do_czy_do_maryi_w_jej_w_dr_wce_do_el_biety_czy_mog_si_do_niej_zbli_y_i_zapyta_co_prze_ywa_w_pierwszych_dniach_i_tygodniach_bycia_matk_tego_na_kt_rego_wszyscy_czekali_czy_mog_dowiedzie_si_dlaczego_udaje_si_do_el_biety_zapewne_mog_to_uczyni_na_miar_mojej_wiary_i_mojej_mi_o_ci_do_niej_chc_to_misterium_rozwa_a_w_tajemnicy_r_a_ca"
+                    android:id="@+id/textView518"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/dziesi_tek_r_a_ca"
+                    android:id="@+id/textView519"
+                    style="@style/dziesiatek_rozanca"/>
+
+            <TextView
+                    android:text="@string/po_piech_z_jakim_maryja_sz_a_do_el_biety_nie_by_tym_samym_po_piechem_jaki_jest_niekiedy_moim_udzia_em_gdy_nadchodzi_czas_modlitwy_doznaj_pokusy_aby_si_nie_spieszy_i_zrobi_jeszcze_to_i_tamto_gdy_za_modlitwa_si_zacznie_wtedy_przychodzi_pokusa_aby_j_przyspieszy_i_jak_najszybciej_sko_czy_na_szcz_cie_przyk_ad_maryi_i_wi_tych_sprawia_e_z_tymi_pokusami_walcz_dzi_r_wnie_nie_chc_si_oci_ga_we_wzi_ciu_do_r_ki_r_a_ca_ani_te_odmawia_go_w_po_piechu_i_bez_skupienia_je_li_co_mnie_przynagla_to_tylko_pragnienie_zbli_enia_si_do_maryi_spieszy_mi_si_do_niej_ale_gdy_jestem_przy_niej_to_ju_mi_si_nie_spieszy_chc_by_z_ni_d_u_ej"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView520"/>
+            <TextView
+                    android:text="@string/przed_chwa_a_ojcu_w_druj_c_z_moj_matk_z_ni_r_wnie_wielbi_ojca_kt_ry_nad_wszystkim_czuwa_wielbi_syna_z_kt_rym_maryja_idzie_do_el_biety_wielbi_ducha_wi_tego_kt_ry_sprawia_e_niebieska_mi_o_jest_ju_obecna_na_ziemskim_padole"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView521"/>
+            <TextView
+                    android:text="@string/akt_strzelisty"
+                    android:id="@+id/textView522"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/bo_e_w_tr_jcy_wi_tej_jedyny_otw_rz_moje_oczy_abym_m_g_wyra_niej_widzie_wielkie_dzie_a_jakich_dokona_e_w_tajemnicy_nawiedzenia_w_el_biety"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView523"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy"
+                    android:id="@+id/textView524"
+                    style="@style/intencje_modlitwy"/>
+
+            <TextView
+                    android:text="@string/pro_ba_o_owoce_rozwa_ania_tajemnicy_naucz_mnie_ojcze_i_z_po_piechem_do_moich_bliskich_przez_wstawiennictwo_maryi_prosz_ci_abym_zawsze_szed_do_nich_z_jezusem_w_sercu_i_wyprasza_im_dar_ducha_wi_tego"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView525"
+                    android:textStyle="italic"
+                    android:paddingBottom="80sp"/>
+
+
+        </LinearLayout>
+    </ScrollView>
 </android.support.constraint.ConstraintLayout>

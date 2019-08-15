@@ -6,13 +6,13 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginEnd="16dp"
-        tools:context=".NawiedzenieDzien8"
+        tools:context=".NawiedzenieDzien9"
         android:id="@+id/linearLayout">
     <TextView
-            android:text="@string/dzie_8_b_ogos_awiona_kt_ra_uwierzy_a"
+            android:text="@string/dzie_9_jezus_nape_nia_duchem_wi_tym"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textView560"
+            android:id="@+id/textView576"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="16dp"
             android:layout_marginTop="16dp"
@@ -25,7 +25,7 @@
     <ScrollView
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView560"
+            app:layout_constraintTop_toBottomOf="@+id/textView576"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
@@ -41,70 +41,70 @@
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
             <TextView
-                    android:text="@string/el_bieta_b_d_c_pod_natchnieniem_ducha_wi_tego_m_wi_o_wierze_maryi_rozpoznaje_w_swoim_sercu_jak_wielka_to_by_a_wiara_nazywa_maryj_b_ogos_awion_a_wi_c_szcz_liw_dlatego_e_ma_tak_wielk_wiar_o_ni_si_dzi_szczeg_lnie_modl"
+                    android:text="@string/w_tajemnicy_nawiedzenia_w_el_biety_odkrywam_prawd_e_wszyscy_cz_onkowie_rodziny_zostaj_nape_nieni_duchem_wi_tym_jezus_b_d_c_jeszcze_w_onie_swej_matki_objawia_si_jako_ten_kt_ry_przynosi_ducha_pragn_w_dniu_dzisiejszym_rozwa_a_t_prawd_w_r_a_cu"
                     style="@style/paragraf_Text_optimum"
                     android:textStyle="italic"
-                    android:id="@+id/textView561"/>
+                    android:id="@+id/textView577"/>
             <TextView
                     android:text="@string/modlitwa"
-                    android:id="@+id/textView562"
+                    android:id="@+id/textView578"
                     style="@style/modlitwa"/>
             <TextView
                     android:text="@string/wszechmog_cy_wieczny_bo_e_z_twojego_natchnienia_naj_wi_tsza_maryja_panna_kt_ra_nosi_a_w_onie_twojego_syna_nawiedzi_a_el_biet_spraw_aby_my_byli_pos_uszni_natchnieniom_ducha_wi_tego_i_zawsze_mogli_z_maryj_ciebie_uwielbia_przez_chrystusa_pana_naszego_amen"
-                    android:id="@+id/textView563"
+                    android:id="@+id/textView579"
                     style="@style/paragraf_Text"/>
 
             <TextView
                     android:text="@string/rozwa_anie_s_owa"
-                    android:id="@+id/textView564"
+                    android:id="@+id/textView580"
                     style="@style/rozwazanie_slowa"/>
 
             <TextView
-                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_1_45_el_bieta_powiedzia_a_do_maryi_b_ogos_awiona_jeste_kt_ra_uwierzy_a_e_spe_ni_si_s_owa_powiedziane_ci_od_pana"
+                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_1_41_44_gdy_el_bieta_us_ysza_a_pozdrowienie_maryi_poruszy_o_si_dzieci_tko_w_jej_onie_a_duch_wi_ty_nape_ni_el_biet_el_bieta_powiedzia_a_do_maryi_oto_skoro_g_os_twego_pozdrowienia_zabrzmia_w_moich_uszach_poruszy_o_si_z_rado_ci_dzieci_tko_w_moim_onie"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView565"/>
+                    android:id="@+id/textView581"/>
             <TextView
-                    android:text="@string/w_jan_pawe_ii_jedn_z_encyklik_po_wi_ci_maryi_m_wi_w_niej_wiele_o_wierze_matki_jezusa_warto_tu_przywo_a_cho_kilka_my_li_z_tego_papieskiego_rozwa_ania"
-                    android:id="@+id/textView566"
+                    android:text="@string/el_bieta_by_a_ju_w_sz_stym_miesi_cu_jak_powiedzia_anio_maryi_nie_jest_wi_c_chyba_czym_nadzwyczajnym_e_dziecko_poruszy_o_si_w_jej_onie_tymczasem_ewangelia_a_dwukrotnie_m_wi_o_tym_poruszeniu_si_dzieci_cia_najpierw_stwierdza_to_sam_ewangelista_a_potem_powtarza_to_samo_el_bieta_nape_niona_duchem_wi_tym_nie_chodzi_wi_c_o_zwyk_e_zachowanie_si_dziecka_w_onie_matki"
+                    android:id="@+id/textView582"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="@string/wszystkie_s_owa_w_pozdrowieniu_el_biety_maj_donios_wymow_jednak_e_znaczenie_kluczowe_wydaje_si_posiada_to_co_m_wi_ona_na_ko_cu_b_ogos_awiona_jeste_kt_ra_uwierzy_a_e_spe_ni_si_s_owa_powiedziane_ci_od_pana_k_1_45_mo_na_postawi_te_s_owa_obok_wyra_enia_aski_pe_na_w_pozdrowieniu_anio_a_ods_ania_si_w_nich_podobnie_jak_w_tamtych_zasadnicza_tre_mariologiczna_zasadnicza_prawda_o_maryi_kt_ra_sta_a_si_rzeczywi_cie_obecna_w_tajemnicy_chrystusa_w_a_nie_przez_to_e_uwierzy_a_redemptoris_mater_12"
-                    android:id="@+id/textView567"
+                    android:text="@string/zapewne_realizuje_si_w_tej_chwili_zapowied_jak_us_ysza_w_wi_tyni_zachariasz_ojciec_w_jana_chrzciciela_b_dzie_on_wielki_w_oczach_pana_wina_i_sycery_pi_nie_b_dzie_i_ju_w_onie_matki_nape_niony_b_dzie_duchem_wi_tym_k_1_15_potem_po_narodzeniu_w_jana_chrzciciela_zn_w_s_yszymy_s_owa_o_wylaniu_ducha_jego_ojciec_zachariasz_zosta_nape_niony_duchem_wi_tym_i_zacz_prorokowa_m_wi_c_k_1_67"
+                    android:id="@+id/textView583"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="@string/s_owa_el_biety_b_ogos_awiona_jeste_kt_ra_uwierzy_a_odnosz_si_nie_tylko_do_tego_szczeg_owego_momentu_jakim_by_o_zwiastowanie_je_li_chodzi_o_wiar_maryi_oczekuj_cej_chrystusa_zwiastowanie_jest_z_pewno_ci_momentem_prze_omowym_ale_zarazem_jest_tak_e_punktem_wyj_cia_od_kt_rego_zaczyna_si_ca_e_itinerarium_ku_bogu_ca_a_jej_droga_wiary_na_tej_za_drodze_w_spos_b_niezwyk_y_zaiste_heroiczny_owszem_z_coraz_wi_kszym_heroizmem_wiary_b_dzie_si_urzeczywistnia_owo_pos_usze_stwo_kt_re_wyzna_a_wobec_s_owa_bo_ego_objawienia_a_to_pos_usze_stwo_wiary_ze_strony_maryi_w_ci_gu_ca_ej_drogi_posiada_b_dzie_zadziwiaj_ce_podobie_stwo_do_wiary_abrahama_podobnie_jak_ten_patriarcha_ca_ego_ludu_bo_ego_tak_i_maryja_w_ci_gu_ca_ej_drogi_swego_uleg_ego_macierzy_skiego_fiat_b_dzie_potwierdza_i_wbrew_nadziei_uwierzy_a_nadziei_redemptoris_mater_14"
-                    android:id="@+id/textView568"
+                    android:text="@string/gdy_maryja_przynios_a_jezusa_do_el_biety_wszyscy_domownicy_zostali_nape_nieni_duchem_wi_tym_jezus_zaraz_po_swoim_przyj_ciu_na_ziemi_cho_jego_ludzkie_cia_o_dopiero_zacz_o_si_kszta_towa_w_onie_maryi_objawia_si_jako_ten_kt_ry_przynosi_ducha_i_u_wi_ca_ca_rodzin_ka_dy_jej_cz_onek_odczuwa_to_dzia_anie_inaczej_dziecko_w_onie_matki_si_porusza_matka_wydaje_okrzyk_i_wypowiada_s_owa_kt_re_wiadcz_o_otrzymaniu_szczeg_lnego_daru_zachariasz_prorokuje_i_piewa_pie_kt_rej_nie_m_g_by_za_piewa_inaczej_ni_pod_natchnieniem_ducha"
+                    android:id="@+id/textView584"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="@string/z_tymi_s_owami_papie_a_wchodz_w_rozwa_anie_r_a_cowej_tajemnicy_pragn_aby_moc_wiary_maryi_ogarn_a_r_wnie_mnie_i_promieniowa_a_na_wszystkich_ludzi"
-                    android:id="@+id/textView569"
+                    android:text="@string/uwielbiam_jezusa_w_jego_przedziwnym_dzia_aniu_w_yciu_ludzi_pragn_w_tej_tajemnicy_r_a_ca_jeszcze_bardziej_zbli_y_si_do_maryi_aby_za_jej_przyczyn_jeszcze_mocniej_uwierzy_e_jezus_nape_nia_duchem_wi_tym_wszystkich_cz_onk_w_rodziny_chc_jeszcze_bardziej_otworzy_si_na_przyj_cie_tego_niebieskiego_daru"
+                    android:id="@+id/textView585"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
                     android:text="@string/dziesi_tek_r_a_ca"
-                    android:id="@+id/textView570"
+                    android:id="@+id/textView586"
                     style="@style/dziesiatek_rozanca"/>
 
             <TextView
-                    android:text="@string/przed_chwa_a_ojcu_ko_ci_uwielbia_boga_w_nim_samym_w_jego_niesko_czonej_m_dro_ci_i_mi_o_ci_w_jego_pot_dze_i_wi_to_ci_uwielbia_go_r_wnie_w_maryi_i_wi_tych_dzi_ko_cz_c_odmawianie_dziesi_tka_r_a_ca_chc_szczeg_lnie_uwielbia_boga_w_wierze_maryi_to_by_a_wiara_niezachwiana_wiara_budz_ca_podziw_i_umacniaj_ca_nasz_wiar"
+                    android:text="@string/przed_chwa_a_ojcu_ka_da_godzina_i_minuta_obecno_ci_syna_bo_ego_po_r_d_nas_jest_b_ogos_awie_stwem_i_ask_dla_ka_dego_mieszka_ca_ziemi_jeste_my_obdarowani_jego_czasem_jego_pobytu_w_onie_matki_wzrastania_w_nazarecie_publicznej_dzia_alno_ci_mierci_i_zmartwychwstania_a_tak_e_jego_obecno_ci_w_s_owie_i_w_eucharystii_dzi_uwielbiam_boga_w_tr_jcy_wi_tej_jedynego_za_cuda_jakie_dokona_y_si_ain_karim_gdy_maryja_nawiedzi_a_dom_el_biety_i_zachariasza"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView571"/>
+                    android:id="@+id/textView587"/>
             <TextView
                     android:text="@string/akt_strzelisty"
-                    android:id="@+id/textView572"
+                    android:id="@+id/textView588"
                     style="@style/intencje_modlitwy"/>
             <TextView
                     android:text="@string/bo_e_w_tr_jcy_wi_tej_jedyny_otw_rz_moje_oczy_abym_m_g_wyra_niej_widzie_wielkie_dzie_a_jakich_dokona_e_w_tajemnicy_nawiedzenia_w_el_biety"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView573"/>
+                    android:id="@+id/textView589"/>
             <TextView
                     android:text="@string/intencje_modlitwy"
-                    android:id="@+id/textView574"
+                    android:id="@+id/textView590"
                     style="@style/intencje_modlitwy"/>
 
             <TextView
                     android:text="@string/pro_ba_o_owoce_rozwa_ania_tajemnicy_naucz_mnie_ojcze_i_z_po_piechem_do_moich_bliskich_przez_wstawiennictwo_maryi_prosz_ci_abym_zawsze_szed_do_nich_z_jezusem_w_sercu_i_wyprasza_im_dar_ducha_wi_tego"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView575"
+                    android:id="@+id/textView591"
                     android:textStyle="italic"
                     android:paddingBottom="80sp"/>
 

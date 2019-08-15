@@ -84,15 +84,15 @@
                     android:layout_height="wrap_content" android:id="@+id/button61"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
-                    android:text="@string/dzie_9_poczniesz_i_porodzisz_syna"
+                    android:text="@string/dzie_9_jezus_nape_nia_duchem_wi_tym"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button31"
+                    android:layout_height="wrap_content" android:id="@+id/button62"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button32"
+                    android:layout_height="wrap_content" android:id="@+id/button63"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_10_duch_zst_pi_na_ciebie1"/>
+                    android:text="@string/dzie_10_maryja_kr_lowa_aposto_w"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button34"
@@ -147,7 +147,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button44"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 21. Stało się Ciałem"/>
+                    android:text="@string/dzie_21_sta_o_si_cia_em"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button45"
@@ -182,17 +182,17 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button51"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 28. Podsumowanie"/>
+                    android:text="@string/dzie_28_podsumowanie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button52"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 29. Podsumowanie"/>
+                    android:text="@string/dzie_29_podsumowanie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button53"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 30. Podsumowanie"/>
+                    android:text="@string/dzie_30_podsumowanie"/>
 
 
 

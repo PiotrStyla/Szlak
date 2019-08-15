@@ -153,7 +153,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button44"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 21. Stało się Ciałem"/>
+                    android:text="@string/dzie_21_sta_o_si_cia_em"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button45"

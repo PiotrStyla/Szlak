@@ -839,7 +839,6 @@
     <string name="dzie_18_dar_wzrostu">DZIEŃ 18. Dar wzrostu</string>
     <string name="dzie_19_na_pocz_tku_by_o_s_owo">DZIEŃ 19. Na początku było Słowo</string>
     <string name="dzie_20_bogiem_by_o_s_owo">DZIEŃ 20. Bogiem Było Słowo</string>
-    <string name="dzie_21_sta_o_si_cia_em">DZIEŃ 21. Stało się Ciałem</string>
     <string name="dzie_22_wiat_go_nie_pozna">DZIEŃ 22. Świat Go nie poznał</string>
     <string name="dzie_23_ci_kt_rzy_go_nie_przyj_li">DZIEŃ 23. Ci, którzy Go nie przyjęli</string>
     <string name="dzie_24_ci_kt_rzy_je_przyj_li">DZIEŃ 24. Ci, którzy Je przyjęli</string>
@@ -1339,4 +1338,87 @@
         szczególnie uwielbiać Boga w wierze Maryi. To była wiara niezachwiana, wiara budząca podziw i umacniająca naszą
         wiarę.
     </string>
+    <string name="dzie_9_jezus_nape_nia_duchem_wi_tym">DZIEŃ 9. Jezus napełnia Duchem Świętym</string>
+    <string name="w_tajemnicy_nawiedzenia_w_el_biety_odkrywam_prawd_e_wszyscy_cz_onkowie_rodziny_zostaj_nape_nieni_duchem_wi_tym_jezus_b_d_c_jeszcze_w_onie_swej_matki_objawia_si_jako_ten_kt_ry_przynosi_ducha_pragn_w_dniu_dzisiejszym_rozwa_a_t_prawd_w_r_a_cu">
+        W tajemnicy nawiedzenia św. Elżbiety odkrywam prawdę, że wszyscy członkowie rodziny zostają napełnieni Duchem
+        Świętym. Jezus, będąc jeszcze w łonie swej Matki, objawia się jako Ten, który przynosi Ducha. Pragnę w dniu
+        dzisiejszym rozważać tę prawdę w różańcu.
+    </string>
+    <string name="z_ewangelii_wed_ug_w_ukasza_1_41_44_gdy_el_bieta_us_ysza_a_pozdrowienie_maryi_poruszy_o_si_dzieci_tko_w_jej_onie_a_duch_wi_ty_nape_ni_el_biet_el_bieta_powiedzia_a_do_maryi_oto_skoro_g_os_twego_pozdrowienia_zabrzmia_w_moich_uszach_poruszy_o_si_z_rado_ci_dzieci_tko_w_moim_onie">
+        Z Ewangelii według św. Łukasza (1,41.44): „Gdy Elżbieta usłyszała pozdrowienie Maryi, poruszyło się dzieciątko w
+        jej łonie, a Duch Święty napełnił Elżbietę” [...]. Elżbieta powiedziała do Maryi: «Oto, skoro głos Twego
+        pozdrowienia zabrzmiał w moich uszach, poruszyło się z radości dzieciątko w moim łonie».
+    </string>
+    <string name="el_bieta_by_a_ju_w_sz_stym_miesi_cu_jak_powiedzia_anio_maryi_nie_jest_wi_c_chyba_czym_nadzwyczajnym_e_dziecko_poruszy_o_si_w_jej_onie_tymczasem_ewangelia_a_dwukrotnie_m_wi_o_tym_poruszeniu_si_dzieci_cia_najpierw_stwierdza_to_sam_ewangelista_a_potem_powtarza_to_samo_el_bieta_nape_niona_duchem_wi_tym_nie_chodzi_wi_c_o_zwyk_e_zachowanie_si_dziecka_w_onie_matki">
+        Elżbieta była już „w szóstym miesiącu”, jak powiedział Anioł Maryi. Nie jest więc chyba czymś nadzwyczajnym, że
+        dziecko poruszyło się w jej łonie. Tymczasem Ewangelia aż dwukrotnie mówi o tym poruszeniu się dziecięcia.
+        Najpierw stwierdza to sam Ewangelista, a potem powtarza to samo Elżbieta, napełniona Duchem Świętym. Nie chodzi
+        więc o zwykłe zachowanie się dziecka w łonie matki.
+    </string>
+    <string name="zapewne_realizuje_si_w_tej_chwili_zapowied_jak_us_ysza_w_wi_tyni_zachariasz_ojciec_w_jana_chrzciciela_b_dzie_on_wielki_w_oczach_pana_wina_i_sycery_pi_nie_b_dzie_i_ju_w_onie_matki_nape_niony_b_dzie_duchem_wi_tym_k_1_15_potem_po_narodzeniu_w_jana_chrzciciela_zn_w_s_yszymy_s_owa_o_wylaniu_ducha_jego_ojciec_zachariasz_zosta_nape_niony_duchem_wi_tym_i_zacz_prorokowa_m_wi_c_k_1_67">
+        Zapewne realizuje się w tej chwili zapowiedź, jaką usłyszał w świątyni Zachariasz, ojciec św. Jana Chrzciciela:
+        „Będzie on wielki w oczach Pana; wina i sycery pić nie będzie i już w łonie matki napełniony będzie Duchem
+        Świętym” (Łk 1,15). Potem, po narodzeniu św. Jana Chrzciciela, znów słyszymy słowa o wylaniu Ducha: „Jego
+        ojciec, Zachariasz, został napełniony Duchem Świętym i zaczął prorokować mówiąc” (Łk 1,67).
+    </string>
+    <string name="gdy_maryja_przynios_a_jezusa_do_el_biety_wszyscy_domownicy_zostali_nape_nieni_duchem_wi_tym_jezus_zaraz_po_swoim_przyj_ciu_na_ziemi_cho_jego_ludzkie_cia_o_dopiero_zacz_o_si_kszta_towa_w_onie_maryi_objawia_si_jako_ten_kt_ry_przynosi_ducha_i_u_wi_ca_ca_rodzin_ka_dy_jej_cz_onek_odczuwa_to_dzia_anie_inaczej_dziecko_w_onie_matki_si_porusza_matka_wydaje_okrzyk_i_wypowiada_s_owa_kt_re_wiadcz_o_otrzymaniu_szczeg_lnego_daru_zachariasz_prorokuje_i_piewa_pie_kt_rej_nie_m_g_by_za_piewa_inaczej_ni_pod_natchnieniem_ducha">
+        Gdy Maryja przyniosła Jezusa do Elżbiety, wszyscy domownicy zostali napełnieni Duchem Świętym. Jezus, zaraz po
+        swoim przyjściu na ziemię, choć Jego ludzkie ciało dopiero zaczęło się kształtować w łonie Maryi, objawia się
+        jako Ten, który przynosi Ducha i uświęca całą rodzinę. Każdy jej członek odczuwa to działanie inaczej. Dziecko w
+        łonie matki się porusza, matka wydaje okrzyk i wypowiada słowa, które świadczą o otrzymaniu szczególnego daru,
+        Zachariasz prorokuje i śpiewa pieśń, której nie mógłby zaśpiewać inaczej niż pod natchnieniem Ducha.
+    </string>
+    <string name="uwielbiam_jezusa_w_jego_przedziwnym_dzia_aniu_w_yciu_ludzi_pragn_w_tej_tajemnicy_r_a_ca_jeszcze_bardziej_zbli_y_si_do_maryi_aby_za_jej_przyczyn_jeszcze_mocniej_uwierzy_e_jezus_nape_nia_duchem_wi_tym_wszystkich_cz_onk_w_rodziny_chc_jeszcze_bardziej_otworzy_si_na_przyj_cie_tego_niebieskiego_daru">
+        Uwielbiam Jezusa w Jego przedziwnym działaniu w życiu ludzi. Pragnę w tej tajemnicy różańca jeszcze bardziej
+        zbliżyć się do Maryi, aby za Jej przyczyną jeszcze mocniej uwierzyć, że Jezus napełnia Duchem Świętym wszystkich
+        członków rodziny. Chcę jeszcze bardziej otworzyć się na przyjęcie tego niebieskiego Daru.
+    </string>
+    <string name="przed_chwa_a_ojcu_ka_da_godzina_i_minuta_obecno_ci_syna_bo_ego_po_r_d_nas_jest_b_ogos_awie_stwem_i_ask_dla_ka_dego_mieszka_ca_ziemi_jeste_my_obdarowani_jego_czasem_jego_pobytu_w_onie_matki_wzrastania_w_nazarecie_publicznej_dzia_alno_ci_mierci_i_zmartwychwstania_a_tak_e_jego_obecno_ci_w_s_owie_i_w_eucharystii_dzi_uwielbiam_boga_w_tr_jcy_wi_tej_jedynego_za_cuda_jakie_dokona_y_si_ain_karim_gdy_maryja_nawiedzi_a_dom_el_biety_i_zachariasza">
+        Przed „Chwała Ojcu”: Każda godzina i minuta obecności Syna Bożego pośród nas jest błogosławieństwem i łaską dla
+        każdego mieszkańca ziemi. Jesteśmy obdarowani Jego czasem Jego pobytu w łonie Matki, wzrastania w Nazarecie,
+        publicznej działalności, śmierci i zmartwychwstania, a także Jego obecności w słowie i w Eucharystii. Dziś
+        uwielbiam Boga w Trójcy Świętej Jedynego za cuda, jakie dokonały się Ain-Karim, gdy Maryja nawiedziła dom
+        Elżbiety i Zachariasza.
+    </string>
+    <string name="dzie_10_maryja_kr_lowa_aposto_w">DZIEŃ 10. Maryja Królowa Apostołów</string>
+    <string name="dzie_21_sta_o_si_cia_em">DZIEŃ 21. Stało się Ciałem</string>
+    <string name="pragn_kontynuowa_wczorajsze_rozwa_ania_kt_re_pomagaj_mi_zrozumie_e_przyj_cie_maryi_do_el_biety_nie_by_o_tylko_zwyk_ym_odwiedzeniem_krewnej_gdy_prze_ywa_ona_czas_oczekiwania_na_narodzenie_syna_maryja_jest_tutaj_ukazana_jako_ta_kt_ra_przynosi_jezusa_i_przyczynia_si_do_nape_nienia_wszystkich_cz_onk_w_rodziny_duchem_wi_tym_to_by_pierwowz_r_wszystkich_apostolskich_podr_y_a_maryja_w_ca_ej_prostocie_swego_dzia_ania_ukazuje_si_jako_kr_lowa_aposto_w">
+        Pragnę kontynuować wczorajsze rozważania, które pomagają mi zrozumieć, że przyjście Maryi do Elżbiety, nie było
+        tylko zwykłym odwiedzeniem krewnej, gdy przeżywa ona czas oczekiwania na narodzenie syna. Maryja jest tutaj
+        ukazana jako Ta, która przynosi Jezusa i przyczynia się do napełnienia wszystkich członków rodziny Duchem
+        Świętym. To był pierwowzór wszystkich apostolskich podróży, a Maryja w całej prostocie swego działania ukazuje
+        się jako Królowa Apostołów.
+    </string>
+    <string name="z_ksi_gi_proroka_izajasza_52_7_o_jak_s_pe_ne_wdzi_ku_na_g_rach_nogi_zwiastuna_radosnej_nowiny_kt_ry_og_asza_pok_j_zwiastuje_szcz_cie_kt_ry_obwieszcza_zbawienie_kt_ry_m_wi_do_syjonu_tw_j_b_g_zacz_kr_lowa">
+        Z Księgi proroka Izajasza (52,7): „O jak są pełne wdzięku na górach nogi zwiastuna radosnej nowiny, który
+        ogłasza pokój, zwiastuje szczęście, który obwieszcza zbawienie, który mówi do Syjonu: «Twój Bóg zaczął
+        królować»”.
+    </string>
+    <string name="do_tego_fragmentu_proroka_izajasza_odwo_uje_si_papie_jan_pawe_ii_gdy_snuje_refleksj_nad_drog_maryi_do_el_biety_papie_w_czasie_audiencji_generalnej_m_wi_2_10_1996_kontekst_ewangelii_ukaszowej_zdaje_si_wskazywa_e_r_wnie_okre_lenie_w_g_ry_k_1_39_jest_czym_znacznie_wi_cej_ni_tylko_informacj_topograficzn_jako_e_przywodzi_na_my_l_g_osiciela_dobrej_nowiny_opisanego_w_ksi_dze_izajasza_o_jak_s_pe_ne_wdzi_ku_na_g_rach_nogi_zwiastuna_radosnej_nowiny">
+        <![CDATA[Do tego fragmentu proroka Izajasza odwołuje się papież Jan Paweł II, gdy snuje refleksję nad drogą Maryi do Elżbiety. Papież w czasie audiencji generalnej mówił (2.10.1996): „Kontekst Ewangelii Łukaszowej zdaje się wskazywać, że również określenie «w góry» (Łk 1,39) jest czymś znacznie więcej niż tylko informacją topograficzną, jako że przywodzi na myśl głosiciela Dobrej Nowiny opisanego w Księdze Izajasza: «O jak są pełne wdzięku na górach nogi zwiastuna radosnej nowiny...». ]]></string>
+    <string name="podobnie_jak_w_pawe_kt_ry_stwierdza_e_wype_nieniem_tego_proroczego_tekstu_jest_g_oszenie_ewangelii_rz_10_15_tak_e_w_ukasz_zdaje_si_nas_zach_ca_by_my_widzieli_w_maryi_pierwsz_g_osicielk_ewangelii_kt_ra_szerzy_dobr_nowin_i_daje_pocz_tek_misyjnym_w_dr_wkom_swego_boskiego_syna">
+        Podobnie jak św. Paweł, który stwierdza, że wypełnieniem tego proroczego tekstu jest głoszenie Ewangelii (Rz
+        10,15), także św. Łukasz zdaje się nas zachęcać, byśmy widzieli w Maryi pierwszą «głosicielkę Ewangelii», która
+        szerzy «Dobrą Nowinę» i daje początek misyjnym wędrówkom swego Boskiego Syna.
+    </string>
+    <string name="szczeg_lnie_znamienny_jest_wreszcie_sam_kierunek_podr_y_naj_wi_tszej_panny_prowadzi_ona_z_galilei_do_judei_podobnie_jak_misyjna_droga_jezusa_por_9_51_istotnie_nawiedzaj_c_el_biet_maryja_niejako_zapowiada_misj_jezusa_a_wsp_dzia_aj_c_od_samego_pocz_tku_swego_macierzy_stwa_z_odkupie_czym_dzie_em_syna_staje_si_wzorem_tych_cz_onk_w_ko_cio_a_kt_rzy_wyruszaj_w_drog_aby_nie_wiat_o_i_rado_chrystusa_ludziom_wszystkich_kraj_w_i_wszystkich_czas_w">
+        Szczególnie znamienny jest wreszcie sam kierunek podróży Najświętszej Panny: prowadzi ona z Galilei do Judei,
+        podobnie jak misyjna droga Jezusa (por. 9,51). Istotnie, nawiedzając Elżbietę Maryja niejako zapowiada misję
+        Jezusa, a współdziałając od samego początku swego macierzyństwa z odkupieńczym dziełem Syna, staje się wzorem
+        tych członków Kościoła, którzy wyruszają w drogę, aby nieść światło i radość Chrystusa ludziom wszystkich krajów
+        i wszystkich czasów”.
+    </string>
+    <string name="chc_na_ladowa_maryj_w_prostocie_jej_apostolstwa_chc_nie_jezusa_i_wyprasza_ducha_wi_tego_ludziom_tak_jak_ona_to_czyni_a_modl_si_do_niej_jako_do_kr_lowej_aposto_w_ko_ci_nada_jej_ten_tytu_gdy_ona_najdoskonalej_wype_ni_a_misj_apostolsk_jaka_jest_powierzona_ca_emu_ludowi_bo_emu">
+        <![CDATA[Chcę naśladować Maryję w prostocie Jej apostolstwa. Chcę nieść Jezusa i wypraszać Ducha Świętego ludziom tak, jak Ona to czyniła. Modlę się do Niej jako do Królowej Apostołów. Kościół nadał Jej ten tytuł, gdyż Ona najdoskonalej wypełniła misję apostolską, jaka jest powierzona całemu ludowi Bożemu. ]]></string>
+    <string name="przed_chwa_a_ojcu_uwie_czeniem_rozmowy_maryi_z_el_biet_wed_ug_przekazu_ewangelii_by_piew_uwielbienia_boga_kt_ry_rozlega_si_w_sercu_maryi_i_kt_ry_ona_wyrazi_a_s_owami_ko_cz_c_rozwa_anie_r_a_cowej_tajemnicy_pragn_aby_uwielbienie_kt_re_prze_ywam_w_sercu_wyrazi_o_si_r_wnie_w_s_owach_wypowiadam_jedno_zdanie_chwa_a_ojcu_ale_b_g_wie_e_wyra_am_w_nim_ca_e_moje_uwielbienie_dzi_pragn_go_uwielbia_w_spos_b_szczeg_lny_za_to_e_uczyni_maryj_kr_low_aposto_w_i_pokaza_mi_jak_j_na_ladowa_w_niesieniu_chrystusa_innym_ludziom">
+        Przed „Chwała Ojcu”: Uwieńczeniem rozmowy Maryi z Elżbietą, według przekazu Ewangelii, był śpiew uwielbienia
+        Boga, który rozlegał się w sercu Maryi i który Ona wyraziła słowami. Kończąc rozważanie różańcowej tajemnicy
+        pragnę, aby uwielbienie, które przeżywam w sercu, wyraziło się również w słowach. Wypowiadam jedno zdanie
+        „Chwała Ojcu...”, ale Bóg wie, że wyrażam w nim całe moje uwielbienie. Dziś pragnę Go uwielbiać w sposób
+        szczególny za to, że uczynił Maryję Królową Apostołów i pokazał mi, jak Ją naśladować w niesieniu Chrystusa
+        innym ludziom.
+    </string>
+    <string name="dzie_28_podsumowanie">DZIEŃ 28. Podsumowanie</string>
+    <string name="dzie_29_podsumowanie">DZIEŃ 29. Podsumowanie</string>
+    <string name="dzie_30_podsumowanie">DZIEŃ 30. Podsumowanie</string>
 </resources>

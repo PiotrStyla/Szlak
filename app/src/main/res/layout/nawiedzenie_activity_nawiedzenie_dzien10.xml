@@ -6,13 +6,13 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginEnd="16dp"
-        tools:context=".NawiedzenieDzien8"
+        tools:context=".NawiedzenieDzien10"
         android:id="@+id/linearLayout">
     <TextView
-            android:text="@string/dzie_8_b_ogos_awiona_kt_ra_uwierzy_a"
+            android:text="@string/dzie_10_maryja_kr_lowa_aposto_w"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textView560"
+            android:id="@+id/textView592"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="16dp"
             android:layout_marginTop="16dp"
@@ -25,7 +25,7 @@
     <ScrollView
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView560"
+            app:layout_constraintTop_toBottomOf="@+id/textView592"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
@@ -41,70 +41,70 @@
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
             <TextView
-                    android:text="@string/el_bieta_b_d_c_pod_natchnieniem_ducha_wi_tego_m_wi_o_wierze_maryi_rozpoznaje_w_swoim_sercu_jak_wielka_to_by_a_wiara_nazywa_maryj_b_ogos_awion_a_wi_c_szcz_liw_dlatego_e_ma_tak_wielk_wiar_o_ni_si_dzi_szczeg_lnie_modl"
+                    android:text="@string/pragn_kontynuowa_wczorajsze_rozwa_ania_kt_re_pomagaj_mi_zrozumie_e_przyj_cie_maryi_do_el_biety_nie_by_o_tylko_zwyk_ym_odwiedzeniem_krewnej_gdy_prze_ywa_ona_czas_oczekiwania_na_narodzenie_syna_maryja_jest_tutaj_ukazana_jako_ta_kt_ra_przynosi_jezusa_i_przyczynia_si_do_nape_nienia_wszystkich_cz_onk_w_rodziny_duchem_wi_tym_to_by_pierwowz_r_wszystkich_apostolskich_podr_y_a_maryja_w_ca_ej_prostocie_swego_dzia_ania_ukazuje_si_jako_kr_lowa_aposto_w"
                     style="@style/paragraf_Text_optimum"
                     android:textStyle="italic"
-                    android:id="@+id/textView561"/>
+                    android:id="@+id/textView593"/>
             <TextView
                     android:text="@string/modlitwa"
-                    android:id="@+id/textView562"
+                    android:id="@+id/textView594"
                     style="@style/modlitwa"/>
             <TextView
                     android:text="@string/wszechmog_cy_wieczny_bo_e_z_twojego_natchnienia_naj_wi_tsza_maryja_panna_kt_ra_nosi_a_w_onie_twojego_syna_nawiedzi_a_el_biet_spraw_aby_my_byli_pos_uszni_natchnieniom_ducha_wi_tego_i_zawsze_mogli_z_maryj_ciebie_uwielbia_przez_chrystusa_pana_naszego_amen"
-                    android:id="@+id/textView563"
+                    android:id="@+id/textView595"
                     style="@style/paragraf_Text"/>
 
             <TextView
                     android:text="@string/rozwa_anie_s_owa"
-                    android:id="@+id/textView564"
+                    android:id="@+id/textView596"
                     style="@style/rozwazanie_slowa"/>
 
             <TextView
-                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_1_45_el_bieta_powiedzia_a_do_maryi_b_ogos_awiona_jeste_kt_ra_uwierzy_a_e_spe_ni_si_s_owa_powiedziane_ci_od_pana"
+                    android:text="@string/z_ksi_gi_proroka_izajasza_52_7_o_jak_s_pe_ne_wdzi_ku_na_g_rach_nogi_zwiastuna_radosnej_nowiny_kt_ry_og_asza_pok_j_zwiastuje_szcz_cie_kt_ry_obwieszcza_zbawienie_kt_ry_m_wi_do_syjonu_tw_j_b_g_zacz_kr_lowa"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView565"/>
+                    android:id="@+id/textView597"/>
             <TextView
-                    android:text="@string/w_jan_pawe_ii_jedn_z_encyklik_po_wi_ci_maryi_m_wi_w_niej_wiele_o_wierze_matki_jezusa_warto_tu_przywo_a_cho_kilka_my_li_z_tego_papieskiego_rozwa_ania"
-                    android:id="@+id/textView566"
+                    android:text="@string/do_tego_fragmentu_proroka_izajasza_odwo_uje_si_papie_jan_pawe_ii_gdy_snuje_refleksj_nad_drog_maryi_do_el_biety_papie_w_czasie_audiencji_generalnej_m_wi_2_10_1996_kontekst_ewangelii_ukaszowej_zdaje_si_wskazywa_e_r_wnie_okre_lenie_w_g_ry_k_1_39_jest_czym_znacznie_wi_cej_ni_tylko_informacj_topograficzn_jako_e_przywodzi_na_my_l_g_osiciela_dobrej_nowiny_opisanego_w_ksi_dze_izajasza_o_jak_s_pe_ne_wdzi_ku_na_g_rach_nogi_zwiastuna_radosnej_nowiny"
+                    android:id="@+id/textView598"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="@string/wszystkie_s_owa_w_pozdrowieniu_el_biety_maj_donios_wymow_jednak_e_znaczenie_kluczowe_wydaje_si_posiada_to_co_m_wi_ona_na_ko_cu_b_ogos_awiona_jeste_kt_ra_uwierzy_a_e_spe_ni_si_s_owa_powiedziane_ci_od_pana_k_1_45_mo_na_postawi_te_s_owa_obok_wyra_enia_aski_pe_na_w_pozdrowieniu_anio_a_ods_ania_si_w_nich_podobnie_jak_w_tamtych_zasadnicza_tre_mariologiczna_zasadnicza_prawda_o_maryi_kt_ra_sta_a_si_rzeczywi_cie_obecna_w_tajemnicy_chrystusa_w_a_nie_przez_to_e_uwierzy_a_redemptoris_mater_12"
-                    android:id="@+id/textView567"
+                    android:text="@string/podobnie_jak_w_pawe_kt_ry_stwierdza_e_wype_nieniem_tego_proroczego_tekstu_jest_g_oszenie_ewangelii_rz_10_15_tak_e_w_ukasz_zdaje_si_nas_zach_ca_by_my_widzieli_w_maryi_pierwsz_g_osicielk_ewangelii_kt_ra_szerzy_dobr_nowin_i_daje_pocz_tek_misyjnym_w_dr_wkom_swego_boskiego_syna"
+                    android:id="@+id/textView599"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="@string/s_owa_el_biety_b_ogos_awiona_jeste_kt_ra_uwierzy_a_odnosz_si_nie_tylko_do_tego_szczeg_owego_momentu_jakim_by_o_zwiastowanie_je_li_chodzi_o_wiar_maryi_oczekuj_cej_chrystusa_zwiastowanie_jest_z_pewno_ci_momentem_prze_omowym_ale_zarazem_jest_tak_e_punktem_wyj_cia_od_kt_rego_zaczyna_si_ca_e_itinerarium_ku_bogu_ca_a_jej_droga_wiary_na_tej_za_drodze_w_spos_b_niezwyk_y_zaiste_heroiczny_owszem_z_coraz_wi_kszym_heroizmem_wiary_b_dzie_si_urzeczywistnia_owo_pos_usze_stwo_kt_re_wyzna_a_wobec_s_owa_bo_ego_objawienia_a_to_pos_usze_stwo_wiary_ze_strony_maryi_w_ci_gu_ca_ej_drogi_posiada_b_dzie_zadziwiaj_ce_podobie_stwo_do_wiary_abrahama_podobnie_jak_ten_patriarcha_ca_ego_ludu_bo_ego_tak_i_maryja_w_ci_gu_ca_ej_drogi_swego_uleg_ego_macierzy_skiego_fiat_b_dzie_potwierdza_i_wbrew_nadziei_uwierzy_a_nadziei_redemptoris_mater_14"
-                    android:id="@+id/textView568"
+                    android:text="@string/szczeg_lnie_znamienny_jest_wreszcie_sam_kierunek_podr_y_naj_wi_tszej_panny_prowadzi_ona_z_galilei_do_judei_podobnie_jak_misyjna_droga_jezusa_por_9_51_istotnie_nawiedzaj_c_el_biet_maryja_niejako_zapowiada_misj_jezusa_a_wsp_dzia_aj_c_od_samego_pocz_tku_swego_macierzy_stwa_z_odkupie_czym_dzie_em_syna_staje_si_wzorem_tych_cz_onk_w_ko_cio_a_kt_rzy_wyruszaj_w_drog_aby_nie_wiat_o_i_rado_chrystusa_ludziom_wszystkich_kraj_w_i_wszystkich_czas_w"
+                    android:id="@+id/textView600"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="@string/z_tymi_s_owami_papie_a_wchodz_w_rozwa_anie_r_a_cowej_tajemnicy_pragn_aby_moc_wiary_maryi_ogarn_a_r_wnie_mnie_i_promieniowa_a_na_wszystkich_ludzi"
-                    android:id="@+id/textView569"
+                    android:text="@string/chc_na_ladowa_maryj_w_prostocie_jej_apostolstwa_chc_nie_jezusa_i_wyprasza_ducha_wi_tego_ludziom_tak_jak_ona_to_czyni_a_modl_si_do_niej_jako_do_kr_lowej_aposto_w_ko_ci_nada_jej_ten_tytu_gdy_ona_najdoskonalej_wype_ni_a_misj_apostolsk_jaka_jest_powierzona_ca_emu_ludowi_bo_emu"
+                    android:id="@+id/textView601"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
                     android:text="@string/dziesi_tek_r_a_ca"
-                    android:id="@+id/textView570"
+                    android:id="@+id/textView602"
                     style="@style/dziesiatek_rozanca"/>
 
             <TextView
-                    android:text="@string/przed_chwa_a_ojcu_ko_ci_uwielbia_boga_w_nim_samym_w_jego_niesko_czonej_m_dro_ci_i_mi_o_ci_w_jego_pot_dze_i_wi_to_ci_uwielbia_go_r_wnie_w_maryi_i_wi_tych_dzi_ko_cz_c_odmawianie_dziesi_tka_r_a_ca_chc_szczeg_lnie_uwielbia_boga_w_wierze_maryi_to_by_a_wiara_niezachwiana_wiara_budz_ca_podziw_i_umacniaj_ca_nasz_wiar"
+                    android:text="@string/przed_chwa_a_ojcu_uwie_czeniem_rozmowy_maryi_z_el_biet_wed_ug_przekazu_ewangelii_by_piew_uwielbienia_boga_kt_ry_rozlega_si_w_sercu_maryi_i_kt_ry_ona_wyrazi_a_s_owami_ko_cz_c_rozwa_anie_r_a_cowej_tajemnicy_pragn_aby_uwielbienie_kt_re_prze_ywam_w_sercu_wyrazi_o_si_r_wnie_w_s_owach_wypowiadam_jedno_zdanie_chwa_a_ojcu_ale_b_g_wie_e_wyra_am_w_nim_ca_e_moje_uwielbienie_dzi_pragn_go_uwielbia_w_spos_b_szczeg_lny_za_to_e_uczyni_maryj_kr_low_aposto_w_i_pokaza_mi_jak_j_na_ladowa_w_niesieniu_chrystusa_innym_ludziom"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView571"/>
+                    android:id="@+id/textView603"/>
             <TextView
                     android:text="@string/akt_strzelisty"
-                    android:id="@+id/textView572"
+                    android:id="@+id/textView604"
                     style="@style/intencje_modlitwy"/>
             <TextView
                     android:text="@string/bo_e_w_tr_jcy_wi_tej_jedyny_otw_rz_moje_oczy_abym_m_g_wyra_niej_widzie_wielkie_dzie_a_jakich_dokona_e_w_tajemnicy_nawiedzenia_w_el_biety"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView573"/>
+                    android:id="@+id/textView605"/>
             <TextView
                     android:text="@string/intencje_modlitwy"
-                    android:id="@+id/textView574"
+                    android:id="@+id/textView606"
                     style="@style/intencje_modlitwy"/>
 
             <TextView
                     android:text="@string/pro_ba_o_owoce_rozwa_ania_tajemnicy_naucz_mnie_ojcze_i_z_po_piechem_do_moich_bliskich_przez_wstawiennictwo_maryi_prosz_ci_abym_zawsze_szed_do_nich_z_jezusem_w_sercu_i_wyprasza_im_dar_ducha_wi_tego"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView575"
+                    android:id="@+id/textView607"
                     android:textStyle="italic"
                     android:paddingBottom="80sp"/>
 

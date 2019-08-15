@@ -208,12 +208,12 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button52"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 29. Podsumowanie"/>
+                    android:text="@string/dzie_29_podsumowanie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button53"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 30. Podsumowanie"/>
+                    android:text="@string/dzie_30_podsumowanie"/>
         </LinearLayout>
     </ScrollView>
 </LinearLayout>

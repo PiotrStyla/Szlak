@@ -95,9 +95,9 @@
                     android:text="@string/dzie_10_maryja_kr_lowa_aposto_w"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button34"
+                    android:layout_height="wrap_content" android:id="@+id/button64"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_11_niech_mi_si_stanie"/>
+                    android:text="@string/dzie_11_rodzina_miejsce_apostolstwa"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button35"

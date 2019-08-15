@@ -9,7 +9,7 @@
         tools:context=".NawiedzenieDzien2"
         android:id="@+id/linearLayout">
     <TextView
-            android:text="DZIEŃ 2. Prośba o światło i siły Modlitwa do Syna"
+            android:text="@string/dzie_2_modlitwa_do_syna"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView460"
@@ -41,7 +41,7 @@
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
             <TextView
-                    android:text="Kontynuuję moją prośbę o łaskę głębszego rozumienia tajemnicy Nawiedzenia i szerszego otwarcia serca na ofiarowane mi Boże dary. Modlę się do Zbawiciela, który będąc jeszcze w łonie Matki napełnił Duchem Świętym Jana Chrzciciela."
+                    android:text="@string/kontynuuj_moj_pro_b_o_ask_g_bszego_rozumienia_tajemnicy_nawiedzenia_i_szerszego_otwarcia_serca_na_ofiarowane_mi_bo_e_dary_modl_si_do_zbawiciela_kt_ry_b_d_c_jeszcze_w_onie_matki_nape_ni_duchem_wi_tym_jana_chrzciciela"
                     style="@style/paragraf_Text_optimum"
                     android:textStyle="italic"
                     android:id="@+id/textView461"/>
@@ -50,7 +50,7 @@
                     android:id="@+id/textView462"
                     style="@style/modlitwa"/>
             <TextView
-                    android:text="Wezwałeś mnie, Panie Jezu, abym wchodził do izdebki, zamykał drzwi i rozmawiał z Ojcem. Staram się to czynić od dawna, ale napotykam na wiele trudności. Czasem trudno mi dostrzec, gdzie jest ta izdebka, niekiedy nie umiem zamknąć drzwi, by całkowicie skupić się na modlitwie, zdarza się również, że moja świadomość obecności Ojca jest bardzo słaba. Proszę Cię więc, miłosierny Jezu, abyś udzielił mi łaski wchodzenia do tej izdebki, którą wskazuje tajemnica Nawiedzenia. Udziel mi łaski skupienia na modlitwie i spraw, aby moje spotkanie z Ojcem, na które mnie prowadzisz, było prawdziwą radością mojego serca."
+                    android:text="@string/wezwa_e_mnie_panie_jezu_abym_wchodzi_do_izdebki_zamyka_drzwi_i_rozmawia_z_ojcem_staram_si_to_czyni_od_dawna_ale_napotykam_na_wiele_trudno_ci_czasem_trudno_mi_dostrzec_gdzie_jest_ta_izdebka_niekiedy_nie_umiem_zamkn_drzwi_by_ca_kowicie_skupi_si_na_modlitwie_zdarza_si_r_wnie_e_moja_wiadomo_obecno_ci_ojca_jest_bardzo_s_aba_prosz_ci_wi_c_mi_osierny_jezu_aby_udzieli_mi_aski_wchodzenia_do_tej_izdebki_kt_r_wskazuje_tajemnica_nawiedzenia_udziel_mi_aski_skupienia_na_modlitwie_i_spraw_aby_moje_spotkanie_z_ojcem_na_kt_re_mnie_prowadzisz_by_o_prawdziw_rado_ci_mojego_serca"
                     android:id="@+id/textView463"
                     style="@style/paragraf_Text"/>
 
@@ -60,15 +60,15 @@
                     style="@style/rozwazanie_slowa"/>
 
             <TextView
-                    android:text="Z Ewangelii według św. Łukasza (15,4-6): „Któż z was, gdy ma sto owiec, a zgubi jedną z nich, nie zostawia dziewięćdziesięciu dziewięciu na pustyni i nie idzie za zgubioną, aż ją znajdzie? A gdy ją znajdzie, bierze z radością na ramiona i wraca do domu; sprasza przyjaciół i sąsiadów i mówi im: Cieszcie się ze mną, bo znalazłem owcę, która mi zginęła”."
+                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_15_4_6_kt_z_was_gdy_ma_sto_owiec_a_zgubi_jedn_z_nich_nie_zostawia_dziewi_dziesi_ciu_dziewi_ciu_na_pustyni_i_nie_idzie_za_zgubion_a_j_znajdzie_a_gdy_j_znajdzie_bierze_z_rado_ci_na_ramiona_i_wraca_do_domu_sprasza_przyjaci_i_s_siad_w_i_m_wi_im_cieszcie_si_ze_mn_bo_znalaz_em_owc_kt_ra_mi_zgin_a"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView465"/>
             <TextView
-                    android:text="Jezus zachęca mnie, by wejść do izdebki i zamknąć drzwi, ale moje myśli, a pewnym sensie ja sam jestem jak owca, która ucieka z tego miejsca i błądzi po górach i dolinach, po różnych miejscach oddalonych od owczarni i od Pasterza. Dobry Pasterz czyni wszystko, aby mnie odnaleźć i przyprowadzić do Ojca. "
+                    android:text="@string/jezus_zach_ca_mnie_by_wej_do_izdebki_i_zamkn_drzwi_ale_moje_my_li_a_pewnym_sensie_ja_sam_jestem_jak_owca_kt_ra_ucieka_z_tego_miejsca_i_b_dzi_po_g_rach_i_dolinach_po_r_nych_miejscach_oddalonych_od_owczarni_i_od_pasterza_dobry_pasterz_czyni_wszystko_aby_mnie_odnale_i_przyprowadzi_do_ojca"
                     android:id="@+id/textView466"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="Odnoszę ten obraz również do mojego miesięcznego wysiłku duchowego, aby codziennie wchodzić do izdebki, w której dokonuje się tajemnica Nawiedzenia. Jest to moje wielkie pragnienie i gorąca prośba, z którą zwracam się do Jezusa. Błagam, aby czuwał nade mną, aby mnie odnalazł i przyprowadził, jeśli ucieknę myślą i sercem gdzie indziej, aby pozwolił mi dostrzec Jego obecność i działanie w rozważanej tajemnicy. On jest prawdziwym Bogiem i każda chwila Jego obecności pośród nas na ziemi, choćby się wydawała mało znacząca i niewidzialna dla oka, kryje w sobie bogactwo sięgające nieba."
+                    android:text="@string/odnosz_ten_obraz_r_wnie_do_mojego_miesi_cznego_wysi_ku_duchowego_aby_codziennie_wchodzi_do_izdebki_w_kt_rej_dokonuje_si_tajemnica_nawiedzenia_jest_to_moje_wielkie_pragnienie_i_gor_ca_pro_ba_z_kt_r_zwracam_si_do_jezusa_b_agam_aby_czuwa_nade_mn_aby_mnie_odnalaz_i_przyprowadzi_je_li_uciekn_my_l_i_sercem_gdzie_indziej_aby_pozwoli_mi_dostrzec_jego_obecno_i_dzia_anie_w_rozwa_anej_tajemnicy_on_jest_prawdziwym_bogiem_i_ka_da_chwila_jego_obecno_ci_po_r_d_nas_na_ziemi_cho_by_si_wydawa_a_ma_o_znacz_ca_i_niewidzialna_dla_oka_kryje_w_sobie_bogactwo_si_gaj_ce_nieba"
                     android:id="@+id/textView467"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
@@ -77,19 +77,19 @@
                     style="@style/dziesiatek_rozanca"/>
 
             <TextView
-                    android:text="Gdy człowiek stoi na zewnątrz, a jest świadom, że w środku dzieją się ważne rzeczy, wtedy rośnie w nim pragnienie, aby tam wejść. Odmawiając „Ojcze nasz” i powtarzając „Zdrowaś Maryjo” proszę dziś Jezusa, aby wzbudził we mnie takie pragnienie i aby dał mi łaskę zrozumienia zbawczych wydarzeń, jakie się dokonały w czasie pobytu Maryi u Elżbiety. Proszę Go, aby mnie wprowadził do środka i pomógł zamknąć drzwi, by rozmawiać z Ojcem."
+                    android:text="@string/gdy_cz_owiek_stoi_na_zewn_trz_a_jest_wiadom_e_w_rodku_dziej_si_wa_ne_rzeczy_wtedy_ro_nie_w_nim_pragnienie_aby_tam_wej_odmawiaj_c_ojcze_nasz_i_powtarzaj_c_zdrowa_maryjo_prosz_dzi_jezusa_aby_wzbudzi_we_mnie_takie_pragnienie_i_aby_da_mi_ask_zrozumienia_zbawczych_wydarze_jakie_si_dokona_y_w_czasie_pobytu_maryi_u_el_biety_prosz_go_aby_mnie_wprowadzi_do_rodka_i_pom_g_zamkn_drzwi_by_rozmawia_z_ojcem"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView469"/>
             <TextView
-                    android:text="Po zakończeniu medytacji, jaka towarzyszyła słowom modlitwy, zatrzymuję się, aby moją pieśń uwielbienia uczynić jeszcze piękniejszą. Dziś szczególnym motywem mego uwielbienia jest miłość Jezusa, prawdziwego Syna Bożego, który stał się Człowiekiem."
+                    android:text="@string/po_zako_czeniu_medytacji_jaka_towarzyszy_a_s_owom_modlitwy_zatrzymuj_si_aby_moj_pie_uwielbienia_uczyni_jeszcze_pi_kniejsz_dzi_szczeg_lnym_motywem_mego_uwielbienia_jest_mi_o_jezusa_prawdziwego_syna_bo_ego_kt_ry_sta_si_cz_owiekiem"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView470"/>
             <TextView
-                    android:text="Akt strzelisty:"
+                    android:text="@string/akt_strzelisty"
                     android:id="@+id/textView471"
                     style="@style/intencje_modlitwy"/>
             <TextView
-                    android:text="Boże w Trójcy Świętej Jedyny, otwórz moje oczy, abym mógł wyraźniej widzieć wielkie dzieła, jakich dokonałeś w tajemnicy Nawiedzenia św. Elżbiety."
+                    android:text="@string/bo_e_w_tr_jcy_wi_tej_jedyny_otw_rz_moje_oczy_abym_m_g_wyra_niej_widzie_wielkie_dzie_a_jakich_dokona_e_w_tajemnicy_nawiedzenia_w_el_biety"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView472"/>
             <TextView
@@ -98,7 +98,7 @@
                     style="@style/intencje_modlitwy"/>
 
             <TextView
-                    android:text="Prośba o owoce rozważania tajemnicy: Boże w Trójcy Świętej Jedyny, otwórz moje oczy, abym mógł wyraźniej widzieć wielkie dzieła, jakich dokonałeś w tajemnicy Nawiedzenia św. Elżbiety."
+                    android:text="@string/pro_ba_o_owoce_rozwa_ania_tajemnicy_bo_e_w_tr_jcy_wi_tej_jedyny_otw_rz_moje_oczy_abym_m_g_wyra_niej_widzie_wielkie_dzie_a_jakich_dokona_e_w_tajemnicy_nawiedzenia_w_el_biety"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView474"
                     android:textStyle="italic"

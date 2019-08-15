@@ -9,7 +9,7 @@
         tools:context=".NawiedzenieDzien3"
         android:id="@+id/linearLayout">
     <TextView
-            android:text="DZIEŃ 3. Prośba o Światło i Siły Modlitwa do Ducha Świętego"
+            android:text="@string/dzie_3_modlitwa_do_ducha_w"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView475"
@@ -41,7 +41,7 @@
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
             <TextView
-                    android:text="Przy zwiastowaniu Maryja usłyszała słowa: „Duch Święty zstąpi na Ciebie”. W opisie nawiedzenia św. Łukasz pisze: „Duch Święty napełnił Elżbietę”. Ja również pragnę poddać się działaniu tego Ducha. On mieszka we mnie i jest moim wewnętrznym Przewodnikiem. Proszę, abym umiał słuchać Jego natchnień."
+                    android:text="@string/przy_zwiastowaniu_maryja_us_ysza_a_s_owa_duch_wi_ty_zst_pi_na_ciebie_w_opisie_nawiedzenia_w_ukasz_pisze_duch_wi_ty_nape_ni_el_biet_ja_r_wnie_pragn_podda_si_dzia_aniu_tego_ducha_on_mieszka_we_mnie_i_jest_moim_wewn_trznym_przewodnikiem_prosz_abym_umia_s_ucha_jego_natchnie"
                     style="@style/paragraf_Text_optimum"
                     android:textStyle="italic"
                     android:id="@+id/textView476"/>
@@ -50,7 +50,7 @@
                     android:id="@+id/textView477"
                     style="@style/modlitwa"/>
             <TextView
-                    android:text="Bądź uwielbiony, Duchu Święty, w Twoim cudownym działaniu w życiu Maryi Dziewicy, św. Elżbiety, św. Jana Chrzciciela, Zachariasza i wszystkich, którzy w ciągu wieków poddawali się Twemu kierownictwu. Pomóż i mnie bardziej otworzyć mój umysł na Twoje światło, mocniej przylgnąć do Jezusa, który pośród nas jest obecny, goręcej zapragnąć pełnić wolę Ojca, który mnie miłuje, odważniej zbliżyć się do żaru miłości, jaki jest obecny we wszystkim, co czynisz. Spraw, aby moje rozważanie tajemnicy Nawiedzenia odnowiło moje życie i wyprosiło błogosławieństwo dla wszystkich potrzebujących."
+                    android:text="@string/b_d_uwielbiony_duchu_wi_ty_w_twoim_cudownym_dzia_aniu_w_yciu_maryi_dziewicy_w_el_biety_w_jana_chrzciciela_zachariasza_i_wszystkich_kt_rzy_w_ci_gu_wiek_w_poddawali_si_twemu_kierownictwu_pom_i_mnie_bardziej_otworzy_m_j_umys_na_twoje_wiat_o_mocniej_przylgn_do_jezusa_kt_ry_po_r_d_nas_jest_obecny_gor_cej_zapragn_pe_ni_wol_ojca_kt_ry_mnie_mi_uje_odwa_niej_zbli_y_si_do_aru_mi_o_ci_jaki_jest_obecny_we_wszystkim_co_czynisz_spraw_aby_moje_rozwa_anie_tajemnicy_nawiedzenia_odnowi_o_moje_ycie_i_wyprosi_o_b_ogos_awie_stwo_dla_wszystkich_potrzebuj_cych"
                     android:id="@+id/textView478"
                     style="@style/paragraf_Text"/>
 
@@ -60,19 +60,19 @@
                     style="@style/rozwazanie_slowa"/>
 
             <TextView
-                    android:text="Z pierwszego listu św. Pawła Apostoła do Koryntian (2,10.14): „Nam objawił to Bóg przez Ducha. Duch przenika wszystko, nawet głębokości Boga samego. Człowiek zmysłowy nie pojmuje tego, co jest z Bożego Ducha. Głupstwem mu się to wydaje i nie może tego poznać, bo tylko duchem można to rozsądzić”."
+                    android:text="@string/z_pierwszego_listu_w_paw_a_aposto_a_do_koryntian_2_10_14_nam_objawi_to_b_g_przez_ducha_duch_przenika_wszystko_nawet_g_boko_ci_boga_samego_cz_owiek_zmys_owy_nie_pojmuje_tego_co_jest_z_bo_ego_ducha_g_upstwem_mu_si_to_wydaje_i_nie_mo_e_tego_pozna_bo_tylko_duchem_mo_na_to_rozs_dzi"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView480"/>
             <TextView
-                    android:text="Im bardziej jestem zmysłowy i myślę według logiki tego świata, tym mniej rozumiem z Bożych tajemnic. Dotyczy to również tajemnic rozważanych w różańcu. Dla wielu ludzi, nawet wierzących, wydarzenia jakie dokonały się w czasie nawiedzenia św. Elżbiety przez Maryję, nie są na tyle godne uwagi, aby się nimi interesować, a tym bardziej, aby poświęcić cały miesiąc na ich rozważanie. „Głupstwem się im to wydaje”, więc się tym nie zajmują."
+                    android:text="@string/im_bardziej_jestem_zmys_owy_i_my_l_wed_ug_logiki_tego_wiata_tym_mniej_rozumiem_z_bo_ych_tajemnic_dotyczy_to_r_wnie_tajemnic_rozwa_anych_w_r_a_cu_dla_wielu_ludzi_nawet_wierz_cych_wydarzenia_jakie_dokona_y_si_w_czasie_nawiedzenia_w_el_biety_przez_maryj_nie_s_na_tyle_godne_uwagi_aby_si_nimi_interesowa_a_tym_bardziej_aby_po_wi_ci_ca_y_miesi_c_na_ich_rozwa_anie_g_upstwem_si_im_to_wydaje_wi_c_si_tym_nie_zajmuj"
                     android:id="@+id/textView481"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="Są też tacy, dla których tajemnica Nawiedzenia i wszystkie inne Boże tajemnice, są w najwyższym stopniu godne podziwu i zainteresowania. Oni to, kierowani mądrością Ducha, nie żałują czasu, aby rozważać przekaz biblijny zdanie po zdaniu, aby coraz bardziej odkrywać znaczenie słów i czynów. "
+                    android:text="@string/s_te_tacy_dla_kt_rych_tajemnica_nawiedzenia_i_wszystkie_inne_bo_e_tajemnice_s_w_najwy_szym_stopniu_godne_podziwu_i_zainteresowania_oni_to_kierowani_m_dro_ci_ducha_nie_a_uj_czasu_aby_rozwa_a_przekaz_biblijny_zdanie_po_zdaniu_aby_coraz_bardziej_odkrywa_znaczenie_s_w_i_czyn_w"
                     android:id="@+id/textView482"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="Zdając sobie sprawę, że bez światła Ducha Świętego jestem zdany tylko na moją ludzką logikę, modlę się gorąco, aby Duch Święty był ze mną każdego dnia, aby mnie prowadził i pouczał. On najlepiej wie, czego potrzebuję, co powinienem odkryć dzisiaj, a co za dwa lata, czym się zachwycić już teraz, a nad czym muszę jeszcze jakiś czas popracować, aby zobaczyć, jak wielkie są Boże dzieła."
+                    android:text="@string/zdaj_c_sobie_spraw_e_bez_wiat_a_ducha_wi_tego_jestem_zdany_tylko_na_moj_ludzk_logik_modl_si_gor_co_aby_duch_wi_ty_by_ze_mn_ka_dego_dnia_aby_mnie_prowadzi_i_poucza_on_najlepiej_wie_czego_potrzebuj_co_powinienem_odkry_dzisiaj_a_co_za_dwa_lata_czym_si_zachwyci_ju_teraz_a_nad_czym_musz_jeszcze_jaki_czas_popracowa_aby_zobaczy_jak_wielkie_s_bo_e_dzie_a"
                     android:id="@+id/textView484"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
@@ -81,23 +81,23 @@
                     style="@style/dziesiatek_rozanca"/>
 
             <TextView
-                    android:text="Odmawiając „Ojcze nasz” jednoczę się z Jezusem, który modli się do Ojca o Ducha Świętego dla ludzi. Z wiarą proszę, aby Ojciec napełnił mnie swoim Duchem w całomiesięcznym przeżywaniu tajemnicy Nawiedzenia."
+                    android:text="@string/odmawiaj_c_ojcze_nasz_jednocz_si_z_jezusem_kt_ry_modli_si_do_ojca_o_ducha_wi_tego_dla_ludzi_z_wiar_prosz_aby_ojciec_nape_ni_mnie_swoim_duchem_w_ca_omiesi_cznym_prze_ywaniu_tajemnicy_nawiedzenia"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView486"/>
             <TextView
-                    android:text="Gdy powtarzam słowa „... módl się za nami grzesznymi”, proszę Maryję, aby nauczyła mnie takiej otwartości na natchnienia Ducha Świętego, jaką Ona posiadała."
+                    android:text="@string/gdy_powtarzam_s_owa_m_dl_si_za_nami_grzesznymi_prosz_maryj_aby_nauczy_a_mnie_takiej_otwarto_ci_na_natchnienia_ducha_wi_tego_jak_ona_posiada_a"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView487"/>
             <TextView
-                    android:text="Jak mogę godnie uwielbić Ojca, Syna i Ducha Świętego? Co zrobić, aby wypowiadane przeze mnie słowa „Chwała Ojcu” były prawdziwą pieśnią uwielbienia? Ukryję się w maryjnym „Magnificat” i wraz z Nią będę śpiewał Panu."
+                    android:text="@string/jak_mog_godnie_uwielbi_ojca_syna_i_ducha_wi_tego_co_zrobi_aby_wypowiadane_przeze_mnie_s_owa_chwa_a_ojcu_by_y_prawdziw_pie_ni_uwielbienia_ukryj_si_w_maryjnym_magnificat_i_wraz_z_ni_b_d_piewa_panu"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView488"/>
             <TextView
-                    android:text="Akt strzelisty:"
+                    android:text="@string/akt_strzelisty"
                     android:id="@+id/textView489"
                     style="@style/intencje_modlitwy"/>
             <TextView
-                    android:text="Boże w Trójcy Świętej Jedyny, otwórz moje oczy, abym mógł wyraźniej widzieć wielkie dzieła, jakich dokonałeś w tajemnicy Nawiedzenia św. Elżbiety."
+                    android:text="@string/bo_e_w_tr_jcy_wi_tej_jedyny_otw_rz_moje_oczy_abym_m_g_wyra_niej_widzie_wielkie_dzie_a_jakich_dokona_e_w_tajemnicy_nawiedzenia_w_el_biety"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView490"/>
             <TextView
@@ -106,7 +106,7 @@
                     style="@style/intencje_modlitwy"/>
 
             <TextView
-                    android:text="Prośba o owoce rozważania tajemnicy: Boże w Trójcy Świętej Jedyny, otwórz moje oczy, abym mógł wyraźniej widzieć wielkie dzieła, jakich dokonałeś w tajemnicy Nawiedzenia św. Elżbiety."
+                    android:text="@string/pro_ba_o_owoce_rozwa_ania_tajemnicy_bo_e_w_tr_jcy_wi_tej_jedyny_otw_rz_moje_oczy_abym_m_g_wyra_niej_widzie_wielkie_dzie_a_jakich_dokona_e_w_tajemnicy_nawiedzenia_w_el_biety"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView492"
                     android:textStyle="italic"

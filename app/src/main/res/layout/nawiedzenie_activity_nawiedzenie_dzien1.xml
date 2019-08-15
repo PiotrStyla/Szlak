@@ -9,7 +9,7 @@
         tools:context=".NawiedzenieDzien1"
         android:id="@+id/linearLayout">
     <TextView
-            android:text="DZIEŃ 1. Prośba o Światło i Siły Modlitwa do Ojca"
+            android:text="@string/dzie_1_modlitwa_do_ojca"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView442"
@@ -41,17 +41,17 @@
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
             <TextView
-                    android:text="W tym miesiącu, podobnie jak w poprzednim, staję najpierw niejako na zewnątrz tajemnicy, którą mam rozważać. Jestem świadom, że zbliżam się do ognia, gdyż Bóg jest Ogniem, że zbliżam się do świętości, gdyż On jest Święty, że wejście za zasłonę tego, co mogą zobaczyć oczy i co mogą usłyszeć uszy, jest łaską. Nie potrafię i nie chcę wchodzić tam sam. Pragnienie wejścia w świat Boga wzbudza we mnie Duch Święty, rozumienie dokonujących się wydarzeń daje mi również On, zdolność życia w świetle i w mocy tego misterium również nie ode mnie pochodzi, lecz jest mi dana. Wyprasza mi tę łaskę Maryja."
+                    android:text="@string/w_tym_miesi_cu_podobnie_jak_w_poprzednim_staj_najpierw_niejako_na_zewn_trz_tajemnicy_kt_r_mam_rozwa_a_jestem_wiadom_e_zbli_am_si_do_ognia_gdy_b_g_jest_ogniem_e_zbli_am_si_do_wi_to_ci_gdy_on_jest_wi_ty_e_wej_cie_za_zas_on_tego_co_mog_zobaczy_oczy_i_co_mog_us_ysze_uszy_jest_ask_nie_potrafi_i_nie_chc_wchodzi_tam_sam_pragnienie_wej_cia_w_wiat_boga_wzbudza_we_mnie_duch_wi_ty_rozumienie_dokonuj_cych_si_wydarze_daje_mi_r_wnie_on_zdolno_ycia_w_wietle_i_w_mocy_tego_misterium_r_wnie_nie_ode_mnie_pochodzi_lecz_jest_mi_dana_wyprasza_mi_t_ask_maryja"
                     style="@style/paragraf_Text_optimum"
                     android:textStyle="italic"
                     android:id="@+id/textView443"/>
             <TextView
-                    android:text="Prawda ta jest przedstawiona w pewien sposób na okładce. Widzę na niej postać Maryi, która idzie do św. Elżbiety. Jest cała przeniknięta światłem, jest obleczona w słońce, jest w Bożym świecie. Do niego mnie wprowadza."
+                    android:text="@string/prawda_ta_jest_przedstawiona_w_pewien_spos_b_na_ok_adce_widz_na_niej_posta_maryi_kt_ra_idzie_do_w_el_biety_jest_ca_a_przenikni_ta_wiat_em_jest_obleczona_w_s_o_ce_jest_w_bo_ym_wiecie_do_niego_mnie_wprowadza"
                     style="@style/paragraf_Text_optimum"
                     android:textStyle="italic"
                     android:id="@+id/textView444"/>
             <TextView
-                    android:text="Każde zbawcze wydarzenie jest darem Ojca. Jego miłość do nas jest nieskończenie wielka. Do Niego zwracam się z całym zaufaniem dziecka."
+                    android:text="@string/ka_de_zbawcze_wydarzenie_jest_darem_ojca_jego_mi_o_do_nas_jest_niesko_czenie_wielka_do_niego_zwracam_si_z_ca_ym_zaufaniem_dziecka"
                     style="@style/paragraf_Text_optimum"
                     android:textStyle="italic"
                     android:id="@+id/textView445"/>
@@ -60,7 +60,7 @@
                     android:id="@+id/textView446"
                     style="@style/modlitwa"/>
             <TextView
-                    android:text="Dziękuję Ci, najlepszy Ojcze, za cudowną tajemnicę Wcielenia Twojego Syna, którą kontemplowałem w minionym miesiącu. Teraz chcę zatrzymać się dłużej przy wydarzeniach, jakie dokonały się w tajemnicy Nawiedzenia. Wierzę, że mimo moich słabości i grzechów, za które ze skruchą serca przepraszam, będę mógł jeszcze pełniej odkryć prawdę, że Jezus, którego Maryja niesie do świętej Elżbiety, został posłany przez Ciebie. To dar Twojej ojcowskiej miłości, na który pragnę odpowiedzieć moją miłością dziecięcą."
+                    android:text="@string/dzi_kuj_ci_najlepszy_ojcze_za_cudown_tajemnic_wcielenia_twojego_syna_kt_r_kontemplowa_em_w_minionym_miesi_cu_teraz_chc_zatrzyma_si_d_u_ej_przy_wydarzeniach_jakie_dokona_y_si_w_tajemnicy_nawiedzenia_wierz_e_mimo_moich_s_abo_ci_i_grzech_w_za_kt_re_ze_skruch_serca_przepraszam_b_d_m_g_jeszcze_pe_niej_odkry_prawd_e_jezus_kt_rego_maryja_niesie_do_wi_tej_el_biety_zosta_pos_any_przez_ciebie_to_dar_twojej_ojcowskiej_mi_o_ci_na_kt_ry_pragn_odpowiedzie_moj_mi_o_ci_dzieci_c"
                     android:id="@+id/textView447"
                     style="@style/paragraf_Text"/>
 
@@ -70,15 +70,15 @@
                     style="@style/rozwazanie_slowa"/>
 
             <TextView
-                    android:text="Z listu Ewangelii według św. Mateusza (6,6): „Gdy chcesz się modlić, wejdź do swej izdebki, zamknij drzwi i módl się do Ojca twego, który jest w ukryciu. A Ojciec twój, który widzi w ukryciu, odda tobie”."
+                    android:text="@string/z_listu_ewangelii_wed_ug_w_mateusza_6_6_gdy_chcesz_si_modli_wejd_do_swej_izdebki_zamknij_drzwi_i_m_dl_si_do_ojca_twego_kt_ry_jest_w_ukryciu_a_ojciec_tw_j_kt_ry_widzi_w_ukryciu_odda_tobie"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView449"/>
             <TextView
-                    android:text="Kiedy na prośbę uczniów Pan Jezus uczył ich modlitwy, polecił im mówić: „Ojcze nasz”. Kiedy w czasie kazania na Górze wskazywał sposób modlitwy, polecił uczniom wchodzić do izdebki i zamknąć drzwi, aby rozmawiać z Ojcem. Modlitwa Jezusa była dziecięcą rozmową z Ojcem, była przebywaniem z Ojcem, słuchaniem Ojca i radowaniem się Jego nieskończoną miłością. Takiej też modlitwy chciał mnie nauczyć."
+                    android:text="@string/kiedy_na_pro_b_uczni_w_pan_jezus_uczy_ich_modlitwy_poleci_im_m_wi_ojcze_nasz_kiedy_w_czasie_kazania_na_g_rze_wskazywa_spos_b_modlitwy_poleci_uczniom_wchodzi_do_izdebki_i_zamkn_drzwi_aby_rozmawia_z_ojcem_modlitwa_jezusa_by_a_dzieci_c_rozmow_z_ojcem_by_a_przebywaniem_z_ojcem_s_uchaniem_ojca_i_radowaniem_si_jego_niesko_czon_mi_o_ci_takiej_te_modlitwy_chcia_mnie_nauczy"
                     android:id="@+id/textView450"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="Zanim zacznie się modlitwa trzeba wykonać pewne czynności. Trzeba wejść do izdebki i zamknąć drzwi. Trzeba też uświadomić sobie, że tam, w izdebce prawdziwie jest Ojciec, że spotkanie z Nim jest cudowną przygodą. Jednak w świetle całej Biblii trzeba stwierdzić, że takie wejście do izdebki i taka rozmowa z Ojcem jest łaską. Potrzebuję, aby ktoś mnie wziął za rękę i wprowadził do tej izdebki, żeby mi pokazał Ojca i nauczył z Nim rozmawiać. Wiem, że tę drogę wskazuje mi Jezus, a od wewnątrz prowadzi mnie Duch Święty. W tym miesiącu izdebką jest tajemnica nawiedzenia św. Elżbiety. Tam jestem zaproszony i tam chcę codziennie wchodzić, zamykać drzwi i dać się prowadzić Duchowi Świętemu."
+                    android:text="@string/zanim_zacznie_si_modlitwa_trzeba_wykona_pewne_czynno_ci_trzeba_wej_do_izdebki_i_zamkn_drzwi_trzeba_te_u_wiadomi_sobie_e_tam_w_izdebce_prawdziwie_jest_ojciec_e_spotkanie_z_nim_jest_cudown_przygod_jednak_w_wietle_ca_ej_biblii_trzeba_stwierdzi_e_takie_wej_cie_do_izdebki_i_taka_rozmowa_z_ojcem_jest_ask_potrzebuj_aby_kto_mnie_wzi_za_r_k_i_wprowadzi_do_tej_izdebki_eby_mi_pokaza_ojca_i_nauczy_z_nim_rozmawia_wiem_e_t_drog_wskazuje_mi_jezus_a_od_wewn_trz_prowadzi_mnie_duch_wi_ty_w_tym_miesi_cu_izdebk_jest_tajemnica_nawiedzenia_w_el_biety_tam_jestem_zaproszony_i_tam_chc_codziennie_wchodzi_zamyka_drzwi_i_da_si_prowadzi_duchowi_wi_temu"
                     android:id="@+id/textView451"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
@@ -87,25 +87,25 @@
                     style="@style/dziesiatek_rozanca"/>
 
             <TextView
-                    android:text="W pewnym sensie odmawiam dziś dziesiątek różańca „na zewnątrz izdebki, przed wejściem do środka”. Moja modlitwa „Ojcze nasz” i moje powtarzanie „Zdrowaś Maryjo”, jest pokornym błaganiem o łaskę modlitwy, o dar wejścia do wewnątrz, o otwarcie oczu wiary na nieskończoną miłość Ojca, jaka się w tym misterium objawia."
+                    android:text="@string/w_pewnym_sensie_odmawiam_dzi_dziesi_tek_r_a_ca_na_zewn_trz_izdebki_przed_wej_ciem_do_rodka_moja_modlitwa_ojcze_nasz_i_moje_powtarzanie_zdrowa_maryjo_jest_pokornym_b_aganiem_o_ask_modlitwy_o_dar_wej_cia_do_wewn_trz_o_otwarcie_oczu_wiary_na_niesko_czon_mi_o_ojca_jaka_si_w_tym_misterium_objawia"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView453"/>
             <TextView
-                    android:text="Zanim wypowiem słowa uwielbienia, końcową doksologię, chcę się zatrzymać i spojrzeć w oczy Tego, który uczynił mnie swoim dzieckiem, aby mój duch wzniósł się aż na wyżyny raju, aby odczuć, że Jezus trzyma mnie za rękę i wprowadza w misterium Ojca, że Duch Święty uzdalnia mnie do śpiewu uwielbienia. W tym duchu śpiewam w sercu „Chwała Ojcu...”"
+                    android:text="@string/zanim_wypowiem_s_owa_uwielbienia_ko_cow_doksologi_chc_si_zatrzyma_i_spojrze_w_oczy_tego_kt_ry_uczyni_mnie_swoim_dzieckiem_aby_m_j_duch_wzni_s_si_a_na_wy_yny_raju_aby_odczu_e_jezus_trzyma_mnie_za_r_k_i_wprowadza_w_misterium_ojca_e_duch_wi_ty_uzdalnia_mnie_do_piewu_uwielbienia_w_tym_duchu_piewam_w_sercu_chwa_a_ojcu"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView454"/>
             <TextView
-                    android:text="Po odmówieniu dziesiątka różańca wypowiadam, zgodnie ze wskazaniami Papieża, akt strzelisty, który jest prośbą o trwałe owoce rozważanej tajemnicy w moim życiu. "
+                    android:text="@string/po_odm_wieniu_dziesi_tka_r_a_ca_wypowiadam_zgodnie_ze_wskazaniami_papie_a_akt_strzelisty_kt_ry_jest_pro_b_o_trwa_e_owoce_rozwa_anej_tajemnicy_w_moim_yciu"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView455"
                     android:textStyle="italic"
                     android:layout_marginTop="10dp"/>
             <TextView
-                    android:text="Akt strzelisty:"
+                    android:text="@string/akt_strzelisty"
                     android:id="@+id/textView456"
                     style="@style/intencje_modlitwy"/>
             <TextView
-                    android:text="Boże w Trójcy Świętej Jedyny, otwórz moje oczy, abym mógł wyraźniej widzieć wielkie dzieła, jakich dokonałeś w tajemnicy Nawiedzenia św. Elżbiety."
+                    android:text="@string/bo_e_w_tr_jcy_wi_tej_jedyny_otw_rz_moje_oczy_abym_m_g_wyra_niej_widzie_wielkie_dzie_a_jakich_dokona_e_w_tajemnicy_nawiedzenia_w_el_biety"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView457"/>
             <TextView
@@ -114,7 +114,7 @@
                     style="@style/intencje_modlitwy"/>
 
             <TextView
-                    android:text="Kieruję do Boga prośby. Jest ich wiele i są jednym z motywów, dla których biorę do ręki różaniec. Chcę pomóc sobie i innym ludziom wypraszając dla nich potrzebne łaski."
+                    android:text="@string/kieruj_do_boga_pro_by_jest_ich_wiele_i_s_jednym_z_motyw_w_dla_kt_rych_bior_do_r_ki_r_aniec_chc_pom_c_sobie_i_innym_ludziom_wypraszaj_c_dla_nich_potrzebne_aski"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView459"
                     android:textStyle="italic"

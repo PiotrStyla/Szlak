@@ -9,6 +9,17 @@
             android:roundIcon="@mipmap/ic_launcher_round_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
+        <activity android:name=".NawiedzenieDzien20">
+        </activity>
+        <activity android:name=".NawiedzenieDzien19">
+        </activity>
+        <activity
+                android:name=".NawiedzenieDzien18"
+                android:label="@string/title_activity_nawiedzenie_dzien18"
+                android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity android:name=".NawiedzenieDzien17">
+        </activity>
         <activity android:name=".NawiedzenieDzien16">
         </activity>
         <activity android:name=".NawiedzenieDzien15">

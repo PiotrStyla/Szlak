@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="16dp"
+        tools:context=".NawiedzenieDzien17"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="@string/dzie_17_pie_maryi_jego_pomoc_jest_niezawodna"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView701"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="4sp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingEnd="10sp"/>
+
+    <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView701"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="78dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="10sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:orientation="vertical">
+            <TextView
+                    android:text="@string/modlitwa"
+                    android:id="@+id/textView702"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/wszechmog_cy_wieczny_bo_e_z_twojego_natchnienia_naj_wi_tsza_maryja_panna_kt_ra_nosi_a_w_onie_twojego_syna_nawiedzi_a_el_biet_spraw_aby_my_byli_pos_uszni_natchnieniom_ducha_wi_tego_i_zawsze_mogli_z_maryj_ciebie_uwielbia_przez_chrystusa_pana_naszego_amen"
+                    android:id="@+id/textView703"
+                    style="@style/paragraf_Text"/>
+
+            <TextView
+                    android:text="@string/rozwa_anie_s_owa"
+                    android:id="@+id/textView704"
+                    style="@style/rozwazanie_slowa"/>
+
+            <TextView
+                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_1_46_54_maryja_rzek_a_wielbi_dusza_moja_pana_on_uj_si_za_s_ug_swoim_izraelem_pomny_na_swe_mi_osierdzie"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView705"/>
+            <TextView
+                    android:text="@string/maryja_wielbi_boga_kt_ry_uczyni_jej_wielkie_rzeczy_kt_ry_troszczy_si_o_pokornych_uci_nionych_i_biednych_jej_uwielbienie_obejmuje_r_wnie_dzia_anie_boga_w_izraelu_narodzie_wybranym_z_kt_rego_ona_pochodzi_nazywa_izraela_s_ug_boga_to_s_owo_jest_jej_bliskie_siebie_w_rozmowie_z_anio_em_nazwa_a_s_u_ebnic_pa_sk_jej_pragnieniem_jest_wierne_wype_nienie_woli_boga"
+                    android:id="@+id/textView706"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/w_swej_historii_izrael_nie_zawsze_okazywa_bogu_pos_usze_stwo_cz_sto_ludowi_wybranemu_brakowa_o_wiary_i_wielokrotnie_oddawa_cze_bo_kom_jednak_b_g_pomny_na_swe_mi_osierdzie_zawsze_ujmowa_si_za_swoim_ludem_broni_go_i_prowadzi_posy_a_mu_prorok_w_i_podtrzymywa_w_nim_nadziej_na_przyj_cie_mesjasza"
+                    android:id="@+id/textView707"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/chc_za_maryj_powtarza_s_owa_wyra_aj_ce_gotowo_pe_nienia_woli_ojca_jednak_nie_zawsze_mi_si_to_udaje_gdy_ulegam_w_asnym_s_abo_ciom_zawsze_jednak_mog_liczy_na_mi_osierdzie_pana_jego_przebaczenie_jest_pewne_a_jego_opieka_nade_mn_niezawodna"
+                    android:id="@+id/textView708"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/dziesi_tek_r_a_ca"
+                    android:id="@+id/textView709"
+                    style="@style/dziesiatek_rozanca"/>
+
+            <TextView
+                    android:text="@string/ojcze_nasz_zdrowa_maryjo_chwa_a_ojcu"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView710"/>
+            <TextView
+                    android:text="@string/akt_strzelisty"
+                    android:id="@+id/textView711"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/bo_e_w_tr_jcy_wi_tej_jedyny_otw_rz_moje_oczy_abym_m_g_wyra_niej_widzie_wielkie_dzie_a_jakich_dokona_e_w_tajemnicy_nawiedzenia_w_el_biety"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView712"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy"
+                    android:id="@+id/textView713"
+                    style="@style/intencje_modlitwy"/>
+
+            <TextView
+                    android:text="@string/intencje_modlitwy_wyra_one_swoimi_s_owami"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView714"
+                    android:textStyle="italic"
+                    android:paddingBottom="80sp"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

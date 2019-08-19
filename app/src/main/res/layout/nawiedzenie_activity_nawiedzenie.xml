@@ -125,24 +125,24 @@
                     android:text="@string/dzie_16_pie_maryi_jego_moc_jest_niezwyci_ona"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button40"
+                    android:layout_height="wrap_content" android:id="@+id/button70"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_17_nape_nieni_pe_ni"/>
+                    android:text="@string/dzie_17_pie_maryi_jego_pomoc_jest_niezawodna"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button41"
+                    android:layout_height="wrap_content" android:id="@+id/button71"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_18_dar_wzrostu"/>
+                    android:text="@string/dzie_18_pie_maryi_jego_wierno_jest_absolutna"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button42"
+                    android:layout_height="wrap_content" android:id="@+id/button72"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_19_na_pocz_tku_by_o_s_owo"/>
+                    android:text="@string/dzie_19_pie_zachariasza_narodziny_syna"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button43"
+                    android:layout_height="wrap_content" android:id="@+id/button73"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_20_bogiem_by_o_s_owo"/>
+                    android:text="DZIEŃ 20. Pieśń Zachariasza - Nadanie Imienia"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button44"

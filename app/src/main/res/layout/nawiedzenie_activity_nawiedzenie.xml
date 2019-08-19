@@ -100,29 +100,29 @@
                     android:text="@string/dzie_11_rodzina_miejsce_apostolstwa"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button35"
+                    android:layout_height="wrap_content" android:id="@+id/button65"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_12_przed_za_o_eniem_wiata"/>
+                    android:text="@string/dzie_12_pie_maryi_wielbi_dusza_moja_pana"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button36"
+                    android:layout_height="wrap_content" android:id="@+id/button66"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_13_w_starym_przymierzu"/>
+                    android:text="@string/dzie_13_pie_maryi_uczyni_mi_wielkie_rzeczy"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button37"
+                    android:layout_height="wrap_content" android:id="@+id/button67"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_14_pe_nia_czasu"/>
+                    android:text="@string/dzie_14_pie_maryi_jego_imi_jest_wi_te"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button38"
+                    android:layout_height="wrap_content" android:id="@+id/button68"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_15_ca_a_pe_nia"/>
+                    android:text="@string/dzie_15_pie_maryi_jego_mi_osierdzie_jest_niesko_czone"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button39"
+                    android:layout_height="wrap_content" android:id="@+id/button69"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_16_pe_nia_dar_w"/>
+                    android:text="@string/dzie_16_pie_maryi_jego_moc_jest_niezwyci_ona"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button40"

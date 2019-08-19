@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="16dp"
+        tools:context=".NawiedzenieDzien12"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="@string/dzie_12_pie_maryi_wielbi_dusza_moja_pana"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView629"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="4sp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingEnd="10sp"/>
+
+    <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView629"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="78dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="10sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:orientation="vertical">
+            <TextView
+                    android:text="@string/rozpoczynam_drugi_tydzie_medytacji_nad_wydarzeniami_jakie_dokona_y_si_w_czasie_nawiedzenia_w_el_biety_przez_maryj_chc_rozwa_a_tre_hymnu_jaki_wy_piewa_a_maryja_wszed_on_na_sta_e_do_modlitwy_ko_cio_a_codziennie_w_czasie_nieszpor_w_powtarza_go_niezliczona_rzesza_ludzi_wierz_cych_nale_do_tej_wsp_lnoty_od_lat_i_s_owa_maryi_s_stale_na_moich_ustach_nie_zawsze_za_s_owami_idzie_pie_serca_nie_zawsze_moje_uwielbienie_jest_na_miar_tego_jakie_nale_y_si_bogu"
+                    style="@style/paragraf_Text_optimum"
+                    android:textStyle="italic"
+                    android:id="@+id/textView630"
+                    android:paddingBottom="10sp"/>
+            <TextView
+                    android:text="@string/w_tym_tygodniu_chc_w_czasie_mej_r_a_cowej_modlitwy_wyr_ni_siedem_temat_w_modl_si_aby_ka_dy_z_nich_wyry_si_g_boko_w_moim_sercu_prosz_maryj_aby_by_a_ze_mn_i_poprowadzi_a_moje_serce_ku_takiemu_poznaniu_boga_z_kt_rego_spontanicznie_rodzi_si_uwielbienie_jestem_w_jej_szkole_modlitwy_pochwalnej_oby_po_prze_yciu_tej_tygodniowej_lekcji_duch_uwielbienia_boga_przenikn_jeszcze_bardziej_ca_e_moje_ycie"
+                    style="@style/paragraf_Text_optimum"
+                    android:textStyle="italic"
+                    android:id="@+id/textView631"
+                    android:paddingBottom="10sp"/>
+            <TextView
+                    android:text="@string/podobnie_jak_w_poprzednim_miesi_cu_poni_ej_zamieszczone_s_tylko_teksty_biblijne_i_rozwa_ania_na_poszczeg_lne_dni_wszystkie_inne_cz_ci_sk_adaj_ce_si_na_prze_ycie_r_a_cowej_tajemnicy_modlitwa_wst_pna_odm_wienie_dziesi_tka_r_a_ca_przedstawienie_bogu_intencji_modlitewnych_modlitwa_dzi_kczynna_s_pozostawione_tw_rczej_inwencji_os_b_korzystaj_cych_z_tym_pomocy"
+                    style="@style/paragraf_Text_optimum"
+                    android:textStyle="italic"
+                    android:id="@+id/textView632"
+                    android:paddingBottom="7sp"/>
+            <TextView
+                    android:text="@string/modlitwa"
+                    android:id="@+id/textView633"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/wszechmog_cy_wieczny_bo_e_z_twojego_natchnienia_naj_wi_tsza_maryja_panna_kt_ra_nosi_a_w_onie_twojego_syna_nawiedzi_a_el_biet_spraw_aby_my_byli_pos_uszni_natchnieniom_ducha_wi_tego_i_zawsze_mogli_z_maryj_ciebie_uwielbia_przez_chrystusa_pana_naszego_amen"
+                    android:id="@+id/textView634"
+                    style="@style/paragraf_Text"/>
+
+            <TextView
+                    android:text="@string/rozwa_anie_s_owa"
+                    android:id="@+id/textView635"
+                    style="@style/rozwazanie_slowa"/>
+
+            <TextView
+                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_1_46_47_wtedy_rzek_a_maryja_wielbi_dusza_moja_pana_i_raduje_si_duch_m_j_w_bogu_moim_zbawcy"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView636"/>
+            <TextView
+                    android:text="@string/kantyk_ten_jest_odpowiedzi_dziewicy_na_tajemnic_zwiastowania_wyja_nia_w_jan_pawe_ii_anio_wezwa_j_do_rado_ci_teraz_wi_c_maryja_raduje_si_w_bogu_swoim_zbawcy_r_d_em_tej_rado_ci_jest_osobiste_do_wiadczenie_dobroci_boga_kt_ry_wejrza_askawie_na_ni_istot_stworzon_ubog_i_pozbawion_wp_ywu_na_histori"
+                    android:id="@+id/textView637"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/s_owo_magnificat_wyra_a_uwielbienie_dla_wielko_ci_boga_kt_ry_w_zwiastowaniu_anielskim_objawia_swoj_wszechmoc_w_spos_b_przerastaj_cy_oczekiwania_i_nadzieje_ludu_przymierza_oraz_najwznio_lejsze_pragnienia_ludzkiej_duszy_audiencja_generalna_6_11_1996"
+                    android:id="@+id/textView638"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/dziesi_tek_r_a_ca"
+                    android:id="@+id/textView639"
+                    style="@style/dziesiatek_rozanca"/>
+
+            <TextView
+                    android:text="@string/codziennie_powtarzam_s_owa_maryi_wielbi_dusza_moja_pana_i_codziennie_wyznaj_raduje_si_duch_m_j_w_bogu_moim_zbawcy_uwielbienie_boga_i_rado_w_bogu_to_pocz_tek_pie_ni_maryi_nieustannie_ucz_si_od_niej_tej_umiej_tno_ci_dlatego_z_ni_piewam_magnificat_i_z_ni_rozwa_am_tajemnic_r_a_ca"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView640"/>
+            <TextView
+                    android:text="@string/akt_strzelisty"
+                    android:id="@+id/textView641"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/bo_e_w_tr_jcy_wi_tej_jedyny_otw_rz_moje_oczy_abym_m_g_wyra_niej_widzie_wielkie_dzie_a_jakich_dokona_e_w_tajemnicy_nawiedzenia_w_el_biety"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView642"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy"
+                    android:id="@+id/textView643"
+                    style="@style/intencje_modlitwy"/>
+
+            <TextView
+                    android:text="@string/pro_ba_o_owoce_rozwa_ania_tajemnicy_naucz_mnie_ojcze_i_z_po_piechem_do_moich_bliskich_przez_wstawiennictwo_maryi_prosz_ci_abym_zawsze_szed_do_nich_z_jezusem_w_sercu_i_wyprasza_im_dar_ducha_wi_tego"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView644"
+                    android:textStyle="italic"
+                    android:paddingBottom="80sp"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

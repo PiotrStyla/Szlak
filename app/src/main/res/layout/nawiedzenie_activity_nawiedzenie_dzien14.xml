@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="16dp"
+        tools:context=".NawiedzenieDzien14"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="@string/dzie_14_pie_maryi_jego_imi_jest_wi_te"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView658"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="4sp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingEnd="10sp"/>
+
+    <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView658"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="78dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="10sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:orientation="vertical">
+            <TextView
+                    android:text="@string/modlitwa"
+                    android:id="@+id/textView659"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/wszechmog_cy_wieczny_bo_e_z_twojego_natchnienia_naj_wi_tsza_maryja_panna_kt_ra_nosi_a_w_onie_twojego_syna_nawiedzi_a_el_biet_spraw_aby_my_byli_pos_uszni_natchnieniom_ducha_wi_tego_i_zawsze_mogli_z_maryj_ciebie_uwielbia_przez_chrystusa_pana_naszego_amen"
+                    android:id="@+id/textView660"
+                    style="@style/paragraf_Text"/>
+
+            <TextView
+                    android:text="@string/rozwa_anie_s_owa"
+                    android:id="@+id/textView661"
+                    style="@style/rozwazanie_slowa"/>
+
+            <TextView
+                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_1_46_49_maryja_rzek_a_wielbi_dusza_moja_pana_wi_te_jest_jego_imi"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView662"/>
+            <TextView
+                    android:text="@string/pierwsze_zdania_maryjnego_hymnu_wyra_aj_g_bi_jej_osobistych_prze_y_m_wi_o_rado_ci_i_szcz_ciu_o_uwielbieniu_i_wdzi_czno_ci_wszechmocny_wejrza_na_ni_cho_nale_a_a_do_ubogich_mieszka_c_w_ma_o_znanego_miasteczka_na_kresach_rzymskiego_imperium"
+                    android:id="@+id/textView663"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/osobiste_do_wiadczenie_mi_o_ci_boga_kt_re_sta_o_si_udzia_em_maryi_pozwala_jej_z_jeszcze_wi_ksz_przenikliwo_ci_kontemplowa_tajemnic_boga_wychwala_wi_c_jego_wielko_i_w_ten_spos_b_tak_e_wyznaje_swoj_wiar_m_wi_o_tym_kim_jest_dla_niej_b_g_i_jak_b_g_dzia_a_w_yciu_ludzi"
+                    android:id="@+id/textView664"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/maryja_m_wi_najpierw_o_wi_to_ci_boga_jego_imi_jest_wi_te_jego_tajemnic_jest_wi_to_on_nie_jest_cz_ci_tego_wiata_jest_wi_kszy_od_wszystkiego_i_wszystkich_jest_niesko_czony_doskona_y_wi_kszy_ni_ca_a_stworzona_rzeczywisto"
+                    android:id="@+id/textView665"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/wiele_lat_p_niej_jezus_b_dzie_uczy_aposto_w_modlitwy_poleci_im_aby_najpierw_m_wili_ojcze_wi_si_imi_twoje_maryja_ju_zna_tak_modlitw_sam_duch_wi_ty_jest_jej_wewn_trznym_nauczycielem"
+                    android:id="@+id/textView667"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/dziesi_tek_r_a_ca"
+                    android:id="@+id/textView668"
+                    style="@style/dziesiatek_rozanca"/>
+
+            <TextView
+                    android:text="@string/ojcze_nasz_zdrowa_maryjo_chwa_a_ojcu"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView669"/>
+            <TextView
+                    android:text="@string/akt_strzelisty"
+                    android:id="@+id/textView670"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/bo_e_w_tr_jcy_wi_tej_jedyny_otw_rz_moje_oczy_abym_m_g_wyra_niej_widzie_wielkie_dzie_a_jakich_dokona_e_w_tajemnicy_nawiedzenia_w_el_biety"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView671"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy"
+                    android:id="@+id/textView672"
+                    style="@style/intencje_modlitwy"/>
+
+            <TextView
+                    android:text="@string/intencje_modlitwy_wyra_one_swoimi_s_owami"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView673"
+                    android:textStyle="italic"
+                    android:paddingBottom="80sp"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

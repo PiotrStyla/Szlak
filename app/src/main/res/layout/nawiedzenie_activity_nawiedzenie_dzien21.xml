@@ -9,10 +9,10 @@
         tools:context=".NawiedzenieDzien20"
         android:id="@+id/linearLayout">
     <TextView
-            android:text="@string/dzie_20_pie_zachariasza_nadanie_imienia"
+            android:text="@string/dzie_21_pie_zachariasza_uwielbienie_boga_kt_ry"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textView750"
+            android:id="@+id/textView762"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="16dp"
             android:layout_marginTop="16dp"
@@ -25,7 +25,7 @@
     <ScrollView
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView750"
+            app:layout_constraintTop_toBottomOf="@+id/textView762"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
@@ -43,56 +43,53 @@
 
             <TextView
                     android:text="@string/rozwa_anie_s_owa"
-                    android:id="@+id/textView751"
+                    android:id="@+id/textView763"
                     style="@style/rozwazanie_slowa"/>
 
             <TextView
-                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_1_59_60_smego_dnia_s_siedzi_i_krewni_przyszli_aby_obrzeza_dzieci_i_chcieli_mu_da_imi_ojca_jego_zachariasza_jednak_e_matka_jego_odpowiedzia_a_nie_lecz_ma_otrzyma_imi_jan"
+                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_1_64_65_natychmiast_otworzy_y_si_usta_zachariasza_j_zyk_si_rozwi_za_i_m_wi_wielbi_c_boga_i_pad_strach_na_wszystkich_ich_s_siad_w_w_ca_ej_g_rskiej_krainie_judei_rozpowiadano_o_tym_wszystkim_co_si_zdarzy_o"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView752"/>
+                    android:id="@+id/textView764"/>
             <TextView
-                    android:text="@string/zachariasz_i_el_bieta_nie_musieli_si_zastanawia_jakie_imi_da_ich_synowi_zosta_o_im_to_objawione_a_oni_s_owo_boga_przyj_li_z_rado_ci_i_w_pos_usze_stwie"
-                    android:id="@+id/textView753"
+                    android:text="@string/zachariasz_wielbi_boga_to_uwielbienie_ros_o_w_nim_dziewi_miesi_cy_gdy_nie_m_g_m_wi_wiele_w_tym_czasie_przemy_la_i_wiele_zrozumia_teraz_gdy_jego_j_zyk_si_rozwi_za_zwraca_si_nie_do_ludzi_lecz_do_boga_ju_nie_w_tpi_w_to_co_b_g_m_wi_lecz_uwielbia_i_wychwala_pana_ewangelista_a_dwukrotnie_m_wi_o_tej_jego_postawie_najpierw_zaznacza_e_s_to_jego_pierwsze_s_owa_po_odzyskaniu_mowy_a_potem_stwierdza_wtedy_ojciec_jego_zachariasz_zosta_nape_niony_duchem_wi_tym_i_prorokowa_k_1_67_to_proroctwo_by_o_hymnem_pochwalnym_na_cze_boga"
+                    android:id="@+id/textView765"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="@string/jednak_w_ich_domu_odby_a_si_wa_na_rozmowa_na_temat_wyboru_imienia_dla_dziecka_s_siedzi_i_krewni_chcieli_trzyma_si_tradycji_jaka_panowa_a_w_ich_rodowisku_okaza_o_si_jednak_e_b_g_ma_szczeg_lne_plany_co_do_jana_zosta_y_one_oznajmione_zachariaszowi_gdy_pe_ni_swoj_s_u_b_w_wi_tyni_us_ysza_wtedy_zapowied_narodzin_syna_ale_nie_uwierzy_s_owom_anio_a_i_przez_niewiar_utraci_mow_odzyska_zdolno_m_wienia_gdy_napisa_na_tabliczce_jan_mu_b_dzie_na_imi_b_g_przywr_ci_mu_mow_nie_w_chwili_narodzin_jana_lecz_w_chwili_nadania_mu_imienia"
-                    android:id="@+id/textView754"
+                    android:text="@string/inaczej_prze_ywaj_to_wydarzenie_mieszka_cy_ain_karim_i_okolicy_pad_strach_na_wszystkich_ich_s_siad_w_pisze_ewangelista_dyskutuj_zastanawiaj_si_rozpowiadaj_o_tym_co_si_sta_o_ale_ich_s_owom_towarzyszy_l_k_o_l_ku_b_dzie_r_wnie_mowa_gdy_po_narodzeniu_jezusa_przyjd_m_drcy_ze_wschodu_wtedy_l_k_prze_yje_herod_a_z_nim_ca_a_jerozolima_por_mt_2_3"
+                    android:id="@+id/textView766"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="@string/jest_to_niew_tpliwie_znak_e_w_imieniu_cz_owieka_zawiera_si_jego_powo_anie_i_e_wierz_cy_rodzice_powinni_na_modlitwie_rozeznawa_jakie_imi_powinni_nada_ich_dziecku_jest_to_r_wnie_okazja_do_refleksji_nad_moim_imieniem_nadali_mi_je_rodzice_po_narodzeniu_ale_od_chwili_chrztu_wi_tego_to_imi_oznacza_e_jestem_dzieckiem_boga_co_jest_najwa_niejsz_prawd_zawart_w_moim_imieniu"
-                    android:id="@+id/textView755"
+                    android:text="@string/w_maryjnym_magnificat_prze_ywa_em_s_owa_wielbi_dusza_moja_pana_i_raduje_si_duch_m_j_w_bogu_teraz_zachariasz_wielbi_boga_a_ludzie_pe_ni_l_ku_dyskutuj_m_wi_wiele_do_innych_a_ma_o_do_boga_modl_si_w_tym_dziesi_tku_r_a_ca_abym_szed_drog_maryi_i_zachariasza"
+                    android:id="@+id/textView767"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
                     android:text="@string/dziesi_tek_r_a_ca"
-                    android:id="@+id/textView756"
+                    android:id="@+id/textView768"
                     style="@style/dziesiatek_rozanca"/>
 
             <TextView
                     android:text="@string/ojcze_nasz_zdrowa_maryjo_chwa_a_ojcu"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView757"/>
+                    android:id="@+id/textView769"/>
             <TextView
                     android:text="@string/akt_strzelisty"
-                    android:id="@+id/textView758"
+                    android:id="@+id/textView770"
                     style="@style/intencje_modlitwy"/>
             <TextView
                     android:text="@string/bo_e_w_tr_jcy_wi_tej_jedyny_otw_rz_moje_oczy_abym_m_g_wyra_niej_widzie_wielkie_dzie_a_jakich_dokona_e_w_tajemnicy_nawiedzenia_w_el_biety"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView759"/>
+                    android:id="@+id/textView771"/>
             <TextView
                     android:text="@string/intencje_modlitwy"
-                    android:id="@+id/textView760"
+                    android:id="@+id/textView772"
                     style="@style/intencje_modlitwy"/>
 
             <TextView
                     android:text="@string/intencje_modlitwy_wyra_one_swoimi_s_owami"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView761"
+                    android:id="@+id/textView773"
                     android:textStyle="italic"
                     android:paddingBottom="80sp"/>
-
-
-
 
         </LinearLayout>
     </ScrollView>

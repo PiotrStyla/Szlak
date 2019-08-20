@@ -142,22 +142,22 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button73"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 20. Pieśń Zachariasza - Nadanie Imienia"/>
+                    android:text="@string/dzie_20_pie_zachariasza_nadanie_imienia"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button44"
+                    android:layout_height="wrap_content" android:id="@+id/button74"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_21_sta_o_si_cia_em"/>
+                    android:text="@string/dzie_21_pie_zachariasza_uwielbienie_boga_kt_ry"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button45"
+                    android:layout_height="wrap_content" android:id="@+id/button75"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_22_wiat_go_nie_pozna"/>
+                    android:text="@string/dzie_22_pie_zachariasza_nawiedzi_nas_i_wyzwoli"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button46"
+                    android:layout_height="wrap_content" android:id="@+id/button76"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_23_ci_kt_rzy_go_nie_przyj_li"/>
+                    android:text="@string/dzie_23_pie_zachariasza_wyrwa_nas_z_l_ku"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button47"

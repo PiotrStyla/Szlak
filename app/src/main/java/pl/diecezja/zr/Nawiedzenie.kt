@@ -116,20 +116,20 @@ class Nawiedzenie : AppCompatActivity() {
             val intentNawiedzenieDzien20 = Intent(this, NawiedzenieDzien20::class.java)
             startActivity(intentNawiedzenieDzien20)
         }
-        val buttonZwiastowanieDoDzien21 = findViewById<Button>(R.id.button44)
-        buttonZwiastowanieDoDzien21.setOnClickListener {
-            val intentZwiastowanieDzien21 = Intent(this, ZwiastowanieDzien21::class.java)
-            startActivity(intentZwiastowanieDzien21)
+        val buttonNawiedzenieDoDzien21 = findViewById<Button>(R.id.button74)
+        buttonNawiedzenieDoDzien21.setOnClickListener {
+            val intentNawiedzenieDzien21 = Intent(this, NawiedzenieDzien21::class.java)
+            startActivity(intentNawiedzenieDzien21)
         }
-        val buttonZwiastowanieDoDzien22 = findViewById<Button>(R.id.button45)
-        buttonZwiastowanieDoDzien22.setOnClickListener {
-            val intentZwiastowanieDzien22 = Intent(this, ZwiastowanieDzien22::class.java)
-            startActivity(intentZwiastowanieDzien22)
+        val buttonNawiedzenieDoDzien22 = findViewById<Button>(R.id.button75)
+        buttonNawiedzenieDoDzien22.setOnClickListener {
+            val intentNawiedzenieDzien22 = Intent(this, NawiedzenieDzien22::class.java)
+            startActivity(intentNawiedzenieDzien22)
         }
-        val buttonZwiastowanieDoDzien23 = findViewById<Button>(R.id.button46)
-        buttonZwiastowanieDoDzien23.setOnClickListener {
-            val intentZwiastowanieDzien23 = Intent(this, ZwiastowanieDzien23::class.java)
-            startActivity(intentZwiastowanieDzien23)
+        val buttonNawiedzenieDoDzien23 = findViewById<Button>(R.id.button76)
+        buttonNawiedzenieDoDzien23.setOnClickListener {
+            val intentNawiedzenieDzien23 = Intent(this, NawiedzenieDzien23::class.java)
+            startActivity(intentNawiedzenieDzien23)
         }
         val buttonZwiastowanieDoDzien24 = findViewById<Button>(R.id.button47)
         buttonZwiastowanieDoDzien24.setOnClickListener {

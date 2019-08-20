@@ -160,14 +160,14 @@
                     android:text="@string/dzie_23_pie_zachariasza_wyrwa_nas_z_l_ku"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button47"
+                    android:layout_height="wrap_content" android:id="@+id/button77"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_24_ci_kt_rzy_je_przyj_li"/>
+                    android:text="@string/dzie_24_pie_zachariasza_odpu_ci_nam_grzechy"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button48"
+                    android:layout_height="wrap_content" android:id="@+id/button78"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_25_aska_po_asce"/>
+                    android:text="@string/dzie_25_pie_zachariasza_o_wieci_nasz_drog"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button49"

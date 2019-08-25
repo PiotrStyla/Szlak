@@ -45,31 +45,42 @@
             android:text="@string/narodzenie1"
             android:layout_width="150sp"
             android:layout_height="wrap_content"
-            android:id="@+id/button7" style="@style/button_radosne_tajemnice"
+            android:id="@+id/button_Narodzenie"
+            style="@style/button_radosne_tajemnice"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintHorizontal_bias="0.5" app:layout_constraintEnd_toStartOf="@+id/button8"
-            android:layout_marginTop="16dp" app:layout_constraintTop_toBottomOf="@+id/button_Zwiastowanie"/>
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintEnd_toStartOf="@+id/button8"
+            android:layout_marginTop="16dp"
+            app:layout_constraintTop_toBottomOf="@+id/button_Zwiastowanie"/>
     <Button
             android:text="@string/ofiarowanie1"
             android:layout_width="150sp"
             android:layout_height="wrap_content"
-            android:id="@+id/button8" style="@style/button_radosne_tajemnice"
-            app:layout_constraintStart_toEndOf="@+id/button7" app:layout_constraintHorizontal_bias="0.5"
-            app:layout_constraintEnd_toEndOf="parent" app:layout_constraintTop_toTopOf="@+id/button7"/>
+            android:id="@+id/button8"
+            style="@style/button_radosne_tajemnice"
+            app:layout_constraintStart_toEndOf="@+id/button_Narodzenie"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/button_Narodzenie"/>
     <Button
             android:text="@string/odnalezienie1"
             android:layout_width="150sp"
             android:layout_height="wrap_content"
-            android:id="@+id/button9" style="@style/button_radosne_tajemnice"
+            android:id="@+id/button9"
+            style="@style/button_radosne_tajemnice"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintHorizontal_bias="0.5" app:layout_constraintEnd_toStartOf="@+id/button10"
-            android:layout_marginTop="16dp" app:layout_constraintTop_toBottomOf="@+id/button7"/>
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintEnd_toStartOf="@+id/button10"
+            android:layout_marginTop="16dp"
+            app:layout_constraintTop_toBottomOf="@+id/button_Narodzenie"/>
     <Button
             android:text="@string/rekolekcje1"
             android:layout_width="150sp"
             android:layout_height="wrap_content"
-            android:id="@+id/button10" style="@style/button_radosne_tajemnice"
+            android:id="@+id/button10"
+            style="@style/button_radosne_tajemnice"
             app:layout_constraintStart_toEndOf="@+id/button9"
-            app:layout_constraintHorizontal_bias="0.5" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="@+id/button9"/>
 </android.support.constraint.ConstraintLayout>

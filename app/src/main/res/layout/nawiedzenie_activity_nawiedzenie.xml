@@ -170,27 +170,27 @@
                     android:text="@string/dzie_25_pie_zachariasza_o_wieci_nasz_drog"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button49"
+                    android:layout_height="wrap_content" android:id="@+id/button79"
                     style="@style/button_dni_zwiastowanie_padding"
                     android:text="@string/dzie_26_dzi_kczynienie"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button50"
+                    android:layout_height="wrap_content" android:id="@+id/button80"
                     style="@style/button_dni_zwiastowanie_padding"
                     android:text="@string/dzie_27_apostolstwo"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button51"
+                    android:layout_height="wrap_content" android:id="@+id/button81"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_28_podsumowanie"/>
+                    android:text="@string/dzie_28_pokuta_i_eucharystia"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button52"
+                    android:layout_height="wrap_content" android:id="@+id/button82"
                     style="@style/button_dni_zwiastowanie_padding"
                     android:text="@string/dzie_29_podsumowanie"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button53"
+                    android:layout_height="wrap_content" android:id="@+id/button83"
                     style="@style/button_dni_zwiastowanie_padding"
                     android:text="@string/dzie_30_podsumowanie"/>
 

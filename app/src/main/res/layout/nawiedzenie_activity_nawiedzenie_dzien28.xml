@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="16dp"
+        tools:context=".NawiedzenieDzien28"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="@string/dzie_28_pokuta_i_eucharystia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView862"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="4sp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingEnd="10sp"/>
+
+    <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView862"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="78dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="10sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:orientation="vertical">
+            <TextView
+                    android:text="@string/jednym_z_owoc_w_systematycznych_spotka_z_bogiem_na_modlitwie_i_rozwa_aniu_jego_s_owa_jest_g_bsze_prze_ywanie_sakramentu_pokuty_i_uczestnictwa_w_eucharystii_chc_dzi_uwa_niej_przyjrze_si_tym_darom_boga"
+                    style="@style/paragraf_Text_optimum"
+                    android:textStyle="italic"
+                    android:id="@+id/textView863"/>
+
+            <TextView
+                    android:text="@string/rozwa_anie_s_owa"
+                    android:id="@+id/textView864"
+                    style="@style/rozwazanie_slowa"/>
+
+            <TextView
+                    android:text="@string/z_apokalipsy_w_jana_aposto_a_3_20_oto_stoj_u_drzwi_i_ko_acz_je_li_kto_pos_yszy_m_j_g_os_i_drzwi_otworzy_wejd_do_niego_i_b_d_z_nim_wieczerza_a_on_ze_mn"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView865"/>
+            <TextView
+                    android:text="@string/rozwa_aj_c_te_s_owa_jezusa_chc_na_koniec_miesi_cznej_drogi_wiary_postawi_sobie_par_pyta_modl_si_aby_one_pomog_y_mi_w_robieniu_rachunku_sumienia_przed_przyst_pieniem_do_sakramentu_pokuty_i_aby_dzi_ki_nim_m_j_udzia_we_mszy_wi_tej_by_bardziej_owocny"
+                    android:id="@+id/textView866"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/jak_wygl_da_otwieranie_lub_zamykanie_serca_na_s_owo_bo_e_na_przyj_cie_jezusa_na_obecno_maryi_na_spotkanie_z_najbli_szymi_w_jakich_sprawach_i_kiedy_jestem_otwarty_a_kiedy_si_zamykam_i_zas_aniam_r_nymi_wym_wkami"
+                    android:id="@+id/textView867"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/czy_pami_tam_o_tym_e_zwracaj_c_si_do_cz_onk_w_rodziny_z_kt_rymi_jestem_na_co_dzie_lub_id_c_do_tych_kt_rych_odwiedzam_przy_okazji_wi_t_i_imienin_nie_jestem_sam_lecz_jest_ze_mn_jezus_czy_my_l_c_o_swoich_problemach_i_tych_kt_re_trapi_najbli_szych_pami_tam_o_modlitwie_do_ducha_wi_tego_i_otwieram_si_na_jego_dzia_anie"
+                    android:id="@+id/textView868"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/z_jakim_nastawieniem_id_na_niedzieln_eucharysti_czy_w_moim_sercu_ro_nie_pie_dzi_kczynienia_i_uwielbienia_aby_w_pe_ni_rozkwitn_w_czasie_mszy_wi_tej_jakie_miejsce_w_mojej_modlitwie_zajmuje_modlitwa_uwielbienia_wobec_boga_zachwytu_wobec_jego_wspania_o_ci_i_dzi_kczynienia_za_jego_dary"
+                    android:id="@+id/textView869"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/pyta_jest_wi_cej_przychodz_same_a_raczej_s_promieniami_wiat_a_padaj_cymi_do_sumienia_ze_strony_wschodz_cego_s_o_ca_cz_si_z_odmawianiu_dziesi_tka_r_a_ca_ze_w_janem_paw_em_ii_kt_ry_w_czasie_inauguracji_pontyfikatu_wzywa_wszystkich_do_otwarcia_drzwi_chrystusowi"
+                    android:id="@+id/textView870"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/dziesi_tek_r_a_ca"
+                    android:id="@+id/textView871"
+                    style="@style/dziesiatek_rozanca"/>
+
+            <TextView
+                    android:text="@string/chwa_a_ojcu_kt_re_odmawiam_w_codziennej_tajemnicy_r_a_ca_staje_si_jeszcze_wspanialsz_pie_ni_gdy_piewam_j_bogu_po_otrzymaniu_rozgrzeszenia_w_sakramencie_pokuty_a_tak_e_gdy_w_czasie_eucharystii_piewam_z_innymi_chwa_a_na_wysoko_ci_bogu_i_prze_ywam_ask_zjednoczenia_z_jezusem_w_komunii_wi_tej"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView872"/>
+            <TextView
+                    android:text="@string/akt_strzelisty"
+                    android:id="@+id/textView873"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/wielbi_dusza_moja_pana_i_raduje_si_duch_m_j_w_bogu_zbawicielu_moim"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView874"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy"
+                    android:id="@+id/textView875"
+                    style="@style/intencje_modlitwy"/>
+
+            <TextView
+                    android:text="@string/intencje_modlitwy_wyra_one_swoimi_s_owami"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView876"
+                    android:textStyle="italic"
+                    android:paddingBottom="80sp"/>
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

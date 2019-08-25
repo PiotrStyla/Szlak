@@ -9,7 +9,7 @@
             android:roundIcon="@mipmap/ic_launcher_round_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".NawiedznieDzien30">
+        <activity android:name=".NawiedzenieDzien30">
         </activity>
         <activity android:name=".NawiedzenieDzien29">
         </activity>

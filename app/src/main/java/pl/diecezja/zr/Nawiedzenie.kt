@@ -163,7 +163,7 @@ class Nawiedzenie : AppCompatActivity() {
         }
         val buttonNawiedzenieDoDzien30 = findViewById<Button>(R.id.button83)
         buttonNawiedzenieDoDzien30.setOnClickListener {
-            val intentNawiedzenieDzien30 = Intent(this, NawiedznieDzien30::class.java)
+            val intentNawiedzenieDzien30 = Intent(this, NawiedzenieDzien30::class.java)
             startActivity(intentNawiedzenieDzien30)
         }
 

@@ -41,8 +41,9 @@
                     android:contentDescription="@string/obrazzwiastowania"/>
             <Button
                     android:text="@string/wst_p"
-                    android:id="@+id/button_Zwiastowanie_Wstep"
-                    style="@style/button_Zwiastowanie_Wstep" android:layout_marginBottom="12dp"/>
+                    android:id="@+id/button_Nawiedzenie_Wstep"
+                    style="@style/button_Zwiastowanie_Wstep"
+                    android:layout_marginBottom="12dp"/>
             <Button
                     android:text="@string/dzie_1_modlitwa_do_ojca"
                     android:layout_width="match_parent"

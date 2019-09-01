@@ -7,7 +7,7 @@
         android:layout_height="match_parent"
         tools:context=".Wprowadzenie" android:id="@+id/linearLayout">
     <TextView
-            android:text="Zwiastowanie-Wstęp"
+            android:text="@string/zwiastowanie_wst_p"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView3"
@@ -36,7 +36,7 @@
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
             <TextView
-                    android:text="Jeśli mam przez cały miesiąc udawać się duchowo do miejsca, w którym dokonało się zwiastowanie Najświętszej Maryi Pannie, spotkać się tam z Chrystusem i Maryją, to najpierw muszę się gorliwie modlić o łaskę takiego przeżywania tej tajemnicy. Nie potrafię o własnych siłach wniknąć w głębię Bożych spraw. Potrzebuję prowadzenia przez Boga."
+                    android:text="@string/je_li_mam_przez_ca_y_miesi_c_udawa_si_duchowo_do_miejsca_w_kt_rym_dokona_o_si_zwiastowanie_naj_wi_tszej_maryi_pannie_spotka_si_tam_z_chrystusem_i_maryj_to_najpierw_musz_si_gorliwie_modli_o_ask_takiego_prze_ywania_tej_tajemnicy_nie_potrafi_o_w_asnych_si_ach_wnikn_w_g_bi_bo_ych_spraw_potrzebuj_prowadzenia_przez_boga"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView4"
@@ -44,7 +44,7 @@
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp" android:textAlignment="textStart"/>
             <TextView
-                    android:text="Z tej racji pierwsze dni miesięcznej modlitwy i medytacji są prośbą o łaskę głębszego wniknięcia w znaczenie zbawczych wydarzeń, jakie dokonały się w chwili, gdy Anioł przyszedł do Maryi i oznajmił Jej Bożą wolę"
+                    android:text="@string/z_tej_racji_pierwsze_dni_miesi_cznej_modlitwy_i_medytacji_s_pro_b_o_ask_g_bszego_wnikni_cia_w_znaczenie_zbawczych_wydarze_jakie_dokona_y_si_w_chwili_gdy_anio_przyszed_do_maryi_i_oznajmi_jej_bo_wol"
                     android:id="@+id/textView7"
                     style="@style/paragraf_Text"/>
 

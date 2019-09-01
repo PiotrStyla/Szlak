@@ -11,10 +11,10 @@ class Nawiedzenie : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.nawiedzenie_activity_nawiedzenie)
 
-        val buttonZwiastowanieDoWstep = findViewById<Button>(R.id.button_Zwiastowanie_Wstep)
-        buttonZwiastowanieDoWstep.setOnClickListener {
-            val intentZwiastowanieWstep = Intent(this, ZwiastowanieWstep::class.java)
-            startActivity(intentZwiastowanieWstep)
+        val buttonNawiedzenieDoWstep = findViewById<Button>(R.id.button_Nawiedzenie_Wstep)
+        buttonNawiedzenieDoWstep.setOnClickListener {
+            val intentNawiedzenieWstep = Intent(this, NawiedzenieWstep::class.java)
+            startActivity(intentNawiedzenieWstep)
         }
         val buttonNawiedzenieDoDzien1 = findViewById<Button>(R.id.button54)
         buttonNawiedzenieDoDzien1.setOnClickListener {

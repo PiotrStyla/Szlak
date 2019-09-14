@@ -104,7 +104,19 @@
             <TextView
                     android:text="@string/modl_si_do_maryi_i_z_maryj_o_ask_takiego_otwarcia_si_na_chrystusa_i_takiego_przyj_cia_go_w_swoje_ycie_jak_tego_przyk_ad_daj_wi_ci"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView1106"
+                    android:id="@+id/textView1106"/>
+            <TextView
+                    android:text="@string/modlitwa_na_zako_czenie_rozwa_a_z_ostatniego_tygodnia"
+                    android:id="@+id/textView1105a"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/b_d_uwielbiony_panie_nasz_i_zbawicielu_kt_ry_tak_wieloma_drogami_przychodzisz_do_mnie_i_wype_niasz_swoj_obecno_ci_moje_ycie_b_d_uwielbiony_duchu_wi_ty_kt_ry_uzdalniasz_mnie_do_przyj_cia_jezusa_jako_mojego_boga_i_pana_b_d_uwielbiony_ojcze_niebieski_kt_ry_przez_swego_syna_objawiasz_mi_siebie_jako_ojca_i_uczysz_mnie_y_jako_twoje_dziecko_b_d_uwielbiony_bo_e_w_tr_jcy_wi_tej_jedyny_we_wszystkich_darach_jaki_mi_objawi_e_i_jakich_mi_udzieli_e_w_minionym_tygodniu_w_czasie_r_a_cowych_spotka"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView1105b"/>
+            <TextView
+                    android:text="@string/maryjo_kr_lowo_r_a_ca_wi_tego_dzi_kuj_ci_za_twoj_opiek_i_pomoc_tobie_zawierzam_dalsze_etapy_mojego_duchowego_w_drowania"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView1105c"
                     android:paddingBottom="80sp"/>
         </LinearLayout>
     </ScrollView>

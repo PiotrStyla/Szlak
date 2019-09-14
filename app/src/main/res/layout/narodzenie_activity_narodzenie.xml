@@ -115,9 +115,10 @@
                     android:text="@string/dzie_11_przywita_chrystusa_z_ko_cio_em"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button65"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/button95"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_12_pie_maryi_wielbi_dusza_moja_pana"/>
+                    android:text="@string/dzie_12_wyzna_wiar_w_chrystusa_prawdziwy_cz_owiek"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button66"

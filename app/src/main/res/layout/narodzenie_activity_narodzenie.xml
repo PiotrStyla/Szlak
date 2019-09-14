@@ -96,9 +96,10 @@
                     android:id="@+id/button91"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
-                    android:text="@string/dzie_9_jezus_nape_nia_duchem_wi_tym"
+                    android:text="@string/dzie_9_przywita_chrystusa_z_m_drcami"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button62"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/button92"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
                     android:layout_width="match_parent"

@@ -6,13 +6,13 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginEnd="16dp"
-        tools:context=".NarodzenieDzien8"
+        tools:context=".NarodzenieDzien9"
         android:id="@+id/linearLayout">
     <TextView
-            android:text="@string/dzie_8_przywita_chrystusa_z_pasterzami"
+            android:text="@string/dzie_9_przywita_chrystusa_z_m_drcami"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textView1046"
+            android:id="@+id/textView1061"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="16dp"
             android:layout_marginTop="16dp"
@@ -24,7 +24,7 @@
     <ScrollView
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView1046"
+            app:layout_constraintTop_toBottomOf="@+id/textView1061"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
@@ -40,63 +40,63 @@
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
             <TextView
-                    android:text="@string/tak_e_dzi_my_l_o_przywitaniu_jezusa_kt_ry_przychodzi_chc_t_prawd_prze_y_z_pasterzami_b_g_ich_wybra_do_nich_pos_a_anio_w_oni_poszli_do_betlejem_i_oddali_pok_on_panu"
+                    android:text="@string/w_postaciach_m_drc_w_b_g_daje_mi_kolejny_przyk_ad_ludzi_kt_rzy_odbywaj_d_ug_drog_by_doj_do_chrystusa_oni_po_wi_cili_na_to_najwi_cej_czasu_i_si_pokonali_najwi_cej_przeszk_d_aby_dotrze_do_tego_kt_ry_w_tajemniczy_spos_b_ich_zaprasza_chc_rozwa_a_ich_prze_ycia"
                     style="@style/paragraf_Text_optimum"
                     android:textStyle="italic"
-                    android:id="@+id/textView1047"/>
+                    android:id="@+id/textView1062"/>
             <TextView
                     android:text="@string/modlitwa"
-                    android:id="@+id/textView1048"
+                    android:id="@+id/textView1063"
                     style="@style/modlitwa"/>
             <TextView
                     android:text="@string/bo_e_ty_w_przedziwny_spos_b_stworzy_e_cz_owieka_i_w_jeszcze_cudowniejszy_spos_b_odnowi_e_jego_godno_daj_nam_uczestniczy_w_b_stwie_twojego_syna_kt_ry_przyj_nasz_ludzk_natur_przez_chrystusa_pana_naszego_amen"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView1049"/>
+                    android:id="@+id/textView1064"/>
             <TextView
                     android:text="@string/rozwa_anie_s_owa"
-                    android:id="@+id/textView1050"
+                    android:id="@+id/textView1065"
                     style="@style/rozwazanie_slowa"/>
             <TextView
-                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_2_8_12_15_18_w_tej_samej_okolicy_przebywali_w_polu_pasterze_i_trzymali_stra_nocn_nad_swoj_trzod_naraz_stan_przy_nich_anio_pa_ski_i_chwa_a_pa_ska_zewsz_d_ich_o_wieci_a_tak_e_bardzo_si_przestraszyli_lecz_anio_rzek_do_nich_nie_b_jcie_si_oto_zwiastuj_wam_rado_wielk_kt_ra_b_dzie_udzia_em_ca_ego_narodu_dzi_w_mie_cie_dawida_narodzi_si_wam_zbawiciel_kt_rym_jest_mesjasz_pan_a_to_b_dzie_znakiem_dla_was_znajdziecie_niemowl_owini_te_w_pieluszki_i_le_ce_w_obie"
-                    android:id="@+id/textView1051"
+                    android:text="@string/z_ewangelii_wed_ug_w_mateusza_2_1_3_9_12_gdy_za_jezus_narodzi_si_w_betlejem_w_judei_za_panowania_kr_la_heroda_oto_m_drcy_ze_wschodu_przybyli_do_jerozolimy_i_pytali_gdzie_jest_nowo_narodzony_kr_l_ydowski_ujrzeli_my_bowiem_jego_gwiazd_na_wschodzie_i_przybyli_my_odda_mu_pok_on_skoro_to_us_ysza_kr_l_herod_przerazi_si_a_z_nim_ca_a_jerozolima"
+                    android:id="@+id/textView1066"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="@string/gdy_anio_owie_odeszli_od_nich_do_nieba_pasterze_m_wili_nawzajem_do_siebie_p_jd_my_do_betlejem_i_zobaczmy_co_si_tam_zdarzy_o_i_o_czym_nam_pan_oznajmi_udali_si_te_z_po_piechem_i_znale_li_maryj_j_zefa_i_niemowl_le_ce_w_obie_gdy_je_ujrzeli_opowiedzieli_o_tym_co_im_zosta_o_objawione_o_tym_dzieci_ciu_a_wszyscy_kt_rzy_to_s_yszeli_dziwili_si_temu_co_im_pasterze_opowiadali"
-                    android:id="@+id/textView1052"
+                    android:text="@string/oni_wys_uchawszy_kr_la_ruszyli_w_drog_a_oto_gwiazda_kt_r_widzieli_na_wschodzie_sz_a_przed_nimi_a_przysz_a_i_zatrzyma_a_si_nad_miejscem_gdzie_by_o_dzieci_gdy_ujrzeli_gwiazd_bardzo_si_uradowali_weszli_do_domu_i_zobaczyli_dzieci_z_matk_jego_maryj_upadli_na_twarz_i_oddali_mu_pok_on_i_otworzywszy_swe_skarby_ofiarowali_mu_dary_z_oto_kadzid_o_i_mirr_a_otrzymawszy_we_nie_nakaz_eby_nie_wracali_do_heroda_inn_drog_udali_si_do_swojej_ojczyzny_opowie_o_m_drcach_ze_wschodu_jest_bardzo_bogata_w_tre"
+                    android:id="@+id/textView1067"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="@string/w_ukasz_ewangelista_w_swoim_opisie_narodzenia_jezusa_najwi_cej_uwagi_po_wi_ca_pasterzom_o_prze_yciach_maryi_i_j_zefa_m_wi_kr_tko_szerzej_natomiast_opisuje_prze_ycia_pasterzy_widz_ich_najpierw_jako_odbiorc_w_or_dzia_s_zaskoczeni_ka_dym_szczeg_em_or_dzie_dociera_do_nich_w_nocy_a_nie_w_dzie_przekazuj_je_anio_owie_a_nie_ludzie_jego_tre_dotyczy_zbawienia_a_nie_ich_pasterskich_zaj_takich_s_w_nigdy_wcze_niej_ani_p_niej_nie_s_yszeli_narodzi_si_wam_zbawiciel_ich_reakcja_by_a_prosta_jak_pewnie_ca_e_ich_ycie_pos_uchali_wezwania_anio_a_poszli_do_betlejem_znale_li_dzieci_z_o_one_w_obie_i_oddali_mu_pok_on_a_potem_wszystkim_opowiadali_o_tym_co_dane_im_by_o_prze_y"
-                    android:id="@+id/textView1053"
+                    android:text="@string/ka_dego_roku_rozwa_amy_j_w_uroczysto_objawienia_pa_skiego_dzi_rozwa_aj_c_to_wydarzenie_w_tajemnicy_r_a_ca_chc_zatrzyma_si_na_jednym_szczeg_le_m_wi_oni_do_heroda_przybyli_my_odda_mu_pok_on_a_gdy_dotarli_do_betlejem_upadli_na_twarz_i_oddali_mu_pok_on_te_ich_s_owa_i_ich_czyn_przywo_ywane_s_cz_sto_jako_przyk_ad_adoracji_jezusa_st_d_wzi_o_si_wezwanie_venite_adoremus_przyjd_cie_oddajmy_pok_on_przyjd_cie_adorujmy"
+                    android:id="@+id/textView1068"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="@string/chc_z_jeszcze_wi_ksz_wiar_s_ucha_or_dzia_o_bo_ym_narodzeniu_jeszcze_ch_tniej_spieszy_do_tego_kt_ry_jest_moim_zbawicielem_i_jeszcze_gorliwiej_opowiada_innym_o_tym_co_widzia_em_i_s_ysza_em_o_jezusie_kt_ry_wszed_w_moje_ycie_i_zaproponowa_aby_my_szli_razem_on_ze_mn_a_ja_z_nim_wi_c_opowiadam_tak_jak_umiem_e_on_zawsze_jest_ze_mn_a_ja_staram_si_by_z_nim"
-                    android:id="@+id/textView1054"
+                    android:text="@string/przebyli_d_ug_drog_aby_odda_pok_on_panu_aby_go_adorowa_tak_jest_r_wnie_dzisiaj_cz_owiek_musi_przej_d_ug_drog_aby_doj_do_postawy_adoracji_do_tej_postawy_adoracyjnej_ci_gle_dorastam_w_pewnym_sensie_ci_gle_jestem_w_drodze_by_pokonuj_c_wielorakie_przeszkody_systematycznie_przychodzi_i_upa_przed_tym_kt_ry_pozosta_po_r_d_nas_ukryty_w_naj_wi_tszym_sakramencie_modl_si_r_wnie_na_r_a_cu_abym_tego_skarbu_adoracji_nigdy_nie_zagubi_ani_nie_sp_yci"
+                    android:id="@+id/textView1069"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
                     android:text="@string/dziesi_tek_r_a_ca"
-                    android:id="@+id/textView1055"
+                    android:id="@+id/textView1070"
                     style="@style/dziesiatek_rozanca"/>
 
             <TextView
-                    android:text="@string/przed_ojcze_nasz_anio_owie_nie_m_wili_pasterzom_o_ojcu_niebieskim_opowiedzieli_im_o_zbawicielu_kt_ry_si_narodzi_nie_wiem_czy_byli_oni_lud_mi_g_boko_wierz_cymi_i_czy_mieli_wiadomo_e_b_g_jest_ojcem_biblia_nie_m_wi_r_wnie_o_tym_czy_interesowali_si_t_prawd_p_niej_gdy_mija_y_kolejne_lata_ich_ycia_mnie_ta_prawda_zosta_a_objawiona_znam_j_od_dziecka_jedn_z_pierwszych_modlitw_jakich_mnie_nauczono_by_a_w_a_nie_ta_ojcze_nasz_dzi_z_g_bi_serca_dzi_kuj_mojemu_zbawicielowi_jezusowi_chrystusowi_e_przekaza_swoim_uczniom_t_modlitw_w_duchu_wdzi_czno_ci_pragn_j_odmawia"
+                    android:text="@string/przed_ojcze_nasz_je_li_droga_cz_owieka_na_adoracj_prze_ywan_systematycznie_i_z_potrzeby_serca_jest_d_uga_to_trzeba_powiedzie_e_r_wnie_d_uga_jest_droga_dojrzewania_do_postawy_dzieci_ctwa_wobec_ojca_niebieskiego_rozpocz_a_si_ona_w_moim_dzieci_stwie_dojrzewa_a_w_czasach_m_odo_ci_osi_ga_a_now_g_bi_w_moim_doros_ym_yciu_czy_dzisiaj_mam_dzieci_c_mi_o_wobec_ojca_i_dzieci_c_ufno_wobec_niego_ka_de_ojcze_nasz_jest_odpowiedzi_na_te_pytania"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView1056"/>
+                    android:id="@+id/textView1071"/>
             <TextView
                     android:text="@string/akt_strzelisty"
-                    android:id="@+id/textView1057"
+                    android:id="@+id/textView1072"
                     style="@style/intencje_modlitwy"/>
             <TextView
                     android:text="@string/najlepszy_ojcze_prosz_ci_przez_wstawiennictwo_maryi_anio_w_i_wi_tych_aby_wszyscy_ludzie_otwarli_serca_na_przyj_cie_twego_syna_kt_ry_przychodzi_do_nas_w_duchu_wi_tym"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView1058"/>
+                    android:id="@+id/textView1073"/>
             <TextView
                     android:text="@string/intencje_modlitwy"
-                    android:id="@+id/textView1059"
+                    android:id="@+id/textView1074"
                     style="@style/intencje_modlitwy"/>
             <TextView
                     android:text="@string/wzywaj_c_wstawiennictwa_maryi_anio_w_i_wi_tych_prosz_boga_ojca_wszechmog_cego_o_mi_osierdzie_dla_mnie_i_ca_ego_wiata"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView1060"
+                    android:id="@+id/textView1075"
                     android:paddingBottom="80sp"/>
         </LinearLayout>
     </ScrollView>

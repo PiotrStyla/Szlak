@@ -93,7 +93,7 @@
             <TextView
                     android:text="@string/modl_si_o_potrzebne_aski_aby_w_kolejnych_dniach_nie_zabrak_o_mi_czasu_ani_si_na_dziesi_tk_r_a_ca_i_autentyczn_medytacj_niezwyk_ej_tajemnicy_narodzin_mojego_zbawiciela"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView985"
+                    android:id="@+id/textView999"
                     android:paddingBottom="80sp"/>
 
 

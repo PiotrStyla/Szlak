@@ -72,9 +72,10 @@
                     android:id="@+id/button87"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
-                    android:text="@string/dzie_5_w_drodze_do_el_biety"
+                    android:text="@string/dzie_5_przywita_chrystusa_z_maryj"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button58"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/button88"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
                     android:text="@string/dzie_6_pozdrowienie_maryi"

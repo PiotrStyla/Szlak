@@ -121,9 +121,10 @@
                     android:text="@string/dzie_12_wyzna_wiar_w_chrystusa_prawdziwy_cz_owiek"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button66"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/button96"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_13_pie_maryi_uczyni_mi_wielkie_rzeczy"/>
+                    android:text="@string/dzie_13_wyzna_wiar_w_chrystusa_prawdziwy_b_g"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button67"

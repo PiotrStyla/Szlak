@@ -48,9 +48,10 @@
                     style="@style/button_Zwiastowanie_Wstep"
                     android:layout_marginBottom="12dp"/>
             <Button
-                    android:text="@string/dzie_1_modlitwa_do_ojca"
+                    android:text="@string/dzie_1_pro_ba_o_wiat_o_i_si_y"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button54"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/button84"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
                     android:text="@string/dzie_2_modlitwa_do_syna"

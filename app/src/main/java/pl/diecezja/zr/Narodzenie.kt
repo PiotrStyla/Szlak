@@ -11,10 +11,10 @@ class Narodzenie : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.narodzenie_activity_narodzenie)
 
-        val buttonZwiastowanieDoWstep = findViewById<Button>(R.id.button_Zwiastowanie_Wstep)
-        buttonZwiastowanieDoWstep.setOnClickListener {
-            val intentZwiastowanieWstep = Intent(this, ZwiastowanieWstep::class.java)
-            startActivity(intentZwiastowanieWstep)
+        val buttonNarodzenieDoWstep = findViewById<Button>(R.id.button_Narodzenie_Wstep)
+        buttonNarodzenieDoWstep.setOnClickListener {
+            val intentNarodzenieWstep = Intent(this, NarodzenieWstep::class.java)
+            startActivity(intentNarodzenieWstep)
         }
         val buttonNawiedzenieDoDzien1 = findViewById<Button>(R.id.button54)
         buttonNawiedzenieDoDzien1.setOnClickListener {

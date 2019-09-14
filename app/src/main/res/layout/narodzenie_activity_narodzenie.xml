@@ -127,14 +127,16 @@
                     android:text="@string/dzie_13_wyzna_wiar_w_chrystusa_prawdziwy_b_g"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button67"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/button97"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_14_pie_maryi_jego_imi_jest_wi_te"/>
+                    android:text="@string/dzie_14_wyzna_wiar_w_chrystusa_jedna_osoba_dwie_natury"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button68"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/button98"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_15_pie_maryi_jego_mi_osierdzie_jest_niesko_czone"/>
+                    android:text="@string/dzie_15_wyzna_wiar_w_chrystusa_nasz_udzia_w_b_stwie_chrystusa"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button69"

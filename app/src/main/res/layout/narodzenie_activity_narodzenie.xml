@@ -84,9 +84,10 @@
                     android:id="@+id/button89"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
-                    android:text="@string/dzie_7_odpowied_el_biety"
+                    android:text="@string/dzie_7_przywita_chrystusa_z_anio_ami"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button60"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/button90"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
                     android:text="@string/dzie_8_b_ogos_awiona_kt_ra_uwierzy_a"

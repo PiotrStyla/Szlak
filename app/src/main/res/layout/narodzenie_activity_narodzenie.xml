@@ -66,9 +66,10 @@
                     android:id="@+id/button86"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
-                    android:text="@string/dzie_4_modlitwa_do_maryi"
+                    android:text="@string/dzie_4_pro_ba_o_wiat_o_i_si_y_modlitwa_do_anio_w"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button57"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/button87"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
                     android:text="@string/dzie_5_w_drodze_do_el_biety"

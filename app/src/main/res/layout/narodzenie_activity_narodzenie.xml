@@ -103,14 +103,16 @@
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button63"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/button93"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_10_maryja_kr_lowa_aposto_w"/>
+                    android:text="@string/dzie_10_przywita_chrystusa_ze_wi_tymi"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button64"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/button94"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_11_rodzina_miejsce_apostolstwa"/>
+                    android:text="@string/dzie_11_przywita_chrystusa_z_ko_cio_em"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button65"

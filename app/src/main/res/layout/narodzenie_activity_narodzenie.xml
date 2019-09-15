@@ -181,14 +181,16 @@
                     android:text="@string/dzie_22_konemplowa_ycie_chrystusa_dzie_smy_ofiarowanie"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button76"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/button106"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_23_pie_zachariasza_wyrwa_nas_z_l_ku"/>
+                    android:text="@string/dzie_23_kontemplowa_ycie_chrystusa_dni_ucieczki_egipt"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button77"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/button107"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_24_pie_zachariasza_odpu_ci_nam_grzechy"/>
+                    android:text="@string/dzie_24_kontemplowa_ycie_chrystusa_dni_cierpienia_m_odziankowie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button78"

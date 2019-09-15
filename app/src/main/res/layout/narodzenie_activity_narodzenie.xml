@@ -199,7 +199,8 @@
                     android:text="@string/dzie_25_kontemplowa_ycie_chrystusa_dni_powrotu_nazaret"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button79"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/button109"
                     style="@style/button_dni_zwiastowanie_padding"
                     android:text="@string/dzie_26_dzi_kczynienie"/>
             <Button

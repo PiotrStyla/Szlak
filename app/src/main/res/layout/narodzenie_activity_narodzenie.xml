@@ -151,9 +151,10 @@
                     android:text="@string/dzie_17_wyzna_wiar_w_chrystusa_on_w_nas_a_my_w_nim"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button71"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/button101"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_18_pie_maryi_jego_wierno_jest_absolutna"/>
+                    android:text="@string/dzie_18_wyzna_wiar_w_chrystusa_cokolwiek_uczynili_cie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button72"

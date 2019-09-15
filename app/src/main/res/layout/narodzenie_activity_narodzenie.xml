@@ -175,9 +175,10 @@
                     android:text="@string/dzie_21_konemplowa_ycie_chrystusa_dzie_smy_symbolika"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button75"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/button105"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_22_pie_zachariasza_nawiedzi_nas_i_wyzwoli"/>
+                    android:text="@string/dzie_22_konemplowa_ycie_chrystusa_dzie_smy_ofiarowanie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button76"

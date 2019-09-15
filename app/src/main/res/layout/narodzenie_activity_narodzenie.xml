@@ -193,9 +193,10 @@
                     android:text="@string/dzie_24_kontemplowa_ycie_chrystusa_dni_cierpienia_m_odziankowie"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button78"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/button108"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_25_pie_zachariasza_o_wieci_nasz_drog"/>
+                    android:text="@string/dzie_25_kontemplowa_ycie_chrystusa_dni_powrotu_nazaret"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button79"

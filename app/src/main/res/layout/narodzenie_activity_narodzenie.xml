@@ -163,14 +163,16 @@
                     android:text="@string/dzie_19_kontemplowa_ycie_chrystusa_dzie_smy_obrzezanie"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button73"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/button103"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_20_pie_zachariasza_nadanie_imienia"/>
+                    android:text="@string/dzie_20_kontemplowa_ycie_chrustusa_dzie_smy_nadanie_imienia"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button74"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/button104"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_21_pie_zachariasza_uwielbienie_boga_kt_ry"/>
+                    android:text="@string/dzie_21_konemplowa_ycie_chrystusa_dzie_smy_symbolika"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button75"

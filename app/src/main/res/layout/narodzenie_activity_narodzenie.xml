@@ -157,9 +157,10 @@
                     android:text="@string/dzie_18_wyzna_wiar_w_chrystusa_cokolwiek_uczynili_cie"/>
             <Button
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" android:id="@+id/button72"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/button102"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_19_pie_zachariasza_narodziny_syna"/>
+                    android:text="@string/dzie_19_kontemplowa_ycie_chrystusa_dzie_smy_obrzezanie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button73"

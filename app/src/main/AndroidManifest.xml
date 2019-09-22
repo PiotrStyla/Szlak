@@ -9,7 +9,8 @@
             android:roundIcon="@mipmap/ic_launcher_round_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".OfiarowanieDzien3"></activity>
+        <activity android:name=".OfiarowanieDzien4"></activity>
+        <activity android:name=".OfiarowanieDzien3" />
         <activity android:name=".OfiarowanieDzien2" />
         <activity android:name=".OfiarowanieDzien1" />
         <activity android:name=".OfiarowanieWstep" />

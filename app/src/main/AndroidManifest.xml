@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="pl.diecezja.zr">
+        package="pl.diecezja.zr">
 
     <application
             android:allowBackup="true"
@@ -9,212 +9,115 @@
             android:roundIcon="@mipmap/ic_launcher_round_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".Ofiarowanie">
-        </activity>
-        <activity android:name=".NarodzenieDzien30">
-        </activity>
-        <activity android:name=".NarodzenieDzien29">
-        </activity>
-        <activity android:name=".NarodzenieDzien28">
-        </activity>
-        <activity android:name=".NarodzenieDzien27">
-        </activity>
-        <activity android:name=".NarodzenieDzien26">
-        </activity>
-        <activity android:name=".NarodzenieDzien25">
-        </activity>
-        <activity android:name=".NarodzenieDzien24">
-        </activity>
-        <activity android:name=".NarodzenieDzien23">
-        </activity>
-        <activity android:name=".NarodzenieDzien22">
-        </activity>
-        <activity android:name=".NarodzenieDzien21">
-        </activity>
-        <activity android:name=".NarodzenieDzien20">
-        </activity>
-        <activity android:name=".NarodzenieDzien19">
-        </activity>
-        <activity android:name=".NarodzenieDzien18">
-        </activity>
-        <activity android:name=".NarodzenieDzien17">
-        </activity>
-        <activity android:name=".NarodzenieDzien16">
-        </activity>
-        <activity android:name=".NarodzenieDzien15">
-        </activity>
-        <activity android:name=".NarodzenieDzien14">
-        </activity>
-        <activity android:name=".NarodzenieDzien13">
-        </activity>
-        <activity android:name=".NarodzenieDzien12">
-        </activity>
-        <activity android:name=".NarodzenieDzien11">
-        </activity>
-        <activity android:name=".NarodzenieDzien10">
-        </activity>
-        <activity android:name=".NarodzenieDzien9">
-        </activity>
-        <activity android:name=".NarodzenieDzien8">
-        </activity>
-        <activity android:name=".NarodzenieDzien7">
-        </activity>
-        <activity android:name=".NarodzenieDzien6">
-        </activity>
-        <activity android:name=".NarodzenieDzien5">
-        </activity>
-        <activity android:name=".NarodzenieDzien4">
-        </activity>
-        <activity android:name=".NarodzenieDzien3">
-        </activity>
-        <activity android:name=".NarodzenieDzien2">
-        </activity>
-        <activity android:name=".NarodzenieDzien1">
-        </activity>
-        <activity android:name=".NarodzenieWstep">
-        </activity>
-        <activity android:name=".NawiedzenieWstep">
-        </activity>
-        <activity android:name=".Narodzenie">
-        </activity>
-        <activity android:name=".NawiedzenieDzien30">
-        </activity>
-        <activity android:name=".NawiedzenieDzien29">
-        </activity>
-        <activity android:name=".NawiedzenieDzien28">
-        </activity>
-        <activity android:name=".NawiedzenieDzien27">
-        </activity>
-        <activity android:name=".NawiedzenieDzien26">
-        </activity>
-        <activity android:name=".NawiedzenieDzien25">
-        </activity>
-        <activity android:name=".NawiedzenieDzien24">
-        </activity>
-        <activity android:name=".NawiedzenieDzien23">
-        </activity>
-        <activity android:name=".NawiedzenieDzien22">
-        </activity>
-        <activity android:name=".NawiedzenieDzien21">
-        </activity>
-        <activity android:name=".NawiedzenieDzien20">
-        </activity>
-        <activity android:name=".NawiedzenieDzien19">
-        </activity>
+        <activity android:name=".OfiarowanieDzien1"></activity>
+        <activity android:name=".OfiarowanieWstep" />
+        <activity android:name=".Ofiarowanie" />
+        <activity android:name=".NarodzenieDzien30" />
+        <activity android:name=".NarodzenieDzien29" />
+        <activity android:name=".NarodzenieDzien28" />
+        <activity android:name=".NarodzenieDzien27" />
+        <activity android:name=".NarodzenieDzien26" />
+        <activity android:name=".NarodzenieDzien25" />
+        <activity android:name=".NarodzenieDzien24" />
+        <activity android:name=".NarodzenieDzien23" />
+        <activity android:name=".NarodzenieDzien22" />
+        <activity android:name=".NarodzenieDzien21" />
+        <activity android:name=".NarodzenieDzien20" />
+        <activity android:name=".NarodzenieDzien19" />
+        <activity android:name=".NarodzenieDzien18" />
+        <activity android:name=".NarodzenieDzien17" />
+        <activity android:name=".NarodzenieDzien16" />
+        <activity android:name=".NarodzenieDzien15" />
+        <activity android:name=".NarodzenieDzien14" />
+        <activity android:name=".NarodzenieDzien13" />
+        <activity android:name=".NarodzenieDzien12" />
+        <activity android:name=".NarodzenieDzien11" />
+        <activity android:name=".NarodzenieDzien10" />
+        <activity android:name=".NarodzenieDzien9" />
+        <activity android:name=".NarodzenieDzien8" />
+        <activity android:name=".NarodzenieDzien7" />
+        <activity android:name=".NarodzenieDzien6" />
+        <activity android:name=".NarodzenieDzien5" />
+        <activity android:name=".NarodzenieDzien4" />
+        <activity android:name=".NarodzenieDzien3" />
+        <activity android:name=".NarodzenieDzien2" />
+        <activity android:name=".NarodzenieDzien1" />
+        <activity android:name=".NarodzenieWstep" />
+        <activity android:name=".NawiedzenieWstep" />
+        <activity android:name=".Narodzenie" />
+        <activity android:name=".NawiedzenieDzien30" />
+        <activity android:name=".NawiedzenieDzien29" />
+        <activity android:name=".NawiedzenieDzien28" />
+        <activity android:name=".NawiedzenieDzien27" />
+        <activity android:name=".NawiedzenieDzien26" />
+        <activity android:name=".NawiedzenieDzien25" />
+        <activity android:name=".NawiedzenieDzien24" />
+        <activity android:name=".NawiedzenieDzien23" />
+        <activity android:name=".NawiedzenieDzien22" />
+        <activity android:name=".NawiedzenieDzien21" />
+        <activity android:name=".NawiedzenieDzien20" />
+        <activity android:name=".NawiedzenieDzien19" />
         <activity
                 android:name=".NawiedzenieDzien18"
                 android:label="@string/title_activity_nawiedzenie_dzien18"
-                android:theme="@style/AppTheme.NoActionBar">
-        </activity>
-        <activity android:name=".NawiedzenieDzien17">
-        </activity>
-        <activity android:name=".NawiedzenieDzien16">
-        </activity>
-        <activity android:name=".NawiedzenieDzien15">
-        </activity>
-        <activity android:name=".NawiedzenieDzien14">
-        </activity>
-        <activity android:name=".NawiedzenieDzien13">
-        </activity>
-        <activity android:name=".NawiedzenieDzien12">
-        </activity>
-        <activity android:name=".NawiedzenieDzien11">
-        </activity>
-        <activity android:name=".NawiedzenieDzien10">
-        </activity>
-        <activity android:name=".NawiedzenieDzien9">
-        </activity>
-        <activity android:name=".NawiedzenieDzien8">
-        </activity>
-        <activity android:name=".NawiedzenieDzien7">
-        </activity>
-        <activity android:name=".NawiedzenieDzien6">
-        </activity>
-        <activity android:name=".NawiedzenieDzien5">
-        </activity>
-        <activity android:name=".NawiedzenieDzien4">
-        </activity>
-        <activity android:name=".NawiedzenieDzien3">
-        </activity>
-        <activity android:name=".NawiedzenieDzien2">
-        </activity>
-        <activity android:name=".NawiedzenieDzien1">
-        </activity>
-        <activity android:name=".Nawiedzenie">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien30">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien29">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien28">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien27">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien26">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien25">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien24">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien23">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien22">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien21">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien20">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien19">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien18">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien17">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien16">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien15">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien14">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien13">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien12">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien11">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien10">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien9">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien8">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien7">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien6">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien5">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien4">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien3">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien2">
-        </activity>
-        <activity android:name=".ZwiastowanieDzien1">
-        </activity>
-        <activity android:name=".ZwiastowanieWstep">
-        </activity>
-        <activity android:name=".Zwiastowanie">
-        </activity>
-        <activity android:name=".Radosne">
-        </activity>
-        <activity android:name=".Wprowadzenie">
-        </activity>
+                android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".NawiedzenieDzien17" />
+        <activity android:name=".NawiedzenieDzien16" />
+        <activity android:name=".NawiedzenieDzien15" />
+        <activity android:name=".NawiedzenieDzien14" />
+        <activity android:name=".NawiedzenieDzien13" />
+        <activity android:name=".NawiedzenieDzien12" />
+        <activity android:name=".NawiedzenieDzien11" />
+        <activity android:name=".NawiedzenieDzien10" />
+        <activity android:name=".NawiedzenieDzien9" />
+        <activity android:name=".NawiedzenieDzien8" />
+        <activity android:name=".NawiedzenieDzien7" />
+        <activity android:name=".NawiedzenieDzien6" />
+        <activity android:name=".NawiedzenieDzien5" />
+        <activity android:name=".NawiedzenieDzien4" />
+        <activity android:name=".NawiedzenieDzien3" />
+        <activity android:name=".NawiedzenieDzien2" />
+        <activity android:name=".NawiedzenieDzien1" />
+        <activity android:name=".Nawiedzenie" />
+        <activity android:name=".ZwiastowanieDzien30" />
+        <activity android:name=".ZwiastowanieDzien29" />
+        <activity android:name=".ZwiastowanieDzien28" />
+        <activity android:name=".ZwiastowanieDzien27" />
+        <activity android:name=".ZwiastowanieDzien26" />
+        <activity android:name=".ZwiastowanieDzien25" />
+        <activity android:name=".ZwiastowanieDzien24" />
+        <activity android:name=".ZwiastowanieDzien23" />
+        <activity android:name=".ZwiastowanieDzien22" />
+        <activity android:name=".ZwiastowanieDzien21" />
+        <activity android:name=".ZwiastowanieDzien20" />
+        <activity android:name=".ZwiastowanieDzien19" />
+        <activity android:name=".ZwiastowanieDzien18" />
+        <activity android:name=".ZwiastowanieDzien17" />
+        <activity android:name=".ZwiastowanieDzien16" />
+        <activity android:name=".ZwiastowanieDzien15" />
+        <activity android:name=".ZwiastowanieDzien14" />
+        <activity android:name=".ZwiastowanieDzien13" />
+        <activity android:name=".ZwiastowanieDzien12" />
+        <activity android:name=".ZwiastowanieDzien11" />
+        <activity android:name=".ZwiastowanieDzien10" />
+        <activity android:name=".ZwiastowanieDzien9" />
+        <activity android:name=".ZwiastowanieDzien8" />
+        <activity android:name=".ZwiastowanieDzien7" />
+        <activity android:name=".ZwiastowanieDzien6" />
+        <activity android:name=".ZwiastowanieDzien5" />
+        <activity android:name=".ZwiastowanieDzien4" />
+        <activity android:name=".ZwiastowanieDzien3" />
+        <activity android:name=".ZwiastowanieDzien2" />
+        <activity android:name=".ZwiastowanieDzien1" />
+        <activity android:name=".ZwiastowanieWstep" />
+        <activity android:name=".Zwiastowanie" />
+        <activity android:name=".Radosne" />
+        <activity android:name=".Wprowadzenie" />
         <activity android:name=".MainActivity">
             <intent-filter>
-                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER"/>
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
     </application>

@@ -11,10 +11,10 @@ class Ofiarowanie : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.ofiarowanie_activity_ofiarowanie)
 
-        val buttonNarodzenieDoWstep = findViewById<Button>(R.id.button_Narodzenie_Wstep)
-        buttonNarodzenieDoWstep.setOnClickListener {
-            val intentNarodzenieWstep = Intent(this, NarodzenieWstep::class.java)
-            startActivity(intentNarodzenieWstep)
+        val buttonOfiarowanieDoWstep = findViewById<Button>(R.id.button_Ofiarowanie_Wstep)
+        buttonOfiarowanieDoWstep.setOnClickListener {
+            val intentOfiarowanieWstep = Intent(this, OfiarowanieWstep::class.java)
+            startActivity(intentOfiarowanieWstep)
         }
         val buttonNarodzenieDoDzien1 = findViewById<Button>(R.id.button84)
         buttonNarodzenieDoDzien1.setOnClickListener {

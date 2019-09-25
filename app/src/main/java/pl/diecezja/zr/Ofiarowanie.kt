@@ -41,10 +41,10 @@ class Ofiarowanie : AppCompatActivity() {
             val intentOfiarowanieDzien5 = Intent(this, OfiarowanieDzien5::class.java)
             startActivity(intentOfiarowanieDzien5)
         }
-        val buttonNarodzenieDoDzien6 = findViewById<Button>(R.id.button89)
-        buttonNarodzenieDoDzien6.setOnClickListener {
-            val intentNarodzenieDzien6 = Intent(this, NarodzenieDzien6::class.java)
-            startActivity(intentNarodzenieDzien6)
+        val buttonOfiarowanieDoDzien6 = findViewById<Button>(R.id.button119)
+        buttonOfiarowanieDoDzien6.setOnClickListener {
+            val intentOfiarowanieDzien6 = Intent(this, OfiarowanieDzien6::class.java)
+            startActivity(intentOfiarowanieDzien6)
         }
         val buttonNarodzenieDoDzien7 = findViewById<Button>(R.id.button90)
         buttonNarodzenieDoDzien7.setOnClickListener {

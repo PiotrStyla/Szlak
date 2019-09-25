@@ -78,10 +78,10 @@
                     android:id="@+id/button118"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
-                    android:text="@string/dzie_6_przywita_chrystusa_ze_wi_tym_j_zefem"
+                    android:text="@string/dzie_6_zbawcze_wydarzenia_jezus_przyniesiony_do_wi_tyni"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button89"
+                    android:id="@+id/button119"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
                     android:text="@string/dzie_7_przywita_chrystusa_z_anio_ami"

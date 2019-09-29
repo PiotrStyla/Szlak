@@ -90,10 +90,10 @@
                     android:id="@+id/button120"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
-                    android:text="@string/dzie_8_przywita_chrystusa_z_pasterzami"
+                    android:text="@string/dzie_8_zbawcze_wydarzenia_mesjasz_przyj_ty_przez_ludzi"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button91"
+                    android:id="@+id/button121"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
                     android:text="@string/dzie_9_przywita_chrystusa_z_m_drcami"

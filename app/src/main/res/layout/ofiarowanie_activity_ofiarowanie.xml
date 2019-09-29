@@ -110,9 +110,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button94"
+                    android:id="@+id/button124"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_11_przywita_chrystusa_z_ko_cio_em"/>
+                    android:text="@string/dzie_11_zbawcze_wydarzenia_kap_an_rozpoczynaj_cy_swoj_s_u_b"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

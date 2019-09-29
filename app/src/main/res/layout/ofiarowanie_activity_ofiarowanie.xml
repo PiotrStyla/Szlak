@@ -104,9 +104,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button93"
+                    android:id="@+id/button123"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_10_przywita_chrystusa_ze_wi_tymi"/>
+                    android:text="@string/dzie_10_zbawcze_wydarzenia_ertwa_ofiarna_z_o_ona_bogu"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

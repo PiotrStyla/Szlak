@@ -6,7 +6,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginEnd="16dp"
-        tools:context=".OfiarowanieDzien11"
+        tools:context=".OfiarowanieDzien12"
         android:id="@+id/linearLayout">
     <TextView
             android:text="@string/dzie_12_symeon_i_anna_symeon_cz_owiek_sprawiedliwy"
@@ -20,7 +20,7 @@
             app:layout_constraintTop_toTopOf="parent"
             android:textSize="20sp"
             android:textStyle="bold"
-            android:paddingEnd="10dp"/>
+            android:paddingEnd="12dp"/>
 
     <ScrollView
             android:layout_width="wrap_content"
@@ -30,7 +30,7 @@
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="24dp"
-            android:layout_marginTop="78dp"
+            android:layout_marginTop="108dp"
             android:scrollbarStyle="outsideOverlay"
             android:clipToPadding="false"
             android:paddingStart="8sp"

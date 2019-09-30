@@ -134,9 +134,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button98"
+                    android:id="@+id/button128"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_15_wyzna_wiar_w_chrystusa_nasz_udzia_w_b_stwie_chrystusa"/>
+                    android:text="@string/dzie_15_symeon_i_anna_symeon_cz_owiek_spe_niony"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="16dp"
+        tools:context=".OfiarowanieDzien13"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="@string/dzie_13_symeon_i_anna_symeon_cz_owiek_oczekuj_cy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView1627"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="4sp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingEnd="12dp"/>
+
+    <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView1627"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="78dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="10sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+            <TextView
+                    android:text="@string/rozwa_anie_s_owa"
+                    android:id="@+id/textView1628"
+                    style="@style/rozwazanie_slowa"/>
+
+            <TextView
+                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_2_25_26_y_w_jerozolimie_cz_owiek_imieniem_symeon_by_to_cz_owiek_sprawiedliwy_i_pobo_ny_wyczekiwa_pociechy_izraela_a_duch_wi_ty_spoczywa_na_nim_jemu_duch_wi_ty_objawi_e_nie_ujrzy_mierci_a_zobaczy_mesjasza_pa_skiego"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView1629"/>
+            <TextView
+                    android:text="@string/bardzo_podobne_s_owa_pisze_w_pawe_w_li_cie_do_tytusa_m_wi_o_sprawiedliwo_ci_i_pobo_no_ci_oraz_o_cierpliwym_oczekiwaniu_kt_re_owocuje_objawieniem_si_jezusa_ukaza_a_si_aska_boga_kt_ra_niesie_zbawienie_wszystkim_ludziom_i_poucza_nas_aby_my_wyrzek_szy_si_bezbo_no_ci_i_dz_wiatowych_rozumnie_i_sprawiedliwie_i_pobo_nie_yli_na_tym_wiecie_oczekuj_c_b_ogos_awionej_nadziei_i_objawienia_si_chwa_y_wielkiego_boga_i_zbawiciela_naszego_jezusa_chrystusa_tt_2_11_13"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView1630"/>
+            <TextView
+                    android:text="@string/cho_dociera_ju_do_mnie_wiat_o_objawienia_to_jednak_w_moim_yciu_jest_r_wnie_oczekiwanie_na_jeszcze_pe_niejsze_poznanie_pana_papie_jan_pawe_ii_wyja_nia_e_to_duch_wi_ty_przygotowuje_cz_owieka_na_spotkanie_z_jezusem_cz_owiek_kt_ry_wyczekiwa_pociechy_izraela_to_znaczy_mesjasza_zosta_w_szczeg_lny_spos_b_przygotowany_przez_ducha_wi_tego_na_spotkanie_z_tym_kt_ry_mia_przyj_audiencja_generalna_20_06_1990"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView1631"/>
+            <TextView
+                    android:text="@string/modlitwa"
+                    android:id="@+id/textView1632"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/wszechmog_cy_wieczny_bo_e_tw_j_jednorodzony_syn_kt_ry_przyj_nasze_ludzkie_cia_o_zosta_w_dniu_dzisiejszym_przedstawiony_w_wi_tyni_pokornie_ci_b_agamy_spraw_aby_my_mogli_stan_przed_tob_z_czystymi_sercami_przez_chrystusa_pana_naszego_amen"
+                    android:id="@+id/textView1633"
+                    style="@style/paragraf_Text_optimum"/>
+
+            <TextView
+                    android:text="@string/dziesi_tek_r_a_ca"
+                    android:id="@+id/textView1634"
+                    style="@style/dziesiatek_rozanca"/>
+
+            <TextView
+                    android:text="@string/wierz_w_boga_ojca_wszechmog_cego"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView1635"/>
+            <TextView
+                    android:text="@string/akt_strzelisty"
+                    android:id="@+id/textView1636"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/ojcze_przedwieczny_ofiaruj_ci_cia_o_i_krew_dusz_i_b_stwo_najmilszego_syna_twojego_a_pana_naszego_jezusa_chrystusa_w_zjednoczeniu_z_nim_ofiaruj_ci_samego_siebie"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView1637"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy"
+                    android:id="@+id/textView1638"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/umocniony_w_wierze_przez_rozwa_anie_tajemnicy_ofiarowania_jezusa_prosz_ci_najlepszy_ojcze_w_intencjach_kt_re_ty_sam_wzbudzi_e_w_moim_sercu"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView1639"
+                    android:paddingBottom="80sp"/>
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

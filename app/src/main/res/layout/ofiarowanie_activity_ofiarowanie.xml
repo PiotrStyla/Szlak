@@ -158,9 +158,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button102"
+                    android:id="@+id/button132"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_19_kontemplowa_ycie_chrystusa_dzie_smy_obrzezanie"/>
+                    android:text="@string/dzie_19_pie_wieczorna_czas_odej_cia"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

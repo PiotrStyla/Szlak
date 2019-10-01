@@ -146,15 +146,15 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button100"
+                    android:id="@+id/button130"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_17_wyzna_wiar_w_chrystusa_on_w_nas_a_my_w_nim"/>
+                    android:text="@string/dzie_17_symeon_i_anna_anna_prorokini_pana"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button101"
+                    android:id="@+id/button131"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_18_wyzna_wiar_w_chrystusa_cokolwiek_uczynili_cie"/>
+                    android:text="@string/dzie_18_symeon_i_anna_anna_szcz_liwa_kobieta"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

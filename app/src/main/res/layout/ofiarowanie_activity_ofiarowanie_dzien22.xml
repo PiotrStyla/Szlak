@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="16dp"
+        tools:context=".OfiarowanieDzien22"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="@string/dzie_22_pie_wieczorna_ujrze_chwa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView1766"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="4sp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingEnd="12dp"/>
+
+    <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView1766"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="78dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="10sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+            <TextView
+                    android:text="@string/rozwa_anie_s_owa"
+                    android:id="@+id/textView1767"
+                    style="@style/rozwazanie_slowa"/>
+
+            <TextView
+                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_2_28_32_symeon_wzi_dzieci_w_obj_cia_b_ogos_awi_boga_i_m_wi_teraz_o_w_adco_pozw_l_odej_s_udze_twemu_w_pokoju_wed_ug_twojego_s_owa_bo_moje_oczy_ujrza_y_chwa_ludu_twego_izraela"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView1768"/>
+            <TextView
+                    android:text="@string/pobo_ny_izraelita_medytuj_cy_nad_tekstami_pisma_i_yj_cy_tradycj_swego_narodu_wiele_my_la_o_chwale_bo_ej_s_owo_chwa_a_w_biblii_hebrajskiej_zwiera_o_w_sobie_ide_ci_aru_lub_wagi_dany_byt_mia_pewn_wag_rzeczywist_warto_a_nie_tylko_dobr_opini_i_pi_kne_s_owa_cz_owiek_dostrzega_niezwyk_pot_g_boga_objawion_w_przyrodzie_i_dokonywanych_przez_niego_dzie_ach_autorzy_biblijni_m_wili_o_objawieniu_si_chwa_y_bo_ej_wyra_aj_c_w_ten_spos_b_zar_wno_majestat_boga_jak_i_jego_pot_g"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView1769"/>
+            <TextView
+                    android:text="@string/symeon_patrz_c_na_dzieci_kt_re_tuli_w_ramionach_nie_widzia_adnego_blasku_kt_ry_by_promieniowa_z_jezusa_nie_by_te_w_tym_momencie_wiadkiem_adnego_cudu_kt_ry_by_objawia_pot_g_boga_jednak_duch_wi_ty_pozwala_mu_dostrzec_w_jezusie_kogo_kto_jest_chwa_ludu_wybranego_przez_boga_kogo_kto_przewy_sza_wszystkich_i_wszystko_swoj_godno_ci_i_pot_g_kogo_kto_dokona_zbawienia_i_w_pe_ni_objawi_mi_o_boga"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView1770"/>
+            <TextView
+                    android:text="@string/dzi_bior_c_do_r_ki_r_aniec_by_zanurzy_si_w_modlitwie_i_medytacji_pragn_tak_uwa_nie_wpatrywa_si_w_jezusa_by_ujrze_jego_chwa_by_wyra_niej_dostrzec_jego_wielko_jego_m_dro_obecn_w_nim_pe_ni_ycia"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView1771"/>
+            <TextView
+                    android:text="@string/modlitwa"
+                    android:id="@+id/textView1772"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/wszechmog_cy_wieczny_bo_e_tw_j_jednorodzony_syn_kt_ry_przyj_nasze_ludzkie_cia_o_zosta_w_dniu_dzisiejszym_przedstawiony_w_wi_tyni_pokornie_ci_b_agamy_spraw_aby_my_mogli_stan_przed_tob_z_czystymi_sercami_przez_chrystusa_pana_naszego_amen"
+                    android:id="@+id/textView1773"
+                    style="@style/paragraf_Text_optimum"/>
+
+            <TextView
+                    android:text="@string/dziesi_tek_r_a_ca"
+                    android:id="@+id/textView1774"
+                    style="@style/dziesiatek_rozanca"/>
+
+            <TextView
+                    android:text="@string/wierz_w_boga_ojca_wszechmog_cego"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView1775"/>
+            <TextView
+                    android:text="@string/akt_strzelisty"
+                    android:id="@+id/textView1776"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/ojcze_przedwieczny_ofiaruj_ci_cia_o_i_krew_dusz_i_b_stwo_najmilszego_syna_twojego_a_pana_naszego_jezusa_chrystusa_w_zjednoczeniu_z_nim_ofiaruj_ci_samego_siebie"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView1777"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy"
+                    android:id="@+id/textView1778"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/modlitwa_w_intencjach_ojca_wi_tego"
+                    style="@style/paragraf_Text_optimum"
+                    android:textStyle="italic"
+                    android:id="@+id/textView1779" />
+            <TextView
+                    android:text="@string/wszechmog_cy_wieczny_bo_e_ty_powierzy_e_ojcu_wi_temu_n_trosk_o_ca_y_ko_ci_nios_cy_wiatu_or_dzie_ewangelii_i_pielgrzymuj_cy_przez_doczesno_do_ycia_wiecznego_z_wiar_polecamy_ci_wszystkie_intencje_kt_re_papie_nosi_w_swoim_sercu_a_szczeg_lnie_te_kt_re_poleca_modlitwie_ca_ego_ko_cio_a"
+                    android:id="@+id/textView1780"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/najlepszy_ojcze_prosz_ci_r_wnie_we_wszystkich_intencjach_kt_re_nosz_w_sercu"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView1781"
+                    android:paddingBottom="80sp"/>
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

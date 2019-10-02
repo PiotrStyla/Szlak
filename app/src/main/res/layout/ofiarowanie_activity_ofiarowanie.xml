@@ -176,9 +176,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button105"
+                    android:id="@+id/button135"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_22_konemplowa_ycie_chrystusa_dzie_smy_ofiarowanie"/>
+                    android:text="@string/dzie_22_pie_wieczorna_ujrze_chwa"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

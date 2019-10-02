@@ -194,13 +194,13 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button108"
+                    android:id="@+id/button138"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_25_kontemplowa_ycie_chrystusa_dni_powrotu_nazaret"/>
+                    android:text="@string/dzie_25_pie_wieczorna_proroctwo_o_maryi"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button109"
+                    android:id="@+id/button139"
                     style="@style/button_dni_zwiastowanie_padding"
                     android:text="@string/dzie_26_dzi_kczynienie"/>
             <Button

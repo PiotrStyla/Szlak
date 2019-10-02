@@ -30,7 +30,7 @@
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="24dp"
-            android:layout_marginTop="78dp"
+            android:layout_marginTop="48dp"
             android:scrollbarStyle="outsideOverlay"
             android:clipToPadding="false"
             android:paddingStart="8sp"
@@ -121,7 +121,7 @@
             <TextView
                     android:text="@string/umocniony_w_wierze_przez_rozwa_anie_tajemnicy_ofiarowania_jezusa_prosz_ci_najlepszy_ojcze_w_intencjach_kt_re_ty_sam_wzbudzi_e_w_moim_sercu"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView1831"
+                    android:id="@+id/textView1851"
                     android:paddingBottom="80sp"/>
 
         </LinearLayout>

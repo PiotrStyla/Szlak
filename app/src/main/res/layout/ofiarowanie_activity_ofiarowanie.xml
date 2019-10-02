@@ -206,7 +206,7 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button110"
+                    android:id="@+id/button140"
                     style="@style/button_dni_zwiastowanie_padding"
                     android:text="@string/dzie_27_apostolstwo"/>
             <Button

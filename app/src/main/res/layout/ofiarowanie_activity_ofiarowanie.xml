@@ -170,9 +170,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button104"
+                    android:id="@+id/button134"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_21_konemplowa_ycie_chrystusa_dzie_smy_symbolika"/>
+                    android:text="@string/dzie_21_pie_wieczorna_ujrze_wiat_o"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

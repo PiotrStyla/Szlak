@@ -164,9 +164,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button103"
+                    android:id="@+id/button133"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_20_kontemplowa_ycie_chrustusa_dzie_smy_nadanie_imienia"/>
+                    android:text="@string/dzie_20_pie_wieczorna_ujrze_zbawienie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

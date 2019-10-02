@@ -182,9 +182,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button106"
+                    android:id="@+id/button136"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_23_kontemplowa_ycie_chrystusa_dni_ucieczki_egipt"/>
+                    android:text="@string/dzie_23_pie_wieczorna_zdziwienie_maryi_i_j_zefa"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

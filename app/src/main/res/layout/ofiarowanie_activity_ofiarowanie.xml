@@ -188,9 +188,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button107"
+                    android:id="@+id/button137"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_24_kontemplowa_ycie_chrystusa_dni_cierpienia_m_odziankowie"/>
+                    android:text="@string/dzie_24_pie_wieczorna_proroctwo_o_jezusie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

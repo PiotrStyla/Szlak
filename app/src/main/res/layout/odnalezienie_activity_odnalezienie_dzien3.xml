@@ -98,7 +98,7 @@
             <TextView
                     android:text="@string/ojcze_mi_osierny_dzi_kuj_ci_za_objawienie_twej_niesko_czonej_mi_o_ci_w_tajemnicy_znalezienia_jezusa_w_wi_tyni_niech_moc_tej_mi_o_ci_ogarnie_wszystkich_ludzi_a_szczeg_lnie_tych_kt_rych_dzi_polecam_ci_w_modlitwie_zawierzam_ich_twemu_mi_osierdziu_i_prosz_aby_ich_obdarzy_darem_twego_ducha_kt_ry_yjesz_i_kr_lujesz_na_wieki_wiek_w_amen"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView1969"
+                    android:id="@+id/textView1984"
                     android:textStyle="italic"
                     android:paddingBottom="80sp"/>
 

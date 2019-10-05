@@ -15,7 +15,7 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
             <TextView
-                    android:text="@string/tajemnica_iii"
+                    android:text="@string/tajemnica_iv"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView"
@@ -27,7 +27,7 @@
                     android:textAlignment="center"
                     android:typeface="sans"/>
             <TextView
-                    android:text="@string/narodzenie1"
+                    android:text="Ofiarowanie"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView2"
@@ -44,7 +44,7 @@
                     android:contentDescription="@string/obrazzwiastowania"/>
             <Button
                     android:text="@string/wst_p"
-                    android:id="@+id/button_Ofiarowanie_Wstep"
+                    android:id="@+id/button_Odnalezienie_Wstep"
                     style="@style/button_Zwiastowanie_Wstep"
                     android:layout_marginBottom="12dp"/>
             <Button

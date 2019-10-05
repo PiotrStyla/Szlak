@@ -9,7 +9,8 @@
             android:roundIcon="@mipmap/ic_launcher_round_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".Odnalezienie"></activity>
+        <activity android:name=".OdnalezienieWstep"></activity>
+        <activity android:name=".Odnalezienie" />
         <activity android:name=".OfiarowanieDzien30" />
         <activity android:name=".OfiarowanieDzien29" />
         <activity android:name=".OfiarowanieDzien28" />

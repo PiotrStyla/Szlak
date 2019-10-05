@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="16dp"
+        tools:context=".OdnalezienieWstep"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="Odnalezienie - Wprowadzenie"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView1916"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="4sp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingEnd="10dp"/>
+
+    <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView1916"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="48dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="10sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+            <TextView
+                    android:text="@string/papie_pawe_vi_przybywaj_c_5_stycznia_1964_roku_do_nazaretu_powiedzia_nazaret_jest_szko_w_kt_rej_zaczyna_si_pojmowa_ycie_jezusa_jest_to_szko_a_ewangelii_tutaj_przede_wszystkim_uczymy_si_patrze_s_ucha_rozwa_a_i_przenika_g_bokie_i_tajemne_znaczenie_tego_bardzo_prostego_pokornego_i_jak_e_pi_knego_objawienia_si_syna_bo_ego_wszystko_tutaj_przemawia_wszystko_nabiera_znaczenia_tu_w_tej_szkole_widzimy_potrzeb_duchowego_wyrobienia_chcemy_i_za_nauk_ewangelii_i_by_uczniami_jezusa"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView1917" />
+            <TextView
+                    android:text="@string/w_tym_duchu_chcia_bym_prze_ywa_nadchodz_cy_miesi_c_zwi_zany_z_rozwa_aniem_pi_tej_tajemnicy_radosnej_pragn_spojrze_najpierw_na_lata_dzieci_stwa_jezusa_kt_re_poprzedzaj_pielgrzymk_do_wi_tyni_nast_pnie_na_samo_wydarzenie_znalezienia_jezusa_w_wi_tyni_opisane_przez_ewangeli_a_wreszcie_na_lata_p_niejsze_gdy_po_powrocie_do_nazaretu_jezus_czyni_post_py_w_m_dro_ci_w_latach_i_w_asce_u_boga_i_u_ludzi_k_2_52"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView1918" />
+            <TextView
+                    android:text="@string/jezus_sp_dzi_w_nazarecie_oko_o_trzydzie_ci_lat_chc_gor_co_dzi_kowa_mu_za_ka_dy_rok_zapapie_pawe_vi_przybywaj_c_5_stycznia_1964_roku_do_nazaretu_powiedzia_nazaret_jest_szko_w_kt_rej_zaczyna_si_pojmowa_ycie_jezusa_jest_to_szko_a_ewangelii_tutaj_przede_wszystkim_uczymy_si_patrze_s_ucha_rozwa_a_i_przenika_g_bokie_i_tajemne_znaczenie_tego_bardzo_prostego_pokornego_i_jak_e_pi_knego_objawienia_si_syna_bo_ego_wszystko_tutaj_przemawia_wszystko_nabiera_znaczenia_tu_w_tej_szkole_widzimy_potrzeb_duchowego_wyrobienia_chcemy_i_za_nauk_ewangelii_i_by_uczniami_jezusa"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView1919" />
+            <TextView
+                    android:text="@string/w_tym_duchu_chcia_bym_prze_ywa_nadchodz_cy_miesi_c_zwi_zany_z_rozwa_aniem_pi_tej_tajemnicy_radosnej_pragn_spojrze_najpierw_na_lata_dzieci_stwa_jezusa_kt_re_poprzedzaj_pielgrzymk_do_wi_tyni_nast_pnie_na_samo_wydarzenie_znalezienia_jezusa_w_wi_tyni_opisane_przez_ewangeli_a_wreszcie_na_lata_p_niejsze_gdy_po_powrocie_do_nazaretu_jezus_czyni_post_py_w_m_dro_ci_w_latach_i_w_asce_u_boga_i_u_ludzi_k_2_52"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView1920" />
+            <TextView
+                    android:text="@string/jezus_sp_dzi_w_nazarecie_oko_o_trzydzie_ci_lat_chc_gor_co_dzi_kowa_mu_za_ka_dy_rok_za_ka_dy_dzie_za_ka_d_chwil_pobytu_na_tej_ziemi_by_a_to_aska_nie_tylko_dla_mieszka_c_w_nazaretu_lecz_tak_e_dla_wszystkich_ludzi_jezus_prawdziwy_b_g_i_prawdziwy_cz_owiek_chcia_by_dzieckiem_z_wszystkimi_dzie_mi_m_odzie_cem_z_wszystkimi_lud_mi_m_odymi_dojrza_ym_cz_owiekiem_z_wszystkimi_doros_ymi_m_czyznami_i_kobietami"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView1921" />
+            <TextView
+                    android:text="@string/czas_ukrytego_ycia_w_nazarecie_by_r_wnie_czasem_objawienia_si_jezusa_o_czym_wyra_nie_m_wi_papie_pawe_vi_w_cytowanym_powy_ej_przem_wieniu_jezus_po_wi_ci_a_trzydzie_ci_lat_ycia_aby_pokaza_ludziom_jak_y_ewangeli_w_zwyczajnym_yciu_to_czego_potem_uczy_w_czasie_publicznej_dzia_alno_ci_najpierw_sam_stosowa_w_yciu_rodzinnym_i_s_siedzkim_w_zdobywaniu_rodk_w_do_ycia_i_wsp_pracy_z_innymi_w_spotkaniach_z_lud_mi_uczciwymi_i_nieuczciwymi_w_prze_ywaniu_z_innymi_narodzin_dziecka_i_mierci_bliskich_os_b_w_tym_wszystkim_uczestniczy_przez_trzydzie_ci_lat_to_jest_temat_moich_medytacji_przez_trzydzie_ci_dni"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView1922" />
+            <TextView
+                    android:text="@string/wskazania_mistrz_w"
+                    android:id="@+id/textView1923"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/kolejne_wskazanie_kt_remu_chc_po_wi_ci_wi_cej_uwagi_w_tym_miesi_cu_dotyczy_zapowiedzi_tajemnicy_chc_si_r_wnie_jeszcze_raz_przyjrze_uwagom_kt_re_rozwa_a_em_w_radosnych_tajemnicach_r_a_ca"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView1408"/>
+            <TextView
+                    android:text="@string/zapowied_tajemnicy"
+                    android:id="@+id/textView1924"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/ojciec_wi_ty_jan_pawe_ii_w_li_cie_o_r_a_cu_pisze_zapowied_tajemnicy_i_je_li_tylko_mo_liwe_r_wnoczesne_ukazanie_przedstawiaj_cej_j_ikony_to_jakby_ods_oni_cie_sceny_na_kt_rej_nale_y_skupi_uwag_s_owa_kieruj_wyobra_ni_i_ducha_ku_temu_okre_lonemu_wydarzeniu_czy_momentowi_z_ycia_chrystusa_w_duchowo_ci_kt_ra_rozwin_a_si_w_ko_ciele_czy_to_kult_ikon_czy_liczne_nabo_e_stwa_bogate_w_elementy_postrzegane_zmys_ami_jak_r_wnie_metoda_zaproponowana_przez_w_ignacego_z_loyoli_w_wiczeniach_duchownych_odwo_ywa_y_si_do_elementu_wzrokowego_i_obrazowego_compositio_loci_uwa_aj_c_go_za_bardzo_pomocny_w_koncentracji_ducha_na_misterium_jest_to_zreszt_metodologia_kt_ra_odpowiada_samej_logice_wcielenia_b_g_zechcia_przyj_w_jezusie_rysy_ludzkie_to_przez_jego_fizyczn_rzeczywisto_zostajemy_doprowadzeni_do_kontaktu_z_jego_bosk_tajemnic_tej_potrzebie_konkretno_ci_odpowiada_r_wnie_zapowiadanie_poszczeg_lnych_tajemnic_r_a_ca_rvm_29"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView1925"/>
+            <TextView
+                    android:text="@string/wed_ug_wskaza_ojca_wi_tego_zapowied_tajemnicy_powinna_si_dokona_w_taki_spos_b_jakby_to_by_o_ods_oni_cie_sceny_potrzebne_s_dzia_ania_kt_re_pomog_cz_owiekowi_skupi_uwag_na_tych_zbawczych_wydarzeniach_kt_re_b_d_przedmiotem_medytacji_s_owa_kt_re_najcz_ciej_s_yszymy_we_wsp_lnym_odmawianiu_r_a_ca_brzmi_prosto_tajemnica_zwiastowania_lub_tajemnica_nawiedzenia_albo_inna_potem_nast_puje_odczytanie_fragmentu_pisma_wi_tego_i_kr_tka_refleksja_po_wi_cona_tej_tematyce_my_l_cz_owieka_i_jego_wyobra_nia_pod_aj_za_tymi_s_owami_zbawcze_wydarzenie_z_ycia_jezusa_i_maryi_pojawia_si_wyra_niej_w_modlitwie_i_refleksji"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView1926"/>
+            <TextView
+                    android:text="@string/gdy_odmawiamy_dziesi_tk_r_a_ca_indywidualnie_sami_decydujemy_ile_czasu_po_wi_ci_na_to_wej_cie_w_tajemnic_i_na_ods_oni_cie_sceny_na_kt_rej_dziej_si_zbawcze_wydarzenia_pomaga_w_tym_akt_wiary_i_mi_o_ci_kt_ry_sprawia_e_cz_owiek_pragnie_czego_wi_cej_ni_proste_odm_wienie_dziesi_tki_r_a_ca_wtedy_ta_zapowied_tajemnicy_to_ods_oni_cie_sceny_to_wej_cie_za_zas_on_mo_e_trwa_do_d_ugo_nie_musz_si_spieszy_gdy_podejmuj_dzia_anie_kt_re_jest_wa_ne_i_wi_te_jest_spotkaniem_z_bogiem_i_jest_rozwa_aniem_jego_zbawczych_tajemnic"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView1927"/>
+            <TextView
+                    android:text="@string/kilka_pierwszych_wskaz_wek"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView1928"/>
+            <TextView
+                    android:text="@string/rozwa_aj_c_ostatni_z_radosnych_tajemnic_powracam_kr_tko_do_sposobu_prze_ywania_r_nych_fragment_w_modlitwy_r_a_cowej_kt_re_poznawa_em_w_kolejnych_miesi_cach"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView1929"/>
+            <TextView
+                    android:text="@string/po_zapowiedzi_tajemnicy_kt_ra_jest_jak_ods_oni_cie_sceny_i_z_kt_r_wi_e_si_wst_pna_modlitwa_oraz_rozwa_anie_tekstu_biblijnego_nast_puje_sama_modlitwa_po_czona_z_medytacj_dziesi_tka_r_a_ca_rozpoczyna_si_od_modlitwy_ojcze_nasz_czy_odmawiam_j_z_wi_kszym_skupieniem_jak_kto_kto_wszed_do_izdebki_i_zamkn_drzwi_by_rozmawia_z_ojcem_czy_uroczysty_charakter_tej_modlitwy_o_kt_rym_m_wi_papie_jest_obecny_w_moim_prze_yciu"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView1930"/>
+            <TextView
+                    android:text="@string/dziesi_zdrowa_maryjo_jest_modlitw_skierowan_do_maryi_czy_do_wiadczam_jej_blisko_ci"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView1931"/>
+            <TextView
+                    android:text="@string/czy_z_ni_wpatruj_si_w_jezusa"
+                    android:id="@+id/textView1932"
+                    style="@style/rozwazanie_slowa"/>
+            <TextView
+                    android:text="@string/ko_cowy_akcent_modlitwy_to_uwielbienie_papie_wskazywa_mi_jak_je_nale_y_prze_ywa_czy_m_j_duch_wznosi_si_na_poziom_prawdziwego_uwielbienia_czy_w_rozwa_anej_tajemnicy_codziennie_odkrywa_em_co_co_budzi_o_m_j_zachwyt_i_prowadzi_o_do_modlitwy_chwa_y"
+                    android:id="@+id/textView1933"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/trudnym_fragmentem_modlitwy_jest_akt_strzelisty_kt_ry_nawi_zuje_do_tre_ci_rozwa_a_czy_stara_em_si_o_taki_akt_strzelisty_czy_te_powtarza_em_ten_kt_ry_umiem_na_pami"
+                    android:id="@+id/textView1934"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/wa_na_jest_tak_e_modlitwa_wstawiennicza_kt_ra_mi_towarzyszy_ca_y_czas_a_kt_r_wyra_am_r_wnie_swoimi_s_owami_lub_korzystaj_c_z_proponowanych_tekst_w_czy_by_a_to_modlitwa_pe_na_wiary"
+                    android:id="@+id/textView1935"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/w_refleksji_wprowadzaj_cej_pojawi_si_r_wnie_temat_wyznania_wiary_czy_odmawiam_jak_form_credo_w_mojej_codziennej_medytacji_r_a_cowej"
+                    android:id="@+id/textView1936"
+                    style="@style/paragraf_Text_optimum"
+                    android:paddingBottom="80sp"/>
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

@@ -15,7 +15,7 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
             <TextView
-                    android:text="@string/tajemnica_iv"
+                    android:text="Tajemnica V"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView"
@@ -27,13 +27,16 @@
                     android:textAlignment="center"
                     android:typeface="sans"/>
             <TextView
-                    android:text="Ofiarowanie"
+                    android:text="@string/odnalezienie"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView2"
                     android:layout_marginEnd="8dp"
-                    android:layout_marginStart="8dp" android:layout_marginTop="8dp" android:textSize="20sp"
-                    android:textColor="#039BE5" android:textAlignment="center"/>
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="8dp"
+                    android:textSize="20sp"
+                    android:textColor="#039BE5"
+                    android:textAlignment="center"/>
 
             <ImageView
                     android:layout_width="match_parent"
@@ -51,7 +54,7 @@
                     android:text="@string/dzie_1_pro_ba_o_wiat_o_i_si_y"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button114"
+                    android:id="@+id/button145"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
                     android:text="@string/dzie_2_pro_ba_o_wiat_o_i_si_y_modlitwa_do_chrystusa"

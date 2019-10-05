@@ -66,7 +66,7 @@
             android:text="@string/odnalezienie1"
             android:layout_width="150sp"
             android:layout_height="wrap_content"
-            android:id="@+id/button9"
+            android:id="@+id/button_Odnalezienie"
             style="@style/button_radosne_tajemnice"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintHorizontal_bias="0.5"
@@ -79,8 +79,8 @@
             android:layout_height="wrap_content"
             android:id="@+id/button10"
             style="@style/button_radosne_tajemnice"
-            app:layout_constraintStart_toEndOf="@+id/button9"
+            app:layout_constraintStart_toEndOf="@+id/button_Odnalezienie"
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toTopOf="@+id/button9"/>
+            app:layout_constraintTop_toTopOf="@+id/button_Odnalezienie"/>
 </android.support.constraint.ConstraintLayout>

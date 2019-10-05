@@ -15,7 +15,7 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
             <TextView
-                    android:text="Tajemnica V"
+                    android:text="@string/tajemnica_v"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView"
@@ -81,10 +81,10 @@
                     android:id="@+id/button149"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
-                    android:text="@string/dzie_6_zbawcze_wydarzenia_jezus_przyniesiony_do_wi_tyni"
+                    android:text="@string/dzie_6_czas_dzieci_stwa_jezusa_nape_nia_o_si_m_dro_ci"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button119"
+                    android:id="@+id/button150"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
                     android:text="@string/dzie_7_zbawcze_wydarzenia_b_g_wkraczaj_cy_do_swego_domu"

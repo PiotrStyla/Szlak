@@ -114,7 +114,7 @@
             <TextView
                     android:text="@string/ojcze_mi_osierny_zawierzam_twemu_mi_osierdziu_wszystkie_intencje_kt_re_nam_poleca_ojciec_wi_ty_i_inni_pasterze_ko_cio_a_zawierzam_ci_tak_e_sprawy_kt_rymi_yj_na_co_dzie_ojcze_najlepszy_miej_mi_osierdzie_dla_nas_i_ca_ego_wiata"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView910"
+                    android:id="@+id/textView1954"
                     android:textStyle="italic"
                     android:paddingBottom="80sp"/>
 

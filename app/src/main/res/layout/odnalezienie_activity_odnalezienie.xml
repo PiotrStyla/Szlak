@@ -57,16 +57,16 @@
                     android:id="@+id/button145"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
-                    android:text="@string/dzie_2_pro_ba_o_wiat_o_i_si_y_modlitwa_do_chrystusa"
+                    android:text="@string/dzie_2_pro_ba_o_wiat_o_i_si_y_modlitwa_dzi_kczynienia"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button115"
+                    android:id="@+id/button146"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
-                    android:text="@string/dzie_3_modlitwa_do_ducha_wi_tego"
+                    android:text="@string/dzie_3_pro_ba_o_wiat_o_i_si_y_modlitwa_pro_by"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button116"
+                    android:id="@+id/button147"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
                     android:text="@string/dzie_4_pro_ba_o_wiat_o_i_si_y_modlitwa_do_maryi_i_j_zefa"

@@ -75,10 +75,10 @@
                     android:id="@+id/button148"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
-                    android:text="@string/dzie_5_zbawcze_wydarzenia_maryja_oddaj_ca_siebie_bogu"
+                    android:text="@string/dzie_5_czas_dzieci_stwa_jezusa_dzieci_nabiera_o_mocy"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button118"
+                    android:id="@+id/button149"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
                     android:text="@string/dzie_6_zbawcze_wydarzenia_jezus_przyniesiony_do_wi_tyni"

@@ -20,6 +20,7 @@
             app:layout_constraintTop_toTopOf="parent"
             android:textSize="20sp"
             android:textStyle="bold"
+            android:paddingStart="0dp"
             android:paddingEnd="10sp"/>
 
     <ScrollView
@@ -106,7 +107,7 @@
             <TextView
                     android:text="@string/wszechmog_cy_wieczny_bo_e_ty_powierzy_e_ojcu_wi_temu_n_trosk_o_ca_y_ko_ci_nios_cy_wiatu_or_dzie_ewangelii_i_pielgrzymuj_cy_przez_doczesno_do_ycia_wiecznego_z_wiar_polecamy_ci_wszystkie_intencje_kt_re_papie_nosi_w_swoim_sercu_a_szczeg_lnie_te_kt_re_poleca_modlitwie_ca_ego_ko_cio_a"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView1969"
+                    android:id="@+id/textView2001"
                     android:paddingBottom="80sp"/>
 
         </LinearLayout>

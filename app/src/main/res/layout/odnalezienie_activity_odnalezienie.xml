@@ -87,29 +87,29 @@
                     android:id="@+id/button150"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
-                    android:text="@string/dzie_7_zbawcze_wydarzenia_b_g_wkraczaj_cy_do_swego_domu"
+                    android:text="@string/dzie_7_czas_dzieci_stwa_jezusa_cieszy_o_si_ask_boga"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button120"
+                    android:id="@+id/button151"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
-                    android:text="@string/dzie_8_zbawcze_wydarzenia_mesjasz_przyj_ty_przez_ludzi"
+                    android:text="@string/dzie_8_czas_dzieci_stwa_ezusa_wzrasta_o_pod_okiem_matki"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button121"
+                    android:id="@+id/button152"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
-                    android:text="@string/dzie_9_zbawcze_wydarzenia_pierworodny_przedstawiony_panu"
+                    android:text="@string/dzie_9_czas_dzieci_stwa_jezusa_ubogaca_o_ycie_maryi"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button122"
+                    android:id="@+id/button153"
                     style="@style/button_dni_zwiastowanie_padding"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button123"
+                    android:id="@+id/button154"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_10_zbawcze_wydarzenia_ertwa_ofiarna_z_o_ona_bogu"/>
+                    android:text="@string/dzie_10_czas_dzieci_stwa_jezusa_dojrzewa_o_pod_opiek_w_j_zefa"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

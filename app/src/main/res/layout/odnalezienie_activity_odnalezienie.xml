@@ -113,9 +113,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button124"
+                    android:id="@+id/button155"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_11_zbawcze_wydarzenia_kap_an_rozpoczynaj_cy_swoj_s_u_b"/>
+                    android:text="@string/dzie_11_czas_dzieci_stwa_jezusa_mieszka_o_w_nazarecie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

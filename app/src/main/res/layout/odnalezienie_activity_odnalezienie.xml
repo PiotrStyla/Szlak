@@ -155,9 +155,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button131"
+                    android:id="@+id/button162"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_18_symeon_i_anna_anna_szcz_liwa_kobieta"/>
+                    android:text="@string/dzie_18_gdy_mia_lat_dwana_cie_nowy_etap_drogi_maryi"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

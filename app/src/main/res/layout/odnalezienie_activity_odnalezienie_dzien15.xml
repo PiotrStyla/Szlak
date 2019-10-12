@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="16dp"
+        tools:context=".OdnalezienieDzien15"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="@string/dzie_15_gdy_mia_lat_dwana_cie_w_perspektywie_paschy_jezusa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView2166"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="4sp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingStart="0dp"
+            android:paddingEnd="10sp"/>
+
+    <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView2166"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="108dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="10sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+            <TextView
+                    android:text="@string/rozwa_anie_s_owa"
+                    android:id="@+id/textView2167"
+                    style="@style/rozwazanie_slowa"/>
+            <TextView
+                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_2_43_46_kiedy_wracali_po_sko_czonych_uroczysto_ciach_zosta_jezus_w_jerozolimie_a_tego_nie_zauwa_yli_jego_rodzice_dopiero_po_trzech_dniach_odnale_li_go_w_wi_tyni_gdzie_siedzia_mi_dzy_nauczycielami_przys_uchiwa_si_im_i_zadawa_pytania"
+                    android:id="@+id/textView2168"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/ws_uchuj_si_w_komentarz_ojca_wi_tego_jana_paw_a_ii_fragment_ten_kontrastuje_jak_gdyby_ze_spostrze_eniem_ukasza_przedstawiaj_cego_jezusa_jako_poddanego_j_zefowi_i_maryi_por_2_51_jednak_e_przy_uwa_nym_spojrzeniu_wydaje_si_i_w_spos_b_wiadomy_i_niemal_zamierzony_przyjmuje_on_postaw_zaprzeczaj_c_jego_normalnej_sytuacji_syna_ujawniaj_c_niespodziewanie_swoj_zdecydowan_odr_bno_w_stosunku_do_maryi_i_j_zefa_jezus_o_wiadcza_e_jako_norm_swego_post_powania_przyjmuje_jedynie_przynale_no_do_ojca_a_nie_rodzinne_wi_zi_na_ziemi"
+                    android:id="@+id/textView2169"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/przez_ten_epizod_jezus_przygotowuje_sw_matk_do_tajemnicy_odkupienia_przez_trzy_dramatyczne_dni_podczas_kt_rych_syn_od_cza_si_od_nich_by_pozosta_w_wi_tyni_maryja_wraz_z_j_zefem_prze_ywaj_antycypacj_triduum_jego_m_ki_mierci_i_zmartwychwstania"
+                    android:id="@+id/textView2170"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/pozwalaj_c_swej_matce_i_j_zefowi_uda_si_w_drog_do_galilei_bez_powiadomienia_ich_o_swym_zamiarze_pozostania_w_jerozolimie_jezus_wprowadza_ich_w_tajemnic_tego_cierpienia_kt_re_prowadzi_do_rado_ci_uprzedzaj_c_to_czego_dokona_nast_pnie_wobec_uczni_w_przez_zapowied_swej_m_ki_audiencja_generalna_17_01_1997"
+                    android:id="@+id/textView2171"
+                    style="@style/paragraf_Text_optimum"/>
+
+            <TextView
+                    android:text="@string/modlitwa"
+                    android:id="@+id/textView2172"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/dzi_kuj_ci_jezu_za_wszystkie_wydarzenia_pi_tnastego_roku_twego_ycia_patrz_na_nie_wci_przez_pryzmat_tego_co_dokona_o_si_w_czasie_twojej_pielgrzymki_do_wi_tyni_w_kt_rej_ods_oni_e_r_bek_swojej_tajemnicy_po_kilku_latach_rozumiesz_j_jeszcze_lepiej_cho_tajemnica_ta_ukryta_jest_przed_ludzkimi_oczyma_b_d_uwielbiony_panie"
+                    android:id="@+id/textView2173"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/dziesi_tek_r_a_ca"
+                    android:id="@+id/textView2174"
+                    style="@style/dziesiatek_rozanca"/>
+
+            <TextView
+                    android:text="@string/ojcze_nasz_zdrowa_maryjo_chwa_a_ojcu"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView2175"/>
+            <TextView
+                    android:text="@string/akt_strzelisty"
+                    android:id="@+id/textView2176"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/jezu_wlej_w_nasze_serca_mi_o_do_bo_ego_s_owa_i_wzbudzaj_pragnienie_bycia_w_tym_co_nale_y_do_ojca"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView2177"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy"
+                    android:id="@+id/textView2178"
+                    style="@style/intencje_modlitwy"/>
+
+            <TextView
+                    android:text="@string/bo_e_nasz_ojcze_naucz_nas_wszystkich_wiernie_wype_nia_twoj_wol_w_kt_rej_objawia_si_twoja_niesko_czona_m_dro_i_mi_o_prosimy_ci_wys_uchaj_naszej_b_agalnej_modlitwy_kt_r_zanosimy_do_ciebie_w_intencji_naszych_braci_si_str"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView2179"
+                    android:paddingBottom="80sp"/>
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

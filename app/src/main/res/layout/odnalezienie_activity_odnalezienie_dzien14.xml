@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="16dp"
+        tools:context=".OdnalezienieDzien14"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="@string/dzie_14_gdy_mia_lat_dwana_cie_pielgrzymka_na_wi_to_paschy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView2153"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="4sp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingStart="0dp"
+            android:paddingEnd="10sp"/>
+
+    <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView2153"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="108dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="10sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+            <TextView
+                    android:text="@string/rozwa_anie_s_owa"
+                    android:id="@+id/textView2154"
+                    style="@style/rozwazanie_slowa"/>
+            <TextView
+                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_2_41_42_rodzice_jezusa_chodzili_co_roku_do_jerozolimy_na_wi_to_paschy_gdy_mia_lat_dwana_cie_udali_si_tam_zwyczajem_wi_tecznym"
+                    android:id="@+id/textView2155"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/wi_ta_paschy_by_y_najbardziej_uroczystym_zgromadzeniem_izraelit_w_z_r_nych_cz_ci_kraju_w_jerozolimie_gromadzi_y_si_t_umy_ludzi_a_ka_da_rodzina_przynosi_a_baranka_by_on_zabijany_w_wi_tyni_a_nast_pnie_spo_ywany_w_gronie_rodzinnym_wed_ug_ci_le_okre_lonego_rytua_u_by_bardziej_wej_w_klimat_tego_co_prze_ywa_jezus_i_jego_rodzice_w_tych_wi_tych_dniach_sp_dzonych_w_jerozolimie_chc_powr_ci_do_tekst_w_z_ksi_gi_wyj_cia_jezus_ju_od_d_u_szego_czasu_zna_je_na_pami_i_zapewne_nieraz_my_la_o_ich_znaczeniu_dziesi_tego_dnia_tego_miesi_ca_niech_si_ka_dy_postara_o_baranka_dla_rodziny_o_baranka_dla_domu_zabije_go_ca_e_zgromadzenie_izraela_o_zmierzchu_i_tej_samej_nocy_spo_yj_mi_so_pieczone_w_ogniu_spo_yj_je_z_chlebem_niekwaszonym_i_gorzkimi_zio_ami_dzie_ten_b_dzie_dla_was_dniem_pami_tnym_i_obchodzi_go_b_dziecie_jako_wi_to_dla_uczczenia_pana_po_wszystkie_pokolenia_na_zawsze_w_tym_dniu_wi_towa_b_dziecie_12_3_6_8_14"
+                    android:id="@+id/textView2156"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/jakie_refleksje_rodzi_y_si_w_sercu_jezusa_gdy_prze_ywa_te_wielkie_uroczysto_ci_i_pasch_narodu_wybranego_przed_wyj_ciem_z_niewoli_egipskiej_co_my_la_o_baranku_kt_rego_spo_ywa_niew_tpliwie_by_y_to_dla_niego_sprawy_ojca_by_mo_e_intensywno_osobistych_prze_y_a_tak_e_ch_jeszcze_lepszego_ich_zrozumienia_sk_oni_a_go_do_rozmowy_z_uczonymi_w_pi_mie_szczeg_ln_spraw_ojca_by_a_pascha_g_wne_zbawcze_wydarzenie_starego_przymierza_odkrywa_coraz_wyra_niej_e_zapowiada_a_ona_jego_pasch_kt_ra_dokona_si_w_swoim_czasie"
+                    android:id="@+id/textView2157"
+                    style="@style/paragraf_Text_optimum"/>
+
+            <TextView
+                    android:text="@string/modlitwa"
+                    android:id="@+id/textView2158"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/min_kolejny_rok_twego_ycia_o_panie_w_nazareta_skim_domu_masz_ju_czterna_cie_lat_sprawy_ojca_rozumiesz_jeszcze_lepiej_swoj_tajemnic_r_wnie_pomagasz_w_j_zefowi_w_warsztacie_ciesielskim_w_czasz_si_w_prac_by_utrzyma_rodzin_to_r_wnie_s_sprawy_ojca_ojciec_chcia_aby_by_obecny_dzie_po_dniu_i_rok_po_roku_w_codzienno_ci_ycia_rodzinnego_z_rado_ci_wype_niasz_wol_ojca_i_u_wi_casz_ycie_rodzinne_b_d_uwielbiony_panie"
+                    android:id="@+id/textView2159"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/dziesi_tek_r_a_ca"
+                    android:id="@+id/textView2160"
+                    style="@style/dziesiatek_rozanca"/>
+
+            <TextView
+                    android:text="@string/ojcze_nasz_zdrowa_maryjo_chwa_a_ojcu"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView2161"/>
+            <TextView
+                    android:text="@string/akt_strzelisty"
+                    android:id="@+id/textView2162"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/jezu_wlej_w_nasze_serca_mi_o_do_bo_ego_s_owa_i_wzbudzaj_pragnienie_bycia_w_tym_co_nale_y_do_ojca"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView2163"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy"
+                    android:id="@+id/textView2164"
+                    style="@style/intencje_modlitwy"/>
+
+            <TextView
+                    android:text="@string/bo_e_nasz_ojcze_naucz_nas_wszystkich_wiernie_wype_nia_twoj_wol_w_kt_rej_objawia_si_twoja_niesko_czona_m_dro_i_mi_o_prosimy_ci_wys_uchaj_naszej_b_agalnej_modlitwy_kt_r_zanosimy_do_ciebie_w_intencji_naszych_braci_si_str"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView2165"
+                    android:paddingBottom="80sp"/>
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

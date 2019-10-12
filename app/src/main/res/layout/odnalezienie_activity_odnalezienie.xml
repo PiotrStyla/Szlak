@@ -131,15 +131,15 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button127"
+                    android:id="@+id/button158"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_14_symeon_i_anna_symeon_cz_owiek_pe_en_ducha"/>
+                    android:text="@string/dzie_14_gdy_mia_lat_dwana_cie_pielgrzymka_na_wi_to_paschy"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button128"
+                    android:id="@+id/button159"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_15_symeon_i_anna_symeon_cz_owiek_spe_niony"/>
+                    android:text="@string/dzie_15_gdy_mia_lat_dwana_cie_w_perspektywie_paschy_jezusa"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

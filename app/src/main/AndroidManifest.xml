@@ -9,7 +9,9 @@
             android:roundIcon="@mipmap/ic_launcher_round_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".OdnalezienieDzien15"></activity>
+        <activity android:name=".OdnalezienieDzien17"></activity>
+        <activity android:name=".OdnalezienieDzien16" />
+        <activity android:name=".OdnalezienieDzien15" />
         <activity android:name=".OdnalezienieDzien14" />
         <activity android:name=".OdnalezienieDzien13" />
         <activity android:name=".OdnalezienieDzien12" />

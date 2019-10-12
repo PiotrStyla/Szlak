@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="16dp"
+        tools:context=".OdnalezienieDzien17"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="@string/dzie_17_gdy_mia_lat_dwana_cie_wype_niaj_cy_wol_ojca"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView2194"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="4sp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingStart="0dp"
+            android:paddingEnd="10sp"/>
+
+    <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView2194"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="108dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="10sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+            <TextView
+                    android:text="@string/rozwa_anie_s_owa"
+                    android:id="@+id/textView2195"
+                    style="@style/rozwazanie_slowa"/>
+            <TextView
+                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_2_49_50_jezus_im_odpowiedzia_czemu_cie_mnie_szukali_czy_nie_wiedzieli_cie_e_powinienem_by_w_tym_co_nale_y_do_mego_ojca_oni_jednak_nie_zrozumieli_tego_co_im_powiedzia"
+                    android:id="@+id/textView2196"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/odpowied_jezusa_w_formie_pytania_wyja_nia_w_jan_pawe_ii_ma_g_bokie_znaczenie_czemu_cie_mnie_szukali_czy_nie_wiedzieli_cie_e_powinienem_by_w_tym_co_nale_y_do_mego_ojca_k_2_49_tymi_s_owami_w_spos_b_nieoczekiwany_i_nieprzewidziany_ods_ania_on_wobec_maryi_i_j_zefa_tajemnic_swej_osoby_zapraszaj_c_ich_do_przekroczenia_sfery_dostrzegalnej_rzeczywisto_ci_i_otwarcia_si_na_nowe_perspektywy_zwi_zane_z_jego_przysz_o_ci"
+                    android:id="@+id/textView2197"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/w_odpowiedzi_udzielonej_zatroskanej_matce_syn_ujawnia_od_razu_pow_d_swego_zachowania_maryja_powiedzia_a_ojciec_tw_j_wskazuj_c_na_j_zefa_a_jezus_odpowiada_m_j_ojciec_maj_c_na_my_li_ojca_niebieskiego"
+                    android:id="@+id/textView2198"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/nawi_zuj_c_do_swego_boskiego_pochodzenia_pragnie_on_nie_tyle_stwierdzi_e_wi_tynia_dom_jego_ojca_jest_naturalnym_miejscem_jego_obecno_ci_lecz_e_powinien_si_on_zajmowa_tym_wszystkim_co_dotyczy_ojca_i_jego_zamys_u_chce_potwierdzi_e_jedynie_wola_ojca_stanowi_dla_niego_wi_c_norm_kt_rej_ma_by_pos_uszny"
+                    android:id="@+id/textView2199"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/to_nawi_zanie_do_ca_kowitego_oddania_si_bo_emu_planowi_widoczne_jest_w_ewangelicznym_tek_cie_w_wyra_eniu_jest_rzecz_konieczn_kt_re_pojawi_si_potem_w_zapowiedzi_m_ki_por_mk_8_31_przed_jego_rodzicami_pojawia_si_wi_c_wym_g_by_pozwolili_mu_p_j_spe_ni_sw_misj_tam_dok_d_zaprowadzi_go_wola_ojca_niebieskiego_audiencja_generalna_17_01_1997"
+                    android:id="@+id/textView2200"
+                    style="@style/paragraf_Text_optimum"/>
+
+            <TextView
+                    android:text="@string/modlitwa"
+                    android:id="@+id/textView2201"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/ju_w_czasie_pielgrzymki_do_wi_tyni_gdy_mia_e_o_panie_dwana_cie_lat_przyj_e_rol_nauczyciela_jak_wyja_nia_nam_ojciec_wi_ty_jan_pawe_ii_dzi_dzi_kuj_c_ci_za_szesnasty_rok_ycia_ukrytego_w_nazarecie_wpatruj_si_w_ciebie_jako_mistrza_i_nauczyciela_zwyczajnego_ycia_rodzinnego_i_zawodowego_w_nazarecie_uczy_e_g_wnie_darem_obecno_ci_i_przyk_adem_swego_ycia_s_w_by_o_niewiele_b_d_uwielbiony_panie"
+                    android:id="@+id/textView2202"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/dziesi_tek_r_a_ca"
+                    android:id="@+id/textView2203"
+                    style="@style/dziesiatek_rozanca"/>
+
+            <TextView
+                    android:text="@string/ojcze_nasz_zdrowa_maryjo_chwa_a_ojcu"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView2204"/>
+            <TextView
+                    android:text="@string/akt_strzelisty"
+                    android:id="@+id/textView2205"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/jezu_wlej_w_nasze_serca_mi_o_do_bo_ego_s_owa_i_wzbudzaj_pragnienie_bycia_w_tym_co_nale_y_do_ojca"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView2206"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy"
+                    android:id="@+id/textView2207"
+                    style="@style/intencje_modlitwy"/>
+
+            <TextView
+                    android:text="@string/bo_e_nasz_ojcze_naucz_nas_wszystkich_wiernie_wype_nia_twoj_wol_w_kt_rej_objawia_si_twoja_niesko_czona_m_dro_i_mi_o_prosimy_ci_wys_uchaj_naszej_b_agalnej_modlitwy_kt_r_zanosimy_do_ciebie_w_intencji_naszych_braci_si_str"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView2208"
+                    android:paddingBottom="80sp"/>
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

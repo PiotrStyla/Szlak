@@ -143,15 +143,15 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button129"
+                    android:id="@+id/button160"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_16_symeon_i_anna_anna_s_u_ebnica_pana"/>
+                    android:text="@string/dzie_16_gdy_mia_lat_dwana_cie_w_roli_nauczyciela"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button130"
+                    android:id="@+id/button161"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_17_symeon_i_anna_anna_prorokini_pana"/>
+                    android:text="@string/dzie_17_gdy_mia_lat_dwana_cie_wype_niaj_cy_wol_ojca"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

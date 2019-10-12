@@ -76,10 +76,10 @@ class Odnalezienie : AppCompatActivity() {
             val intentOdnalezienieDzien12 = Intent(this, OdnalezienieDzien12::class.java)
             startActivity(intentOdnalezienieDzien12)
         }
-        val buttonOfiarowanieDoDzien13 = findViewById<Button>(R.id.button126)
-        buttonOfiarowanieDoDzien13.setOnClickListener {
-            val intentOfiarowanieDzien13 = Intent(this, OfiarowanieDzien13::class.java)
-            startActivity(intentOfiarowanieDzien13)
+        val buttonOdnalezienieDoDzien13 = findViewById<Button>(R.id.button157)
+        buttonOdnalezienieDoDzien13.setOnClickListener {
+            val intentOdnalezienieDzien13 = Intent(this, OdnalezienieDzien13::class.java)
+            startActivity(intentOdnalezienieDzien13)
         }
         val buttonOfiarowanieDoDzien14 = findViewById<Button>(R.id.button127)
         buttonOfiarowanieDoDzien14.setOnClickListener {

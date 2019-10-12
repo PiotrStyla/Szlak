@@ -125,9 +125,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button126"
+                    android:id="@+id/button157"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_13_symeon_i_anna_symeon_cz_owiek_oczekuj_cy"/>
+                    android:text="@string/dzie_13_gdy_mia_lat_dwana_cie_pierwsza_pielgrzymka_jezusa"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

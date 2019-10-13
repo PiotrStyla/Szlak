@@ -185,15 +185,15 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button136"
+                    android:id="@+id/button167"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_23_pie_wieczorna_zdziwienie_maryi_i_j_zefa"/>
+                    android:text="@string/dzie_23_dalsze_lata_ycia_ukrytego_wykonuj_c_prac"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button137"
+                    android:id="@+id/button168"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_24_pie_wieczorna_proroctwo_o_jezusie"/>
+                    android:text="@string/dzie_24_dalsze_lata_ycia_ukrytego_b_d_c_blisko_ludzi"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

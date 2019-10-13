@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="16dp"
+        tools:context=".OdnalezienieDzien24"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="@string/dzie_24_dalsze_lata_ycia_ukrytego_b_d_c_blisko_ludzi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView2285"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="4sp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingStart="0dp"
+            android:paddingEnd="10sp"/>
+
+    <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView2285"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="108dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="10sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+            <TextView
+                    android:text="@string/rozwa_anie_s_owa"
+                    android:id="@+id/textView2286"
+                    style="@style/rozwazanie_slowa"/>
+            <TextView
+                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_7_11_12_uda_si_do_pewnego_miasta_zwanego_nain_a_szli_z_nim_jego_uczniowie_i_t_um_wielki_gdy_zbli_y_si_do_bramy_miejskiej_w_a_nie_wynoszono_umar_ego_jedynego_syna_matki_a_ta_by_a_wdow_towarzyszy_jej_spory_t_um_z_miasta"
+                    android:id="@+id/textView2287"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/modlitwa"
+                    android:id="@+id/textView2288"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/w_pogrzebie_syna_tej_kobiety_bra_o_udzia_wiele_os_b_ewangelista_m_wi_e_by_to_spory_t_um_zapewne_tak_by_o_r_wnie_w_nazarecie_twoim_rodzinnym_mie_cie_panie_jezu_w_ilu_takich_pogrzebach_uczestniczy_e_co_prze_ywa_e_gdy_umierali_twoi_s_siedzi_i_znajomi_a_tak_e_gdy_odprowadza_e_na_cmentarz_w_j_zefa"
+                    android:id="@+id/textView2289"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/czy_przy_obrzezaniu_i_nadawaniu_imienia_dzieciom_twoich_krewnych_i_znajomych_a_tak_e_przy_zanoszeniu_pierworodnych_do_wi_tyni_w_czterdziestym_dniu_po_urodzeniu_my_la_e_o_tym_e_to_wszystko_sam_wcze_niej_prze_ywa_e_b_d_uwielbiony_panie_w_dwudziestym_czwartym_roku_towarzyszenia_ludziom_we_wszystkich_ich_codziennych_prze_yciach"
+                    android:id="@+id/textView2290"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/dziesi_tek_r_a_ca"
+                    android:id="@+id/textView2291"
+                    style="@style/dziesiatek_rozanca"/>
+
+            <TextView
+                    android:text="@string/ojcze_nasz_zdrowa_maryjo_chwa_a_ojcu"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView2292"/>
+            <TextView
+                    android:text="@string/akt_strzelisty"
+                    android:id="@+id/textView2293"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/jezu_wlej_w_nasze_serca_mi_o_do_bo_ego_s_owa_i_wzbudzaj_pragnienie_bycia_w_tym_co_nale_y_do_ojca"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView2294"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy"
+                    android:id="@+id/textView2295"
+                    style="@style/intencje_modlitwy"/>
+
+            <TextView
+                    android:text="@string/prosimy_ci_wys_uchaj_naszej_b_agalnej_modlitwy_kt_r_zanosimy_do_ciebie_w_intencji_naszych_braci_si_str"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView2296"
+                    android:paddingBottom="80sp"/>
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

@@ -197,19 +197,19 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button138"
+                    android:id="@+id/button169"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_25_pie_wieczorna_proroctwo_o_maryi"/>
+                    android:text="@string/dzie_25_dalsze_lata_ycia_ukrytego_my_l_c_o_oblubienicy"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button139"
+                    android:id="@+id/button170"
                     style="@style/button_dni_zwiastowanie_padding"
                     android:text="@string/dzie_26_dzi_kczynienie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button140"
+                    android:id="@+id/button171"
                     style="@style/button_dni_zwiastowanie_padding"
                     android:text="@string/dzie_27_apostolstwo"/>
             <Button

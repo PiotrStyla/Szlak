@@ -6,13 +6,13 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginEnd="16dp"
-        tools:context=".OdnalezienieDzien24"
+        tools:context=".OdnalezienieDzien25"
         android:id="@+id/linearLayout">
     <TextView
-            android:text="@string/dzie_24_dalsze_lata_ycia_ukrytego_b_d_c_blisko_ludzi"
+            android:text="@string/dzie_25_dalsze_lata_ycia_ukrytego_my_l_c_o_oblubienicy"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textView2285"
+            android:id="@+id/textView2297"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="16dp"
             android:layout_marginTop="16dp"
@@ -26,7 +26,7 @@
     <ScrollView
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView2285"
+            app:layout_constraintTop_toBottomOf="@+id/textView2297"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
@@ -43,50 +43,59 @@
                 android:orientation="vertical">
             <TextView
                     android:text="@string/rozwa_anie_s_owa"
-                    android:id="@+id/textView2286"
+                    android:id="@+id/textView2298"
                     style="@style/rozwazanie_slowa"/>
             <TextView
-                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_7_11_12_uda_si_do_pewnego_miasta_zwanego_nain_a_szli_z_nim_jego_uczniowie_i_t_um_wielki_gdy_zbli_y_si_do_bramy_miejskiej_w_a_nie_wynoszono_umar_ego_jedynego_syna_matki_a_ta_by_a_wdow_towarzyszy_jej_spory_t_um_z_miasta"
-                    android:id="@+id/textView2287"
+                    android:text="@string/z_ewangelii_wed_ug_w_mateusza_19_4_6_jezus_odpowiedzia_czy_nie_czytali_cie_e_stw_rca_od_pocz_tku_stworzy_ich_jako_m_czyzn_i_kobiet_i_rzek_dlatego_opu_ci_cz_owiek_ojca_i_matk_i_z_czy_si_ze_swoj_on_i_b_d_oboje_jednym_cia_em_a_tak_ju_nie_s_dwoje_lecz_jedno_cia_o_co_wi_c_b_g_z_czy_niech_cz_owiek_nie_rozdziela"
+                    android:id="@+id/textView2299"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
                     android:text="@string/modlitwa"
-                    android:id="@+id/textView2288"
+                    android:id="@+id/textView2300"
                     style="@style/modlitwa"/>
             <TextView
-                    android:text="@string/w_pogrzebie_syna_tej_kobiety_bra_o_udzia_wiele_os_b_ewangelista_m_wi_e_by_to_spory_t_um_zapewne_tak_by_o_r_wnie_w_nazarecie_twoim_rodzinnym_mie_cie_panie_jezu_w_ilu_takich_pogrzebach_uczestniczy_e_co_prze_ywa_e_gdy_umierali_twoi_s_siedzi_i_znajomi_a_tak_e_gdy_odprowadza_e_na_cmentarz_w_j_zefa"
-                    android:id="@+id/textView2289"
-                    style="@style/paragraf_Text_optimum"/>
-            <TextView
-                    android:text="@string/czy_przy_obrzezaniu_i_nadawaniu_imienia_dzieciom_twoich_krewnych_i_znajomych_a_tak_e_przy_zanoszeniu_pierworodnych_do_wi_tyni_w_czterdziestym_dniu_po_urodzeniu_my_la_e_o_tym_e_to_wszystko_sam_wcze_niej_prze_ywa_e_b_d_uwielbiony_panie_w_dwudziestym_czwartym_roku_towarzyszenia_ludziom_we_wszystkich_ich_codziennych_prze_yciach"
-                    android:id="@+id/textView2290"
+                    android:text="@string/czy_by_e_panie_jezu_jedynym_m_czyzn_w_nazarecie_kt_ry_w_wieku_dwudziestu_pi_ciu_lat_pozostawa_sam_nie_by_a_to_zwyczajna_droga_ycia_w_twoim_pokoleniu_wi_c_zapewne_wiele_os_b_pyta_o_ci_dlaczego_nie_masz_ony_nie_mog_e_im_jeszcze_przekaza_ca_ej_prawdy_o_sobie_tak_e_o_twoim_poszukiwaniu_oblubienicy_za_kt_r_oddasz_ycie_i_z_kt_r_si_staniesz_jednym_cia_em_o_twoich_za_lubinach_na_krzy_u_dope_nionych_w_zmartwychwstaniu_i_wi_towanych_przez_ca_wieczno_na_weselnych_godach_baranka_sam_jednak_ca_t_tajemnic_nosi_e_w_sercu_b_d_uwielbiony_panie"
+                    android:id="@+id/textView2301"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
                     android:text="@string/dziesi_tek_r_a_ca"
-                    android:id="@+id/textView2291"
+                    android:id="@+id/textView2302"
                     style="@style/dziesiatek_rozanca"/>
 
             <TextView
                     android:text="@string/ojcze_nasz_zdrowa_maryjo_chwa_a_ojcu"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView2292"/>
+                    android:id="@+id/textView2303"/>
             <TextView
                     android:text="@string/akt_strzelisty"
-                    android:id="@+id/textView2293"
+                    android:id="@+id/textView2304"
                     style="@style/intencje_modlitwy"/>
             <TextView
                     android:text="@string/jezu_wlej_w_nasze_serca_mi_o_do_bo_ego_s_owa_i_wzbudzaj_pragnienie_bycia_w_tym_co_nale_y_do_ojca"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView2294"/>
+                    android:id="@+id/textView2305"/>
             <TextView
                     android:text="@string/intencje_modlitwy"
-                    android:id="@+id/textView2295"
+                    android:id="@+id/textView2306"
                     style="@style/intencje_modlitwy"/>
 
             <TextView
                     android:text="@string/prosimy_ci_wys_uchaj_naszej_b_agalnej_modlitwy_kt_r_zanosimy_do_ciebie_w_intencji_naszych_braci_si_str"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView2296"
+                    android:id="@+id/textView2307"/>
+            <TextView
+                    android:text="@string/modlitwa_na_zako_czenie_rozwa_a_z_ostatniego_tygodnia"
+                    android:id="@+id/textView2308"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/b_d_uwielbiony_bo_e_w_tr_jcy_wi_tej_jedyny_kt_ry_udzieli_e_mi_aski_kontemplacji_ycia_jezusa_w_nazarecie_zdaj_sobie_spraw_e_ledwo_dotkn_em_tej_niezwyk_ej_tajemnicy_dlatego_prosz_abym_m_g_nadal_j_prze_ywa_w_mojej_modlitwie_i_ca_ym_moim_yciu"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView2309"/>
+            <TextView
+                    android:text="@string/maryjo_kr_lowo_r_a_ca_wi_tego_dzi_kuj_ci_za_twoj_opiek_i_pomoc_tobie_zawierzam_dalsze_etapy_mojego_duchowego_w_drowania"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView2310"
+                    android:textStyle="italic"
                     android:paddingBottom="80sp"/>
 
         </LinearLayout>

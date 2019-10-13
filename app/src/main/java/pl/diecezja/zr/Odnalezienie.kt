@@ -136,20 +136,20 @@ class Odnalezienie : AppCompatActivity() {
             val intentOdnalezienieDzien24 = Intent(this, OdnalezienieDzien24::class.java)
             startActivity(intentOdnalezienieDzien24)
         }
-        val buttonOfiarowanieDoDzien25 = findViewById<Button>(R.id.button138)
-        buttonOfiarowanieDoDzien25.setOnClickListener {
-            val intentOfiarowanieDzien25 = Intent(this, OfiarowanieDzien25::class.java)
-            startActivity(intentOfiarowanieDzien25)
+        val buttonOdnalezienieDoDzien25 = findViewById<Button>(R.id.button169)
+        buttonOdnalezienieDoDzien25.setOnClickListener {
+            val intentOdnalezienieDzien25 = Intent(this, OdnalezienieDzien25::class.java)
+            startActivity(intentOdnalezienieDzien25)
         }
-        val buttonOfiarowanieDoDzien26 = findViewById<Button>(R.id.button139)
-        buttonOfiarowanieDoDzien26.setOnClickListener {
-            val intentOfiarowanieDzien26 = Intent(this, OfiarowanieDzien26::class.java)
-            startActivity(intentOfiarowanieDzien26)
+        val buttonOdnalezienieDoDzien26 = findViewById<Button>(R.id.button170)
+        buttonOdnalezienieDoDzien26.setOnClickListener {
+            val intentOdnalezienieDzien26 = Intent(this, OdnalezienieDzien26::class.java)
+            startActivity(intentOdnalezienieDzien26)
         }
-        val buttonOfiarowanieDoDzien27 = findViewById<Button>(R.id.button140)
-        buttonOfiarowanieDoDzien27.setOnClickListener {
-            val intentOfiarowanieDzien27 = Intent(this, OfiarowanieDzien27::class.java)
-            startActivity(intentOfiarowanieDzien27)
+        val buttonOdnalezienieDoDzien27 = findViewById<Button>(R.id.button171)
+        buttonOdnalezienieDoDzien27.setOnClickListener {
+            val intentOdnalezienieDzien27 = Intent(this, OdnalezienieDzien27::class.java)
+            startActivity(intentOdnalezienieDzien27)
         }
         val buttonOfiarowanieDoDzien28 = findViewById<Button>(R.id.button141)
         buttonOfiarowanieDoDzien28.setOnClickListener {

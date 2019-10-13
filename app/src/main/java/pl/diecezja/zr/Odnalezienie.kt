@@ -106,25 +106,25 @@ class Odnalezienie : AppCompatActivity() {
             val intentOdnalezienieDzien18 = Intent(this, OdnalezienieDzien18::class.java)
             startActivity(intentOdnalezienieDzien18)
         }
-        val buttonOfiarowanieDoDzien19 = findViewById<Button>(R.id.button132)
-        buttonOfiarowanieDoDzien19.setOnClickListener {
-            val intentOfiarowanieDzien19 = Intent(this, OfiarowanieDzien19::class.java)
-            startActivity(intentOfiarowanieDzien19)
+        val buttonOdnalezienieDoDzien19 = findViewById<Button>(R.id.button163)
+        buttonOdnalezienieDoDzien19.setOnClickListener {
+            val intentOdnalezienieDzien19 = Intent(this, OdnalezienieDzien19::class.java)
+            startActivity(intentOdnalezienieDzien19)
         }
-        val buttonOfiarowanieDoDzien20 = findViewById<Button>(R.id.button133)
-        buttonOfiarowanieDoDzien20.setOnClickListener {
-            val intentOfiarowanieDzien20 = Intent(this, OfiarowanieDzien20::class.java)
-            startActivity(intentOfiarowanieDzien20)
+        val buttonOdnalezienieDoDzien20 = findViewById<Button>(R.id.button164)
+        buttonOdnalezienieDoDzien20.setOnClickListener {
+            val intentOdnalezienieDzien20 = Intent(this, OdnalezienieDzien20::class.java)
+            startActivity(intentOdnalezienieDzien20)
         }
-        val buttonOfiarowanieDoDzien21 = findViewById<Button>(R.id.button134)
-        buttonOfiarowanieDoDzien21.setOnClickListener {
-            val intentOfiarowanieDzien21 = Intent(this, OfiarowanieDzien21::class.java)
-            startActivity(intentOfiarowanieDzien21)
+        val buttonOdnalezienieDoDzien21 = findViewById<Button>(R.id.button165)
+        buttonOdnalezienieDoDzien21.setOnClickListener {
+            val intentOdnalezienieDzien21 = Intent(this, OdnalezienieDzien21::class.java)
+            startActivity(intentOdnalezienieDzien21)
         }
-        val buttonOfiarowanieDoDzien22 = findViewById<Button>(R.id.button135)
-        buttonOfiarowanieDoDzien22.setOnClickListener {
-            val intentOfiarowanieDzien22 = Intent(this, OfiarowanieDzien22::class.java)
-            startActivity(intentOfiarowanieDzien22)
+        val buttonOdnalezienieDoDzien22 = findViewById<Button>(R.id.button166)
+        buttonOdnalezienieDoDzien22.setOnClickListener {
+            val intentOdnalezienieDzien22 = Intent(this, OdnalezienieDzien22::class.java)
+            startActivity(intentOdnalezienieDzien22)
         }
         val buttonOfiarowanieDoDzien23 = findViewById<Button>(R.id.button136)
         buttonOfiarowanieDoDzien23.setOnClickListener {

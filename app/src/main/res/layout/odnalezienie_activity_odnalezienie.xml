@@ -161,27 +161,27 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button132"
+                    android:id="@+id/button163"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_19_pie_wieczorna_czas_odej_cia"/>
+                    android:text="@string/dzie_19_dalsze_lata_ycia_ukrytego_z_maryj_i_j_zefem"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button133"
+                    android:id="@+id/button164"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_20_pie_wieczorna_ujrze_zbawienie"/>
+                    android:text="@string/dzie_20_dalsze_lata_ycia_ukrytego_w_nieustannym_rozwoju"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button134"
+                    android:id="@+id/button165"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_21_pie_wieczorna_ujrze_wiat_o"/>
+                    android:text="@string/dzie_21_dalsze_lata_ycia_ukrytego_upodobniony_do_nas"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button135"
+                    android:id="@+id/button166"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_22_pie_wieczorna_ujrze_chwa"/>
+                    android:text="@string/dzie_22_dalsze_lata_ycia_ukrytego_trwaj_c_na_modlitwie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

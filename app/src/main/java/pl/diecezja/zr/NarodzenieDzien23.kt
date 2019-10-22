@@ -7,6 +7,6 @@ class NarodzenieDzien23 : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_narodzenie_dzien23)
+        setContentView(R.layout.narodzenie_activity_narodzenie_dzien23)
     }
 }

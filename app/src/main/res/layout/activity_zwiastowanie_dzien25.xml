@@ -9,7 +9,7 @@
         tools:context=".Wprowadzenie"
         android:id="@+id/linearLayout">
     <TextView
-            android:text="DZIEŃ 25 Słowo Ciałem Się Stało - Łaska Po Łasce"
+            android:text="@string/dzie_25_s_owo_cia_em_si_sta_o_aska_po_asce"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView360"
@@ -20,7 +20,8 @@
             app:layout_constraintTop_toTopOf="parent"
             android:textSize="20sp"
             android:textStyle="bold"
-            android:paddingEnd="10sp"/>
+            android:paddingEnd="10sp"
+            android:paddingStart="0dp"/>
 
     <ScrollView
             android:layout_width="wrap_content"
@@ -55,19 +56,19 @@
                     style="@style/rozwazanie_slowa"/>
 
             <TextView
-                    android:text="Z Ewangelii według św. Jana (1,16-18): „Z Jego pełności wszyscyśmy otrzymali - łaskę po łasce. Podczas gdy Prawo zostało nadane przez Mojżesza, łaska i prawda przyszły przez Jezusa Chrystusa. Boga nikt nigdy nie widział, Ten Jednorodzony Bóg, który jest w łonie Ojca, o Nim pouczył”."
+                    android:text="@string/z_ewangelii_wed_ug_w_jana_1_16_18_z_jego_pe_no_ci_wszyscy_my_otrzymali_ask_po_asce_podczas_gdy_prawo_zosta_o_nadane_przez_moj_esza_aska_i_prawda_przysz_y_przez_jezusa_chrystusa_boga_nikt_nigdy_nie_widzia_ten_jednorodzony_b_g_kt_ry_jest_w_onie_ojca_o_nim_pouczy"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView364"/>
             <TextView
-                    android:text="Kończąc kolejny tydzień mojego pobytu w Nazarecie, w codziennym medytowaniu nad tajemnicą Zwiastowania Najświętszej Maryi Pannie i tajemnicą Wcielenia Syna Bożego, dziękuję Bogu za wszystkie otrzymane dary. Potrzebuję ich każdego dnia i we wszystkich okolicznościach życia. "
+                    android:text="@string/ko_cz_c_kolejny_tydzie_mojego_pobytu_w_nazarecie_w_codziennym_medytowaniu_nad_tajemnic_zwiastowania_naj_wi_tszej_maryi_pannie_i_tajemnic_wcielenia_syna_bo_ego_dzi_kuj_bogu_za_wszystkie_otrzymane_dary_potrzebuj_ich_ka_dego_dnia_i_we_wszystkich_okoliczno_ciach_ycia"
                     android:id="@+id/textView365"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="„Z Jego pełności wszyscyśmy otrzymali łaskę po łasce”. Bóg wie, jakiej łaski potrzebuję dziś i jakiej będę potrzebował jutro. Jego miłość sprawia, że otrzymuję dar światła, bym nie błądził w ciemnościach, dar wolności, bym nie trwał w uzależnieniach, dar modlitwy, bym chętnie rozmawiał z Ojcem niebieskim, dar pokory, bym się nie wynosił nad innych, dar miłości i wszystkie inne dary, dzięki którym upodabniam się do Jezusa Chrystusa."
+                    android:text="@string/z_jego_pe_no_ci_wszyscy_my_otrzymali_ask_po_asce_b_g_wie_jakiej_aski_potrzebuj_dzi_i_jakiej_b_d_potrzebowa_jutro_jego_mi_o_sprawia_e_otrzymuj_dar_wiat_a_bym_nie_b_dzi_w_ciemno_ciach_dar_wolno_ci_bym_nie_trwa_w_uzale_nieniach_dar_modlitwy_bym_ch_tnie_rozmawia_z_ojcem_niebieskim_dar_pokory_bym_si_nie_wynosi_nad_innych_dar_mi_o_ci_i_wszystkie_inne_dary_dzi_ki_kt_rym_upodabniam_si_do_jezusa_chrystusa"
                     android:id="@+id/textView366"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="Dziękuję Maryi, która każdego dnia przyjmuje mnie w swoim nazaretańskim domu i wprowadza w tajemnice swoje i swojego Syna, Odkupiciela człowieka. "
+                    android:text="@string/dzi_kuj_maryi_kt_ra_ka_dego_dnia_przyjmuje_mnie_w_swoim_nazareta_skim_domu_i_wprowadza_w_tajemnice_swoje_i_swojego_syna_odkupiciela_cz_owieka"
                     android:id="@+id/textView367"
                     style="@style/paragraf_Text_optimum"/>
             <TextView

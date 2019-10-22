@@ -71,11 +71,11 @@
                     android:id="@+id/textView1992"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="@string/wstawianie_si_za_innymi_pro_ba_o_co_dla_innych_jest_od_czasu_2571_abrahama_czym_w_a_ciwym_dla_serca_pozostaj_cego_w_harmonii_z_mi_osierdziem_bo_ym_w_czasie_ko_cio_a_wstawiennictwo_chrze_cija_skie_uczestniczy_we_wstawiennictwie_chrystusa_jest_wyrazem_komunii_wi_tych_we_wstawiennictwie_ten_kto_si_modli_niech_ma_na_oku_nie_tylko_swoje_w_asne_sprawy_2577_ale_te_i_drugich_flp_2_4_do_tego_stopnia_aby_modli_si_za_tych_kt_rzy_wyrz_dzaj_mu_z_o_kkk_2635_por_szczepan_modl_cy_si_za_swych_oprawc_w_jak_jezus_dz_7_60_k_23_28_34"
+                    android:text="@string/akapit1993"
                     android:id="@+id/textView1993"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="@string/pierwsze_wsp_lnoty_chrze_cija_skie_prze_ywa_y_bardzo_g_boko_t_form_dzielenia_si_por_dz_12_5_20_36_21_5_2_kor_9_14_pawe_aposto_pozwala_im_uczestniczy_w_ten_spos_b_w_swoim_pos_ugiwaniu_ewangeliipor_ef_6_18_20_kol_4_3_4_1_tes_5_25_ale_te_wstawia_si_za_nimipor_flp_1_3_4_kol_1_3_2_tes_1_11_wstawiennictwo_chrze_cijan_nie_zna_granic_za_wszystkich_ludzi_za_kr_l_w_i_za_wszystkich_1900_sprawuj_cych_w_adz_1_tm_2_1_2_za_tych_kt_rzy_prze_laduj_por_rz_12_14_za_zbawienie_1037_tych_kt_rzy_odrzucaj_ewangeli_kkk_2636_por_rz_10_1"
+                    android:text="@string/akapit1994"
                     android:id="@+id/textView1994"
                     style="@style/paragraf_Text_optimum"/>
             <TextView

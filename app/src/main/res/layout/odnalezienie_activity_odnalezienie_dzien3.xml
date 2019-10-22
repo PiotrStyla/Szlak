@@ -66,11 +66,11 @@
                     android:id="@+id/textView1976"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="@string/w_refleksji_nad_pro_bami_jakie_kieruj_do_boga_chc_si_r_wnie_odwo_a_do_wskaza_jakie_daje_mi_ko_ci_w_katechizmie_m_wi_w_nim_o_pewnej_kolejno_ci_pr_b_pro_ba_o_przebaczenie_jest_pierwszym_d_eniem_modlitwy_pro_by_s_owa_celnika_miej_lito_dla_mnie_grzesznika_k_18_13_poprzedza_ona_w_a_ciw_2838_czyst_modlitw_ufnapokora_stawia_nas_w_wietle_komunii_z_ojcem_i_jego_synem_jezusem_chrystusem_oraz_w_komunii_z_innymipor_1_j_1_7_2_2_a_zatem_o_co_prosi_b_dziemy_otrzymamy_od_niego_1_j_3_22_pro_ba_o_przebaczenie_poprzedza_liturgi_eucharystyczn_jak_r_wnie_modlitw_osobist_kkk_2631"
+                    android:text="@string/akapit1977"
                     android:id="@+id/textView1977"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="@string/pro_ba_chrze_cija_ska_skupia_si_na_pragnieniu_i_poszukiwaniu_kr_lestwa_kt_re_przychodzi_zgodnie_z_nauczaniem_jezusapor_mt_6_10_33_k_11_2_13_istnieje_hierarchia_pr_b_2816_najpierw_kr_lestwo_nast_pnie_to_co_jest_konieczne_by_je_przyj_i_wsp_dzia_a_1942_w_jego_przyj_ciu_to_wsp_dzia_anie_z_pos_aniem_chrystusa_i_ducha_wi_tego_kt_re_jest_teraz_pos_aniem_ko_cio_a_jest_przedmiotem_modlitwy_wsp_lnoty_apostolskiejpor_dz_6_6_13_3_modlitwa_w_paw_a_aposto_a_objawia_nam_w_jaki_spos_b_bo_a_troska_o_wszystkie_ko_cio_y_powinna_o_ywia_modlitw_chrze_cija_sk_por_rz_10_1_ef_1_16_23_flp_1_9_11_kol_1_3_6_4_3_4_12_przez_modlitw_ka_dy_ochrzczony_przyczynia_si_do_przyj_cia_kr_lestwa_kkk_2632"
+                    android:text="@string/akapit1978"
                     android:id="@+id/textView1978"
                     style="@style/paragraf_Text_optimum"/>
             <TextView

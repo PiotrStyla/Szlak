@@ -221,13 +221,13 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button142"
+                    android:id="@+id/button173"
                     style="@style/button_dni_zwiastowanie_padding"
                     android:text="@string/dzie_29_podsumowanie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button143"
+                    android:id="@+id/button174"
                     style="@style/button_dni_zwiastowanie_padding"
                     android:text="@string/dzie_30_podsumowanie"/>
 

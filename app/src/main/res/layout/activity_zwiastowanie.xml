@@ -41,7 +41,7 @@
             <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="120dp"
-                    app:srcCompat="@drawable/zwiastowanie_obraz"
+                    app:srcCompat="@drawable/radosnapierwszapoziom"
                     android:id="@+id/imageView3"
                     android:layout_marginTop="16dp"
                     android:contentDescription="@string/obrazzwiastowania"/>
@@ -188,17 +188,17 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button51"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 28. Podsumowanie"/>
+                    android:text="@string/dzie_28_podsumowanie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button52"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 29. Podsumowanie"/>
+                    android:text="@string/dzie_29_podsumowanie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button53"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 30. Podsumowanie"/>
+                    android:text="@string/dzie_30_podsumowanie"/>
 
 
 

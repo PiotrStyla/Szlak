@@ -41,7 +41,7 @@
             <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="120dp"
-                    app:srcCompat="@drawable/nawiedzenie"
+                    app:srcCompat="@drawable/radosnapiatapiatapoziom"
                     android:id="@+id/imageNawiedzenie"
                     android:layout_marginTop="16dp"
                     android:contentDescription="@string/obrazzwiastowania"/>

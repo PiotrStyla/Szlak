@@ -45,9 +45,10 @@
             <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="120dp"
-                    app:srcCompat="@drawable/zwiastowanie_obraz"
+                    app:srcCompat="@drawable/radosnapierwszapoziom"
                     android:id="@+id/imageView2"
-                    android:layout_marginTop="16dp"/>
+                    android:layout_marginTop="16dp"
+                    android:contentDescription="@string/ikona_tajemnicy_radosnej" />
             <Button
                     android:text="@string/wst_p"
                     android:layout_width="wrap_content"
@@ -203,7 +204,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button51"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="DZIEŃ 28. Podsumowanie"/>
+                    android:text="@string/dzie_28_podsumowanie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content" android:id="@+id/button52"

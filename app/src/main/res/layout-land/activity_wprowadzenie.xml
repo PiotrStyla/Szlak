@@ -12,28 +12,17 @@
                app:layout_constraintTop_toTopOf="parent"
                app:layout_constraintStart_toStartOf="parent"
                app:layout_constraintEnd_toEndOf="parent"
-               app:layout_constraintBottom_toTopOf="@id/textView3"
                android:id="@+id/imageView4"
                android:layout_marginTop="8dp"
                android:src="@drawable/ikonastartbt"
 
-               android:contentDescription="Obraz Eucharystyczny"/>
+               android:contentDescription="@string/obraz_eucharystyczny"/>
 
 
-    <TextView
-            android:text="Dwadzieścia Zbawczych Wydarzeń "
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/textView3"
-            app:layout_constraintStart_toStartOf="parent"
-            android:layout_marginStart="16dp"
-            android:textSize="16sp" android:textStyle="bold"
-            app:layout_constraintTop_toBottomOf="@id/imageView4"
-            android:layout_marginTop="8dp"/>
     <ScrollView
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView3"
+            app:layout_constraintTop_toBottomOf="@+id/imageView4"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
@@ -49,6 +38,18 @@
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
 
+            <TextView
+                    android:text="@string/wprowadzenie0"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView0"
+                    android:layout_marginEnd="16dp"
+                    android:textSize="16sp"
+                    android:lineSpacingExtra="3sp"
+                    android:textStyle="bold"
+                    android:textAlignment="textStart"
+                    android:layout_marginBottom="7dp"/>
+
 
             <TextView
                     android:text="@string/wprowadzenie1"
@@ -57,7 +58,8 @@
                     android:id="@+id/textView4"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
-                    android:lineSpacingExtra="3sp" android:textAlignment="textStart"/>
+                    android:lineSpacingExtra="3sp"
+                    android:textAlignment="textStart"/>
             <TextView
                     android:text="@string/wprowadzenie2"
                     android:id="@+id/textView7"

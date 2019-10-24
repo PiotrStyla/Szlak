@@ -20,7 +20,8 @@
             app:layout_constraintTop_toTopOf="parent"
             android:textSize="20sp"
             android:textStyle="bold"
-            android:paddingEnd="10dp"/>
+            android:paddingEnd="10dp"
+            android:paddingStart="0dp"/>
 
     <ScrollView
             android:layout_width="wrap_content"
@@ -61,7 +62,7 @@
                     android:id="@+id/textView1299"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="Po wielu wiekach medytacji nad tą tajemnicą Kościół uznał te dzieci za męczenników, oddaje im cześć i modli się przez ich wstawiennictwo do Boga. W tekstach liturgicznych na ten dzień spotykamy słowa, które są zrozumiałe tylko w świetle wiary. Oto kilka przykładów:"
+                    android:text="@string/po_wielu_wiekach_medytacji_nad_t_tajemnic_ko_ci_uzna_te_dzieci_za_m_czennik_w_oddaje_im_cze_i_modli_si_przez_ich_wstawiennictwo_do_boga_w_tekstach_liturgicznych_na_ten_dzie_spotykamy_s_owa_kt_re_s_zrozumia_e_tylko_w_wietle_wiary_oto_kilka_przyk_ad_w"
                     android:id="@+id/textView1300"
                     style="@style/paragraf_Text_optimum"/>
             <TextView

@@ -5,7 +5,9 @@
         xmlns:app="http://schemas.android.com/apk/res-auto"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".Wprowadzenie" android:id="@+id/linearLayout">
+        tools:context=".Wprowadzenie"
+        android:id="@+id/linearLayout"
+        android:background="@color/colorWhite">
 
     <ImageView android:layout_width="130dp"
                android:layout_height="130dp"
@@ -14,8 +16,7 @@
                app:layout_constraintEnd_toEndOf="parent"
                android:id="@+id/imageView4"
                android:layout_marginTop="8dp"
-               android:src="@drawable/ikonastartbt"
-
+               android:src="@drawable/ihsnowy"
                android:contentDescription="@string/obraz_eucharystyczny"/>
 
 
@@ -27,7 +28,7 @@
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="24dp"
-            android:layout_marginTop="170dp"
+            android:layout_marginTop="140dp"
             android:scrollbarStyle="outsideOverlay"
             android:clipToPadding="false"
             android:paddingStart="8sp"

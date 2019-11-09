@@ -9,7 +9,7 @@
         tools:context=".Wprowadzenie"
         android:id="@+id/linearLayout">
     <TextView
-            android:text="@string/dzie_28_modlitwa_i_apostolstwo_podsumowanie"
+            android:text="@string/dzie_29_powr_t_do_wybranych_my_li"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView416"
@@ -42,59 +42,10 @@
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
             <TextView
-                    android:text="@string/podsumowuj_c_tak_wiele_prze_y_zwi_zanych_z_tajemnic_zwiastowania_naj_wi_tszej_maryi_pannie_jakie_sta_y_si_moim_udzia_em_w_tym_miesi_cu_chc_zawrze_je_r_wnie_w_pewnej_syntezie_aby_jeszcze_obfitsze_by_y_owoce_mojej_modlitwy"
+                    android:text="@string/prosz_jezusa_przez_mi_o_objawion_w_tajemnicy_zwiastowania_w_intencjach_ojca_wi_tego_i_tych_wzbudzonych_w_moim_sercu"
                     style="@style/paragraf_Text_optimum"
                     android:textStyle="italic"
-                    android:id="@+id/textView417"/>
-            <TextView
-                    android:text="@string/modlitwa"
-                    android:id="@+id/textView418"
-                    style="@style/modlitwa"/>
-            <TextView
-                    android:text="@string/z_uroczysto_ci_zwiastowania_pa_skiego_bo_e_z_twojej_woli_w_onie_maryi_dziewicy_odwieczne_s_owo_przyj_o_ludzkie_cia_o_spraw_aby_my_wyznaj_c_e_nasz_odkupiciel_jest_prawdziwym_bogiem_i_prawdziwym_cz_owiekiem_zas_u_yli_na_udzia_w_jego_boskiej_naturze_przez_chrystusa_pana_naszego_amen"
-                    android:id="@+id/textView419"
-                    style="@style/paragraf_Text"/>
-
-            <TextView
-                    android:text="@string/rozwa_anie_s_owa"
-                    android:id="@+id/textView420"
-                    style="@style/rozwazanie_slowa"/>
-
-            <TextView
-                    android:text="@string/z_listu_do_hebrajczyk_w_1_1_2_wielokrotnie_i_na_r_ne_sposoby_przemawia_niegdy_b_g_do_ojc_w_przez_prorok_w_a_w_tych_ostatecznych_dniach_przem_wi_do_nas_przez_syna_jego_to_ustanowi_dziedzicem_wszystkich_rzeczy_przez_niego_te_stworzy_wszech_wiat_ten_syn_kt_ry_jest_odblaskiem_jego_chwa_y_i_odbiciem_jego_istoty_podtrzymuje_wszystko_s_owem_swej_pot_gi_a_dokonawszy_oczyszczenia_z_grzech_w_zasiad_po_prawicy_majestatu_na_wysoko_ciach"
-                    style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView421"/>
-            <TextView
-                    android:text="@string/b_g_przem_wi_do_mnie_przez_swego_syna_zwiastowanie_naj_wi_tszej_maryi_pannie_to_pocz_tek_ostatecznych_dni_w_kt_rych_to_misterium_si_dokonuje_przez_ca_y_miesi_c_ka_dego_dnia_gdy_medytowa_em_nad_tekstami_z_pisma_wi_tego_przemawia_do_mnie_b_g_m_wi_przede_wszystkim_jedno_s_owo_jestem_jestem_w_ludzkiej_postaci_jestem_na_ziemi_jestem_w_waszym_ludzkim_wiecie_jestem_jednym_z_was_s_owo_kt_re_by_o_mi_dane_do_rozwa_ania_nios_o_w_sobie_wi_ksze_przes_anie_ni_tylko_informacj_kt_ra_zaspokaja_moj_ciekawo_w_ka_dym_z_rozwa_anych_fragment_w_prze_ywa_em_radosn_nowin_b_g_m_wi_jestem_z_tob_ile_razy_b_d_wraca_do_tego_misterium_b_d_si_stara_s_ysze_to_zbawcze_or_dzie"
-                    android:id="@+id/textView422"
-                    style="@style/paragraf_Text_optimum"/>
-            <TextView
-                    android:text="@string/dziesi_tek_r_a_ca"
-                    android:id="@+id/textView423"
-                    style="@style/dziesiatek_rozanca"/>
-
-            <TextView
-                    android:text="@string/z_wielkim_zaufaniem_zwracam_si_do_ojca_kt_ry_przem_wi_do_mnie_przez_swego_syna_modl_si_s_owami_modlitwy_ojcze_nasz_w_odmawianiu_kolejnych_zdrowa_maryjo_chc_prosi_maryj_aby_owoce_miesi_cznej_medytacji_nad_tajemnic_wcielenia_syna_bo_ego_by_y_obfite_i_trwa_e"
-                    style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView424"/>
-            <TextView
-                    android:text="@string/intencje_modlitwy"
-                    android:id="@+id/textView425"
-                    style="@style/intencje_modlitwy"/>
-
-            <TextView
-                    android:text="@string/spraw_mi_osierny_ojcze_aby_wszystkie_dary_jakie_mi_ofiarowa_e_w_czasie_spotka_z_tob_w_ostatnim_miesi_cu_nieustannie_ubogaca_y_moje_ycie_i_uzdalnia_y_mnie_do_jeszcze_pi_kniejszej_s_u_by_braciom"
-                    style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView426"/>
-
-            <TextView
-                    android:text="@string/prosz_w_intencjach_kt_re_poleca_ojciec_wi_ty"
-                    style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView427"/>
-            <TextView
-                    android:text="@string/ko_cz_modlitw_dzi_kczynieniem_za_dar_spotkania_kt_re_jest_zawsze_zaszczytem_i_wyr_nieniem_rozmawia_em_z_bogiem_i_rozwa_a_em_jego_boskie_tajemnice"
-                    android:id="@+id/textView428"
-                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView417"
                     android:paddingBottom="80sp"/>
 
         </LinearLayout>

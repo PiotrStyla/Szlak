@@ -50,6 +50,7 @@
                     android:id="@+id/textView45"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
+                    android:textStyle="italic"
                     android:lineSpacingExtra="3sp" android:textAlignment="textStart"/>
             <TextView
                     android:text="@string/modlitwa"

@@ -7,7 +7,7 @@
         android:layout_height="match_parent"
         tools:context=".Wprowadzenie" android:id="@+id/linearLayout">
     <TextView
-            android:text="DZIEŃ 8. Nie bój się Maryjo"
+            android:text="@string/dzie_8_nie_b_j_si_maryjo"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView134"
@@ -20,7 +20,7 @@
     <ScrollView
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView107"
+            app:layout_constraintTop_toBottomOf="@+id/textView134"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
@@ -36,15 +36,16 @@
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
             <TextView
-                    android:text="Choć Maryja była pełna łaski i doświadczała szczególnej obecności Pana w swoim życiu, to jednak w chwili Zwiastowania słyszy słowa: „Nie bój się”. Widocznie lęk wkradał się do Jej serca."
+                    android:text="@string/cho_maryja_by_a_pe_na_aski_i_do_wiadcza_a_szczeg_lnej_obecno_ci_pana_w_swoim_yciu_to_jednak_w_chwili_zwiastowania_s_yszy_s_owa_nie_b_j_si_widocznie_l_k_wkrad_si_do_jej_serca"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView135"
+                    android:textStyle="italic"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp" android:textAlignment="textStart"/>
             <TextView
-                    android:text="Modlitwa"
+                    android:text="@string/modlitwa"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView136"
@@ -54,12 +55,12 @@
                     android:layout_marginTop="5sp"
                     android:layout_marginBottom="5sp" android:textStyle="bold"/>
             <TextView
-                    android:text="Boże, mój Ojcze, niech Pocieszyciel, Duch Święty, który pochodzi od Ciebie, oświeci mój umysł i doprowadzi mnie do pełnej prawdy, zgodnie z obietnicą Twego Syna."
+                    android:text="@string/bo_e_m_j_ojcze_niech_pocieszyciel_duch_wi_ty_kt_ry_pochodzi_od_ciebie_o_wieci_m_j_umys_i_doprowadzi_do_pe_nej_prawdy_zgodnie_z_obietnic_twego_syna"
                     android:id="@+id/textView137"
                     style="@style/paragraf_Text"/>
 
             <TextView
-                    android:text="Rozważanie słowa"
+                    android:text="@string/rozwa_anie_s_owa"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView138"
@@ -67,22 +68,23 @@
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"
                     android:layout_marginTop="5sp"
-                    android:layout_marginBottom="5sp" android:textStyle="bold"/>
+                    android:layout_marginBottom="5sp"
+                    android:textStyle="bold"/>
 
             <TextView
-                    android:text="Z Ewangelii według św. Łukasza (1,29-30): „Maryja zmieszała się na te słowa i rozważała, co miałoby znaczyć to pozdrowienie. Lecz anioł rzekł do Niej: «Nie bój się, Maryjo, znalazłaś bowiem łaskę u Boga”."
+                    android:text="@string/z_ewangelii_wed_ug_wi_tego_ukasza_1_29_30_maryja_zmiesza_a_si_na_te_s_owa_i_rozwa_a_a_co_mia_oby_znaczy_to_pozdrowienie_lecz_anio_rzek_do_niej_nie_b_j_si_maryjo_znalaz_a_bowiem_ask_u_boga"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView139"/>
             <TextView
-                    android:text="Gdy człowiek jest zaskoczony czymś nowym i wielkim, zazwyczaj przeżywa chwile zmieszania i niepewności. Maryja jest niewątpliwie zdumiona widokiem Anioła i usłyszanymi słowami. Ewangelista mówi, że była „zmieszana”. W innych tłumaczeniach czytamy, że była „zatrwożona”. Potrzebne więc było wyjaśnienie. Potrzebne były również słowa: „Nie bój się”. "
+                    android:text="@string/gdy_cz_owiek_jest_zaskoczony_czym_nowym_i_wielkim_zazwyczaj_prze_ywa_chwile_zmieszania_i_niepewno_ci_maryja_jest_niew_tpliwie_zdumiona_widokiem_anio_a_i_s_owami_kt_re_us_ysza_a_ewangelista_m_wi_e_by_a_zmieszana_w_innych_t_umaczeniach_czytamy_e_by_a_zatrwo_ona_potrzebne_wi_c_by_o_wyja_nienie_potrzebne_by_y_r_wnie_s_owa_nie_b_j_si"
                     android:id="@+id/textView140"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="Stajemy tu wobec tajemnicy powołania. Jest ono czymś wielkim, gdyż pochodzi od samego Boga i jest zaproszeniem do udziału w realizacji Jego zbawczego planu wobec ludzi. Każdy powołany doświadcza w swoim życiu wątpliwości i niepokojów, zagrożeń i lęków. Chrystus wielokrotnie mówił do Apostołów: „Nie lękajcie się”. Słowa te powtarzał od początku swego pontyfikatu św. Jan Paweł II. "
+                    android:text="@string/stajemy_tu_wobec_tajemnicy_powo_ania_jest_ono_czym_wielkim_gdy_pochodzi_od_samego_boga_i_jest_zaproszeniem_do_udzia_u_w_realizacji_jego_zbawczego_planu_wobec_cz_owieka_ka_dy_powo_any_do_wiadcza_w_swoim_yciu_w_tpliwo_ci_i_niepokoj_w_zagro_e_i_l_k_w_chrystus_wielokrotnie_m_wi_do_aposto_w_nie_l_kajcie_si_s_owa_te_powtarza_od_pocz_tku_swego_pontyfikatu_w_jan_pawe_ii"
                     android:id="@+id/textView141"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="Dziesiątek różańca"
+                    android:text="@string/dziesi_tek_r_a_ca"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView142"
@@ -90,16 +92,17 @@
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"
                     android:layout_marginTop="5sp"
-                    android:layout_marginBottom="5sp" android:textStyle="bold"/>
+                    android:layout_marginBottom="5sp"
+                    android:textStyle="bold"/>
 
             <TextView
-                    android:text="Wszyscy, którzy głęboko przeżywają modlitwę, mówią, że doświadczają również uspokojenia. Boży pokój pokonuje lęk i pomnaża zaufanie do Boga, który dając powołanie, daje też siły do jego wypełnienia. W ten świat pokoju pragnę głębiej wejść w dzisiejszej modlitwie różańcowej."
+                    android:text="@string/wszyscy_kt_rzy_g_boko_prze_ywaj_modlitw_m_wi_e_do_wiadczaj_r_wnie_uspokojenia_bo_y_pok_j_zwyci_a_l_k_i_pomna_a_zaufanie_do_boga_kt_ry_daj_c_powo_anie_daje_te_si_y_do_jego_wype_nienia_w_ten_wiat_pokoju_pragn_g_biej_wej_w_dzisiejszej_modlitwie_r_a_cowej"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView143"/>
 
 
             <TextView
-                    android:text="Intencje modlitwy"
+                    android:text="@string/intencje_modlitwy"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView144"
@@ -107,19 +110,20 @@
                     android:textSize="16sp"
                     android:lineSpacingExtra="3sp"
                     android:layout_marginTop="5sp"
-                    android:layout_marginBottom="5sp" android:textStyle="bold"/>
+                    android:layout_marginBottom="5sp"
+                    android:textStyle="bold"/>
 
             <TextView
-                    android:text="Pomóż mi, Panie, pokonywać wszelkie lęki mojego życia. Broń mnie przez nerwowością, brakiem zaufania do Ciebie, zapomnieniem o Twojej obecności. Pomóż mnie i wszystkim ludziom usłyszeć Twoje słowa: „Nie lękajcie się”."
+                    android:text="@string/pom_mi_panie_pokonywa_wszelkie_l_ki_w_moim_yciu_bro_mnie_przez_nerwowo_ci_brakiem_zaufania_do_ciebie_zapomnieniem_o_twojej_obecno_ci_pom_mnie_i_wszystkim_ludziom_us_ysze_twoje_s_owa_nie_l_kajcie_si"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView145"/>
 
             <TextView
-                    android:text="Proszę w intencjach, które poleca Ojciec Święty."
+                    android:text="@string/prosz_w_intencjach_kt_re_poleca_ojciec_wi_ty"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView146"/>
             <TextView
-                    android:text="Dziękuję Maryi, a wraz z Nią Bogu, za dar spotkania i za wszystkie otrzymane łaski."
+                    android:text="@string/dzi_kuj_maryi_a_wraz_z_ni_bogu_za_dar_spotkania_i_za_wszystkie_otrzymane_aski"
                     android:id="@+id/textView147"
                     style="@style/paragraf_Text_optimum"
                     android:paddingBottom="80sp"/>

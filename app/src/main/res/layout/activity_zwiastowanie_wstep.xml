@@ -46,7 +46,36 @@
             <TextView
                     android:text="@string/z_tej_racji_pierwsze_dni_miesi_cznej_modlitwy_i_medytacji_s_pro_b_o_ask_g_bszego_wnikni_cia_w_znaczenie_zbawczych_wydarze_jakie_dokona_y_si_w_chwili_gdy_anio_przyszed_do_maryi_i_oznajmi_jej_bo_wol"
                     android:id="@+id/textView7"
+                    style="@style/paragraf_Text"
+                    android:paddingBottom="5dp"/>
+            <TextView
+                    android:text="@string/wskazania_mistrz_w"
+                    android:id="@+id/textView07"
+                    style="@style/paragraf_Text"
+                    android:textStyle="bold"
+                    android:paddingBottom="7dp"/>
+            <TextView
+                    android:text="@string/ojciec_wi_ty_jan_pawe_ii_cz_sto_m_wi_o_sztuce_modlitwy_a_tak_e_o_szkole_modlitwy_r_aniec_nazywa_maryjn_szko_modlitwy_w_li_cie_o_r_a_cu_wyja_nia_znaczenie_ka_dego_elementu_kt_ry_sk_ada_si_na_odmawianie_dziesi_tka_r_a_ca"
+                    android:id="@+id/textView007"
                     style="@style/paragraf_Text"/>
+            <TextView
+                    android:text="@string/rozpoczynaj_c_rozwa_anie_kolejnych_tajemnic_na_r_a_cowym_szlaku_przypominamy_te_papieskie_wskazania_zaczynamy_od_tego_co_odmawiamy_na_po_chwa_a_ojcu_czyli_od_ko_cowego_aktu_strzelistego_jest_to_jeden_ze_szczeg_w_kt_ry_trzeba_odkry_aby_coraz_lepiej_go_prze_ywa_jego_dobre_rozumienie_wp_ywa_na_ca_o_modlitwy"
+                    android:id="@+id/textView0007"
+                    style="@style/paragraf_Text"/>
+            <TextView
+                    android:text="@string/wed_ug_powszechnie_przyj_tej_praktyki_wyja_nia_ojciec_wi_ty_w_r_a_cu_po_doksologii_trynitarnej_odmawia_si_akt_strzelisty_r_ny_zale_nie_od_zwyczaj_w_doceniaj_c_warto_takich_inwokacji_trzeba_zauwa_y_e_owocno_kontemplacji_tajemnic_b_dzie_lepiej_wyra_ona_je_li_zadba_si_o_to_by_ka_d_tajemnic_zako_czy_modlitw_o_osi_gni_cie_specyficznych_owoc_w_konkretnej_tajemnicy_w_ten_spos_b_r_aniec_b_dzie_m_g_trafniej_wyrazi_sw_j_zwi_zek_z_yciem_chrze_cija_skim_podpowiada_to_pi_kna_modlitwa_liturgiczna_kt_ra_zach_ca_nas_by_my_prosili_o_osi_gni_cie_przez_rozwa_anie_tajemnic_r_a_ca_tego_e_b_dziemy_na_ladowa_to_co_zawieraj_i_otrzymamy_to_co_obiecuj"
+                    android:id="@+id/textView00007"
+                    style="@style/paragraf_Text"/>
+            <TextView
+                    android:text="@string/w_takiej_modlitwie_ko_cowej_mo_e_wyst_powa_jak_to_ma_ju_miejsce_uzasadniona_r_norodno_r_aniec_uzyskuje_w_ten_spos_b_r_wnie_rysy_bardziej_odpowiadaj_ce_r_nym_tradycjom_duchowym_i_r_nym_wsp_lnotom_chrze_cija_skim_w_tej_perspektywie_nale_a_oby_sobie_yczy_aby_by_y_szerzone_z_nale_ytym_rozeznaniem_duszpasterskim_najbardziej_znacz_ce_propozycje_mo_na_by_sprawdza_ich_przydatno_w_o_rodkach_i_sanktuariach_maryjnych_gdzie_zwraca_si_szczeg_ln_uwag_na_praktyk_r_a_ca_w_ten_spos_b_lud_bo_y_m_g_by_korzysta_z_wszelkiego_autentycznego_bogactwa_duchowego_czerpi_c_z_niego_pokarm_duchowy_dla_swej_kontemplacji_rvm_35"
+                    android:id="@+id/textView000007"
+                    style="@style/paragraf_Text"/>
+            <TextView
+                    android:text="@string/id_c_za_s_owami_papie_a_w_modlitwach_przygotowanych_na_kolejne_dni_miesi_ca_podane_s_przyk_adowo_takie_akty_strzeliste_znajduj_si_one_w_cz_ci_zatytu_owanej_intencje_modlitwy_akt_strzelisty_to_modlitwa_kt_ra_wyra_nie_nawi_zuje_do_rozwa_anej_tajemnicy_zgodnie_z_zaleceniem_ojca_wi_tego_przyk_ady_takiej_modlitwy_podane_s_na_pierwsze_dni_a_potem_zamieszczona_jest_zach_ta_do_osobistej_tw_rczo_ci_do_odmawiania_modlitwy_zrodzonej_z_rozwa_anej_tajemnicy_zamiast_niej_mo_na_oczywi_cie_odm_wi_s_owa_przekazane_przez_anio_a_z_fatimy_o_m_j_jezu"
+                    android:id="@+id/textView0000007"
+                    style="@style/paragraf_Text"
+                    android:paddingBottom="70dp"/>
+
 
         </LinearLayout>
     </ScrollView>

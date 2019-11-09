@@ -43,13 +43,31 @@
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
             <TextView
+                    android:text="@string/ko_ci_yje_rytmem_tygodniowym_to_rytm_ustanowiony_przez_boga_ju_w_dziele_stworzenia_wskazane_jest_wi_c_aby_r_wnie_duchowa_w_dr_wka_w_g_b_tajemnicy_zwiastowania_mia_y_rytm_tygodniowy_przez_siedem_dni_rozwa_am_jeden_temat_rozpoczynam_od_ewangelicznego_opisu_kt_ry_przekaza_nam_w_ukasz_to_rozmowa_maryi_z_anio_em_gabrielem"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView094"
+                    android:layout_marginEnd="16dp"
+                    android:textSize="16sp"
+                    android:lineSpacingExtra="3sp"
+                    android:textStyle="italic"
+                    android:textAlignment="textStart"/>
+            <TextView
+                    android:text="@string/gwiadki"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView0094"
+                    android:layout_marginEnd="16dp"
+                    android:textSize="16sp"
+                    android:lineSpacingExtra="3sp"/>
+            <TextView
                     android:text="@string/dzi_staram_si_skupi_na_bo_ym_wys_a_cu_najcz_ciej_okre_lany_jest_on_s_owami_anio_pa_ski_jest_to_r_wnie_tytu_modlitwy_kt_r_wiele_os_b_odmawia_trzy_razy_dziennie"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView94"
                     android:layout_marginEnd="16dp"
                     android:textSize="16sp"
-                    android:lineSpacingExtra="3sp" android:textAlignment="textStart"/>
+                    android:lineSpacingExtra="3sp"/>
             <TextView
                     android:text="@string/modlitwa"
                     android:layout_width="match_parent"

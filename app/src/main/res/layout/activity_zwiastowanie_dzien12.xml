@@ -42,6 +42,25 @@ android:layout_marginEnd="16dp">
                   android:layout_height="wrap_content"
                   android:orientation="vertical">
         <TextView
+                android:text="@string/w_minionych_dniach_medytacji_nad_tajemnic_wcielenia_syna_bo_ego_rozwa_a_em_teksty_zapisane_w_ewangelii_w_ukasza_dzi_ki_nim_wiem_jak_wygl_da_a_rozmowa_maryi_z_anio_em_zako_czy_a_si_ona_s_owami_maryi_niech_mi_si_stanie_wed_ug_twego_s_owa_wierz_e_to_by_w_a_nie_moment_pocz_cia_jezusa_moc_ducha_wi_tego"
+                android:id="@+id/textView0190"
+                android:textStyle="italic"
+                style="@style/paragraf_Text"/>
+        <TextView
+                android:text="@string/chc_to_misterium_coraz_lepiej_poznawa_rozwa_aj_c_wraz_z_odmawianiem_dziesi_tka_r_a_ca_teksty_wi_tego_paw_a_chodzi_g_wnie_o_te_fragmenty_w_kt_rych_aposto_m_wi_o_pe_ni_czas_w_w_kt_rej_syn_bo_y_przyszed_na_ziemi_oraz_o_pe_ni_dar_w_kt_ra_jest_w_chrystusie_s_owo_pe_nia_jest_stale_na_moich_ustach_powtarzam_je_gdy_m_wi_zdrowa_maryjo_aski_pe_na_tu_s_owo_to_odnosi_si_do_maryi_ale_w_pawe_odnosi_je_g_wnie_do_chrystusa_te_teksty_pragn_rozwa_a"
+                android:id="@+id/textView00190"
+                android:textStyle="italic"
+                style="@style/paragraf_Text"/>
+        <TextView
+                android:text="@string/poni_ej_zamieszczone_s_tylko_teksty_biblijne_i_rozwa_ania_na_poszczeg_lne_dni_wszystkie_inne_cz_ci_sk_adaj_ce_si_na_prze_ycie_r_a_cowej_tajemnicy_modlitwa_wst_pna_odm_wienie_dziesi_tka_r_a_ca_przedstawienie_bogu_intencji_modlitewnych_modlitwa_dzi_kczynna_s_pozostawione_tw_rczej_inwencji_os_b_korzystaj_cych_z_tym_pomocy"
+                android:id="@+id/textView000190"
+                android:textStyle="italic"
+                style="@style/paragraf_Text"/>
+        <TextView
+                android:text="@string/gwiadki"
+                android:id="@+id/textView0000190"
+                style="@style/paragraf_Text"/>
+        <TextView
                 android:text="@string/modlitwa"
                 android:id="@+id/textView189"
                 style="@style/modlitwa"/>
@@ -70,33 +89,21 @@ android:layout_marginEnd="16dp">
                 style="@style/dziesiatek_rozanca"/>
 
         <TextView
-                android:text="@string/w_pierwszym_tygodniu_medytacji_nad_tajemnic_wcielenia_syna_bo_ego_rozwa_a_em_teksty_zapisane_w_ewangelii_w_ukasza_dzi_ki_nim_wiem_jak_wygl_da_a_rozmowa_maryi_z_anio_em_zako_czy_a_si_ona_s_owami_maryi_niech_mi_si_stanie_wed_ug_twego_s_owa_wierz_e_to_by_w_a_nie_moment_pocz_cia_jezusa_moc_ducha_wi_tego"
+                android:text="@string/ojcze_nasz_zdrowa_maryjo_chwa_a_ojcu"
                 style="@style/paragraf_Text_optimum"
                 android:id="@+id/textView195"/>
-        <TextView
-                android:text="@string/chc_to_misterium_coraz_lepiej_poznawa_rozwa_aj_c_wraz_z_odmawianiem_dziesi_tka_r_a_ca_teksty_w_paw_a_chodzi_g_wnie_o_te_fragmenty_w_kt_rych_aposto_m_wi_o_pe_ni_czas_w_w_kt_rej_syn_bo_y_przyszed_na_ziemi_oraz_o_pe_ni_dar_w_kt_ra_jest_w_chrystusie_s_owo_pe_nia_jest_stale_na_moich_ustach_powtarzam_je_gdy_m_wi_zdrowa_maryjo_aski_pe_na_tu_s_owo_to_odnosi_si_do_maryi_ale_w_pawe_odnosi_je_g_wnie_do_chrystusa_te_teksty_pragn_rozwa_a"
-                style="@style/paragraf_Text_optimum"
-                android:id="@+id/textView196"/>
-        <TextView
-                android:text="@string/teraz_zamieszczone_s_tylko_teksty_biblijne_i_rozwa_ania_na_poszczeg_lne_dni_wszystkie_inne_cz_ci_sk_adaj_ce_si_na_prze_ycie_r_a_cowej_tajemnicy_modlitwa_wst_pna_odm_wienie_dziesi_tka_r_a_ca_przedstawienie_bogu_intencji_modlitewnych_modlitwa_dzi_kczynna_s_pozostawione_tw_rczej_inwencji_os_b_korzystaj_cych_z_tych_pomocy"
-                style="@style/paragraf_Text_optimum"
-                android:id="@+id/textView197"/>
-
-
         <TextView
                 android:text="@string/intencje_modlitwy"
                 android:id="@+id/textView198"
                 style="@style/intencje_modlitwy"/>
-
-        <TextView
-                android:text="@string/n"
-                style="@style/paragraf_Text_optimum"
-                android:id="@+id/textView199"/>
-
         <TextView
                 android:text="@string/prosz_w_intencjach_kt_re_poleca_ojciec_wi_ty"
                 style="@style/paragraf_Text_optimum"
                 android:id="@+id/textView200"/>
+        <TextView
+                android:text="@string/prosz_we_wszystkich_intencjach_wzbudzonych_w_moim_sercu"
+                style="@style/paragraf_Text_optimum"
+                android:id="@+id/textView199"/>
         <TextView
                 android:text="@string/dzi_kuj_maryi_a_wraz_z_ni_bogu_za_dar_spotkania_i_za_wszystkie_otrzymane_aski"
                 android:id="@+id/textView201"

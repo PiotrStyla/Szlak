@@ -77,7 +77,7 @@
                     style="@style/dziesiatek_rozanca"/>
 
             <TextView
-                    android:text="@string/n"
+                    android:text="@string/ojcze_nasz_zdrowa_maryjo_chwa_a_ojcu"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView342"/>
 
@@ -85,18 +85,8 @@
                     android:text="@string/intencje_modlitwy"
                     android:id="@+id/textView343"
                     style="@style/intencje_modlitwy"/>
-
             <TextView
-                    android:text="@string/n"
-                    style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView344"/>
-
-            <TextView
-                    android:text="@string/prosz_w_intencjach_kt_re_poleca_ojciec_wi_ty"
-                    style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView345"/>
-            <TextView
-                    android:text="@string/dzi_kuj_maryi_a_wraz_z_ni_bogu_za_dar_spotkania_i_za_wszystkie_otrzymane_aski"
+                    android:text="@string/prosz_jezusa_przez_mi_o_objawion_w_tajemnicy_zwiastowania_w_intencjach_ojca_wi_tego_i_tych_wzbudzonych_w_moim_sercu"
                     android:id="@+id/textView346"
                     style="@style/paragraf_Text_optimum"
                     android:paddingBottom="80sp"/>

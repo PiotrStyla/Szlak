@@ -42,9 +42,28 @@
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
             <TextView
-                    android:text="@string/moje_dzi_kczynienie_wyra_am_najpierw_w_modlitwie_chc_wypowiedzie_s_owa_wdzi_czno_ci_gdy_mam_wiadomo_jak_wiele_otrzyma_em_w_ci_gu_tego_miesi_ca_spotka_rozm_w_i_rozwa_a"
+                    android:text="@string/ostatnie_dni_miesi_cznej_modlitwy_powinny_mie_charakter_dzi_kczynienia_za_wszystkie_otrzymane_i_wyproszone_dla_innych_aski_a_tak_e_refleksji_nad_tym_jak_dzieli_si_z_innymi_tym_co_mi_zosta_o_ofiarowane"
                     style="@style/paragraf_Text_optimum"
                     android:textStyle="italic"
+                    android:id="@+id/textView0375"/>
+            <TextView
+                    android:text="@string/niezwyk_ym_darem_tak_prze_ywanej_modlitwy_r_a_cowej_jest_miesi_czny_pobyt_w_nazarecie_w_czasie_gdy_do_maryi_przychodzi_anio_gabriel_i_gdy_dokonuje_si_tajemnica_wcielenia_syna_bo_ego_dzi_ki_maryi_lepiej_pozna_em_to_misterium_i_stara_em_si_coraz_g_biej_w_nie_wej_otrzymywa_em_przez_ca_y_miesi_c_ask_po_asce_i_za_ka_d_z_nich_pragn_wyrazi_bogu_wdzi_czno"
+                    style="@style/paragraf_Text_optimum"
+                    android:textStyle="italic"
+                    android:id="@+id/textView00375"/>
+            <TextView
+                    android:text="@string/w_czasie_spotka_prze_ywanych_w_minionych_tygodniach_stale_przewija_si_temat_mojej_postawy_kt_ra_ma_r_wnie_wymiar_wiadectwa_wobec_innych_ludzi_na_koniec_trzeba_tej_tematyce_po_wi_ci_wi_cej_uwagi"
+                    style="@style/paragraf_Text_optimum"
+                    android:textStyle="italic"
+                    android:id="@+id/textView000375"/>
+            <TextView
+                    android:text="@string/gwiadki"
+                    style="@style/paragraf_Text_optimum"
+                    android:textStyle="italic"
+                    android:id="@+id/textView0000375"/>
+            <TextView
+                    android:text="@string/moje_dzi_kczynienie_wyra_am_najpierw_w_modlitwie_chc_wypowiedzie_s_owa_wdzi_czno_ci_gdy_mam_wiadomo_jak_wiele_otrzyma_em_w_ci_gu_tego_miesi_ca_spotka_rozm_w_i_rozwa_a"
+                    style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView375"/>
             <TextView
                     android:text="@string/modlitwa"

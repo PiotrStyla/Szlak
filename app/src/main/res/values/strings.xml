@@ -1,67 +1,20 @@
 <resources>
     <string name="app_name">Różańcowy Szlak</string>
     <string name="wprowadzenie_button">WPROWADZENIE</string>
-    <string name="wprowadzenie1">Przeżywamy czas rozkwitu pielgrzymek. Jedni wędrują pieszo, inni jakimś środkiem
-        lokomocji. Wyruszając w drogę mają w sercu wiele intencji. Wracają ubogaceni i wdzięczni Bogu.
-    </string>
-    <string name="wprowadzenie2">Choć każda z pielgrzymek jest godna polecenia, to jednak żadna nie dorówna wędrówce
-        duchowej, jaką może człowiek podjąć, gdy w swej modlitwie przemierza bezkresne i cudowne obszary Bożych
-        tajemnic. Zewnętrzne wędrowanie szybko się kończy, a duchowa pielgrzymka trwa przez lata.
-    </string>
-    <string name="wprowadzenie3">Niniejsze opracowanie jest zaproszeniem do udziału w jednej z najpiękniejszych
-        pielgrzymek duchowych, jakie są proponowane nam, uczniom Chrystusa. Jest to wędrowanie do dwudziestu miejsc i
-        dwudziestu zbawczych wydarzeń, przemieniających życie człowieka. Są to wydarzenia z życia Jezusa i Maryi,
-        opowiedziane i przeżywane w kolejnych tajemnicach różańca świętego.
-    </string>
-    <string name="wprowadzenie4">Na tym „różańcowym szlaku” zatrzymujemy się dwadzieścia razy i to na dłuższy czas.
-        „Rozbijamy namiot” lub „wynajmujemy pokój” na cały miesiąc tam, gdzie dokonało się zbawcze wydarzenie.
-        Codziennie przerywamy swoje zajęcia i tam przychodzimy. Patrzymy, pytamy, słuchamy, rozważamy słowa, które
-        zostały wypowiedziane, myślimy o czynach, które zostały spełnione, czytamy komentarze, które daje nam Pismo
-        Święte i nauka Kościoła na ten temat.
-    </string>
-    <string name="wprowadzenie5">Po takim miesięcznym duchowym pobycie w świętym miejscu można się tam poczuć „bardziej
-        u siebie”, bliżej Jezusa i Maryi. Można na nowo odkryć, jak potężna duchowa moc jest tam obecna, jak wiele można
-        się tam nauczyć i jak wiele skarbów ofiarowanych nam przez Chrystusa można stamtąd zabrać i zanieść ludziom.
-    </string>
-    <string name="wprowadzenie6">Opracowanie nazwane „Różańcowy szlak” będzie zapewne pomocą dla tych, którzy należą już
-        do Żywego Różańca i w danym miesiącu rozważają konkretną tajemnicę. Jednak nie tylko oni są adresatami tych
-        medytacji. Zachęcamy do wyruszenia na „różańcowy szlak” wszystkich, którzy jeszcze nie znają takiego sposobu
-        odmawiania różańca.
-    </string>
-    <string name="wprowadzenie7">Dobrze jest, przynajmniej w niektórych dniach, odmawiać dziesiątek różańca w kościele
-        lub kaplicy, przed Najświętszym Sakramentem.
-    </string>
-    <string name="wprowadzenie8">
-        <b>Dlaczego taka droga?</b>
-    </string>
-    <string name="wprowadzenie9">Na niektóre wyjazdy trzeba ludzi namawiać, zachęcać i przekonywać. Na inne decydują się
-        jechać jakby z marszu, gdyż podana propozycja wpisuje się w ich pragnienia i oczekiwania. Duchowa wędrówka,
-        trwająca dwadzieścia miesięcy, nie należy raczej do tych, na które ktoś się decyduje bez zastanowienia. Trzeba
-        najpierw uważniej się jej przyjrzeć.
-    </string>
-    <string name="wprowadzenie10">
-        <b>Chcę wypraszać pomoc Boga dla siebie i innych</b>
-    </string>
-    <string name="wprowadzenie11">Warto więc w tym miejscu zapytać, dlaczego ludzie biorą do ręki różaniec? Wydaje się,
-        że najczęstszą motywacją podjęcia tej modlitwy jest chęć wyproszenia potrzebnych łask dla siebie i dla innych.
-        Słyszymy zaproszenia do odmawiania różańca w intencji Ojczyzny, w intencji rodzin i pokoju na świecie, w
-        intencjach wskazanych przez Ojca Świętego. Wielu rodziców podejmuje tę modlitwę, gdyż chcą pomóc swoim dzieciom.
-        Różaniec jest w tym przypadku głównie formą modlitwy błagalnej. Rozważanie zbawczych tajemnic, które powinno być
-        przeżywane w różańcu, pojawia się na drugim miejscu. Niekiedy może nawet brakować pogłębionej refleksji nad
-        życiem Jezusa i Maryi, gdyż cały wysiłek zostaje włożony w to, aby odmówić wyznaczony dziesiątek różańca.
-    </string>
-    <string name="wprowadzenie12">
-        <b>Chcę zbliżyć się do Boga i z Nim się zjednoczyć</b>
-    </string>
-    <string name="wprowadzenie13">Modlitwa w czyjejś intencji jest pięknym aktem miłości bliźniego. Niewątpliwie jest
-        miła Bogu. Trzeba ją podejmować z całym zaangażowaniem.
-    </string>
-    <string name="wprowadzenie14">Trzeba również dążyć do tego, aby w przeżywaniu modlitwy różańcowej coraz większą rolę
-        odgrywała miłość Boga i żeby ona wysuwała się na pierwsze miejsce. Mając taką postawę człowiek odmawia
-        dziesiątek różańca dlatego, że kocha Boga, chce się do Boga zbliżyć, lepiej poznać Jego miłość, bardziej się
-        otworzyć na Jego obecność, pogłębić wiarę w Niego. Takie zbliżenie do Boga bynajmniej nie oddala od ludzi.
-        Przeciwnie, człowiek z jeszcze większą troską przedstawia swoje intencje Bogu.
-    </string>
+    <string name="wprowadzenie1">Przeżywamy czas rozkwitu pielgrzymek. Jedni wędrują pieszo, inni jakimś środkiem lokomocji. Wyruszając w drogę mają w sercu wiele intencji. Wracają ubogaceni i wdzięczni Bogu. Istnieją również pielgrzymki duchowe, w których człowiek fizycznie nigdzie nie wyjeżdża, ale duchowo przemierza bezkresne i cudowne obszary Bożych tajemnic. </string>
+    <string name="wprowadzenie2">Niniejsze opracowanie jest zaproszeniem do udziału w jednej z najpiękniejszych pielgrzymek duchowych, jakie są proponowane uczniom Chrystusa. Jest to wędrowanie do dwudziestu miejsc i dwudziestu zbawczych wydarzeń, przemieniających człowieka. Są to wydarzenia z życia Jezusa i Maryi, opowiedziane i przeżywane w kolejnych tajemnicach różańca świętego. </string>
+    <string name="wprowadzenie3"><b>Trzydzieści medytacji o jednej tajemnicy</b></string>
+    <string name="wprowadzenie4">Na tym „Różańcowym Szlaku” zatrzymujemy się dwadzieścia razy i to na dłuższy czas. „Rozbijamy namiot” lub „wynajmujemy pokój” na cały miesiąc tam, gdzie dokonało się zbawcze wydarzenie. Codziennie tam przychodzimy. Patrzymy, pytamy i słuchamy. Rozważamy słowa, które zostały wypowiedziane i myślimy o czynach, które zostały spełnione. Czytamy teksty biblijne, które mówią o tym wydarzeniu i wsłuchujemy się w naukę Kościoła na ten temat. </string>
+    <string name="wprowadzenie5">Po takim miesięcznym duchowym pobycie w świętym miejscu można się tam poczuć „bardziej u siebie”, bliżej Jezusa i Maryi. Można na nowo odkryć, jak potężna duchowa moc jest tam obecna, jak wiele można się tam nauczyć i jak wiele skarbów ofiarowanych nam przez Chrystusa można stamtąd zabrać i zanieść ludziom.</string>
+    <string name="wprowadzenie6">Posługujemy się metodą stosowaną w Żywym Różańcu. Polega ona na tym, że jedną tajemnicę rozważamy przez cały miesiąc, a na odmówienie całego różańca potrzebujemy dwóch lat. Wszyscy mogą się tą metodą posługiwać, także ci, którzy nie należą do Żywego Różańca. Warto spróbować. Jeśli ktoś te medytacje podejmie i poświęci na nie odpowiednią ilość czasu, szybko odkryje, jak wielkim skarbem jest modlitwa połączenie dwóch elementów: modlitwy ustnej i medytacji duchowej. Jedno pomaga drugiemu.</string>
+    <string name="wprowadzenie7">Modlitwa kieruje serce ku Bogu, a medytacja pozwala lepiej poznać Boga.   </string>
+    <string name="wprowadzenie8"><b>Wskazania Mistrzów</b></string>
+    <string name="wprowadzenie9">Kiedy kończymy rozważanie jednej tajemnicy i przechodzimy do następnej, trzeba się na chwilę zatrzymać i pomyśleć zarówno o tym, co było, jak i o tym co będzie. Chodzi o to, aby nasza modlitwa stawała się coraz bardziej świadoma, zgodna ze wskazaniami Kościoła. Z tej racji na początku każdej tajemnicy zamieszczone są rozważania zatytułowane „Wskazania Mistrzów”. Zawierają one refleksje mistrzów modlitwy. Mogą nam one pomóc w dobrym przeżywaniu różańca. </string>
+    <string name="wprowadzenie10">Modlitwa jest sztuką, którą trzeba coraz bardziej opanowywać. W przypadku różańca rozwijamy w sobie podwójną umiejętność. Od strony zewnętrznej jest to troska o słowa i znaki, które składają się na dziesiątkę, a potem cząstkę różańca. Od strony duchowej to wysiłek rozważania słowa Bożego, które daną tajemnicę objaśnia.</string>
+    <string name="wprowadzenie11">W każdym miesiącu wybrany został jeden temat, jeden „szczegół”, nad którym w kolejnych dniach i tygodniach warto popracować. W tajemnicach radosnych są to szczegóły związane z właściwym odmawianiem Ojcze nasz, Zdrowaś Maryjo, Chwała Ojcu i innych elementów dziesiątki różańca. W tajemnicach światła uwagi Mistrzów pomagają w rozważaniu tajemnic, w kontemplacji Chrystusa, a w tajemnicach światła jest to piękna refleksja papieża Benedykta XVI o modlitwie. W ostatniej części różańca słuchamy mistrza oddania się Maryi, jakim jest św. Ludwik Grignion de Montfort.</string>
+    <string name="wprowadzenie12"><b>Rekolekcje na zakończenie każdej części różańca</b></string>
+    <string name="wprowadzenie13">Każda część różańca, składająca się z pięciu tajemnic, stanowi pewną całość. Piękna i bogata w treść jest każda tajemnica, ale bardzo cenne jest również spojrzenie na wszystkie tajemnice danej części, np. tajemnice radosne czy tajemnice światła. </string>
+    <string name="wprowadzenie14">Z tej racji, oprócz trzydziestu rozważań o każdej z tajemnic, zamieszczone są również myśli do przeżycia rekolekcji na zakończenie każdej części różańca. W każdej bowiem dzieje się tak wiele wspaniałych wydarzeń, że warto jeszcze raz do nich powrócić w ogólnym spojrzeniu na to, co Bóg nam objawia w tajemnicach radosnych, światła, bolesnych i chwalebnych.</string>
     <string name="wprowadzenie15">W propozycji przedstawionej w „Różańcowym szlaku” na pierwsze miejsce wysuwa się
         zdecydowanie doświadczenie spotkania z Bogiem, Maryją i Świętymi w przeżywanej tajemnicy. Spełniamy najpierw akt
         miłości wobec Boga, uświadamiamy sobie wyraźniej Jego obecność i Jego miłość, rozważamy z Maryją Jego życie.

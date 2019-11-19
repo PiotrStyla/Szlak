@@ -103,7 +103,8 @@
             <TextView
                     android:text="@string/ka_da_tajemnica_wiary_ma_w_nim_swoje_r_d_o_i_swoje_spe_nienie_jezus_przyszed_od_ojca_i_do_ojca_nas_prowadzi_daje_nam_ducha_wi_tego_kt_ry_uczy_nas_wo_a_abba_ojcze_ta_wiadomo_powinna_towarzyszy_chrze_cijaninowi_w_medytacji_nad_kolejnymi_tajemnicami_zbawienia_pomoc_w_coraz_g_bszym_anga_owaniu_si_w_modlitw_ojcze_nasz_mo_e_by_r_wnie_jej_odniesienie_do_ko_cowej_doksologii_chwa_a_ojcu_zwr_cenie_si_do_ojca_wprowadza_nas_w_tajemnic_a_uwielbienie_ojca_syna_i_ducha_wi_tego_zamyka_t_niezwyk_chwil_jak_jest_odmawianie_dziesi_tki_r_a_ca_po_czone_z_medytacj"
                     android:id="@+id/textView927"
-                    style="@style/paragraf_Text"/>
+                    style="@style/paragraf_Text"
+                    android:paddingBottom="70dp"/>
 
         </LinearLayout>
     </ScrollView>

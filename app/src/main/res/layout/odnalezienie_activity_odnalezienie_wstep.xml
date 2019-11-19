@@ -90,7 +90,7 @@
                     android:id="@+id/textView1927"/>
             <TextView
                     android:text="@string/kilka_pierwszych_wskaz_wek"
-                    style="@style/paragraf_Text_optimum"
+                    style="@style/rozwazanie_slowa"
                     android:id="@+id/textView1928"/>
             <TextView
                     android:text="@string/rozwa_aj_c_ostatni_z_radosnych_tajemnic_powracam_kr_tko_do_sposobu_prze_ywania_r_nych_fragment_w_modlitwy_r_a_cowej_kt_re_poznawa_em_w_kolejnych_miesi_cach"

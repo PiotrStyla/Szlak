@@ -111,7 +111,8 @@
             <TextView
                     android:text="@string/kszta_towanie_w_sobie_postawy_uwielbienia_podczas_rozwa_ania_tajemnicy_nawiedzenia_w_el_biety_dokonuje_si_w_bardzo_korzystnym_klimacie_w_tej_bowiem_tajemnicy_dane_nam_jest_kontemplowa_maryjne_magnificat_ona_jako_nasza_matka_piewaj_c_wielbi_dusza_moja_pana_zaprasza_wszystkie_swoje_dzieci_na_t_drog_ona_wznios_a_si_na_wy_yny_modlitwy_uwielbienia_gdy_by_a_pos_uszna_natchnieniom_ducha_wi_tego_tego_ducha_wyprasza_r_wnie_wszystkim_swoim_dzieciom"
                     android:id="@+id/textView911"
-                    style="@style/paragraf_Text"/>
+                    style="@style/paragraf_Text"
+                    android:paddingBottom="70dp"/>
 
         </LinearLayout>
     </ScrollView>

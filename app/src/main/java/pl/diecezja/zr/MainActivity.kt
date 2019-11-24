@@ -8,7 +8,6 @@ import android.support.v7.app.AlertDialog
 import android.view.Menu
 import android.view.MenuItem
 import android.widget.Button
-import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
@@ -26,10 +25,10 @@ class MainActivity : AppCompatActivity() {
             val intent2 = Intent(this, Radosne::class.java)
             startActivity(intent2)
         }
-        val button_main_do_swiatla  = findViewById (R.id.button3) as Button
-        button_main_do_swiatla.setOnClickListener {
-            val intent3 = Intent(this, Swiatla::class.java)
-            startActivity(intent3)
+        val buttonMainDoSwiatla  = findViewById (R.id.button3) as Button
+        buttonMainDoSwiatla.setOnClickListener {
+            val intent2a = Intent(this, Swiatla::class.java)
+            startActivity(intent2a)
         }
 
     }

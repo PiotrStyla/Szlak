@@ -30,6 +30,15 @@
         <item name="android:paddingStart">5sp</item>
         <item name="android:paddingEnd">5sp</item>
     </style>
+    <style name="button_swiatla_tajemnice">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:background">#B266BB6A</item>
+        <item name="android:paddingStart">5sp</item>
+        <item name="android:paddingEnd">5sp</item>
+    </style>
     <style name="button_Zwiastowanie_Wstep">
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">24dp</item>

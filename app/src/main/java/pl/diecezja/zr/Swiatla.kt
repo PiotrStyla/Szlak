@@ -11,9 +11,9 @@ class Swiatla : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.swiatla_activity_swiatla)
 
-        val button_radosne_do_zwiastowanie  = findViewById (R.id.button_Zwiastowanie) as Button
+        val button_radosne_do_zwiastowanie  = findViewById (R.id.button_Jordan) as Button
         button_radosne_do_zwiastowanie.setOnClickListener {
-            val intent3 = Intent(this, Zwiastowanie::class.java)
+            val intent3 = Intent(this, Jordan::class.java)
             startActivity(intent3)
         }
 

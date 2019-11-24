@@ -49,7 +49,8 @@
             app:layout_constraintStart_toEndOf="@+id/button2"
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toTopOf="@+id/button2" android:textColor="#4DB6AC"/>
+            app:layout_constraintTop_toTopOf="@+id/button2"
+            android:textColor="#4DB6AC"/>
     <Button
             android:text="@string/tajemnice_bolesne"
             android:gravity="center|bottom"

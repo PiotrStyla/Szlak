@@ -223,13 +223,13 @@
                     android:layout_height="wrap_content"
                     android:id="@+id/button142"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_29_podsumowanie"/>
+                    android:text="@string/dzie_29_powr_t_do_wybranych_my_li"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/button143"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_30_podsumowanie"/>
+                    android:text="@string/dzie_30_powr_t_do_wybranych_my_li"/>
 
 
 

@@ -9,7 +9,7 @@
         tools:context=".NawiedzenieDzien29"
         android:id="@+id/linearLayout">
     <TextView
-            android:text="@string/dzie_29_podsumowanie"
+            android:text="@string/dzie_29_powr_t_do_wybranych_my_li"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView877"
@@ -31,7 +31,7 @@
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="24dp"
-            android:layout_marginTop="48dp"
+            android:layout_marginTop="78dp"
             android:scrollbarStyle="outsideOverlay"
             android:clipToPadding="false"
             android:paddingStart="8sp"
@@ -42,75 +42,10 @@
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
             <TextView
-                    android:text="@string/podsumowaniem_miesi_cznej_medytacji_by_y_ju_prze_ycia_ostatnich_trzech_dni_wyra_a_y_si_w_dzi_kczynieniu_za_otrzymane_dary_w_refleksji_nad_apostolstwem_a_tak_e_w_robieniu_rachunku_sumienia_dzi_chc_w_tym_podsumowaniu_zwr_ci_uwag_na_sam_nazw_rozwa_anej_tajemnicy_i_kryj_ce_si_w_niej_bogactwo_tre_ci"
+                    android:text="@string/prosz_jezusa_przez_mi_o_objawion_w_tajemnicy_zwiastowania_w_intencjach_ojca_wi_tego_i_tych_wzbudzonych_w_moim_sercu"
                     style="@style/paragraf_Text_optimum"
                     android:textStyle="italic"
-                    android:id="@+id/textView878"/>
-
-            <TextView
-                    android:text="@string/modlitwa"
-                    android:id="@+id/textView879"
-                    style="@style/modlitwa"/>
-
-            <TextView
-                    android:text="@string/wszechmog_cy_wieczny_bo_e_z_twojego_natchnienia_naj_wi_tsza_maryja_panna_kt_ra_nosi_a_w_onie_twojego_syna_nawiedzi_a_el_biet_spraw_aby_my_byli_pos_uszni_natchnieniom_ducha_wi_tego_i_zawsze_mogli_z_maryj_ciebie_uwielbia_przez_chrystusa_pana_naszego_amen"
-                    style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView880"/>
-            <TextView
-                    android:text="@string/rozwa_anie_s_owa"
-                    android:id="@+id/textView881"
-                    style="@style/rozwazanie_slowa"/>
-            <TextView
-                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_1_67_68_78_zachariasz_zosta_nape_niony_duchem_wi_tym_i_prorokowa_m_wi_c_niech_b_dzie_uwielbiony_pan_b_g_izraela_bo_lud_sw_j_nawiedzi_i_wyzwoli_dzi_ki_lito_ci_serdecznej_boga_naszego_nawiedzi_nas_z_wysoka_wschodz_ce_s_o_ce"
-                    android:id="@+id/textView882"
-                    style="@style/paragraf_Text_optimum"/>
-            <TextView
-                    android:text="@string/tajemnica_r_a_ca_kt_r_rozwa_am_nosi_nazw_nawiedzenie_w_el_biety_maryja_odwiedza_swoj_krewn_i_ca_jej_rodzin_wszyscy_znaj_do_wiadczenie_rodzinnych_spotka_poprzez_rozwa_anie_wydarze_z_ain_karim_chrze_cijanin_uczy_si_w_taki_spos_b_przychodzi_do_drugiego_cz_owieka_szczeg_lnie_do_cz_onk_w_swojej_rodziny_jak_to_czyni_a_maryja"
-                    android:id="@+id/textView883"
-                    style="@style/paragraf_Text_optimum"/>
-            <TextView
-                    android:text="@string/jednak_przekaz_biblijny_zawarty_w_tej_tajemnicy_prowadzi_nas_dalej_i_m_wi_o_innych_nawiedzinach_wskazuje_na_interwencj_boga_w_ycie_ludzi_ona_jest_r_wnie_opisana_s_owami_nawiedzi_nawiedzi_m_wi_o_tym_zachariasz_w_swej_pie_ni_pochwalnej_wspomniane_s_owa_stanowi_swoist_klamr_ogarniaj_c_ca_y_hymn_na_pocz_tku_autor_spogl_da_w_przesz_o_i_stwierdza_e_b_g_nas_nawiedzi_na_ko_cu_patrzy_w_przysz_o_i_wyra_a_przekonanie_e_b_g_nas_nawiedzi"
-                    android:id="@+id/textView884"
-                    style="@style/paragraf_Text_optimum"/>
-            <TextView
-                    android:text="@string/ten_kt_ry_przyszed_i_jest_stale_obecny_ci_gle_przychodzi_i_ka_dego_dnia_do_wiadczam_jego_nawiedzenia_on_jest_obecny_w_g_bi_mej_duszy_ale_by_mo_e_czuje_si_tam_zostawiony_i_jakby_zamkni_ty_wi_c_puka_od_rodka_r_wnocze_nie_puka_od_zewn_trz_przychodz_c_w_swoim_s_owie_w_komunii_wi_tej_i_w_drugim_cz_owieku_nawiedza_mnie_dzi_ale_nie_s_to_pierwsze_nawiedziny_on_ju_we_mnie_mieszka_i_ja_odda_em_mu_klucze_do_mego_ycia"
-                    android:id="@+id/textView885"
-                    style="@style/paragraf_Text_optimum"/>
-            <TextView
-                    android:text="@string/ci_gle_na_nowo_ucz_si_prawdy_e_on_mnie_ju_nawiedzi_i_wyzwoli_i_wzbudzi_we_mnie_moc_zbawcz_a_przecie_codziennie_oczekuj_wschodz_cego_s_o_ca_kt_re_mnie_nawiedzi_o_wieci_moje_kroki_i_wprowadzi_mnie_na_drog_pokoju"
-                    android:id="@+id/textView886"
-                    style="@style/paragraf_Text_optimum"/>
-            <TextView
-                    android:text="@string/niech_maryja_moja_matka_i_nauczycielka_pomaga_mi_prze_ywa_obydwie_prawdy_z_ca_intensywno_ci"
-                    android:id="@+id/textView887"
-                    style="@style/paragraf_Text_optimum"/>
-            <TextView
-                    android:text="@string/dziesi_tek_r_a_ca"
-                    android:id="@+id/textView888"
-                    style="@style/dziesiatek_rozanca"/>
-
-            <TextView
-                    android:text="@string/b_g_mnie_nawiedza_w_spos_b_szczeg_lny_w_czasie_modlitwy_tak_e_dzi_w_czasie_odmawiania_dziesi_tka_r_a_ca_do_wiadcz_tych_nawiedzin_chc_ca_uwag_mego_umys_u_i_ca_mi_o_mego_serca_skierowa_ku_niemu_gdy_on_by_jest_i_zn_w_przychodzi_oby_ta_modlitwa_rozkwit_a_na_ko_cu_pie_ni_uwielbienia_w_kt_rej_moja_dusza_wzniesie_si_do_ojcu_kt_ry_mnie_stworzy_ku_synowi_kt_ry_mnie_odkupi_ku_duchowi_wi_temu_kt_ry_mnie_u_wi_ca_ku_maryi_kt_ra_nade_mn_czuwa"
-                    style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView889"/>
-            <TextView
-                    android:text="@string/akt_strzelisty"
-                    android:id="@+id/textView890"
-                    style="@style/intencje_modlitwy"/>
-            <TextView
-                    android:text="@string/wielbi_dusza_moja_pana_i_raduje_si_duch_m_j_w_bogu_zbawicielu_moim"
-                    style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView891"/>
-            <TextView
-                    android:text="@string/intencje_modlitwy"
-                    android:id="@+id/textView892"
-                    style="@style/intencje_modlitwy"/>
-
-            <TextView
-                    android:text="@string/intencje_modlitwy_wyra_one_swoimi_s_owami"
-                    style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView893"
-                    android:textStyle="italic"
+                    android:id="@+id/textView417"
                     android:paddingBottom="80sp"/>
 
         </LinearLayout>

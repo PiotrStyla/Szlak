@@ -31,7 +31,7 @@
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="24dp"
-            android:layout_marginTop="48dp"
+            android:layout_marginTop="78dp"
             android:scrollbarStyle="outsideOverlay"
             android:clipToPadding="false"
             android:paddingStart="8sp"
@@ -42,70 +42,10 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
             <TextView
-                    android:text="@string/powracam_my_l_i_modlitw_do_kolejnych_dni_minionego_miesi_ca_ogarniam_jeszcze_raz_ca_o_tej_drogi_aby_jeszcze_g_biej_zapisa_y_si_w_moim_sercu_wszystkie_tajemnice"
-                    android:id="@+id/textView2388"
+                    android:text="@string/dzi_r_wnie_prosz_jezusa_przez_mi_o_objawion_w_tajemnicy_zwiastowania_w_intencjach_ojca_wi_tego_i_tych_wzbudzonych_w_moim_sercu"
                     style="@style/paragraf_Text_optimum"
-                    android:textStyle="italic"/>
-            <TextView
-                    android:text="@string/modlitwa"
-                    android:id="@+id/textView2389"
-                    style="@style/modlitwa"/>
-            <TextView
-                    android:text="@string/dzi_kuj_ci_panie_jezu_za_dwudziesty_dziewi_ty_rok_twego_ycia_w_nazareta_skiej_rodzinie_to_d_ugi_czas_by_on_potrzebny_nie_tyle_dla_ciebie_gdy_ju_w_wieku_dwunastu_lat_objawi_e_jak_g_boko_rozumiesz_bo_e_drogi_ten_czas_by_potrzebny_dla_nas_dla_naszych_rodzin_dla_ka_dego_cz_owieka_kt_ry_codziennie_podejmuje_swoje_zwyczajne_obowi_zki_one_musz_by_wype_nione_do_ko_ca_nie_mo_na_ich_zostawi_pom_mi_panie_trwa_wiernie_tam_gdzie_mnie_postawi_e"
-                    android:id="@+id/textView2390"
-                    style="@style/paragraf_Text_optimum"/>
-            <TextView
-                    android:text="@string/rozwa_anie_s_owa"
-                    android:id="@+id/textView2391"
-                    style="@style/rozwazanie_slowa"/>
-            <TextView
-                    android:text="@string/z_ewangelii_wed_ug_w_jana_17_4_jezus_rzek_ojcze_ja_ciebie_otoczy_em_chwa_na_ziemi_przez_to_e_wype_ni_em_dzie_o_kt_re_mi_da_e_do_wykonania"
-                    android:id="@+id/textView2392"
-                    style="@style/paragraf_Text_optimum"/>
-            <TextView
-                    android:text="@string/pan_jezus_wypowiedzia_te_s_owa_w_czasie_arcykap_a_skiej_modlitwy_w_wieczerniku_w_czasie_ostatniej_wieczerzy_niew_tpliwie_chodzi_o_nie_tylko_o_to_czego_dokona_w_ci_gu_trzech_lat_publicznej_dzia_alno_ci_realizacj_dzie_a_kt_re_mu_ojciec_zleci_i_przez_kt_re_uwielbi_ojca_jezus_rozpocz_w_chwili_swego_pocz_cia_kontynuowa_dzie_po_dniu_i_rok_po_roku_w_czasie_ukrytego_ycia_w_nazarecie_rozwija_je_w_publicznej_dzia_alno_ci_a_dope_ni_na_krzy_u_i_w_zmartwychwstaniu"
-                    android:id="@+id/textView2393"
-                    style="@style/paragraf_Text_optimum"/>
-            <TextView
-                    android:text="@string/w_minionym_miesi_cu_kontemplowa_em_to_zbawcze_dzie_o_jezusa_realizowane_w_nazarecie_by_o_to_najpierw_kontemplowanie_oblicza_jezusa_jako_dziecka_upodobni_si_do_wszystkich_dzieci_bawi_si_ze_swoimi_r_wie_nikami_uczy_si_z_nimi_i_poznawa_wiat"
-                    android:id="@+id/textView2394"
-                    style="@style/paragraf_Text_optimum"/>
-            <TextView
-                    android:text="@string/w_drugim_tygodniu_miesi_cznej_w_dr_wki_zatrzyma_em_si_d_u_ej_przy_niezwyk_ym_wydarzeniu_jakie_mia_o_miejsce_w_czasie_wi_t_paschalnych_gdy_jezus_mia_lat_dwana_cie_powracam_stale_do_tamtych_wi_t_paschalnych_do_jezusowych_prze_y_do_jego_rozm_w_a_tak_e_do_s_w_kt_re_skierowa_do_maryi_dzi_ki_temu_wydarzeniu_lepiej_rozumiem_ca_e_ukryte_ycie_jezusa_a_tak_e_drog_wiary_maryi_i_j_zefa"
-                    android:id="@+id/textView2395"
-                    style="@style/paragraf_Text_optimum"/>
-            <TextView
-                    android:text="@string/dzi_kuj_r_wnie_bogu_za_kolejny_tydzie_modlitwy_w_kt_rym_chcia_em_sp_dzi_wi_cej_czasu_z_jezusem_gdy_jako_doros_y_m_czyzna_wiadomy_misji_jak_ma_do_spe_nienia_u_wi_ca_codzienn_prac_i_modlitw_oraz_wszystkie_prze_ycia_ludzi"
-                    android:id="@+id/textView2396"
-                    style="@style/paragraf_Text_optimum"/>
-            <TextView
-                    android:text="@string/ka_da_z_tych_tajemnic_pozostaje_w_moim_sercu_i_zabieram_j_na_dalsz_drog_mego_ycia"
-                    android:id="@+id/textView2397"
-                    style="@style/paragraf_Text_optimum"/>
-            <TextView
-                    android:text="@string/dziesi_tek_r_a_ca"
-                    android:id="@+id/textView2398"
-                    style="@style/modlitwa"/>
-            <TextView
-                    android:text="@string/w_tej_r_a_cowej_w_dr_wce_stale_do_wiadcza_em_obecno_ci_i_wparcia_maryi_modli_em_si_do_niej_wpatrywa_em_si_w_jej_postaw_umacnia_em_si_jej_wiar_i_jej_wzrastaniem_z_jezusem_dzi_chc_w_spos_b_szczeg_lny_do_niej_si_zwr_ci_ze_s_owami_dzi_kczynienia_i_pro_by_dzi_kuj_za_tak_wielkie_dary_jakie_mi_zosta_y_ofiarowane_i_prosz_o_ask_ich_rozwoju_aby_coraz_bardziej_ubogaca_y_moje_ycie_oraz_promieniowa_y_na_innych"
-                    android:id="@+id/textView2399"
-                    style="@style/paragraf_Text_optimum"/>
-            <TextView
-                    android:text="@string/akt_strzelisty"
-                    android:id="@+id/textView2400"
-                    style="@style/intencje_modlitwy"/>
-            <TextView
-                    android:text="@string/pomn_o_panie_nasz_wiar_w_twoj_obecno_po_r_d_nas_jeste_z_nami_ka_dego_dnia_i_we_wszystkich_sprawach_ycia"
-                    style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView2401"/>
-            <TextView
-                    android:text="@string/intencje_modlitwy"
-                    android:id="@+id/textView2402"
-                    style="@style/intencje_modlitwy"/>
-            <TextView
-                    android:text="@string/ojcze_mi_osierny_dzi_kuj_ci_za_objawienie_twej_niesko_czonej_mi_o_ci_w_tajemnicy_znalezienia_jezusa_w_wi_tyni_niech_moc_tej_mi_o_ci_ogarnie_wszystkich_ludzi_a_szczeg_lnie_tych_kt_rych_dzi_polecam_ci_w_modlitwie_zawierzam_ich_twemu_mi_osierdziu_i_prosz_aby_ich_obdarzy_darem_twego_ducha_kt_ry_yjesz_i_kr_lujesz_na_wieki_wiek_w_amen"
-                    android:id="@+id/textView2403"
-                    style="@style/paragraf_Text_optimum"
+                    android:textStyle="italic"
+                    android:id="@+id/textView430"
                     android:paddingBottom="80sp"/>
 
         </LinearLayout>

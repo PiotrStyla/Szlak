@@ -31,7 +31,7 @@
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="24dp"
-            android:layout_marginTop="48dp"
+            android:layout_marginTop="78dp"
             android:scrollbarStyle="outsideOverlay"
             android:clipToPadding="false"
             android:paddingStart="8sp"
@@ -42,63 +42,10 @@
                       android:layout_height="wrap_content"
                       android:orientation="vertical">
             <TextView
-                    android:text="@string/w_ostatnim_spotkaniu_po_wi_conym_rozwa_aniu_tajemnicy_narodzenia_pa_skiego_chc_spojrze_na_jedn_z_prawd_kt_ra_by_a_stale_obecna_w_moich_prze_yciach_to_prawda_o_tym_e_jestem_dzieckiem_ojca_niebieskiego"
+                    android:text="@string/dzi_r_wnie_prosz_jezusa_przez_mi_o_objawion_w_tajemnicy_zwiastowania_w_intencjach_ojca_wi_tego_i_tych_wzbudzonych_w_moim_sercu"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView1389"
-                    android:textStyle="italic"/>
-            <TextView
-                    android:text="@string/modlitwa"
-                    android:id="@+id/textView1390"
-                    style="@style/modlitwa"/>
-            <TextView
-                    android:text="@string/z_19_niedzieli_zwyk_ej_wszechmog_cy_wieczny_bo_e_o_mielamy_si_ciebie_nazywa_ojcem_umocnij_w_naszych_sercach_ducha_przybranych_dzieci_aby_my_mogli_osi_gn_obiecane_dziedzictwo_przez_chrystusa_pana_naszego_amen"
-                    style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView1391"/>
-            <TextView
-                    android:text="@string/rozwa_anie_s_owa"
-                    android:id="@+id/textView1392"
-                    style="@style/rozwazanie_slowa"/>
-            <TextView
-                    android:text="@string/z_listu_wi_tego_paw_a_aposto_a_do_rzymian_8_14_17_wszyscy_ci_kt_rych_prowadzi_duch_bo_y_s_synami_bo_ymi_nie_otrzymali_cie_przecie_ducha_niewoli_by_si_znowu_pogr_y_w_boja_ni_ale_otrzymali_cie_ducha_przybrania_za_syn_w_w_kt_rym_mo_emy_wo_a_abba_ojcze_sam_duch_wspiera_swym_wiadectwem_naszego_ducha_e_jeste_my_dzie_mi_bo_ymi_je_eli_za_jeste_my_dzie_mi_to_i_dziedzicami_dziedzicami_boga_a_wsp_dziedzicami_chrystusa_skoro_wsp_lnie_z_nim_cierpimy_po_to_by_te_wsp_lnie_mie_udzia_w_chwale"
-                    android:id="@+id/textView1393"
-                    style="@style/paragraf_Text_optimum"/>
-            <TextView
-                    android:text="@string/komentarzem_do_tego_tekstu_s_dzi_dla_mnie_s_owa_ojca_wi_tego_jana_paw_a_ii_wyg_oszone_na_jasnej_g_rze_w_czasie_wiatowego_dnia_m_odzie_y_w_1991_roku"
-                    android:id="@+id/textView1394"
-                    style="@style/paragraf_Text_optimum"/>
-            <TextView
-                    android:text="@string/przybywacie_na_jasn_g_r_z_t_wiadomo_ci_e_otrzymali_cie_ducha_przybrania_za_syn_w_rz_8_15_dzi_ki_temu_jeste_cie_dziedzicami_boga_a_zarazem_wsp_dziedzicami_chrystusa_rz_8_17_razem_z_nim_mo_ecie_wo_a_abba_ojcze_rz_8_15_sam_bowiem_duch_wspiera_swym_wiadectwem_naszego_ducha_e_jeste_my_dzie_mi_bo_ymi_rz_8_16_cz_owiek_w_prawdzie_stworzenia_na_obraz_i_podobie_stwo_bo_e_a_r_wnocze_nie_cz_owiek_kuszony_aby_ten_obraz_i_podobie_stwo_przemieni_w_wyzwanie_rzucane_swemu_stw_rcy_i_odkupicielowi_aby_go_odrzuci_aby_swe_ycie_na_ziemi_kszta_towa_tu_tak_jakby_b_g_nie_istnia_w_r_d_tej_walki_w_r_d_tych_duchowych_zmaga_tyle_rodk_w_pracuje_nad_tym_a_eby_cz_owieka_wyzu_z_przybrania_za_syn_w_wy_m_odzi_przybyli_cie_tutaj_w_pielgrzymce_a_eby_potwierdzi_to_przybranie_za_syn_w_aby_je_na_nowo_wybra_aby_z_niego_kszta_towa_sw_ludzk_egzystencj_aby_do_niego_przybli_a_i_poci_ga_innych"
-                    android:id="@+id/textView1395"
-                    style="@style/paragraf_Text_optimum"/>
-            <TextView
-                    android:text="@string/b_d_cie_b_ogos_awieni_b_d_cie_b_ogos_awieni_wraz_z_maryj_kt_ra_uwierzy_a_e_spe_ni_si_s_owa_powiedziane_jej_od_pana_b_d_cie_b_ogos_awieni_niech_znak_niewiasty_obleczonej_w_s_o_ce_idzie_z_wami_niech_idzie_z_ka_d_i_ka_dym_po_wszystkich_drogach_ycia_niech_was_prowadzi_ku_spe_nieniu_w_bogu_waszego_przybrania_za_syn_w_w_chrystusie_zaprawd_zaprawd_wielkie_rzeczy_pan_wam_uczyni_wielkie_rzeczy_pan_nam_uczyni"
-                    android:id="@+id/textView1396"
-                    style="@style/paragraf_Text_optimum"/>
-            <TextView
-                    android:text="@string/dziesi_tek_r_a_ca"
-                    android:id="@+id/textView1397"
-                    style="@style/dziesiatek_rozanca"/>
-
-            <TextView
-                    android:text="@string/przed_ojcze_nasz_ojciec_pos_a_swego_ducha_dzi_ki_kt_remu_mog_wo_a_abba_jestem_dzieckiem_boga_jestem_dziedzicem_nieba_z_jak_mi_o_ci_powinienem_zwraca_si_do_mego_ojca"
-                    style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView1398"/>
-            <TextView
-                    android:text="@string/akt_strzelisty"
-                    android:id="@+id/textView1399"
-                    style="@style/intencje_modlitwy"/>
-            <TextView
-                    android:text="@string/chwa_a_na_wysoko_ci_bogu_a_na_ziemi_pok_j_ludziom_dobrej_woli"
-                    style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView1400"/>
-            <TextView
-                    android:text="@string/intencje_modlitwy"
-                    android:id="@+id/textView1401"
-                    style="@style/intencje_modlitwy"/>
-            <TextView
-                    android:text="@string/ojcze_mi_osierny_dzi_kuj_ci_za_objawienie_twej_niesko_czonej_mi_o_ci_w_narodzeniu_jezusa_chrystusa_niech_moc_tej_mi_o_ci_ogarnie_wszystkich_ludzi_a_szczeg_lnie_tych_kt_rych_dzi_polecam_ci_w_modlitwie_zawierzam_ich_twemu_mi_osierdziu_i_prosz_aby_ich_obdarzy_darem_twego_ducha_kt_ry_yjesz_i_kr_lujesz_na_wieki_wiek_w_amen"
-                    style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView1402"
+                    android:textStyle="italic"
+                    android:id="@+id/textView430"
                     android:paddingBottom="80sp"/>
         </LinearLayout>
     </ScrollView>

@@ -26,6 +26,11 @@ class MainActivity : AppCompatActivity() {
             val intent2 = Intent(this, Radosne::class.java)
             startActivity(intent2)
         }
+        val button_main_do_swiatla  = findViewById (R.id.button3) as Button
+        button_main_do_swiatla.setOnClickListener {
+            val intent3 = Intent(this, Swiatla::class.java)
+            startActivity(intent3)
+        }
 
     }
     //menu start
@@ -44,7 +49,7 @@ class MainActivity : AppCompatActivity() {
         }
         return true
     }
-
+    //info sign on main page
     @SuppressLint("StringFormatInvalid")
     private fun showInfo(){
         val dialogTitle = getString(R.string.about_title, BuildConfig.VERSION_NAME)

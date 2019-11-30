@@ -9,7 +9,7 @@
         android:background="#FFFFFF">
 
     <TextView
-            android:text="Tajemnice Światła"
+            android:text="@string/tajemnice_wiat_a"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView_Radosne1"
@@ -34,7 +34,7 @@
             android:layout_marginEnd="8dp"
             android:contentDescription="@string/ikona_tajemnica_radosna"/>
     <Button
-            android:text="Jordan"
+            android:text="@string/jordan"
             android:id="@+id/button_Jordan"
             style="@style/button_swiatla_tajemnice"
             android:layout_width="150sp"

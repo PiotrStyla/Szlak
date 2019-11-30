@@ -75,7 +75,25 @@
         <item name="android:layout_marginBottom">8dp</item>
         <item name="android:layout_gravity">center</item>
     </style>
-    <style name="button_dni_zwiastowanie_padding" parent="button_dni_zwiastowanie">
+    <style name="button_dni_swiatlo">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#B266BB6A</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+    <style name="button_dni_zwiastowanie_padding"
+            parent="button_dni_zwiastowanie">
+        <item name="android:paddingStart">5sp</item>
+        <item name="android:paddingEnd">5sp</item>
+    </style>
+    <style name="button_dni_swiatlo_padding"
+            parent="button_dni_swiatlo">
         <item name="android:paddingStart">5sp</item>
         <item name="android:paddingEnd">5sp</item>
     </style>

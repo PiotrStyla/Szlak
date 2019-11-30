@@ -69,29 +69,29 @@
                     android:id="@+id/button116jordan"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
-                    android:text="@string/dzie_4_pro_ba_o_wiat_o_i_si_y_modlitwa_do_maryi_i_j_zefa"
+                    android:text="@string/dzie_4_pro_ba_o_wiat_o_i_si_y_modlitwa_do_matki_bo_ej"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button117"
-                    style="@style/button_dni_zwiastowanie_padding"/>
+                    android:id="@+id/button117jordan"
+                    style="@style/button_dni_swiatlo_padding"/>
             <Button
-                    android:text="@string/dzie_5_zbawcze_wydarzenia_maryja_oddaj_ca_siebie_bogu"
+                    android:text="@string/dzie_5_przed_p_j_ciem_nad_jordan_wa_na_decyzja"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button118"
-                    style="@style/button_dni_zwiastowanie_padding"/>
+                    android:id="@+id/button118jordan"
+                    style="@style/button_dni_swiatlo_padding"/>
             <Button
-                    android:text="@string/dzie_6_zbawcze_wydarzenia_jezus_przyniesiony_do_wi_tyni"
+                    android:text="@string/dzie_6_przed_p_j_ciem_nad_jordan_wie_ci_o_janie_chrzcicielu"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button119"
-                    style="@style/button_dni_zwiastowanie_padding"/>
+                    android:id="@+id/button119jordan"
+                    style="@style/button_dni_swiatlo_padding"/>
             <Button
-                    android:text="@string/dzie_7_zbawcze_wydarzenia_b_g_wkraczaj_cy_do_swego_domu"
+                    android:text="@string/dzie_7_przed_p_j_ciem_nad_jordan_or_dzie_jana_o_cz_owieku"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button120"
-                    style="@style/button_dni_zwiastowanie_padding"/>
+                    android:id="@+id/button120jordan"
+                    style="@style/button_dni_swiatlo_padding"/>
             <Button
                     android:text="@string/dzie_8_zbawcze_wydarzenia_mesjasz_przyj_ty_przez_ludzi"
                     android:layout_width="match_parent"

@@ -9,7 +9,8 @@
             android:roundIcon="@mipmap/ic_launcher_round_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".Jordan"></activity>
+        <activity android:name=".JordanWstep"></activity>
+        <activity android:name=".Jordan" />
         <activity android:name=".Swiatla" />
         <activity android:name=".RadosneRekolekcje" />
         <activity android:name=".OdnalezienieDzien30" />

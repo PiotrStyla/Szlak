@@ -51,6 +51,18 @@
         <item name="android:layout_gravity">center</item>
         <item name="android:textColor">#FFFFFF</item>
     </style>
+    <style name="button_Jordan_Wstep">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">24dp</item>
+        <item name="android:layout_marginTop">32dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:background">#B266BB6A</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
     <style name="button_dni_zwiastowanie">
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_weight">1</item>

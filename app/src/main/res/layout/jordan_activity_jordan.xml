@@ -107,15 +107,15 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button123"
-                    style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_10_zbawcze_wydarzenia_ertwa_ofiarna_z_o_ona_bogu"/>
+                    android:id="@+id/button123jordan"
+                    style="@style/button_dni_swiatlo_padding"
+                    android:text="@string/dzie_10_przed_p_j_ciem_nad_jordan_po_egnanie_z_matk"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button124"
-                    style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_11_zbawcze_wydarzenia_kap_an_rozpoczynaj_cy_swoj_s_u_b"/>
+                    android:id="@+id/button124jordan"
+                    style="@style/button_dni_swiatlo_padding"
+                    android:text="@string/dzie_11_droga_nad_jordan"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

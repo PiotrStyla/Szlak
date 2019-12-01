@@ -119,9 +119,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button125"
-                    style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_12_symeon_i_anna_symeon_cz_owiek_sprawiedliwy"/>
+                    android:id="@+id/button125jordan"
+                    style="@style/button_dni_swiatlo_padding"
+                    android:text="@string/dzie_12_wydarzenia_nad_jordanem_jezus_si_modli"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

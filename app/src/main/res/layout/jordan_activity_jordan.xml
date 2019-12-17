@@ -161,15 +161,15 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button132"
+                    android:id="@+id/button132jordan"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_19_pie_wieczorna_czas_odej_cia"/>
+                    android:text="@string/dzie_19_po_prze_yciach_nad_jordanem_duch_wyprowadza_jezusa"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button133"
-                    style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_20_pie_wieczorna_ujrze_zbawienie"/>
+                    android:id="@+id/button133jordan"
+                    style="@style/button_dni_swiatlo_padding"
+                    android:text="@string/dzie_20_po_prze_yciach_nad_jordanem_pobyt_na_pustyni"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

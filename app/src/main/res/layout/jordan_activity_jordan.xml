@@ -149,15 +149,15 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button130"
-                    style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_17_symeon_i_anna_anna_prorokini_pana"/>
+                    android:id="@+id/button130jordan"
+                    style="@style/button_dni_swiatlo_padding"
+                    android:text="@string/dzie_17_wydarzenia_nad_jordanem_s_ycha_g_os_ojca"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button131"
-                    style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_18_symeon_i_anna_anna_szcz_liwa_kobieta"/>
+                    android:id="@+id/button131jordan"
+                    style="@style/button_dni_swiatlo_padding"
+                    android:text="@string/dzie_18_wydarzenia_nad_jordanem_objawia_si_ojciec_syn_i_duch_wi_ty"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

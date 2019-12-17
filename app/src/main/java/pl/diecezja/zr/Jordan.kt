@@ -96,5 +96,15 @@ class Jordan : AppCompatActivity() {
             val intentJordanDzien16 = Intent(this, JordanDzien16::class.java)
             startActivity(intentJordanDzien16)
         }
+        val buttonJordanDzien17 = findViewById<Button>(R.id.button130jordan)
+        buttonJordanDzien17.setOnClickListener {
+            val intentJordanDzien17 = Intent(this, JordanDzien17::class.java)
+            startActivity(intentJordanDzien17)
+        }
+        val buttonJordanDzien18 = findViewById<Button>(R.id.button131jordan)
+        buttonJordanDzien18.setOnClickListener {
+            val intentJordanDzien18 = Intent(this, JordanDzien18::class.java)
+            startActivity(intentJordanDzien18)
+        }
     }
 }

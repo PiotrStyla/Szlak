@@ -125,21 +125,21 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button126"
-                    style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_13_symeon_i_anna_symeon_cz_owiek_oczekuj_cy"/>
+                    android:id="@+id/button126jordan"
+                    style="@style/button_dni_swiatlo_padding"
+                    android:text="@string/dzie_13_wydarzenia_nad_jordanem_bierze_na_siebie_grzechy_ludzi"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button127"
-                    style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_14_symeon_i_anna_symeon_cz_owiek_pe_en_ducha"/>
+                    android:id="@+id/button127jordan"
+                    style="@style/button_dni_swiatlo_padding"
+                    android:text="@string/dzie_14_wydarzenia_nad_jordanem_wype_nia_wol_ojca"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button128"
-                    style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_15_symeon_i_anna_symeon_cz_owiek_spe_niony"/>
+                    android:id="@+id/button128jordan"
+                    style="@style/button_dni_swiatlo_padding"
+                    android:text="@string/dzie_15_wydarzenia_nad_jordanem_otwiera_si_niebo"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

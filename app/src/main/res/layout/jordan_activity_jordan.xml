@@ -191,9 +191,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button137"
-                    style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_24_pie_wieczorna_proroctwo_o_jezusie"/>
+                    android:id="@+id/button137jordan"
+                    style="@style/button_dni_swiatlo_padding"
+                    android:text="@string/dzie_24_po_prze_yciach_nad_jordanem_druga_pokusa"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

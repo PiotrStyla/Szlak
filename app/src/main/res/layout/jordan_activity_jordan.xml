@@ -162,7 +162,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/button132jordan"
-                    style="@style/button_dni_zwiastowanie_padding"
+                    style="@style/button_dni_swiatlo_padding"
                     android:text="@string/dzie_19_po_prze_yciach_nad_jordanem_duch_wyprowadza_jezusa"/>
             <Button
                     android:layout_width="match_parent"
@@ -179,9 +179,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button135"
-                    style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_22_pie_wieczorna_ujrze_chwa"/>
+                    android:id="@+id/button135jordan"
+                    style="@style/button_dni_swiatlo_padding"
+                    android:text="@string/dzie_22_po_prze_yciach_nad_jordanem_cel_wszystkich_pokus"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

@@ -185,9 +185,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button136"
-                    style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_23_pie_wieczorna_zdziwienie_maryi_i_j_zefa"/>
+                    android:id="@+id/button136jordan"
+                    style="@style/button_dni_swiatlo_padding"
+                    android:text="@string/dzie_23_po_prze_yciach_nad_jordanem_pierwsza_pokusa"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

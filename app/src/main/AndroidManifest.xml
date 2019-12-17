@@ -9,7 +9,8 @@
             android:roundIcon="@mipmap/ic_launcher_round_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".JordanDzien22"></activity>
+        <activity android:name=".JordanDzien23"></activity>
+        <activity android:name=".JordanDzien22" />
         <activity android:name=".JordanDzien21" />
         <activity android:name=".JordanDzien20" />
         <activity android:name=".JordanDzien19" />

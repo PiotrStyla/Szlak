@@ -9,7 +9,7 @@
         tools:context=".JordanDzien22"
         android:id="@+id/linearLayout">
     <TextView
-            android:text="@string/dzie_21_po_prze_yciach_nad_jordanem_znaczenie_kuszenia"
+            android:text="@string/dzie_22_po_prze_yciach_nad_jordanem_cel_wszystkich_pokus"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView3343"

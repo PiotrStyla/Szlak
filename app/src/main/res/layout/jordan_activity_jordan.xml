@@ -203,15 +203,15 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button139"
-                    style="@style/button_dni_zwiastowanie_padding"
+                    android:id="@+id/button139jordan"
+                    style="@style/button_dni_swiatlo_padding"
                     android:text="@string/dzie_26_dzi_kczynienie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/button140"
                     style="@style/button_dni_zwiastowanie_padding"
-                    android:text="@string/dzie_27_apostolstwo"/>
+                    android:text="@string/dzie_26_ostatnie_dni_dzi_kczynienie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

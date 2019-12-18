@@ -9,7 +9,7 @@
         tools:context=".JordanDzien29"
         android:id="@+id/linearLayout">
     <TextView
-            android:text="@string/dzie_28_podsumowanie"
+            android:text="@string/dzie_29_podsumowanie"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView3436"

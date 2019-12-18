@@ -227,8 +227,8 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button143"
-                    style="@style/button_dni_zwiastowanie_padding"
+                    android:id="@+id/button143jordan"
+                    style="@style/button_dni_swiatlo_padding"
                     android:text="@string/dzie_30_powr_t_do_wybranych_my_li"/>
 
 

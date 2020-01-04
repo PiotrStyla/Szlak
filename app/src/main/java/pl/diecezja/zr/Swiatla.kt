@@ -11,15 +11,15 @@ class Swiatla : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.swiatla_activity_swiatla)
 
-        val button_radosne_do_zwiastowanie  = findViewById (R.id.button_Jordan) as Button
-        button_radosne_do_zwiastowanie.setOnClickListener {
+        val button_swiatla_do_jordan  = findViewById (R.id.button_Jordan) as Button
+        button_swiatla_do_jordan.setOnClickListener {
             val intent3 = Intent(this, Jordan::class.java)
             startActivity(intent3)
         }
 
-        val button_radosne_do_nawiedzenie  = findViewById (R.id.button_Nawiedzenie) as Button
-        button_radosne_do_nawiedzenie.setOnClickListener {
-            val intent4 = Intent(this, Nawiedzenie::class.java)
+        val button_swiatla_do_kana  = findViewById (R.id.button_Kana) as Button
+        button_swiatla_do_kana.setOnClickListener {
+            val intent4 = Intent(this, Kana::class.java)
             startActivity(intent4)
         }
         val button_radosne_do_narodzenie  = findViewById (R.id.button_Narodzenie) as Button

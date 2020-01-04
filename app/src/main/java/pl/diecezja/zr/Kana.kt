@@ -5,11 +5,11 @@ import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 
-class Jordan : AppCompatActivity() {
+class Kana : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.jordan_activity_jordan)
+        setContentView(R.layout.kana_activity_kana)
 
         val buttonJordanDoWstep = findViewById<Button>(R.id.button_Jordan_Wstep)
         buttonJordanDoWstep.setOnClickListener {
@@ -168,3 +168,4 @@ class Jordan : AppCompatActivity() {
         }
     }
 }
+

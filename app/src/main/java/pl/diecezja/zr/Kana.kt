@@ -11,10 +11,10 @@ class Kana : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.kana_activity_kana)
 
-        val buttonJordanDoWstep = findViewById<Button>(R.id.button_Jordan_Wstep)
-        buttonJordanDoWstep.setOnClickListener {
-            val intentJordanWstep = Intent(this, JordanWstep::class.java)
-            startActivity(intentJordanWstep)
+        val buttonKanaDoWstep = findViewById<Button>(R.id.button_Kana_Wstep)
+        buttonKanaDoWstep.setOnClickListener {
+            val intentKanaWstep = Intent(this, KanaWstep::class.java)
+            startActivity(intentKanaWstep)
         }
         val buttonJordanDzien1 = findViewById<Button>(R.id.button114jordan)
         buttonJordanDzien1.setOnClickListener {

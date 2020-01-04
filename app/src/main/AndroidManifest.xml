@@ -9,7 +9,8 @@
             android:roundIcon="@mipmap/ic_launcher_round_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".Kana"></activity>
+        <activity android:name=".KanaWstep"></activity>
+        <activity android:name=".Kana" />
         <activity android:name=".JordanDzien30" />
         <activity android:name=".JordanDzien29" />
         <activity android:name=".JordanDzien28" />

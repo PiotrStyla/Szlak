@@ -63,10 +63,10 @@
                     android:id="@+id/button115kana"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
-                    android:text="@string/dzie_3_pro_ba_o_wiat_o_i_si_y_modlitwa_do_ducha_wi_tego"
+                    android:text="@string/dzie_3_pro_ba_o_wyp_yni_cie_na_g_bie"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button116jordan"
+                    android:id="@+id/button116kana"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
                     android:text="@string/dzie_4_pro_ba_o_wiat_o_i_si_y_modlitwa_do_matki_bo_ej"

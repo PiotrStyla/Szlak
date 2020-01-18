@@ -188,7 +188,7 @@
                     android:paddingBottom="7dp"/>
             <TextView
                     android:text="@string/panie_jezu_nasz_zbawicielu_udziel_nam_aski_rozumienia_znak_w_kt_re_nam_dajesz_przyjmowania_s_w_kt_re_do_nas_kierujesz_i_kroczenia_drog_powo_ania_na_kt_r_nas_wezwa_e"
-                    android:id="@+id/textView3025"
+                    android:id="@+id/textView3525"
                     style="@style/paragraf_Text"
                     android:textStyle="bold"
                     android:paddingBottom="70dp"

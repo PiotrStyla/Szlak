@@ -9,7 +9,9 @@
             android:roundIcon="@mipmap/ic_launcher_round_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".KanaDzien3"></activity>
+        <activity android:name=".KanaDzien5"></activity>
+        <activity android:name=".KanaDzien4" />
+        <activity android:name=".KanaDzien3" />
         <activity android:name=".KanaDzien2" />
         <activity android:name=".KanaDzien1" />
         <activity android:name=".KanaWstep" />

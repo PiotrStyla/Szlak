@@ -69,16 +69,16 @@
                     android:id="@+id/button116kana"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
-                    android:text="@string/dzie_4_pro_ba_o_wiat_o_i_si_y_modlitwa_do_matki_bo_ej"
+                    android:text="@string/dzie_4_pro_ba_o_b_ogos_awie_stwo"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button117jordan"
+                    android:id="@+id/button117kana"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
-                    android:text="@string/dzie_5_przed_p_j_ciem_nad_jordan_wa_na_decyzja"
+                    android:text="@string/dzie_5_wydarzenia_w_kanie_galilejskiej_odbywa_o_si_wesele"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button118jordan"
+                    android:id="@+id/button118kana"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
                     android:text="@string/dzie_6_przed_p_j_ciem_nad_jordan_wie_ci_o_janie_chrzcicielu"

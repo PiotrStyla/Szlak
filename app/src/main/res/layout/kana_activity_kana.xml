@@ -107,9 +107,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button123jordan"
+                    android:id="@+id/button123kana"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_10_przed_p_j_ciem_nad_jordan_po_egnanie_z_matk"/>
+                    android:text="@string/dzie_10_wydarzenia_w_kanie_galilejskiej_zachowa_dobre_wino"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

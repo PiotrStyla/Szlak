@@ -113,9 +113,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button124jordan"
+                    android:id="@+id/button124kana"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_11_droga_nad_jordan"/>
+                    android:text="@string/dzie_11_wydarzenia_w_kanie_galilejskiej_pocz_tek_znak_w"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

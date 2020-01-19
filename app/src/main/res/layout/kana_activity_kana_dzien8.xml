@@ -1,9 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:app="http://schemas.android.com/apk/res-auto"
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".KanaDzien8">
+        android:layout_marginEnd="16dp"
+        tools:context=".KanaDzien8"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="@string/dzie_8_wydarzenia_w_kanie_galilejskiej_zadania_s_ug"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView3635"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="4sp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingEnd="10sp"/>
 
+    <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView3635"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="78dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="10sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+            <TextView
+                    android:text="@string/modlitwa"
+                    android:id="@+id/textView3620"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/bo_e_wejrzyj_ku_wspomo_eniu_memu_panie_po_piesz_ku_ratunkowi_memu_chwa_a_ojcu_i_synowi_i_duchowi_wi_temu_jak_by_a_na_pocz_tku_teraz_i_zawsze_i_na_wieki_wiek_w_amen"
+                    android:id="@+id/textView3636"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/rozwa_anie_s_owa"
+                    android:id="@+id/textView3637"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/z_ewangelii_wed_ug_w_jana_2_6_8_sta_o_za_tam_sze_st_gwi_kamiennych_przeznaczonych_do_ydowskich_oczyszcze_z_kt_rych_ka_da_mog_a_pomie_ci_dwie_lub_trzy_miary_rzek_do_nich_jezus_nape_nijcie_st_gwie_wod_i_nape_nili_je_a_po_brzegi_potem_do_nich_powiedzia_zaczerpnijcie_teraz_i_zanie_cie_staro_cie_weselnemu_oni_za_zanie_li"
+                    android:id="@+id/textView3638"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/nape_nienie_st_gwi_wod_i_zaniesienie_ich_staro_cie_weselnemu_nie_by_o_trudnym_zaj_ciem_s_udzy_wykonali_polecenie_bardzo_solidnie_nape_nili_st_gwie_a_po_brzegi"
+                    android:id="@+id/textView3639"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/dlaczego_to_uczynili_po_co_staro_cie_weselnemu_tyle_wody_ka_da_st_gwia_mog_a_pomie_ci_90_120_litr_w_wody_trudno_przypuszcza_e_spodziewali_si_oni_cudu_zrobili_to_co_poleci_jezus_ze_wzgl_du_na_maryj_to_ona_do_nich_podesz_a_i_powiedzia_a_im_aby_uczynili_wszystko_cokolwiek_jej_syn_im_powie"
+                    android:id="@+id/textView3640"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/scena_ta_pokazuje_udzia_maryi_w_dokonaniu_pierwszego_cudu_przez_jezusa_a_w_dalszej_konsekwencji_w_obudzeniu_wiary_uczni_w_jest_to_obecno_dyskretna_pe_na_wra_liwo_ci_i_mi_o_ci_zwraca_si_ona_zar_wno_do_jezusa_jak_i_do_s_ug_wstawia_si_za_nami_u_pana_ale_wskazuje_na_to_e_oni_r_wnie_maj_co_do_zrobienia_je_li_nie_nape_ni_st_gwi_wod_nie_b_dzie_cudu_je_li_nie_spe_ni_polece_jezusa_nie_dokona_si_przemiana"
+                    android:id="@+id/textView3641"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/ucz_si_tej_prawdy_w_ka_dej_tajemnicy_r_a_ca_mam_wiadomo_e_maryja_wstawia_si_za_mn_i_za_wszystkimi_swoimi_dzie_mi_o_jej_syna_ale_wiem_e_m_wi_on_r_wnie_do_mnie_abym_post_powa_tak_jak_uczy_jezus"
+                    android:id="@+id/textView3642"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/dziesi_tek_r_a_ca"
+                    android:id="@+id/textView3643"
+                    style="@style/dziesiatek_rozanca"/>
+            <TextView
+                    android:text="@string/ojcze_nasz_zdrowa_maryjo_chwa_a_ojcu"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView3644"/>
+            <TextView
+                    android:text="@string/akt_strzelisty"
+                    android:id="@+id/textView3645"
+                    style="@style/intencje_modlitwy"/>
+
+            <TextView
+                    android:text="@string/panie_jezu_nasz_zbawicielu_udziel_nam_aski_rozumienia_znak_w_kt_re_nam_dajesz_przyjmowania_s_w_kt_re_do_nas_kierujesz_i_kroczenia_drog_powo_ania_na_kt_r_nas_wezwa_e"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView3646"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy"
+                    android:id="@+id/textView3647"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy_wyra_one_swoimi_s_owami"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView3648"
+                    android:paddingBottom="70dp"/>
+
+        </LinearLayout>
+    </ScrollView>
 </android.support.constraint.ConstraintLayout>

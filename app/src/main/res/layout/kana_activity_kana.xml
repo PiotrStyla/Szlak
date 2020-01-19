@@ -93,10 +93,10 @@
                     android:id="@+id/button120kana"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
-                    android:text="@string/dzie_8_przed_p_j_ciem_nad_jordan_or_dzie_jana_o_jezusie"
+                    android:text="@string/dzie_8_wydarzenia_w_kanie_galilejskiej_zadania_s_ug"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button121jordan"
+                    android:id="@+id/button121kana"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
                     android:text="@string/dzie_9_przed_p_j_ciem_nad_jordan_za_rz_d_w_tyberiusza"

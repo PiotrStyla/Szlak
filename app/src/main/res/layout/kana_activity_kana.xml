@@ -119,9 +119,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button125jordan"
+                    android:id="@+id/button125kana"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_12_wydarzenia_nad_jordanem_jezus_si_modli"/>
+                    android:text="@string/dzie_12_cuda_kt_re_s_znakami_rozumienie_znak_w"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

@@ -71,10 +71,10 @@ class Kana : AppCompatActivity() {
             val intentKanaDzien11 = Intent(this, KanaDzien11::class.java)
             startActivity(intentKanaDzien11)
         }
-        val buttonJordanDzien12 = findViewById<Button>(R.id.button125jordan)
-        buttonJordanDzien12.setOnClickListener {
-            val intentJordanDzien12 = Intent(this, JordanDzien12::class.java)
-            startActivity(intentJordanDzien12)
+        val buttonKanaDzien12 = findViewById<Button>(R.id.button125kana)
+        buttonKanaDzien12.setOnClickListener {
+            val intentKanaDzien12 = Intent(this, KanaDzien12::class.java)
+            startActivity(intentKanaDzien12)
         }
         val buttonJordanDzien13 = findViewById<Button>(R.id.button126jordan)
         buttonJordanDzien13.setOnClickListener {

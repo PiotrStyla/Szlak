@@ -81,10 +81,10 @@
                     android:id="@+id/button118kana"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
-                    android:text="@string/dzie_6_przed_p_j_ciem_nad_jordan_wie_ci_o_janie_chrzcicielu"
+                    android:text="@string/dzie_6_wydarzenia_w_kanie_galilejskiej_interwencja_maryi"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button119jordan"
+                    android:id="@+id/button119kana"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
                     android:text="@string/dzie_7_przed_p_j_ciem_nad_jordan_or_dzie_jana_o_cz_owieku"

@@ -125,15 +125,15 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button126jordan"
+                    android:id="@+id/button126kana"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_13_wydarzenia_nad_jordanem_bierze_na_siebie_grzechy_ludzi"/>
+                    android:text="@string/dzie_13_cuda_kt_re_s_znakami_znak_mocy_pokonuj_cej_choroby"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button127jordan"
+                    android:id="@+id/button127kana"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_14_wydarzenia_nad_jordanem_wype_nia_wol_ojca"/>
+                    android:text="@string/dzie_14_cuda_kt_re_s_znakami_znak_mocy_panuj_cej_nad_przyrod"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

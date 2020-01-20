@@ -137,9 +137,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button128jordan"
+                    android:id="@+id/button128kana"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_15_wydarzenia_nad_jordanem_otwiera_si_niebo"/>
+                    android:text="@string/dzie_15_cuda_kt_re_s_znakami_znak_mocy_panuj_cej_nad_yciem"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

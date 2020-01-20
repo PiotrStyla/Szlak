@@ -143,9 +143,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button129jordan"
+                    android:id="@+id/button129kana"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_16_wydarzenia_nad_jordanem_zst_puje_duch_wi_ty"/>
+                    android:text="@string/dzie_16_cuda_kt_re_s_znakami_znak_objawiaj_cy_mi_o_boga"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

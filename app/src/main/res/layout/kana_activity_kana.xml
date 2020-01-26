@@ -149,15 +149,15 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button130jordan"
+                    android:id="@+id/button130kana"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_17_wydarzenia_nad_jordanem_s_ycha_g_os_ojca"/>
+                    android:text="@string/dzie_17_cuda_kt_re_s_znakami_znak_mocy_budz_cej_wiar"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button131jordan"
+                    android:id="@+id/button131kana"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_18_wydarzenia_nad_jordanem_objawia_si_ojciec_syn_i_duch_wi_ty"/>
+                    android:text="@string/dzie_18_cuda_kt_re_s_znakami_potrzeba_znak_w"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

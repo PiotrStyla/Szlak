@@ -161,9 +161,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button132jordan"
+                    android:id="@+id/button132kana"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_19_po_prze_yciach_nad_jordanem_duch_wyprowadza_jezusa"/>
+                    android:text="@string/dzie_19_tajemnica_powo_ania_powo_anie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

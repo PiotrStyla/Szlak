@@ -3,10 +3,10 @@ package pl.diecezja.zr
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 
-class KanaDzien17 : AppCompatActivity() {
+class KanaDzien18 : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.kana_activity_kana_dzien17)
+        setContentView(R.layout.kana_activity_kana_dzien18)
     }
 }

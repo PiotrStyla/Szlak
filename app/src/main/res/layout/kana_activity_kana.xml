@@ -173,15 +173,15 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button134jordan"
+                    android:id="@+id/button134kana"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_21_po_prze_yciach_nad_jordanem_znaczenie_kuszenia"/>
+                    android:text="@string/dzie_21_tajemnica_powo_ania_droga_ma_e_ska"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button135jordan"
+                    android:id="@+id/button135kana"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_22_po_prze_yciach_nad_jordanem_cel_wszystkich_pokus"/>
+                    android:text="@string/dzie_22_tajemnica_powo_ania_droga_kap_a_ska"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

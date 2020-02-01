@@ -197,9 +197,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button138jordan"
+                    android:id="@+id/button138kana"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_25_po_prze_yciach_nad_jordanem_trzecia_pokusa"/>
+                    android:text="@string/dzie_25_tajemnica_powo_ania_m_j_charyzmat"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

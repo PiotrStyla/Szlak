@@ -221,7 +221,7 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button142jordan"
+                    android:id="@+id/button142kana"
                     style="@style/button_dni_swiatlo_padding"
                     android:text="@string/dzie_29_podsumowanie"/>
             <Button

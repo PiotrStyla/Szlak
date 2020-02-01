@@ -191,9 +191,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button137jordan"
+                    android:id="@+id/button137kana"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_24_po_prze_yciach_nad_jordanem_druga_pokusa"/>
+                    android:text="@string/dzie_24_tajemnica_powo_ania_moje_powo_anie_i_misja"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

@@ -203,9 +203,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button139jordan"
+                    android:id="@+id/button139kana"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_26_dzi_kczynienie"/>
+                    android:text="@string/dzie_26_ostatnie_dni_dzi_kczynienie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

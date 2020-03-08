@@ -9,16 +9,15 @@
             android:roundIcon="@mipmap/ic_launcher_round_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".KanaDzien30"></activity>
+        <activity android:name=".Galilea"></activity>
+        <activity android:name=".KanaDzien30" />
         <activity android:name=".KanaDzien29" />
         <activity android:name=".KanaDzien28" />
         <activity android:name=".KanaDzien27" />
         <activity android:name=".KanaDzien26" />
         <activity android:name=".KanaDzien25" />
         <activity android:name=".KanaDzien24" />
-        <activity android:name=".KanaDzien23">
-            
-        </activity>
+        <activity android:name=".KanaDzien23"></activity>
         <activity android:name=".KanaDzien22" />
         <activity android:name=".KanaDzien21" />
         <activity android:name=".KanaDzien20" />

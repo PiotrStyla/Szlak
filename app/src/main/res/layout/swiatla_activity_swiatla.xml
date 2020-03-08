@@ -55,10 +55,10 @@
             android:layout_marginTop="16dp"
             app:layout_constraintTop_toBottomOf="@+id/imageView"/>
     <Button
-            android:text="@string/narodzenie1"
+            android:text="@string/galilea"
             android:layout_width="150sp"
             android:layout_height="wrap_content"
-            android:id="@+id/button_Narodzenie"
+            android:id="@+id/button_Galilea"
             style="@style/button_swiatla_tajemnice"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintHorizontal_bias="0.5"
@@ -71,10 +71,10 @@
             android:layout_height="wrap_content"
             android:id="@+id/button_Ofiarowanie"
             style="@style/button_swiatla_tajemnice"
-            app:layout_constraintStart_toEndOf="@+id/button_Narodzenie"
+            app:layout_constraintStart_toEndOf="@+id/button_Galilea"
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toTopOf="@+id/button_Narodzenie"/>
+            app:layout_constraintTop_toTopOf="@+id/button_Galilea"/>
     <Button
             android:text="@string/odnalezienie1"
             android:layout_width="150sp"
@@ -85,7 +85,7 @@
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintEnd_toStartOf="@+id/button_Rekolekcje_Radosne"
             android:layout_marginTop="16dp"
-            app:layout_constraintTop_toBottomOf="@+id/button_Narodzenie"/>
+            app:layout_constraintTop_toBottomOf="@+id/button_Galilea"/>
     <Button
             android:text="@string/rekolekcje1"
             android:layout_width="150sp"

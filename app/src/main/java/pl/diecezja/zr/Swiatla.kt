@@ -22,9 +22,9 @@ class Swiatla : AppCompatActivity() {
             val intent4 = Intent(this, Kana::class.java)
             startActivity(intent4)
         }
-        val button_radosne_do_narodzenie  = findViewById (R.id.button_Narodzenie) as Button
-        button_radosne_do_narodzenie.setOnClickListener {
-            val intent5 = Intent(this, Narodzenie::class.java)
+        val button_swiatla_do_galilea  = findViewById (R.id.button_Galilea) as Button
+        button_swiatla_do_galilea.setOnClickListener {
+            val intent5 = Intent(this, Galilea::class.java)
             startActivity(intent5)
         }
         val button_radosne_do_ofiarowanie  = findViewById (R.id.button_Ofiarowanie) as Button

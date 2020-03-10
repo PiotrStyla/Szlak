@@ -126,7 +126,7 @@
                     android:paddingBottom="7dp"/>
             <TextView
                     android:text="@string/objaw_nam_jezu_tajemnic_kr_lestwa_twego_ojca_i_daj_nam_ducha_wi_tego_aby_my_si_nawr_cili"
-                    android:id="@+id/textView3525"
+                    android:id="@+id/textView4018"
                     style="@style/paragraf_Text"
                     android:textStyle="bold"
                     android:paddingBottom="70dp"

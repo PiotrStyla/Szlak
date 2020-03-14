@@ -93,10 +93,10 @@
                     android:id="@+id/button120galilea"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
-                    android:text="@string/dzie_8_wydarzenia_w_kanie_galilejskiej_zadania_s_ug"
+                    android:text="@string/dzie_8_tajemnica_kr_lestwa_ogarnia_ca_e_ycie"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button121kana"
+                    android:id="@+id/button121galilea"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
                     android:text="@string/dzie_9_wydarzenia_w_kanie_galilejskiej_przemiana_wody_w_wino"

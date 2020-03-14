@@ -75,10 +75,10 @@
                     android:id="@+id/button117galilea"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
-                    android:text="@string/dzie_5_wydarzenia_w_kanie_galilejskiej_odbywa_o_si_wesele"
+                    android:text="@string/dzie_5_tajemnica_kr_lestwa_przychodzi_z_nieba_na_ziemi"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button118kana"
+                    android:id="@+id/button118galilea"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
                     android:text="@string/dzie_6_wydarzenia_w_kanie_galilejskiej_interwencja_maryi"

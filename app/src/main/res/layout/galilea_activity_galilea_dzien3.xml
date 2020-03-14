@@ -114,7 +114,7 @@
             <TextView
                     android:text="@string/przez_chrystusa_pana_naszego_amen"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView40774"
+                    android:id="@+id/textView4074"
                     android:textStyle="italic"
                     android:paddingBottom="70dp"/>
 

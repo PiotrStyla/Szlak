@@ -99,10 +99,10 @@
                     android:id="@+id/button121galilea"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
-                    android:text="@string/dzie_9_wydarzenia_w_kanie_galilejskiej_przemiana_wody_w_wino"
+                    android:text="@string/dzie_9_tajemnica_kr_lestwa_istnieje_w_zepsutym_wiecie"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button122kana"
+                    android:id="@+id/button122galilea"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
                     android:layout_width="match_parent"

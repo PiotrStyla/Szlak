@@ -66,13 +66,13 @@
                     android:text="@string/dzie_3_pro_ba_o_wyp_yni_cie_na_g_bie"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button116kana"
+                    android:id="@+id/button116galilea"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
                     android:text="@string/dzie_4_pro_ba_o_b_ogos_awie_stwo"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button117kana"
+                    android:id="@+id/button117galilea"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
                     android:text="@string/dzie_5_wydarzenia_w_kanie_galilejskiej_odbywa_o_si_wesele"

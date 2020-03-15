@@ -113,9 +113,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button124kana"
+                    android:id="@+id/button124galilea"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_11_wydarzenia_w_kanie_galilejskiej_pocz_tek_znak_w"/>
+                    android:text="@string/dzie_11_tajemnica_kr_lestwa_kiedy_nadejdzie_jego_pe_nia"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

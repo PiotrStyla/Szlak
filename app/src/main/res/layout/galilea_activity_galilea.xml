@@ -167,9 +167,9 @@ android:orientation="vertical">
         <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/button133kana"
+                android:id="@+id/button133galilea"
                 style="@style/button_dni_swiatlo_padding"
-                android:text="@string/dzie_20_tajemnica_powo_ania_pos_annictwo"/>
+                android:text="@string/dzie_20_nawr_cenie_grzech_osobisty"/>
         <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

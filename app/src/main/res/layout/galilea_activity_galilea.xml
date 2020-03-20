@@ -149,9 +149,9 @@ android:orientation="vertical">
         <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/button130kana"
+                android:id="@+id/button130galilea"
                 style="@style/button_dni_swiatlo_padding"
-                android:text="@string/dzie_17_cuda_kt_re_s_znakami_znak_mocy_budz_cej_wiar"/>
+                android:text="@string/dzie_17_b_ogos_awie_stwa_jezus_cierpi_prze_ladowanie"/>
         <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

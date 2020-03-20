@@ -9,7 +9,8 @@
             android:roundIcon="@mipmap/ic_launcher_round_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".GalileaDzien16"></activity>
+        <activity android:name=".GalileaDzien17"></activity>
+        <activity android:name=".GalileaDzien16" />
         <activity android:name=".GalileaDzien15" />
         <activity android:name=".GalileaDzien14" />
         <activity android:name=".GalileaDzien13" />

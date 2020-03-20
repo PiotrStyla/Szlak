@@ -155,15 +155,15 @@ android:orientation="vertical">
         <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/button131kana"
+                android:id="@+id/button131galilea"
                 style="@style/button_dni_swiatlo_padding"
-                android:text="@string/dzie_18_cuda_kt_re_s_znakami_potrzeba_znak_w"/>
+                android:text="@string/dzie_18_b_ogos_awie_stwa_w_jezusie_jeste_my_b_ogos_awieni"/>
         <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/button132kana"
+                android:id="@+id/button132galilea"
                 style="@style/button_dni_swiatlo_padding"
-                android:text="@string/dzie_19_tajemnica_powo_ania_powo_anie"/>
+                android:text="@string/dzie_19_nawr_cenie_grzech_pierworodny"/>
         <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

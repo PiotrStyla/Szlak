@@ -6,13 +6,13 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginEnd="16dp"
-        tools:context=".GalileaDzien17"
+        tools:context=".GalileaDzien18"
         android:id="@+id/linearLayout">
     <TextView
-            android:text="@string/dzie_17_b_ogos_awie_stwa_jezus_cierpi_prze_ladowanie"
+            android:text="@string/dzie_18_b_ogos_awie_stwa_w_jezusie_jeste_my_b_ogos_awieni"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textView4293"
+            android:id="@+id/textView4308"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="16dp"
             android:layout_marginTop="16dp"
@@ -25,7 +25,7 @@
     <ScrollView
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView4293"
+            app:layout_constraintTop_toBottomOf="@+id/textView4308"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
@@ -42,61 +42,61 @@
                 android:orientation="vertical">
             <TextView
                     android:text="@string/modlitwa"
-                    android:id="@+id/textView4294"
+                    android:id="@+id/textView4309"
                     style="@style/modlitwa"/>
             <TextView
                     android:text="@string/bo_e_wejrzyj_ku_wspomo_eniu_memu_panie_po_piesz_ku_ratunkowi_memu_chwa_a_ojcu_i_synowi_i_duchowi_wi_temu_jak_by_a_na_pocz_tku_teraz_i_zawsze_i_na_wieki_wiek_w_amen"
-                    android:id="@+id/textView4295"
+                    android:id="@+id/textView4310"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
                     android:text="@string/rozwa_anie_s_owa"
-                    android:id="@+id/textView4296"
+                    android:id="@+id/textView4311"
                     style="@style/modlitwa"/>
             <TextView
-                    android:text="@string/z_ewangelii_wed_ug_w_mateusza_5_10_b_ogos_awieni_kt_rzy_cierpi_prze_ladowanie_dla_sprawiedliwo_ci_albowiem_do_nich_nale_y_kr_lestwo_niebieskie"
-                    android:id="@+id/textView4297"
+                    android:text="@string/z_listu_w_paw_a_aposto_a_do_kolosan_1_12_14_z_rado_ci_dzi_kujcie_ojcu_kt_ry_was_uzdolni_do_uczestnictwa_w_dziale_wi_tych_w_wiat_o_ci_on_uwolni_nas_spod_w_adzy_ciemno_ci_i_przeni_s_do_kr_lestwa_swego_umi_owanego_syna_w_kt_rym_mamy_odkupienie_odpuszczenie_grzech_w"
+                    android:id="@+id/textView4312"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="@string/jeszcze_raz_wracam_tu_do_tematu_sprawiedliwo_ci_gdy_jezus_przyjmowa_chrzest_w_jordanie_powiedzia_do_w_jana_chrzciciela_pozw_l_teraz_bo_tak_godzi_si_nam_wype_ni_wszystko_co_sprawiedliwe_mt_3_15_chodzi_tu_o_sprawiedliwo_wobec_ojca_kt_ry_zosta_obra_ony_grzechem_cz_owieka_zosta_odrzucony_i_zlekcewa_ony_przez_mieszka_c_w_ziemi_jezus_bierze_na_siebie_ca_e_z_o_wiata_w_swoim_cz_owiecze_stwie_je_pokonuje_i_przyprowadza_do_ojca_odnowionego_cz_owieka_cierpi_przede_wszystkim_dla_tej_sprawiedliwo_ci_chce_aby_cz_owiek_zachowa_si_w_a_ciwie_wobec_swego_stw_rcy_i_ojca_nawi_zujemy_do_tej_prawdy_w_ka_dej_mszy_wi_tej_gdy_w_prefacji_wyznajemy_zaprawd_godne_to_i_sprawiedliwe_aby_my_ci_sk_adali_dzi_kczynienie"
-                    android:id="@+id/textView4298"
+                    android:text="@string/ojciec_niebieski_przeni_s_nas_do_kr_lestwa_swego_umi_owanego_syna_w_nim_i_przez_niego_sp_ywa_na_nas_b_ogos_awie_stwo_ojca_poza_nim_nie_ma_b_ogos_awie_stwa_w_jezusie_jeste_my_obdarzeni_wszelkim_b_ogos_awie_stwem"
+                    android:id="@+id/textView4313"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="@string/ukrzy_owany_chrystus_jest_prze_ladowanym_sprawiedliwym_o_kt_rym_m_wi_prorocze_s_owa_starego_przymierza_on_sam_jest_przyj_ciem_kr_lestwa_bo_ego_b_ogos_awie_stwo_jest_zaproszeniem_do_na_ladowania_ukrzy_owanego_skierowanym_do_jednostki_i_do_ca_ego_ko_cio_a_benedykt_xvi_jezus_z_nazaretu_s_85"
-                    android:id="@+id/textView4299"
+                    android:text="@string/b_ogos_awie_stwa_s_cz_sto_nazywane_streszczeniem_ewangelii_lub_programem_ycia_chrze_cija_skiego_maj_tak_cech_dlatego_e_opisuj_drog_kt_r_szed_w_swoim_yciu_jezus_on_przetar_szlak_i_zaprasza_do_p_j_cia_za_nim_w_nim_rozja_nia_si_tajemnica_ub_stwa_p_aczu_i_cicho_ci_kontempluj_c_jego_ycie_rozumiemy_lepiej_sprawiedliwo_i_mi_osierdzie_dzi_ki_niemu_odnajdujemy_czysto_serca_i_niesiemy_wiatu_pok_j_on_uzdalnia_nas_do_tego_aby_my_potrafili_cierpie_dla_sprawiedliwo_ci"
+                    android:id="@+id/textView4314"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="@string/r_wnie_jan_pawe_ii_odnosi_do_chrystusa_s_owa_b_ogos_awie_stwa_w_bydgoszczy_w_1999_roku_m_wi_b_ogos_awieni_kt_rzy_cierpi_prze_ladowanie_dla_sprawiedliwo_ci_albowiem_do_nich_nale_y_kr_lestwo_niebieskie_mt_5_10_s_yszeli_my_przed_chwil_te_s_owa_kt_re_wypowiedzia_chrystus_w_kazaniu_na_g_rze_do_kogo_te_s_owa_si_odnosz_odnosz_si_przede_wszystkim_do_chrystusa_samego_on_jest_ubogi_duchem_on_jest_cichy_on_jest_pok_j_czyni_cy_on_jest_mi_osierny_i_on_jest_tak_e_tym_kt_ry_cierpi_prze_ladowanie_dla_sprawiedliwo_ci_to_b_ogos_awie_stwo_stawia_nam_przed_oczy_w_spos_b_szczeg_lny_wydarzenia_wielkiego_pi_tku_chrystus_skazany_na_mier_jak_z_oczy_ca_a_potem_ukrzy_owany_na_kalwarii_zdawa_o_si_e_zosta_opuszczony_przez_boga_i_wydany_na_po_miewisko_ludzi"
-                    android:id="@+id/textView4300"
+                    android:text="@string/ojciec_wi_ty_jan_pawe_ii_w_czasie_swej_pielgrzymki_do_ojczyzny_w_1999_roku_ukaza_znaczenie_b_ogos_awie_stw_w_yciu_chrze_cijanina_ka_demu_b_ogos_awie_stwu_po_wi_ci_osobne_rozwa_anie_s_owa_papie_a_s_wielk_pomoc_w_zg_bianiu_nauczania_jezusa_warto_wi_c_do_nich_wraca_przy_r_nych_okazjach_niniejsze_opracowanie_jest_zbyt_kr_tkie_aby_przedstawi_z_nim_cho_by_g_wne_my_li_papieskich_homilii_i_przem_wie_poza_tym_w_rozwa_aniach_tego_tygodnia_akcent_po_o_ony_by_na_yciu_i_dzia_aniu_samego_jezusa_skoro_b_ogos_awie_stwa_s_jego_autoportretem_to_trzeba_by_o_spojrze_na_nie_od_tej_w_a_nie_strony"
+                    android:id="@+id/textView4315"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="@string/ewangelia_kt_r_g_osi_chrystus_zosta_a_poddana_w_wczas_jakiej_radykalnej_pr_bie_jest_kr_lem_izraela_niech_e_teraz_zejdzie_z_krzy_a_a_uwierzymy_w_niego_mt_27_42_tak_wo_ali_ci_kt_rzy_byli_wiadkami_wydarzenia_chrystus_nie_zst_puje_z_krzy_a_poniewa_jest_wierny_swojej_ewangelii_cierpi_niesprawiedliwo_ludzk_tylko_w_ten_spos_b_mo_e_bowiem_dokona_usprawiedliwienia_cz_owieka_pragn_a_eby_na_nim_przede_wszystkim_sprawdzi_y_si_te_s_owa_z_kazania_na_g_rze_b_ogos_awieni_jeste_cie_gdy_ludzie_wam_ur_gaj_i_prze_laduj_was_i_gdy_z_mego_powodu_m_wi_k_amliwie_wszystko_z_e_na_was_cieszcie_si_i_radujcie_albowiem_wasza_nagroda_wielka_jest_w_niebie_tak_bowiem_prze_ladowali_prorok_w_kt_rzy_byli_przed_wami_mt_5_11_12"
-                    android:id="@+id/textView4301"
+                    android:text="@string/dzi_kuj_bogu_za_dar_tych_medytacji_i_tej_modlitwy_dzi_kuj_za_wszelkie_aski_jakie_sp_yn_y_na_mnie_w_tym_czasie_pragn_je_zachowa_w_sercu_i_nimi_y"
+                    android:id="@+id/textView4316"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
                     android:text="@string/dziesi_tek_r_a_ca"
-                    android:id="@+id/textView4302"
+                    android:id="@+id/textView4317"
                     style="@style/dziesiatek_rozanca"/>
             <TextView
                     android:text="@string/ojcze_nasz_zdrowa_maryjo_chwa_a_ojcu"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView4303"/>
+                    android:id="@+id/textView4318"/>
             <TextView
                     android:text="@string/akt_strzelisty"
-                    android:id="@+id/textView4304"
+                    android:id="@+id/textView4319"
                     style="@style/intencje_modlitwy"/>
 
             <TextView
                     android:text="@string/objaw_nam_jezu_tajemnic_kr_lestwa_twego_ojca_i_daj_nam_ducha_wi_tego_aby_my_si_nawr_cili"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView4305"/>
+                    android:id="@+id/textView4320"/>
             <TextView
                     android:text="@string/intencje_modlitwy"
-                    android:id="@+id/textView4306"
+                    android:id="@+id/textView4321"
                     style="@style/intencje_modlitwy"/>
             <TextView
                     android:text="@string/intencje_modlitwy_wyra_one_swoimi_s_owami"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView4307"
+                    android:id="@+id/textView4322"
                     android:textStyle="italic"
                     android:paddingBottom="70dp"/>
 

@@ -131,9 +131,9 @@ android:orientation="vertical">
         <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/button127kana"
+                android:id="@+id/button127galilea"
                 style="@style/button_dni_swiatlo_padding"
-                android:text="@string/dzie_14_cuda_kt_re_s_znakami_znak_mocy_panuj_cej_nad_przyrod"/>
+                android:text="@string/dzie_14_b_ogos_awie_stwa_jezus_jest_ubogi_wra_liwy_cichy"/>
         <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

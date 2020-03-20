@@ -143,9 +143,9 @@ android:orientation="vertical">
         <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/button129kana"
+                android:id="@+id/button129galilea"
                 style="@style/button_dni_swiatlo_padding"
-                android:text="@string/dzie_16_cuda_kt_re_s_znakami_znak_objawiaj_cy_mi_o_boga"/>
+                android:text="@string/dzie_16_b_ogos_awie_stwa_jezus_ogl_da_boga_i_jest_synem_bo_ym"/>
         <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

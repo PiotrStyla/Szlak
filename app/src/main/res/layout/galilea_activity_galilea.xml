@@ -137,9 +137,9 @@ android:orientation="vertical">
         <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/button128kana"
+                android:id="@+id/button128galilea"
                 style="@style/button_dni_swiatlo_padding"
-                android:text="@string/dzie_15_cuda_kt_re_s_znakami_znak_mocy_panuj_cej_nad_yciem"/>
+                android:text="@string/dzie_15_b_ogos_awie_stwa_jezus_jest_sprawiedliwy_i_mi_osierny"/>
         <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

@@ -86,10 +86,10 @@ class Galilea : AppCompatActivity() {
             val intentGalileaDzien14 = Intent(this, GalileaDzien14::class.java)
             startActivity(intentGalileaDzien14)
         }
-        val buttonKanaDzien15 = findViewById<Button>(R.id.button128kana)
-        buttonKanaDzien15.setOnClickListener {
-            val intentKanaDzien15 = Intent(this, KanaDzien15::class.java)
-            startActivity(intentKanaDzien15)
+        val buttonGalileaDzien15 = findViewById<Button>(R.id.button128galilea)
+        buttonGalileaDzien15.setOnClickListener {
+            val intentGalileaDzien15 = Intent(this, GalileaDzien15::class.java)
+            startActivity(intentGalileaDzien15)
         }
         val buttonKanaDzien16 = findViewById<Button>(R.id.button129kana)
         buttonKanaDzien16.setOnClickListener {

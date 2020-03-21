@@ -173,9 +173,9 @@ android:orientation="vertical">
         <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/button134kana"
+                android:id="@+id/button134galilea"
                 style="@style/button_dni_swiatlo_padding"
-                android:text="@string/dzie_21_tajemnica_powo_ania_droga_ma_e_ska"/>
+                android:text="@string/dzie_21_nawr_cenie_dar_boga"/>
         <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

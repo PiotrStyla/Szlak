@@ -179,9 +179,9 @@ android:orientation="vertical">
         <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/button135kana"
+                android:id="@+id/button135galilea"
                 style="@style/button_dni_swiatlo_padding"
-                android:text="@string/dzie_22_tajemnica_powo_ania_droga_kap_a_ska"/>
+                android:text="@string/dzie_22_nawr_cenie_trud_cz_owieka"/>
         <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

@@ -197,9 +197,9 @@ android:orientation="vertical">
         <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/button138kana"
+                android:id="@+id/button138galilea"
                 style="@style/button_dni_swiatlo_padding"
-                android:text="@string/dzie_25_tajemnica_powo_ania_m_j_charyzmat"/>
+                android:text="@string/dzie_25_nawr_cenie_trzecie_nawr_cenie"/>
         <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

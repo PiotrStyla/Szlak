@@ -100,7 +100,7 @@
             <TextView
                     android:text="@string/intencje_modlitwy_wyra_one_swoimi_s_owami"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView4496"
+                    android:id="@+id/textView44"
                     android:textStyle="italic"
                     android:paddingBottom="70dp"/>
 

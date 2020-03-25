@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="16dp"
+        tools:context=".GalileaDzien30"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="@string/dzie_30_powr_t_do_wybranych_my_li"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView4497"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="4sp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingEnd="10sp"/>
+
+    <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView4497"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="48dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="10sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+            <TextView
+                    android:text="@string/chrystusowe_przypowie_ci_i_kr_lestwie_bo_ym_a_tak_e_jego_wezwanie_do_nawr_cenia_s_cz_sto_przypominane_w_liturgii_ko_cio_a_stale_wi_c_do_nich_wracam"
+                    android:id="@+id/textView4498"
+                    style="@style/paragraf_Text_optimum"
+                    android:textStyle="italic"/>
+            <TextView
+                    android:text="@string/modlitwa"
+                    android:id="@+id/textView4499"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/modlitwa_w_intencjach_ojca_wi_tego"
+                    android:id="@+id/textView4500"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/wszechmog_cy_wieczny_bo_e_ty_powierzy_e_ojcu_wi_temu_n_trosk_o_ca_y_ko_ci_nios_cy_wiatu_or_dzie_ewangelii_i_pielgrzymuj_cy_przez_doczesno_do_ycia_wiecznego_z_wiar_polecamy_ci_wszystkie_intencje_kt_re_papie_nosi_w_swoim_sercu_a_szczeg_lnie_te_kt_re_poleca_modlitwie_ca_ego_ko_cio_a_niech_moc_mi_o_ci_objawiona_w_s_owie_g_oszonym_przez_chrystusa_odnawia_oblicze_ziemi_amen"
+                    android:id="@+id/textView4501"
+                    style="@style/paragraf_Text_optimum"/>
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

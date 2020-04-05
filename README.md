@@ -1,5 +1,5 @@
 # Szlak
-Android app in Kotlin - under construction but already working :)
+Android app in Kotlin
 
 Some screens:
 

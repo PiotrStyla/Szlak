@@ -27,8 +27,8 @@ class Swiatla : AppCompatActivity() {
             val intent5 = Intent(this, Galilea::class.java)
             startActivity(intent5)
         }
-        val button_radosne_do_ofiarowanie  = findViewById (R.id.button_Ofiarowanie) as Button
-        button_radosne_do_ofiarowanie.setOnClickListener {
+        val button_radosne_do_tabor  = findViewById (R.id.button_Tabor) as Button
+        button_radosne_do_tabor.setOnClickListener {
             val intent6 = Intent(this, Ofiarowanie::class.java)
             startActivity(intent6)
         }

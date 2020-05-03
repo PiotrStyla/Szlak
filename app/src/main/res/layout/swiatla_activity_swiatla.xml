@@ -62,14 +62,14 @@
             style="@style/button_swiatla_tajemnice"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintHorizontal_bias="0.5"
-            app:layout_constraintEnd_toStartOf="@+id/button_Ofiarowanie"
+            app:layout_constraintEnd_toStartOf="@+id/button_Tabor"
             android:layout_marginTop="16dp"
             app:layout_constraintTop_toBottomOf="@+id/button_Jordan"/>
     <Button
-            android:text="@string/ofiarowanie1"
+            android:text="@string/tabor"
             android:layout_width="150sp"
             android:layout_height="wrap_content"
-            android:id="@+id/button_Ofiarowanie"
+            android:id="@+id/button_Tabor"
             style="@style/button_swiatla_tajemnice"
             app:layout_constraintStart_toEndOf="@+id/button_Galilea"
             app:layout_constraintHorizontal_bias="0.5"

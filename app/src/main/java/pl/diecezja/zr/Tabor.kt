@@ -10,10 +10,11 @@ class Tabor : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.tabor_activity_tabor)
-        val buttonGalileaDoWstep = findViewById<Button>(R.id.button_Galilea_Wstep)
-        buttonGalileaDoWstep.setOnClickListener {
-            val intentGalileaWstep = Intent(this, GalileaWstep::class.java)
-            startActivity(intentGalileaWstep)
+
+        val buttonTaborDoWstep = findViewById<Button>(R.id.button_Tabor_wstep)
+        buttonTaborDoWstep.setOnClickListener {
+            val intentTaborWstep = Intent(this, TaborWstep::class.java)
+            startActivity(intentTaborWstep)
         }
         val buttonGalileaDzien1 = findViewById<Button>(R.id.button114galilea)
         buttonGalileaDzien1.setOnClickListener {

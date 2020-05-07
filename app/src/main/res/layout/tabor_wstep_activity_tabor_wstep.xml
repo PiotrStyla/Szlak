@@ -170,13 +170,13 @@
                     android:textAllCaps="true" />
             <TextView
                     android:text="@string/podany_akt_strzelisty_jest_tylko_pewn_propozycj_je_li_prze_ywana_w_danym_dniu_medytacja_podsunie_komu_inne_s_owa_nale_y_zamieni_je_na_modlitw_i_z_wiar_skierowa_do_boga"
-                    android:id="@+id/textView4016"
+                    android:id="@+id/textView4529"
                     style="@style/paragraf_Text"
                     android:textStyle="italic"
                     android:paddingBottom="7dp"/>
             <TextView
                     android:text="@string/ojcze_niebieski_ze_lij_na_nas_ducha_wi_tego_aby_my_s_uchali_s_w_syna_twojego_i_wprowadzali_je_w_ycie"
-                    android:id="@+id/textView4018"
+                    android:id="@+id/textView4530"
                     style="@style/paragraf_Text"
                     android:textStyle="bold"
                     android:paddingBottom="70dp"

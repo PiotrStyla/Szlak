@@ -51,10 +51,10 @@
                     style="@style/button_Jordan_Wstep"
                     android:layout_marginBottom="12dp"/>
             <Button
-                    android:text="@string/dzie_1_pro_ba_o_wiat_o"
+                    android:text="@string/dzie_1_pro_ba_o_dar_prowadzenia"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button114galilea"
+                    android:id="@+id/button114tabor"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
                     android:text="@string/dzie_2_pro_ba_o_si_y"

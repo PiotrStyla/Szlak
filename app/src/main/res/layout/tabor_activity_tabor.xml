@@ -63,10 +63,10 @@
                     android:id="@+id/button115tabor"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
-                    android:text="@string/dzie_3_pro_ba_o_wyp_yni_cie_na_g_bie"
+                    android:text="@string/dzie_3_pro_ba_o_oczyszczenie_serca"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button116galilea"
+                    android:id="@+id/button116tabor"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
                     android:text="@string/dzie_4_pro_ba_o_b_ogos_awie_stwo"

@@ -57,10 +57,10 @@
                     android:id="@+id/button114tabor"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
-                    android:text="@string/dzie_2_pro_ba_o_si_y"
+                    android:text="@string/dzie_2_pro_ba_o_wytrwa_o"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button115galilea"
+                    android:id="@+id/button115tabor"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
                     android:text="@string/dzie_3_pro_ba_o_wyp_yni_cie_na_g_bie"

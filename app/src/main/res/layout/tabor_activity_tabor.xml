@@ -69,16 +69,16 @@
                     android:id="@+id/button116tabor"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
-                    android:text="@string/dzie_4_pro_ba_o_b_ogos_awie_stwo"
+                    android:text="@string/dzie_4_pro_ba_o_pomoc_aposto_w"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button117galilea"
+                    android:id="@+id/button117tabor"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
-                    android:text="@string/dzie_5_tajemnica_kr_lestwa_przychodzi_z_nieba_na_ziemi"
+                    android:text="@string/dzie_5_bo_e_g_ry_g_ra_moria"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button118galilea"
+                    android:id="@+id/button118tabor"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
                     android:text="@string/dzie_6_tajemnica_kr_lestwa_wzrasta_bo_moc"

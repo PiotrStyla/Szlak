@@ -93,25 +93,25 @@
             <TextView
                     android:text="@string/modlitwa_o_pok_j"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView4094"
+                    android:id="@+id/textView4594"
                     android:textStyle="italic"
                     android:paddingBottom="7dp"/>
             <TextView
                     android:text="@string/o_panie_uczy_z_nas_narz_dzia_twojego_pokoju_aby_my_siali_mi_o_tam_gdzie_panuje_nienawi_wybaczenie_tam_gdzie_panuje_krzywda_jedno_tam_gdzie_panuje_zw_tpienie_nadziej_tam_gdzie_panuje_rozpacz_wiat_o_tam_gdzie_panuje_mrok_rado_tam_gdzie_panuje_smutek"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView4095"/>
+                    android:id="@+id/textView4595"/>
             <TextView
                     android:text="@string/spraw_aby_my_mogli_nie_tyle_szuka_pociechy_co_pociech_dawa_nie_tyle_szuka_zrozumienia_co_rozumie_nie_tyle_szuka_mi_o_ci_co_kocha_albowiem_daj_c_otrzymujemy_wybaczaj_c_zyskujemy_przebaczenie_a_umieraj_c_rodzimy_si_do_wiecznego_ycia"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView4096"/>
+                    android:id="@+id/textView4596"/>
             <TextView
                     android:text="@string/spraw_aby_my_mogli_nie_tyle_szuka_pociechy_co_pociech_dawa_nie_tyle_szuka_zrozumienia_co_rozumie_nie_tyle_szuka_mi_o_ci_co_kocha_albowiem_daj_c_otrzymujemy_wybaczaj_c_zyskujemy_przebaczenie_a_umieraj_c_rodzimy_si_do_wiecznego_ycia"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView4097"/>
+                    android:id="@+id/textView4597"/>
             <TextView
                     android:text="@string/przez_chrystusa_pana_naszego_amen"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView4098"
+                    android:id="@+id/textView4598"
                     android:textStyle="italic"
                     android:paddingBottom="70dp"/>
 

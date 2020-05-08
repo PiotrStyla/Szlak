@@ -9,7 +9,9 @@
             android:roundIcon="@mipmap/ic_launcher_round_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".TaborDzien3"></activity>
+        <activity android:name=".TaborDzien5"></activity>
+        <activity android:name=".TaborDzien4" />
+        <activity android:name=".TaborDzien3" />
         <activity android:name=".TaborDzien2" />
         <activity android:name=".TaborDzien1" />
         <activity android:name=".TaborWstep" />

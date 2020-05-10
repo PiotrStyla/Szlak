@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="16dp"
+        tools:context=".TaborDzien8"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="@string/dzie_8_bo_e_g_ry_g_ra_karmel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView4672"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="4sp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingEnd="10sp"/>
+
+    <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView4672"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="78dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="10sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+            <TextView
+                    android:text="@string/modlitwa"
+                    android:id="@+id/textView4673"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/bo_e_wejrzyj_ku_wspomo_eniu_memu_panie_po_piesz_ku_ratunkowi_memu_chwa_a_ojcu_i_synowi_i_duchowi_wi_temu_jak_by_a_na_pocz_tku_teraz_i_zawsze_i_na_wieki_wiek_w_amen"
+                    android:id="@+id/textView4674"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/rozwa_anie_s_owa"
+                    android:id="@+id/textView4675"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/z_pierwszej_ksi_gi_kr_lewskiej_18_19_24_30_39_eliasz_rzek_do_kr_la_achaba_wydaj_rozkaz_aby_zgromadzi_przy_mnie_ca_ego_izraela_na_g_rze_karmel_a_tak_e_czterystu_pi_dziesi_ciu_prorok_w_baala_oraz_czterystu_prorok_w_aszery_sto_ownik_w_izebel_achab_rozes_a_polecenie_wszystkim_izraelitom_i_zgromadzi_prorok_w_na_g_rze_karmel"
+                    android:id="@+id/textView4676"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/w_wczas_eliasz_zbli_y_si_do_ca_ego_ludu_i_rzek_dop_ki_b_dziecie_chwia_si_na_obie_strony_je_eli_jahwe_jest_prawdziwym_bogiem_to_jemu_s_u_cie_a_je_eli_baal_to_s_u_cie_jemu_na_to_nie_odpowiedzieli_mu_ani_s_owa_wtedy_eliasz_przem_wi_do_ludu_tylko_ja_sam_ocala_em_jako_prorok_pa_ski_prorok_w_za_baala_jest_czterystu_pi_dziesi_ciu_wobec_tego_niech_nam_dadz_dwa_m_ode_cielce_oni_niech_wybior_sobie_jednego_cielca_i_por_bi_go_oraz_niech_go_umieszcz_na_drwach_ale_ognia_niech_nie_podk_adaj_ja_za_oprawi_drugiego_cielca_oraz_umieszcz_na_drwach_i_te_ognia_nie_pod_o_potem_wy_b_dziecie_wzywa_imienia_waszego_boga_a_nast_pnie_ja_b_d_wzywa_imienia_pana_aby_okaza_o_si_e_ten_b_g_kt_ry_odpowie_ogniem_jest_naprawd_bogiem_ca_y_lud_odpowiadaj_c_na_to_zawo_a_dobry_pomys"
+                    android:id="@+id/textView4677"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/wreszcie_eliasz_przem_wi_do_ludu_zbli_cie_si_do_mnie_a_oni_przybli_yli_si_do_niego_po_czym_naprawi_rozwalony_o_tarz_pa_ski_potem_eliasz_wzi_dwana_cie_kamieni_wed_ug_liczby_pokole_potomk_w_jakuba_kt_remu_pan_powiedzia_imi_twoje_b_dzie_izrael_nast_pnie_u_o_y_kamienie_na_kszta_t_o_tarza_ku_czci_pana_i_wykopa_doko_a_o_tarza_r_w_o_pojemno_ci_dw_ch_sea_ziarna_potem_u_o_y_drwa_i_por_bawszy_m_odego_cielca_po_o_y_go_na_tych_drwach_i_rozkaza_nape_nijcie_cztery_dzbany_wod_i_wylejcie_do_rowu_oraz_na_drwa_i_tak_zrobili_potem_poleci_wykonajcie_to_drugi_raz_oni_za_to_wykonali_i_zn_w_nakaza_wykonajcie_trzeci_raz_oni_za_wykonali_to_po_raz_trzeci_a_woda_obla_a_o_tarz_doko_a_i_nape_ni_a_te_r_w"
+                    android:id="@+id/textView46278"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/nast_pnie_w_porze_sk_adania_ofiary_z_pokarm_w_prorok_eliasz_wyst_pi_i_rzek_o_panie_bo_e_abrahama_izaaka_oraz_izraela_niech_dzi_b_dzie_wiadomo_e_ty_jeste_bogiem_w_izraelu_a_ja_tw_j_s_uga_na_tw_j_rozkaz_to_wszystko_uczyni_em_wys_uchaj_mnie_o_panie_wys_uchaj_aby_ten_lud_zrozumia_e_ty_o_panie_jeste_bogiem_i_ty_nawr_ci_e_ich_serce_a_w_wczas_spad_ogie_od_pana_z_nieba_i_strawi_ertw_i_drwa_oraz_kamienie_i_mu_jako_te_poch_on_wod_z_rowu_ca_y_lud_to_ujrza_i_upad_na_twarz_a_potem_rzek_naprawd_jahwe_jest_bogiem_naprawd_pan_jest_bogiem"
+                    android:id="@+id/textView4679"
+                    style="@style/paragraf_Text_optimum"
+                    android:padding="7dp"/>
+            <TextView
+                    android:text="@string/izraelici_zawieraj_cy_z_bogiem_przymierze_pod_g_r_synaj_szczerze_wyznawali_e_b_d_s_u_y_bogu_i_przestrzega_jego_przykaza_jednak_mija_y_lata_przychodzi_y_nowe_pokolenia_pojawia_y_si_nowe_pogl_dy_i_wiara_s_ab_a_jej_odnowienie_dokona_o_si_zn_w_na_g_rze_by_a_to_g_ra_karmel_g_ra_eliasza_tam_za_jego_przyczyn_dokona_si_niezwyk_y_cud_gdy_z_nieba_zst_pi_ogie_i_spali_przygotowan_na_o_tarzu_ofiar_by_to_znak_dla_zgromadzonego_ludu_ale_by_a_to_r_wnie_zapowied_innego_ognia_i_innej_ofiary_gdy_nadejdzie_czas_przewidziany_przez_boga_zst_pi_z_nieba_duch_wi_ty_i_moc_mi_o_ci_sprawi_e_jezus_chrystus_z_o_y_na_krzy_u_ca_opaln_ofiar_ze_swego_ycia"
+                    android:id="@+id/textView4680"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/rozwa_am_te_prawdy_w_tajemnicy_r_a_ca_i_modl_si_aby_moja_wiara_zawsze_by_a_mocna_sprowadzaj_ca_z_nieba_ogie_mi_o_ci_przemieniaj_cy_moje_serce"
+                    android:id="@+id/textView4681"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/dziesi_tek_r_a_ca"
+                    android:id="@+id/textView4682"
+                    style="@style/dziesiatek_rozanca"/>
+            <TextView
+                    android:text="@string/ojcze_nasz_zdrowa_maryjo_chwa_a_ojcu"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView4683"/>
+            <TextView
+                    android:text="@string/akt_strzelisty"
+                    android:id="@+id/textView4684"
+                    style="@style/intencje_modlitwy"/>
+
+            <TextView
+                    android:text="@string/ojcze_niebieski_ze_lij_na_nas_ducha_wi_tego_aby_my_s_uchali_s_w_syna_twojego_i_wprowadzali_je_w_ycie"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView4685"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy"
+                    android:id="@+id/textView4686"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy_wyra_one_swoimi_s_owami"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView4687"
+                    android:textStyle="italic"
+                    android:paddingBottom="70dp"/>
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

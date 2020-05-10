@@ -93,10 +93,10 @@
                     android:id="@+id/button120tabor"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
-                    android:text="@string/dzie_8_tajemnica_kr_lestwa_ogarnia_ca_e_ycie"
+                    android:text="@string/dzie_8_bo_e_g_ry_g_ra_karmel"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button121galilea"
+                    android:id="@+id/button121tabor"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
                     android:text="@string/dzie_9_tajemnica_kr_lestwa_istnieje_w_zepsutym_wiecie"

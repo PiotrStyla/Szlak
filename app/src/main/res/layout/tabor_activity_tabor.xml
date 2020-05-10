@@ -131,9 +131,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button127galilea"
+                    android:id="@+id/button127tabor"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_14_b_ogos_awie_stwa_jezus_jest_ubogi_wra_liwy_cichy"/>
+                    android:text="@string/dzie_14_g_ra_przemienienia_przemiana"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

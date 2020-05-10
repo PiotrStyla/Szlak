@@ -81,10 +81,10 @@
                     android:id="@+id/button118tabor"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
-                    android:text="@string/dzie_6_tajemnica_kr_lestwa_wzrasta_bo_moc"
+                    android:text="@string/dzie_6_bo_e_g_ry_g_ra_synaj"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button119galilea"
+                    android:id="@+id/button119tabor"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
                     android:text="@string/dzie_7_tajemnica_kr_lestwa_jest_dla_cz_owieka_skarbem"

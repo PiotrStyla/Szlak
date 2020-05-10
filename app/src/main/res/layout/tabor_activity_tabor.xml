@@ -119,9 +119,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button125galilea"
+                    android:id="@+id/button125tabor"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_12_b_ogos_awie_stwa_b_ogos_awiony_czyli_szcz_liwy"/>
+                    android:text="@string/dzie_12_g_ra_przemienienia_po_sze_ciu_dniach"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

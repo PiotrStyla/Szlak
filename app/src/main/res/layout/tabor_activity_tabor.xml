@@ -99,17 +99,17 @@
                     android:id="@+id/button121tabor"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
-                    android:text="@string/dzie_9_tajemnica_kr_lestwa_istnieje_w_zepsutym_wiecie"
+                    android:text="@string/dzie_9_bo_e_g_ry_g_ra_horeb"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button122galilea"
+                    android:id="@+id/button122tabor"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button123galilea"
+                    android:id="@+id/button123tabor"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_10_tajemnica_kr_lestwa_trzeba_si_o_niego_modli"/>
+                    android:text="@string/dzie_10_bo_e_g_ry_g_ra_kuszenia"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

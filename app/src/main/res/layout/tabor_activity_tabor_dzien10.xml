@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="16dp"
+        tools:context=".TaborDzien10"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="@string/dzie_10_bo_e_g_ry_g_ra_kuszenia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView4703"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="4sp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingEnd="10sp"/>
+
+    <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView4703"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="78dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="10sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+            <TextView
+                    android:text="@string/modlitwa"
+                    android:id="@+id/textView4704"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/bo_e_wejrzyj_ku_wspomo_eniu_memu_panie_po_piesz_ku_ratunkowi_memu_chwa_a_ojcu_i_synowi_i_duchowi_wi_temu_jak_by_a_na_pocz_tku_teraz_i_zawsze_i_na_wieki_wiek_w_amen"
+                    android:id="@+id/textView4705"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/rozwa_anie_s_owa"
+                    android:id="@+id/textView4706"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/z_ewangelii_wed_ug_w_mateusza_4_1_3_8_10_wtedy_duch_wyprowadzi_jezusa_na_pustyni_aby_by_kuszony_przez_diab_a_a_gdy_przepo_ci_czterdzie_ci_dni_i_czterdzie_ci_nocy_odczu_w_ko_cu_g_d_wtedy_wzi_go_diabe_na_bardzo_wysok_g_r_pokaza_mu_wszystkie_kr_lestwa_wiata_oraz_ich_przepych_i_rzek_do_niego_dam_ci_to_wszystko_je_li_upadniesz_i_oddasz_mi_pok_on_na_to_odrzek_mu_jezus_id_precz_szatanie_jest_bowiem_napisane_panu_bogu_swemu_b_dziesz_oddawa_pok_on_i_jemu_samemu_s_u_y_b_dziesz"
+                    android:id="@+id/textView4707"
+                    style="@style/paragraf_Text_optimum"
+                    android:padding="7dp"/>
+            <TextView
+                    android:text="@string/rozwa_a_em_ju_kuszenie_pana_jezusa_na_pustyni_w_pierwszej_tajemnicy_wiat_a_dzi_wracam_do_tego_wydarzenia_w_kontek_cie_refleksji_o_bo_ych_g_rach_pustynia_na_kt_rej_przebywa_jezus_jest_g_rzystym_terenem_pielgrzymi_mog_zobaczy_bardzo_strome_zbocza_i_wysokie_szczyty_gdzie_mia_przebywa_jezus_po_chrzcie_w_jordanie"
+                    android:id="@+id/textView4708"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/w_trzeciej_pokusie_z_kt_r_przyst_pi_szatan_pojawia_si_wyra_ne_odniesienie_do_wysokiej_g_ry_diabe_ukaza_jezusowi_wszystkie_kr_lestwa_wiata_oraz_ich_przepych_chodzi_o_wi_c_nie_tyle_o_fizyczn_g_r_ile_o_taki_stan_ducha_kt_ry_pozwala_cz_owiekowi_wyobrazi_wspania_o_d_br_tego_wiata_i_rado_ich_posiadania_szatan_kusi_tymi_dobrami_kolejne_pokolenia_izraelit_w_kusi_nimi_r_wnie_uczni_w_chrystusa_obiecuje_e_bogactwo_i_przepych_b_d_do_nich_nale_e_je_li_tylko_oddadz_mu_pok_on_i_b_d_mu_s_u_y_post_puj_c_tak_jak_on_czyli_odwracaj_c_si_od_boga_i_odrzucaj_c_jego_przykazania"
+                    android:id="@+id/textView46709"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/jezus_ka_e_i_szatanowi_precz_i_odpowiada_e_tylko_bogu_nale_y_si_pok_on_i_tylko_jemu_trzeba_s_u_y"
+                    android:id="@+id/textView4710"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/g_ra_kuszenia_przypomina_wydarzenia_kt_re_rozwa_a_em_w_poprzednich_dniach_w_ka_dym_z_nich_pojawia_y_si_w_pewien_spos_b_pytania_kim_jest_b_g_dla_cz_owieka_komu_cz_owiek_ufa_komu_oddaje_pok_on_i_komu_s_u_y"
+                    android:id="@+id/textView4711"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/odmawiaj_c_r_aniec_prosz_maryj_do_ko_ca_wiern_bogu_abym_zawsze_odrzuca_pokus_szatana_i_ca_e_moje_serce_oddawa_bogu"
+                    android:id="@+id/textView4712"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/dziesi_tek_r_a_ca"
+                    android:id="@+id/textView4713"
+                    style="@style/dziesiatek_rozanca"/>
+            <TextView
+                    android:text="@string/ojcze_nasz_zdrowa_maryjo_chwa_a_ojcu"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView4714"/>
+            <TextView
+                    android:text="@string/akt_strzelisty"
+                    android:id="@+id/textView4715"
+                    style="@style/intencje_modlitwy"/>
+
+            <TextView
+                    android:text="@string/ojcze_niebieski_ze_lij_na_nas_ducha_wi_tego_aby_my_s_uchali_s_w_syna_twojego_i_wprowadzali_je_w_ycie"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView4716"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy"
+                    android:id="@+id/textView4717"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy_wyra_one_swoimi_s_owami"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView4718"
+                    android:textStyle="italic"
+                    android:paddingBottom="70dp"/>
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

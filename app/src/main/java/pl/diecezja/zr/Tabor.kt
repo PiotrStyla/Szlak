@@ -66,10 +66,10 @@ class Tabor : AppCompatActivity() {
             val intentTaborDzien10 = Intent(this, TaborDzien10::class.java)
             startActivity(intentTaborDzien10)
         }
-        val buttonGalileaDzien11 = findViewById<Button>(R.id.button124galilea)
-        buttonGalileaDzien11.setOnClickListener {
-            val intentGalileaDzien11 = Intent(this, GalileaDzien11::class.java)
-            startActivity(intentGalileaDzien11)
+        val buttonTaborDzien11 = findViewById<Button>(R.id.button124tabor)
+        buttonTaborDzien11.setOnClickListener {
+            val intentTaborDzien11 = Intent(this, TaborDzien11::class.java)
+            startActivity(intentTaborDzien11)
         }
         val buttonGalileaDzien12 = findViewById<Button>(R.id.button125galilea)
         buttonGalileaDzien12.setOnClickListener {

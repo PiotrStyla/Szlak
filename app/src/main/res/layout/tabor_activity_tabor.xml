@@ -113,9 +113,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button124galilea"
+                    android:id="@+id/button124tabor"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_11_tajemnica_kr_lestwa_kiedy_nadejdzie_jego_pe_nia"/>
+                    android:text="@string/dzie_11_bo_e_g_ry_g_ra_b_ogos_awie_stw"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

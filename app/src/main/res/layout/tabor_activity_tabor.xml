@@ -137,9 +137,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button128galilea"
+                    android:id="@+id/button128tabor"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_15_b_ogos_awie_stwa_jezus_jest_sprawiedliwy_i_mi_osierny"/>
+                    android:text="@string/dzie_15_g_ra_przemienienia_moj_esz_i_eliasz"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

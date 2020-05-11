@@ -143,9 +143,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button129galilea"
+                    android:id="@+id/button129tabor"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_16_b_ogos_awie_stwa_jezus_ogl_da_boga_i_jest_synem_bo_ym"/>
+                    android:text="@string/dzie_16_g_ra_przemienienia_ob_ok"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

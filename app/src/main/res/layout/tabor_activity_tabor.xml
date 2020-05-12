@@ -167,9 +167,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button133galilea"
+                    android:id="@+id/button133tabor"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_20_nawr_cenie_grzech_osobisty"/>
+                    android:text="@string/dzie_20_ludzka_przemiana_przemiana_serca"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

@@ -53,7 +53,7 @@
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="32dp"
-            app:layout_constraintBottom_toTopOf="@+id/button_Ofiarowanie"/>
+            app:layout_constraintBottom_toTopOf="@+id/button_Tabor"/>
     <Button
             android:text="@string/galilea"
             android:layout_width="150sp"
@@ -65,10 +65,10 @@
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="32dp"/>
     <Button
-            android:text="@string/ofiarowanie"
+            android:text="@string/tabor"
             android:layout_width="150sp"
             android:layout_height="wrap_content"
-            android:id="@+id/button_Ofiarowanie"
+            android:id="@+id/button_Tabor"
             style="@style/button_swiatla_tajemnice"
             app:layout_constraintTop_toBottomOf="@+id/button_Kana"
             app:layout_constraintBottom_toTopOf="@+id/button_Rekolekcje_Radosne"
@@ -92,7 +92,7 @@
             android:id="@+id/button_Rekolekcje_Radosne"
             style="@style/button_swiatla_tajemnice"
             app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/button_Ofiarowanie"
+            app:layout_constraintTop_toBottomOf="@+id/button_Tabor"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="32dp"
             />

@@ -149,9 +149,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button130galilea"
+                    android:id="@+id/button130tabor"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_17_b_ogos_awie_stwa_jezus_cierpi_prze_ladowanie"/>
+                    android:text="@string/dzie_17_g_ra_przemienienia_g_os_ojca"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

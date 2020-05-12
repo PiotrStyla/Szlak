@@ -155,9 +155,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button131galilea"
+                    android:id="@+id/button131tabor"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_18_b_ogos_awie_stwa_w_jezusie_jeste_my_b_ogos_awieni"/>
+                    android:text="@string/dzie_18_g_ra_przemienienia_prze_ycia_uczni_w"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

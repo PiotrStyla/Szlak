@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="16dp"
+        tools:context=".TaborDzien18"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="@string/dzie_18_g_ra_przemienienia_prze_ycia_uczni_w"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView4837"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="4sp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingEnd="10sp"/>
+
+    <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView4837"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="78dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="10sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+            <TextView
+                    android:text="@string/modlitwa"
+                    android:id="@+id/textView4838"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/bo_e_wejrzyj_ku_wspomo_eniu_memu_panie_po_piesz_ku_ratunkowi_memu_chwa_a_ojcu_i_synowi_i_duchowi_wi_temu_jak_by_a_na_pocz_tku_teraz_i_zawsze_i_na_wieki_wiek_w_amen"
+                    android:id="@+id/textView4839"
+                    style="@style/paragraf_Text_optimum"/>
+            <TextView
+                    android:text="@string/rozwa_anie_s_owa"
+                    android:id="@+id/textView4840"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_9_32_33_tymczasem_piotr_i_towarzysze_snem_byli_zmorzeni_gdy_si_ockn_li_ujrzeli_jego_chwa_i_obydw_ch_m_w_stoj_cych_przy_nim_gdy_oni_odchodzili_od_niego_piotr_rzek_do_jezusa_mistrzu_dobrze_e_tu_jeste_my"
+                    android:id="@+id/textView4841"
+                    style="@style/paragraf_Text_optimum"
+                    android:padding="7dp"/>
+            <TextView
+                    android:text="@string/z_ewangelii_wed_ug_w_mateusza_17_6_9_uczniowie_s_ysz_c_to_upadli_na_twarz_i_bardzo_si_zl_kli_a_jezus_zbli_y_si_do_nich_dotkn_ich_i_rzek_wsta_cie_nie_l_kajcie_si_gdy_podnie_li_oczy_nikogo_nie_widzieli_tylko_samego_jezusa_a_gdy_schodzili_z_g_ry_jezus_przykaza_im_m_wi_c_nie_opowiadajcie_nikomu_o_tym_widzeniu_a_syn_cz_owieczy_zmartwychwstanie"
+                    android:id="@+id/textView4842"
+                    style="@style/paragraf_Text_optimum"
+                    android:padding="7dp"/>
+            <TextView
+                    android:text="@string/w_ukasz_wspomina_najpierw_o_zm_czeniu_aposto_w_i_ich_senno_ci_by_mo_e_intensywnie_prze_ywali_wcze_niej_wi_to_namiot_w_a_teraz_byli_zm_czeni_wchodzeniem_na_wysok_g_r_jezus_si_modli_a_ich_ogarnia_sen_dopiero_gdy_zobaczyli_moj_esza_i_eliasza_zaanga_owali_si_w_pe_ni_w_dziej_ce_si_wydarzenia"
+                    android:id="@+id/textView4843"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/drugim_prze_yciem_aposto_w_by_o_uniesienie_duchowe_wyrazi_o_si_ono_w_s_owach_piotra_dobrze_e_tu_jeste_my_w_anastazy_w_czytaniu_liturgii_godzin_na_wi_to_przemienienia_pa_skiego_pisze_bez_w_tpienia_piotrze_rzeczywi_cie_dobrze_nam_tu_by_z_jezusem_i_na_zawsze_tu_pozosta_c_bardziej_szcz_liwego_c_wznio_lejszego_c_wspanialszego_jak_by_z_bogiem_do_niego_si_upodabnia_i_trwa_w_jego_wiat_o_ci_oto_ka_dy_z_nas_maj_c_boga_w_swoim_sercu_przemieniony_na_obraz_bo_y_niechaj_zawo_a_z_rado_ci_dobrze_nam_tu_by_gdzie_wszystko_wype_nione_jest_wiat_em_gdzie_panuje_szcz_cie_rado_i_wesele_gdzie_wszystko_w_naszym_sercu_jest_pokojem_pogod_i_s_odycz_gdzie_ogl_da_si_boga"
+                    android:id="@+id/textView4844"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/jednak_na_tym_wznios_ym_prze_yciu_aposto_w_nie_zako_czy_y_si_wydarzenia_na_g_rze_tabor_os_oni_ich_ob_ok_us_yszeli_g_os_ojca_niebieskiego_i_wtedy_si_przel_kli_ewangeli_ci_pisz_upadli_na_twarz_i_bardzo_si_zl_kli_mistyczne_uniesienie_odesz_o_pojawi_si_strach_gdy_to_co_prze_ywali_by_zbyt_niezwyk_e_jezus_wi_c_zbli_y_si_do_nich_dotkn_ich_i_rzek_wsta_cie_nie_l_kajcie_si_poleci_im_r_wnie_aby_o_tym_nie_opowiadali_a_syn_cz_owieczy_zmartwychwstanie_dopiero_wtedy_wyja_ni_si_znaczenie_tego_niezwyk_ego_wydarzenia"
+                    android:id="@+id/textView4845"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/ko_cz_c_ten_tydzie_modlitwy_i_refleksji_nad_tajemnic_przemienienia_jezusa_na_g_rze_tabor_dzi_kuj_bogu_za_wiat_o_i_si_za_objawienie_swego_zbawczego_planu_kt_ry_realizuje_on_na_przestrzeni_wiek_w"
+                    android:id="@+id/textView4846"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/dziesi_tek_r_a_ca"
+                    android:id="@+id/textView4847"
+                    style="@style/dziesiatek_rozanca"/>
+            <TextView
+                    android:text="@string/ojcze_nasz_zdrowa_maryjo_chwa_a_ojcu"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView4848"/>
+            <TextView
+                    android:text="@string/akt_strzelisty"
+                    android:id="@+id/textView4849"
+                    style="@style/intencje_modlitwy"/>
+
+            <TextView
+                    android:text="@string/ojcze_niebieski_ze_lij_na_nas_ducha_wi_tego_aby_my_s_uchali_s_w_syna_twojego_i_wprowadzali_je_w_ycie"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView4850"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy"
+                    android:id="@+id/textView4851"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy_wyra_one_swoimi_s_owami"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView4852"
+                    android:textStyle="italic"
+                    android:paddingBottom="70dp"/>
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

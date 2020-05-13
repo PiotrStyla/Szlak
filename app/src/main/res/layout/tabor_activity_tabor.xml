@@ -173,9 +173,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button134galilea"
+                    android:id="@+id/button134tabor"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_21_nawr_cenie_dar_boga"/>
+                    android:text="@string/dzie_21_ludzka_przemiana_przemiana_woli"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

@@ -185,9 +185,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button136galilea"
+                    android:id="@+id/button136tabor"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_23_nawr_cenie_pierwsze_nawr_cenie"/>
+                    android:text="@string/dzie_23_ludzka_przemiana_przemiana_pragnie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

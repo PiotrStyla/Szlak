@@ -197,13 +197,13 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button138galilea"
+                    android:id="@+id/button138tabor"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_25_nawr_cenie_trzecie_nawr_cenie"/>
+                    android:text="@string/dzie_25_ludzka_przemiana_przemiana_ycia"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button139galilea"
+                    android:id="@+id/button139tabor"
                     style="@style/button_dni_swiatlo_padding"
                     android:text="@string/dzie_26_ostatnie_dni_dzi_kczynienie"/>
             <Button

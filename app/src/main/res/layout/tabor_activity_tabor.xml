@@ -191,9 +191,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button137galilea"
+                    android:id="@+id/button137tabor"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_24_nawr_cenie_drugie_nawr_cenie"/>
+                    android:text="@string/dzie_24_ludzka_przemiana_przemiana_relacji"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

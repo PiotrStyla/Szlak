@@ -215,13 +215,13 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button141galilea"
+                    android:id="@+id/button141tabor"
                     style="@style/button_dni_swiatlo_padding"
                     android:text="@string/dzie_28_pokuta_i_eucharystia"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button142galilea"
+                    android:id="@+id/button142tabor"
                     style="@style/button_dni_swiatlo_padding"
                     android:text="@string/dzie_29_podsumowanie"/>
             <Button

@@ -76,10 +76,10 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="@+id/button_Galilea"/>
     <Button
-            android:text="@string/odnalezienie1"
+            android:text="@string/wieczernik"
             android:layout_width="150sp"
             android:layout_height="wrap_content"
-            android:id="@+id/button_Odnalezienie"
+            android:id="@+id/button_Wieczernik"
             style="@style/button_swiatla_tajemnice"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintHorizontal_bias="0.5"
@@ -92,8 +92,8 @@
             android:layout_height="wrap_content"
             android:id="@+id/button_Rekolekcje_Radosne"
             style="@style/button_swiatla_tajemnice"
-            app:layout_constraintStart_toEndOf="@+id/button_Odnalezienie"
+            app:layout_constraintStart_toEndOf="@+id/button_Wieczernik"
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toTopOf="@+id/button_Odnalezienie"/>
+            app:layout_constraintTop_toTopOf="@+id/button_Wieczernik"/>
 </android.support.constraint.ConstraintLayout>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".TaborWstep"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="@string/tabor_wst_p"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView5039"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+    <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView5039"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="38dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="5sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+            <TextView
+                    android:text="@string/ko_ci_otrzyma_eucharysti_od_chrystusa_swojego_pana_nie_jako_jeden_z_wielu_cennych_dar_w_ale_jako_dar_najwi_kszy_poniewa_jest_to_dar_z_samego_siebie_z_w_asnej_osoby_w_jej_wi_tym_cz_owiecze_stwie_jak_te_dar_jego_dzie_a_zbawienia_nie_pozostaje_ono_ograniczone_do_przesz_o_ci_skoro_to_kim_chrystus_jest_to_co_uczyni_i_co_wycierpia_dla_wszystkich_ludzi_uczestniczy_w_wieczno_ci_bo_ej_przekracza_wszelkie_czasy_i_jest_w_nich_stale_obecne_napisa_ojciec_wi_ty_jan_pawe_ii_w_encyklice_ecclesia_de_eucharistia_nr_11_skr_t_ede"
+                    android:id="@+id/textView5040"
+                    style="@style/paragraf_Text"/>
+            <TextView
+                    android:text="@string/najwi_kszy_dar_budzi_najwi_ksze_zainteresowanie_rodzi_najwi_ksz_wdzi_czno_mobilizuje_do_najg_bszej_refleksji_ze_wzgl_du_na_to_wielorakie_naj_miesi_czna_medytacja_r_a_cowa_o_tajemnicy_eucharystii_jest_r_wnocze_nie_naj_atwiejsza_i_najtrudniejsza_jest_naj_atwiejsza_gdy_codziennie_uczestnicz_eucharystii_podobnie_jak_inni_kap_ani_i_wielu_wiernych_wieckich_jest_to_wi_c_medytacja_o_czym_znanym_i_stale_prze_ywanym"
+                    android:id="@+id/textView5041"
+                    style="@style/paragraf_Text" />
+            <TextView
+                    android:text="@string/jest_to_r_wnocze_nie_medytacja_najtrudniejsza_gdy_eucharystia_kryje_w_sobie_wszystkie_inne_tajemnice_wszystko_o_czym_my_la_em_w_tajemnicach_radosnych_i_tajemnicach_wiat_a_a_tak_e_to_o_czym_b_d_rozwa_a_w_tajemnicach_bolesnych_i_chwalebnych_spotykam_w_eucharystii_ca_e_ycie_jezusa_od_chwili_pocz_cia_poprzez_czas_nazaretu_publicznej_dzia_alno_ci_nast_pnie_przez_m_k_i_zmartwychwstanie_a_do_udzia_u_w_uczcie_niebieskiej_gdzie_zbawiciel_obecnie_przebywa_staje_si_obecne_w_prostym_obrz_dzie_pod_os_on_znak_w_i_gest_w_modlitw_i_piew_w"
+                    android:id="@+id/textView5042"
+                    style="@style/paragraf_Text" />
+            <TextView
+                    android:text="@string/jakie_medytacje_wybra_na_miesi_czne_rozwa_anie_tej_tajemnicy_mo_liwo_ci_jest_wiele_w_mojej_bibliotece_ksi_ki_o_eucharystii_zajmuj_kilka_p_ek_a_ka_de_opracowanie_jest_jak_inspiracj_wybra_em_rozwa_ania_szczeg_lnego_mistrza_prze_ywania_eucharystii_i_wyja_niania_jej_tajemnicy_w_jana_paw_a_ii_chodzi_nie_tylko_o_same_rozwa_ania_ale_tak_e_o_pewn_postaw_papie_pisze_e_my_l_o_naj_wi_tszej_eucharystii_rodzi_w_nas_uczucia_wielkiego_i_wdzi_cznego_zdumienia_to_zdumienie_winno_zawsze_od_ywa_w_ko_ciele_zgromadzonym_na_sprawowaniu_eucharystii_pragn_to_eucharystyczne_zdumienie_rozbudzi_nr_5_6_modl_si_do_w_jana_paw_a_ii_aby_moje_zdumienie_wobec_wielko_ci_eucharystii_nieustannie_ros_o"
+                    android:id="@+id/textView5043"
+                    style="@style/paragraf_Text"
+                    android:padding="7dp"/>
+            <TextView
+                    android:text="@string/wskazania_mistrz_w"
+                    android:id="@+id/textView5044"
+                    style="@style/paragraf_Text"
+                    android:textStyle="bold"
+                    android:paddingBottom="7dp"/>
+            <TextView
+                    android:text="@string/powracam_tak_e_w_tym_miesi_cu_do_wskaza_w_jana_paw_a_ii_zawartych_w_li_cie_apostolskim_o_r_a_cu_zach_ca_on_wszystkich_do_kontemplowania_wraz_z_maryj_tajemnicy_chrystusa_papie_wymienia_cztery_rodzaje_dzia_ania_uczy_si_chrystusa_upodabnia_si_do_chrystusa_prosi_chrystusa_oraz_g_osi_chrystusa_chc_zatrzyma_si_przy_ka_dej_z_nich"
+                    android:id="@+id/textView5045"
+                    style="@style/paragraf_Text"
+                    android:layout_marginBottom="7dp"/>
+            <TextView
+                    android:text="@string/uczy_si_chrystusa_od_maryi"
+                    android:id="@+id/textView5046"
+                    style="@style/paragraf_Text"
+                    android:paddingBottom="7dp"
+                    android:textAllCaps="true" />
+            <TextView
+                    android:text="@string/chrystus_jest_nauczycielem_w_ca_ym_tego_s_owa_znaczeniu_jest_objawiaj_cym_i_samym_objawieniem_nie_chodzi_jedynie_o_nauczenie_si_tego_co_g_osi_ale_o_nauczenie_si_jego_samego_jaka_nauczycielka_by_aby_w_tym_bieglejsza_ni_maryja_je_li_ze_strony_boga_to_duch_wi_ty_jest_wewn_trznym_nauczycielem_kt_ry_prowadzi_nas_do_pe_nej_prawdy_o_chrystusie_por_j_14_26_15_26_16_13_w_r_d_istot_stworzonych_nikt_lepiej_od_niej_nie_zna_chrystusa_nikt_nie_mo_e_tak_jak_matka_wprowadzi_nas_w_g_bok_znajomo_jego_misterium"
+                    android:id="@+id/textView5047"
+                    style="@style/paragraf_Text"
+                    android:layout_marginBottom="7dp"/>
+            <TextView
+                    android:text="@string/pierwszy_ze_znak_w_jakie_uczyni_jezus_przemienienie_wody_w_wino_na_weselu_w_kanie_ukazuje_nam_maryj_w_a_nie_w_roli_nauczycielki_gdy_zach_ca_s_ugi_do_wykonania_polece_chrystusa_por_j_2_5_mo_emy_sobie_wyobrazi_e_tak_rol_spe_nia_a_ona_wobec_uczni_w_po_wniebowst_pieniu_jezusa_gdy_pozosta_a_z_nimi_oczekuj_c_na_ducha_wi_tego_i_umacnia_a_ich_w_pierwszej_misji_przechodzi_z_maryj_przez_sceny_r_a_ca_to_jakby_by_w_szkole_maryi_by_czyta_chrystusa_by_wnika_w_jego_tajemnice_by_zrozumie_jego_przes_anie"
+                    android:id="@+id/textView5048"
+                    style="@style/paragraf_Text"/>
+            <TextView
+                    android:text="@string/szko_a_maryi_okazuje_si_tym_skuteczniejsza_je_li_pomy_le_e_prowadzi_j_ta_kt_ra_uzyskuje_dla_nas_w_obfito_ci_dary_ducha_wi_tego_a_zarazem_daje_nam_przyk_ad_owej_pielgrzymki_wiary_w_kt_rej_jest_niezr_wnan_mistrzyni_wobec_ka_dej_tajemnicy_swego_syna_zach_ca_nas_ona_jak_to_by_o_przy_zwiastowaniu_do_zadawania_z_pokor_pyta_kt_re_otwieraj_na_wiat_o_by_na_koniec_okaza_zawsze_pos_usze_stwo_wiary_oto_ja_s_u_ebnica_pa_ska_niech_mi_si_stanie_wed_ug_twego_s_owa_k_1_38"
+                    android:id="@+id/textView5049"
+                    style="@style/paragraf_Text"
+                    android:layout_marginBottom="7dp"/>
+            <TextView
+                    android:text="@string/upodabnia_si_do_chrystusa_z_maryj"
+                    android:id="@+id/textView5050"
+                    style="@style/paragraf_Text"
+                    android:paddingBottom="7dp"
+                    android:textAllCaps="true" />
+            <TextView
+                    android:text="@string/istotnym_znamieniem_duchowo_ci_chrze_cija_skiej_jest_wysi_ek_ucznia_by_upodabnia_si_coraz_bardziej_do_swego_mistrza_por_rz_8_29_flp_3_10_21_wylanie_ducha_wi_tego_w_chrzcie_wszczepia_wierz_cego_jako_latoro_l_w_krzew_winny_kt_rym_jest_chrystus_por_j_15_5_czyni_go_cz_onkiem_jego_mistycznego_cia_a_por_1_kor_12_12_rz_12_5_tej_istniej_cej_od_pocz_tku_jedno_ci_musi_jednak_odpowiada_droga_coraz_wi_kszego_upodabniania_si_do_niego_kt_re_winno_coraz_bardziej_ukierunkowywa_post_powanie_ucznia_zgodnie_z_logik_chrystusa_to_d_enie_niech_was_o_ywia_ono_te_by_o_w_chrystusie_jezusie_flp_2_5_zgodnie_ze_s_owami_aposto_a_trzeba_przyoblec_si_w_chrystusa_rz_13_14_ga_3_27"
+                    android:id="@+id/textView5051"
+                    style="@style/paragraf_Text" />
+            <TextView
+                    android:text="@string/na_duchowej_drodze_r_a_ca_opartej_na_nieustannym_kontemplowaniu_razem_z_maryj_chrystusowego_oblicza_ten_wymagaj_cy_idea_upodabniania_si_do_niego_jest_osi_gany_przez_obcowanie_kt_re_mogliby_my_nazwa_przyjacielskim_wprowadza_nas_ono_w_naturalny_spos_b_w_ycie_chrystusa_i_pozwala_nam_jakby_oddycha_jego_uczuciami_w_zwi_zku_z_tym_b_bart_omiej_longo_stwierdza_jak_dw_ch_przyjaci_kt_rzy_cz_sto_razem_przestaj_zazwyczaj_upodabnia_si_r_wnie_w_obyczajach_tak_te_my_prowadz_c_serdeczne_rozmowy_z_jezusem_i_maryj_przez_medytowanie_tajemnic_r_a_ca_i_rozwijaj_c_razem_to_samo_ycie_przez_komuni_mo_emy_na_ile_by_aby_do_tego_zdolna_nasza_ma_o_sta_si_do_nich_podobni_i_nauczy_si_od_tych_najwy_szych_przyk_ad_w_ycia_pokornego_ubogiego_ukrytego_cierpliwego_i_doskona_ego_gdy_chodzi_o_ten_proces_upodabniania_si_do_chrystusa_przez_r_aniec_zawierzamy_si_szczeg_lnie_macierzy_skiemu_dzia_aniu_naj_wi_tszej_dziewicy_ta_kt_ra_jest_rodzicielk_chrystusa_sama_nale_c_do_ko_cio_a_jako_jego_najznakomitszy_i_ca_kiem_szczeg_lny_cz_onek_jest_r_wnocze_nie_matk_ko_cio_a_b_d_c_ni_ustawicznie_rodzi_dzieci_mistycznego_cia_a_swego_syna_czyni_to_poprzez_wstawiennictwo_wypraszaj_c_dla_nich_niewyczerpane_wylanie_ducha_jest_ona_doskona_ikon_macierzy_stwa_ko_cio_a"
+                    android:id="@+id/textView5052"
+                    style="@style/paragraf_Text"/>
+            <TextView
+                    android:text="@string/r_aniec_przenosi_nas_mistycznie_by_my_stan_li_u_boku_maryi_troszcz_cej_si_o_ludzkie_wzrastanie_chrystusa_w_domu_w_nazarecie_pozwala_jej_to_wychowywa_nas_i_kszta_towa_z_t_sam_pieczo_owito_ci_dop_ki_chrystus_w_pe_ni_si_w_nas_nie_ukszta_tuje_por_ga_4_19_to_dzia_anie_maryi_oparte_ca_kowicie_na_dzia_aniu_chrystusa_i_zupe_nie_mu_podporz_dkowane_nie_przeszkadza_w_aden_spos_b_bezpo_redniej_czno_ci_wiernych_z_chrystusem_ale_j_umacnia_jest_to_jasna_zasada_wyra_ona_przez_sob_r_watyka_ski_ii_mocno_do_wiadczy_em_tej_prawdy_w_moim_yciu_i_uczyni_em_z_niej_podstaw_mojej_dewizy_biskupiej_totus_tuus_inspiracj_tej_dewizy_jest_jak_wiadomo_doktryna_w_ludwika_marii_grignion_de_montforta_kt_ry_tak_wyja_nia_rol_maryi_w_procesie_upodabniania_ka_dego_z_nas_do_chrystusa_poniewa_ca_a_doskona_o_nasza_polega_na_upodobnieniu_si_do_chrystusa_pana_na_zjednoczeniu_z_nim_i_po_wi_ceniu_si_jemu_przeto_najdoskonalszym_ze_wszystkich_nabo_e_stw_jest_bezspornie_to_kt_re_nas_najdoskonalej_upodabnia_do_chrystusa_naj_ci_lej_z_nim_jednoczy_i_ca_kowicie_jemu_po_wi_ca_a_e_ze_wszystkich_stworze_najpodobniejsza_do_chrystusa_pana_jest_matka_naj_wi_tsza_wynika_st_d_e_spo_r_d_wszystkich_nabo_e_stw_tym_kt_re_dusz_najlepiej_po_wi_ca_zbawicielowi_naszemu_i_j_z_nim_jednoczy_jest_nabo_e_stwo_do_naj_wi_tszej_panny_jego_wi_tej_matki_im_bardziej_po_wi_cona_jest_maryi_tym_zupe_niej_nale_e_b_dzie_do_jezusa_nigdzie_drogi_chrystusa_i_maryi_nie_jawi_si_tak_ci_le_z_czone_jak_w_r_a_cu_maryja_yje_tylko_i_wy_cznie_w_chrystusie_i_ze_wzgl_du_na_chrystusa"
+                    android:id="@+id/textView5053"
+                    style="@style/paragraf_Text"
+                    android:layout_marginBottom="7dp"/>
+            <TextView
+                    android:text="@string/prosi_chrystusa_z_maryj"
+                    android:id="@+id/textView5054"
+                    style="@style/paragraf_Text"
+                    android:textAllCaps="true"
+                    android:padding="7dp"/>
+            <TextView
+                    android:text="@string/chrystus_poleci_nam_zwraca_si_do_boga_wytrwale_i_ufnie_by_my_zostali_wys_uchani_pro_cie_a_b_dzie_wam_dane_szukajcie_a_znajdziecie_ko_aczcie_a_otworz_wam_mt_7_7_podstaw_tej_skuteczno_ci_modlitwy_jest_dobro_ojca_ale_r_wnie_po_rednictwo_u_niego_ze_strony_samego_chrystusa_por_1j_2_1_i_dzia_anie_ducha_wi_tego_kt_ry_przyczynia_si_za_nami_zgodnie_z_wol_bo_por_rz_8_26_27_my_bowiem_nie_umiemy_si_modli_tak_jak_trzeba_rz_8_26_i_czasem_nie_zostajemy_wys_uchani_gdy_modlimy_si_le_por_jk_4_2_3"
+                    android:id="@+id/textView5055"
+                    style="@style/paragraf_Text" />
+            <TextView
+                    android:text="@string/modlitw_kt_r_chrystus_i_duch_wi_ty_wzbudzaj_w_naszym_sercu_maryja_wspiera_swym_matczynym_wstawiennictwem_modlitwa_ko_cio_a_jest_jakby_prowadzona_przez_modlitw_maryi_je_li_bowiem_chrystus_jedyny_po_rednik_jest_drog_naszej_modlitwy_to_maryja_najpe_niej_ja_niej_ca_jego_blaskiem_ukazuje_drog_na_podstawie_tego_szczeg_lnego_wsp_dzia_ania_maryi_z_dzia_aniem_ducha_wi_tego_ko_cio_y_rozwin_y_modlitw_do_wi_tej_matki_boga_skupiaj_c_j_na_osobie_chrystusa_ukazanej_w_jego_misteriach_na_weselu_w_kanie_galilejskiej_ewangelia_przedstawia_w_a_nie_skuteczno_wstawiennictwa_maryi_kt_ra_wyst_puje_wobec_jezusa_jako_rzeczniczka_ludzkich_potrzeb_nie_maj_ju_wina_j_2_3"
+                    android:id="@+id/textView5056"
+                    style="@style/paragraf_Text" />
+            <TextView
+                    android:text="@string/r_aniec_jest_r_wnocze_nie_medytacj_i_pro_b_wytrwa_e_b_aganie_zanoszone_do_matki_bo_ej_opiera_si_na_ufno_ci_e_macierzy_skie_wstawiennictwo_wszystko_mo_e_uzyska_od_serca_syna_jest_ona_wszechmocna_z_aski_jak_u_ywaj_c_mia_ego_wyra_enia_kt_re_nale_y_w_a_ciwie_rozumie_okre_li_to_b_bart_omiej_longo_w_swej_suplice_do_kr_lowej_r_a_ca_wi_tego_to_przekonanie_pocz_wszy_od_ewangelii_umacnia_o_si_w_ludzie_chrze_cija_skim_na_drodze_do_wiadczenia_wielki_poeta_dante_wspaniale_je_wyrazi_w_duchu_w_bernarda_pani_tej_jeste_mocy_i_szczodroty_e_kto_chc_c_aski_do_ci_nie_ucieka_taki_bez_skrzyde_wa_y_si_na_loty_w_r_a_cu_b_agamy_maryj_przybytek_ducha_wi_tego_por_k_1_35_a_ona_staje_przed_ojcem_kt_ry_obdarzy_j_pe_ni_ask_i_przed_synem_zrodzonym_z_jej_ona_modl_c_si_z_nami_i_za_nas"
+                    android:id="@+id/textView5057"
+                    style="@style/paragraf_Text"
+                    android:padding="7dp"/>
+            <TextView
+                    android:text="@string/g_osi_chrystusa_z_maryj"
+                    android:id="@+id/textView5058"
+                    style="@style/paragraf_Text"
+                    android:textAllCaps="true"
+                    android:padding="7dp"/>
+            <TextView
+                    android:text="@string/r_aniec_jest_tak_e_drog_g_oszenia_i_zg_biania_misterium_chrystusa_na_kt_rej_ono_wci_na_nowo_przedstawia_si_na_r_nych_p_aszczyznach_do_wiadczenia_chrze_cija_skiego_wzorcem_jest_modlitewna_i_kontemplacyjna_prezentacja_kt_rej_celem_jest_ukszta_towanie_ucznia_wed_ug_serca_chrystusa_kiedy_bowiem_w_modlitwie_r_a_cowej_uwzgl_dni_si_odpowiednio_wszystkie_elementy_aby_medytacja_by_a_skuteczna_zw_aszcza_przy_odmawianiu_wsp_lnotowym_w_parafiach_i_sanktuariach_powstaje_szczeg_lna_sposobno_katechezy_kt_r_duszpasterze_winni_umie_wykorzysta_matka_bo_a_r_a_cowa_r_wnie_w_ten_spos_b_prowadzi_dalej_swe_dzie_o_g_oszenia_chrystusa_historia_r_a_ca_pokazuje_jak_tej_modlitwy_u_ywali_zw_aszcza_dominikanie_gdy_ko_ci_prze_ywa_trudne_chwile_z_powodu_szerzenia_si_herezji_dzi_stoimy_wobec_nowych_wyzwa_czemu_nie_wzi_znowu_do_r_ki_koronki_z_wiar_tych_kt_rzy_byli_przed_nami_r_aniec_zachowuje_ca_sw_moc_i_pozostaje_narz_dziem_nie_do_pomini_cia_po_r_d_rodk_w_duszpasterskich_ka_dego_dobrego_g_osiciela_ewangelii"
+                    android:id="@+id/textView5059"
+                    style="@style/paragraf_Text"
+                    android:padding="7dp"/>
+            <TextView
+                    android:text="@string/akt_strzelisty"
+                    android:id="@+id/textView4528"
+                    style="@style/paragraf_Text"
+                    android:paddingBottom="7dp"
+                    android:textAllCaps="true" />
+            <TextView
+                    android:text="@string/codziennie_chc_powtarza_modlitw_o_ask_g_bszego_poznania_tajemnicy_eucharystii_i_prze_ywania_jej_na_miar_jej_wielko_ci"
+                    android:id="@+id/textView4529"
+                    style="@style/paragraf_Text"
+                    android:textStyle="italic"
+                    android:paddingBottom="7dp"/>
+            <TextView
+                    android:text="@string/objaw_nam_panie_niezg_bion_tajemnic_eucharystii_aby_ros_o_nasze_zdumienie_wobec_jej_wielko_ci_i_aby_wszyscy_wierz_cy_w_ciebie_prze_ywali_j_jako_r_d_o_i_szczyt_ca_ego_ich_ycia"
+                    android:id="@+id/textView4530"
+                    style="@style/paragraf_Text"
+                    android:textStyle="bold"
+                    android:paddingBottom="70dp"
+                    android:textAlignment="center"/>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

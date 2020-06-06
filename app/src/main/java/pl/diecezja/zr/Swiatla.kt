@@ -32,10 +32,10 @@ class Swiatla : AppCompatActivity() {
             val intent6 = Intent(this, Tabor::class.java)
             startActivity(intent6)
         }
-        val button_radosne_do_odnalezienie  = findViewById (R.id.button_Odnalezienie) as Button
-        button_radosne_do_odnalezienie.setOnClickListener {
-            val intent6 = Intent(this, Odnalezienie::class.java)
-            startActivity(intent6)
+        val button_swiatla_do_wieczernik  = findViewById (R.id.button_Wieczernik) as Button
+        button_swiatla_do_wieczernik.setOnClickListener {
+            val intent7 = Intent(this, Wieczernik::class.java)
+            startActivity(intent7)
         }
         val button_radosne_do_rekolekcje  = findViewById (R.id.button_Rekolekcje_Radosne) as Button
         button_radosne_do_rekolekcje.setOnClickListener {

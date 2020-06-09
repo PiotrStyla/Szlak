@@ -10,7 +10,8 @@
 
     <ScrollView
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="match_parent"
+            tools:ignore="UselessParent">
         <LinearLayout android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
@@ -51,22 +52,22 @@
                     style="@style/button_Jordan_Wstep"
                     android:layout_marginBottom="12dp"/>
             <Button
-                    android:text="@string/dzie_1_pro_ba_o_dar_prowadzenia"
+                    android:text="@string/dzie_1_skarb_ko_cio_a_i_serce_wiata"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button114tabor"
+                    android:id="@+id/button114wieczernik"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
-                    android:text="@string/dzie_2_pro_ba_o_wytrwa_o"
+                    android:text="@string/dzie_2_kosmiczny_wymiar_eucharystii"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button115tabor"
+                    android:id="@+id/button115wieczernik"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
-                    android:text="@string/dzie_3_pro_ba_o_oczyszczenie_serca"
+                    android:text="@string/dzie_3_spotkanie_nieba_i_ziemi"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button116tabor"
+                    android:id="@+id/button116wieczernik"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
                     android:text="@string/dzie_4_pro_ba_o_pomoc_aposto_w"

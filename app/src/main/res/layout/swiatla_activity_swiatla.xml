@@ -79,7 +79,7 @@
             android:text="@string/wieczernik"
             android:layout_width="150sp"
             android:layout_height="wrap_content"
-            android:id="@+id/button_Wieczernik"
+            android:id="@+id/buttonWieczernik"
             style="@style/button_swiatla_tajemnice"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintHorizontal_bias="0.5"
@@ -92,8 +92,8 @@
             android:layout_height="wrap_content"
             android:id="@+id/button_Rekolekcje_Radosne"
             style="@style/button_swiatla_tajemnice"
-            app:layout_constraintStart_toEndOf="@+id/button_Wieczernik"
+            app:layout_constraintStart_toEndOf="@+id/buttonWieczernik"
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toTopOf="@+id/button_Wieczernik"/>
+            app:layout_constraintTop_toTopOf="@+id/buttonWieczernik"/>
 </android.support.constraint.ConstraintLayout>

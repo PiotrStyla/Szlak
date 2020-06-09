@@ -135,19 +135,19 @@
                     android:padding="7dp"/>
             <TextView
                     android:text="@string/akt_strzelisty"
-                    android:id="@+id/textView4528"
+                    android:id="@+id/textView5060"
                     style="@style/paragraf_Text"
                     android:paddingBottom="7dp"
                     android:textAllCaps="true" />
             <TextView
                     android:text="@string/codziennie_chc_powtarza_modlitw_o_ask_g_bszego_poznania_tajemnicy_eucharystii_i_prze_ywania_jej_na_miar_jej_wielko_ci"
-                    android:id="@+id/textView4529"
+                    android:id="@+id/textView5061"
                     style="@style/paragraf_Text"
                     android:textStyle="italic"
                     android:paddingBottom="7dp"/>
             <TextView
                     android:text="@string/objaw_nam_panie_niezg_bion_tajemnic_eucharystii_aby_ros_o_nasze_zdumienie_wobec_jej_wielko_ci_i_aby_wszyscy_wierz_cy_w_ciebie_prze_ywali_j_jako_r_d_o_i_szczyt_ca_ego_ich_ycia"
-                    android:id="@+id/textView4530"
+                    android:id="@+id/textView5062"
                     style="@style/paragraf_Text"
                     android:textStyle="bold"
                     android:paddingBottom="70dp"

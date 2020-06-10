@@ -107,15 +107,15 @@
             <TextView
                     android:text="@string/spraw_aby_my_mogli_nie_tyle_szuka_pociechy_co_pociech_dawa_nie_tyle_szuka_zrozumienia_co_rozumie_nie_tyle_szuka_mi_o_ci_co_kocha_albowiem_daj_c_otrzymujemy_wybaczaj_c_zyskujemy_przebaczenie_a_umieraj_c_rodzimy_si_do_wiecznego_ycia"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView4596"/>
+                    android:id="@+id/textView5116"/>
             <TextView
                     android:text="@string/spraw_aby_my_mogli_nie_tyle_szuka_pociechy_co_pociech_dawa_nie_tyle_szuka_zrozumienia_co_rozumie_nie_tyle_szuka_mi_o_ci_co_kocha_albowiem_daj_c_otrzymujemy_wybaczaj_c_zyskujemy_przebaczenie_a_umieraj_c_rodzimy_si_do_wiecznego_ycia"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView5116"/>
+                    android:id="@+id/textView5117"/>
             <TextView
                     android:text="@string/przez_chrystusa_pana_naszego_amen"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView5117"
+                    android:id="@+id/textView5118"
                     android:textStyle="italic"
                     android:paddingBottom="70dp"/>
 

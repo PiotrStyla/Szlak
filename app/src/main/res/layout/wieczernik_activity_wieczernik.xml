@@ -126,9 +126,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button126tabor"
+                    android:id="@+id/button126wieczernik"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_13_g_ra_przemienienia"/>
+                    android:text="@string/dzie_13_eucharystia_buduje_ko_ci_eucharystia_a_wzrost_ko_cio_a"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

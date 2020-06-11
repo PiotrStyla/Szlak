@@ -88,10 +88,10 @@
                     android:id="@+id/button119wieczernik"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
-                    android:text="@string/dzie_7_bo_e_g_ry_g_ra_syjon"
+                    android:text="@string/dzie_7_misterium_eucharystii_tajemnica_zmartwychwstania"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button120tabor"
+                    android:id="@+id/button120wieczernik"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
                     android:text="@string/dzie_8_bo_e_g_ry_g_ra_karmel"

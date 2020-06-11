@@ -114,9 +114,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button124tabor"
+                    android:id="@+id/button124wieczernik"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_11_bo_e_g_ry_g_ra_b_ogos_awie_stw"/>
+                    android:text="@string/dzie_11_misterium_eucharystii_tajemnica_chrze_cija_skiego_ycia"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

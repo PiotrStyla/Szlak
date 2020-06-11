@@ -120,9 +120,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button125tabor"
+                    android:id="@+id/button125wieczernik"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_12_g_ra_przemienienia_po_sze_ciu_dniach"/>
+                    android:text="@string/dzie_12_eucharystia_buduje_ko_ci_eucharystia_a_pocz_tek_ko_cio_a"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

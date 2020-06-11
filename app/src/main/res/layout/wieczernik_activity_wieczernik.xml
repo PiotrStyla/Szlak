@@ -100,10 +100,10 @@
                     android:id="@+id/button121wieczernik"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
-                    android:text="@string/dzie_9_bo_e_g_ry_g_ra_horeb"
+                    android:text="@string/dzie_9_misterium_eucharystii_tajemnica_oczekiwania_na_pe_ni"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button122tabor"
+                    android:id="@+id/button122wieczernik"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
                     android:layout_width="match_parent"

@@ -62,10 +62,10 @@ class Wieczernik : AppCompatActivity() {
             val intentWieczernikDzien9 = Intent(this, WieczernikDzien9::class.java)
             startActivity(intentWieczernikDzien9)
         }
-        val buttonTaborDzien10 = findViewById<Button>(R.id.button123tabor)
-        buttonTaborDzien10.setOnClickListener {
-            val intentTaborDzien10 = Intent(this, TaborDzien10::class.java)
-            startActivity(intentTaborDzien10)
+        val buttonWieczernikDzien10 = findViewById<Button>(R.id.button123wieczernik)
+        buttonWieczernikDzien10.setOnClickListener {
+            val intentWieczernikDzien10 = Intent(this, WieczernikDzien10::class.java)
+            startActivity(intentWieczernikDzien10)
         }
         val buttonTaborDzien11 = findViewById<Button>(R.id.button124tabor)
         buttonTaborDzien11.setOnClickListener {

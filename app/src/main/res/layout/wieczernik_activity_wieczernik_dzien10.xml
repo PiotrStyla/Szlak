@@ -6,13 +6,13 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginEnd="16dp"
-        tools:context=".WieczernikDzien9"
+        tools:context=".WieczernikDzien10"
         android:id="@+id/linearLayout">
     <TextView
-            android:text="@string/dzie_9_misterium_eucharystii_tajemnica_oczekiwania_na_pe_ni"
+            android:text="@string/dzie_10_misterium_eucharystii_tajemnica_pos_ania_do_wiata"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textView5194"
+            android:id="@+id/textView5207"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="16dp"
             android:layout_marginTop="16dp"
@@ -25,7 +25,7 @@
     <ScrollView
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView5194"
+            app:layout_constraintTop_toBottomOf="@+id/textView5207"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
@@ -42,54 +42,54 @@
                 android:orientation="vertical">
             <TextView
                     android:text="@string/modlitwa"
-                    android:id="@+id/textView5195"
+                    android:id="@+id/textView5208"
                     style="@style/modlitwa"/>
             <TextView
                     android:text="@string/bo_e_wejrzyj_ku_wspomo_eniu_memu_panie_po_piesz_ku_ratunkowi_memu_chwa_a_ojcu_i_synowi_i_duchowi_wi_temu_jak_by_a_na_pocz_tku_teraz_i_zawsze_i_na_wieki_wiek_w_amen"
-                    android:id="@+id/textView5196"
+                    android:id="@+id/textView5209"
                     style="@style/paragraf_Text_optimum" />
             <TextView
                     android:text="@string/rozwa_anie_s_owa"
-                    android:id="@+id/textView5197"
+                    android:id="@+id/textView5210"
                     style="@style/modlitwa"/>
             <TextView
-                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_12_36_38_b_d_cie_podobni_do_ludzi_oczekuj_cych_swego_pana_kiedy_z_uczty_weselnej_powr_ci_aby_mu_zaraz_otworzy_gdy_nadejdzie_i_zako_acze_szcz_liwi_owi_s_udzy_kt_rych_pan_zastanie_czuwaj_cych_gdy_nadejdzie_zaprawd_powiadam_wam_przepasze_si_i_ka_e_im_zasi_do_sto_u_a_obchodz_c_b_dzie_im_us_ugiwa_czy_o_drugiej_czy_o_trzeciej_stra_y_przyjdzie_szcz_liwi_oni_gdy_ich_tak_zastanie"
-                    android:id="@+id/textView5198"
+                    android:text="@string/z_dziej_w_apostolskich_2_1_4_kiedy_nadszed_wreszcie_dzie_pi_dziesi_tnicy_znajdowali_si_wszyscy_razem_na_tym_samym_miejscu_nagle_da_si_s_ysze_z_nieba_szum_jakby_uderzenie_gwa_townego_wiatru_i_nape_ni_ca_y_dom_w_kt_rym_przebywali_ukaza_y_si_im_te_j_zyki_jakby_z_ognia_kt_re_si_rozdzieli_y_i_na_ka_dym_z_nich_spocz_jeden_i_wszyscy_zostali_nape_nieni_duchem_wi_tym_i_zacz_li_m_wi_obcymi_j_zykami_tak_jak_im_duch_pozwala_m_wi"
+                    android:id="@+id/textView5211"
                     style="@style/paragraf_Text_optimum"
                     android:padding="7dp"/>
             <TextView
-                    android:text="@string/kontempluj_c_tajemnic_eucharystii_zdumiewam_si_kolejnym_darem_jaki_zostaje_mi_w_niej_ofiarowany_ojciec_wi_ty_w_swej_encyklice_ods_ania_przede_mn_jego_wielko_i_niejako_pyta_wierzysz_w_to_to_wa_ne_pytanie_bez_wiary_adnego_z_tych_skarb_w_nie_mo_na_zobaczy_aklamacja_jak_lud_wypowiada_po_konsekracji_celowo_ko_czy_si_s_owami_wskazuj_cymi_na_wymiar_eschatologiczny_ofiary_eucharystycznej_por_1_kor_11_26_oczekujemy_twego_przyj_cia_w_chwale_eucharystia_kieruje_do_ostatecznego_celu_jest_przedsmakiem_pe_ni_rado_ci_obiecanej_przez_chrystusa_por_j_15_11_w_pewnym_sensie_jest_antycypacj_raju_w_niej_otrzymujemy_zadatek_przysz_ej_chwa_y_w_eucharystii_wszystko_wyra_a_pe_ne_nadziei_oczekiwanie_przyj_cia_naszego_zbawiciela_jezusa_chrystusa_kto_si_karmi_chrystusem_w_eucharystii_nie_potrzebuje_wyczekiwa_za_wiat_w_eby_otrzyma_ycie_wieczne_posiada_je_ju_na_ziemi_jako_przedsmak_przysz_ej_pe_ni_kt_ra_obejmie_cz_owieka_do_ko_ca_w_eucharystii_otrzymujemy_tak_e_gwarancj_zmartwychwstania_cia_kt_re_nast_pi_na_ko_cu_wiata_kto_spo_ywa_moje_cia_o_i_pije_moj_krew_ma_ycie_wieczne_a_ja_go_wskrzesz_w_dniu_ostatecznym_j_6_54_ta_gwarancja_przysz_ego_zmartwychwstania_wyp_ywa_z_faktu_e_cia_o_syna_bo_ego_pozostawione_jako_pokarm_jest_chwalebnym_cia_em_zmartwychwsta_ego_w_eucharystii_eby_tak_powiedzie_staje_si_dost_pna_tajemnica_zmartwychwstania_dlatego_te_s_usznie_w_ignacy_antioche_ski_okre_la_chleb_eucharystyczny_jako_lekarstwo_nie_miertelno_ci_antidotum_na_mier_ede_18"
-                    android:id="@+id/textView5199"
+                    android:text="@string/rozwa_a_em_ju_prawd_e_w_komunii_wi_tej_jezus_nape_nia_mnie_swoim_duchem_on_umacnia_moj_jedno_z_panem_i_on_uzdalnia_mnie_do_wype_nienia_powierzonej_mi_misji_w_wiecie_w_eucharystii_uobecnia_si_zar_wno_tajemnica_wieczernika_wielkiego_czwartku_jak_i_tajemnica_wieczernika_pi_dziesi_tnicy_eucharystia_zawsze_ko_czy_si_pos_aniem_znacz_c_konsekwencj_tego_wpisanego_w_eucharysti_ukierunkowania_ku_eschatologii_jest_r_wnie_fakt_i_w_naszej_dziejowej_w_dr_wce_daje_ona_impuls_i_zasiewa_ywe_ziarno_nadziei_w_nasze_codzienne_zadania_i_obowi_zki_to_e_chrze_cija_ska_koncepcja_prowadzi_nas_ku_nowemu_niebu_i_nowej_ziemi_por_ap_21_1_nie_os_abia_naszego_poczucia_odpowiedzialno_ci_za_t_doczesn_ziemi_raczej_je_rozbudza_pragn_z_ca_moc_przypomnie_to_na_pocz_tku_nowego_tysi_clecia_a_eby_chrze_cijanie_czuli_si_bardziej_ni_kiedykolwiek_wezwani_aby_nie_zaniedbywa_obowi_zk_w_przynale_nych_mieszka_com_tej_ziemi_ich_zadaniem_jest_przyczynia_si_kieruj_c_si_wiat_em_ewangelii_do_budowania_wiata_na_miar_cz_owieka_i_odpowiadaj_cego_we_wszystkim_zamys_owi_boga"
+                    android:id="@+id/textView5212"
                     style="@style/paragraf_Text_optimum" />
             <TextView
-                    android:text="@string/ukierunkowanie_eschatologiczne_eucharystii_wyra_a_i_wzmacnia_komuni_z_ko_cio_em_zbawionych_w_niebie_nie_przypadkiem_anafory_liturgii_wschodniej_i_aci_skie_modlitwy_eucharystyczne_przypominaj_z_czci_maryj_zawsze_dziewic_matk_naszego_pana_i_boga_jezusa_chrystusa_anio_w_wi_tych_aposto_w_m_czennik_w_i_wszystkich_wi_tych_ten_wymiar_eucharystii_zas_uguje_na_podkre_lenie_gdy_sprawujemy_ofiar_baranka_uczestniczymy_w_liturgii_niebia_skiej_i_jednoczymy_si_z_niezliczonym_t_umem_kt_ry_wo_a_zbawienie_w_bogu_naszym_zasiadaj_cym_na_tronie_i_w_baranku_ap_7_10_zaiste_eucharystia_jest_bram_nieba_kt_ra_otwiera_si_na_ziemi_jest_promieniem_chwa_y_niebieskiego_jeruzalem_kt_ry_przenika_cienie_naszej_historii_i_rzuca_wiat_o_na_drogi_naszego_ycia_ede_19"
-                    android:id="@+id/textView5200"
+                    android:text="@string/jest_wiele_problem_w_kt_re_zaciemniaj_horyzont_naszych_czas_w_wystarczy_wspomnie_piln_potrzeb_pracy_na_rzecz_pokoju_trosk_o_budowanie_w_stosunkach_mi_dzynarodowych_trwa_ych_fundament_w_sprawiedliwo_ci_i_solidarno_ci_obron_ycia_ludzkiego_od_pocz_cia_a_do_jego_naturalnego_ko_ca_a_co_powiedzie_o_tysi_cach_sprzeczno_ci_zglobalizowanego_wiata_w_kt_rym_najs_abszym_najmniejszym_i_najubo_szym_mo_e_si_wydawa_e_niewiele_maj_powod_w_do_nadziei_w_takim_w_a_nie_wiecie_powinna_rozb_ysn_chrze_cija_ska_nadzieja_r_wnie_po_to_pan_chcia_pozosta_z_nami_w_eucharystii_wpisuj_c_w_swoj_ofiarn_i_bratersk_obecno_obietnic_ludzko_ci_odnowionej_jego_mi_o_ci_znacz_cy_jest_fakt_e_ewangelia_wed_ug_w_jana_w_tym_miejscu_gdzie_synoptycy_opisuj_ustanowienie_eucharystii_proponuje_ukazuj_c_jednocze_nie_jej_g_boki_charakter_relacj_o_umywaniu_n_g_w_kt_rej_chrystus_czyni_siebie_nauczycielem_komunii_i_s_u_by_por_j_13_1_20_r_wnie_aposto_pawe_uznaje_za_niegodne_wsp_lnoty_chrze_cija_skiej_uczestnictwo_w_wieczerzy_pa_skiej_je_li_jest_ona_sprawowana_w_sytuacji_podzia_u_i_oboj_tno_ci_wobec_ubogich_por_1_kor_11_17_22_27_34_ede_20"
+                    android:id="@+id/textView5213"
                     style="@style/paragraf_Text_optimum" />
             <TextView
                     android:text="@string/dziesi_tek_r_a_ca"
-                    android:id="@+id/textView5201"
+                    android:id="@+id/textView5214"
                     style="@style/dziesiatek_rozanca"/>
             <TextView
                     android:text="@string/ojcze_nasz_zdrowa_maryjo_chwa_a_ojcu"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView5202"/>
+                    android:id="@+id/textView5215"/>
             <TextView
                     android:text="@string/akt_strzelisty"
-                    android:id="@+id/textView5203"
+                    android:id="@+id/textView5216"
                     style="@style/intencje_modlitwy"/>
 
             <TextView
                     android:text="@string/objaw_nam_panie_niezg_bion_tajemnic_eucharystii_aby_ros_o_nasze_zdumienie_wobec_jej_wielko_ci_i_aby_wszyscy_wierz_cy_w_ciebie_prze_ywali_j_jako_r_d_o_i_szczyt_ca_ego_ich_ycia"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView5204"/>
+                    android:id="@+id/textView5217"/>
             <TextView
                     android:text="@string/intencje_modlitwy"
-                    android:id="@+id/textView5205"
+                    android:id="@+id/textView5218"
                     style="@style/intencje_modlitwy"/>
             <TextView
                     android:text="@string/intencje_modlitwy_wyra_one_swoimi_s_owami"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView5206"
+                    android:id="@+id/textView5219"
                     android:textStyle="italic"
                     android:paddingBottom="70dp"/>
 

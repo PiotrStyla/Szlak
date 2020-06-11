@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="16dp"
+        tools:context=".WieczernikDzien6"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="@string/dzie_6_misterium_eucharystii_tajemnica_krzy_owej_ofiary_jezusa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView5153"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="4sp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingEnd="10sp"/>
+
+    <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView5153"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="108dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="10sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+            <TextView
+                    android:text="@string/modlitwa"
+                    android:id="@+id/textView5154"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/bo_e_wejrzyj_ku_wspomo_eniu_memu_panie_po_piesz_ku_ratunkowi_memu_chwa_a_ojcu_i_synowi_i_duchowi_wi_temu_jak_by_a_na_pocz_tku_teraz_i_zawsze_i_na_wieki_wiek_w_amen"
+                    android:id="@+id/textView5155"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/rozwa_anie_s_owa"
+                    android:id="@+id/textView5156"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/z_pierwszego_listu_w_paw_a_aposto_a_do_koryntian_11_26_ilekro_spo_ywacie_ten_chleb_albo_pijecie_kielich_mier_pa_sk_g_osicie_a_przyjdzie"
+                    android:id="@+id/textView5157"
+                    style="@style/paragraf_Text_optimum"
+                    android:padding="7dp"/>
+            <TextView
+                    android:text="@string/w_ka_dej_mszy_wi_tej_powtarzam_z_innymi_s_owa_g_osimy_mier_twoj_panie_jezu_aklamacja_ta_kryje_podw_jne_wyznanie_wiary_wyznaj_e_jezus_umar_na_krzy_u_dla_zbawienia_wiata_ale_wyznaj_r_wnie_e_jest_to_tajemnica_kt_ra_si_uobecnia_tu_i_teraz_jedno_i_drugie_jest_powodem_zdumienia_jak_e_wielka_jest_mi_o_chrystusa_kt_ry_odda_za_mnie_ycie_jak_e_wielka_to_mi_o_e_chce_osobi_cie_dotrze_do_ka_dego_i_z_ka_dym_si_zjednoczy_z_uwag_ws_uchuj_si_w_s_owa_papie_a"
+                    android:id="@+id/textView5158"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/ustanawiaj_c_eucharysti_nie_ograniczy_si_on_jedynie_do_powiedzenia_to_jest_cia_o_moje_to_jest_krew_moja_lecz_doda_kt_re_za_was_b_dzie_wydane_kt_ra_za_was_b_dzie_wylana_mt_26_26_28_k_22_19_20_nie_potwierdzi_jedynie_e_to_co_im_dawa_do_jedzenia_i_do_picia_by_o_jego_cia_em_i_jego_krwi_lecz_jasno_wyrazi_e_ma_to_warto_ofiarnicz_czyni_c_obecn_w_spos_b_sakramentalny_swoj_ofiar_kt_ra_nied_ugo_potem_mia_a_dokona_si_na_krzy_u_dla_zbawienia_wszystkich_msza_wi_ta_jest_r_wnocze_nie_i_nierozdzielnie_pami_tk_ofiarn_w_kt_rej_przed_u_a_si_ofiara_krzy_a_i_wi_t_uczt_komunii_w_ciele_i_krwi_pana_ede_12_eucharystia_przez_sw_j_cis_y_zwi_zek_z_ofiar_na_golgocie_jest_ofiar_w_pe_nym_sensie_a_nie_tylko_w_sensie_og_lnym_jakby_jedynie_chodzi_o_o_zwyk_e_darowanie_si_chrystusa_jako_pokarm_duchowy_dla_wiernych_bowiem_dar_jego_mi_o_ci_i_jego_pos_usze_stwa_a_do_ostatniego_tchnienia_por_j_10_17_18_jest_przede_wszystkim_darem_dla_jego_ojca_oczywi_cie_jest_tak_e_darem_dla_nas_co_wi_cej_dla_ca_ej_ludzko_ci_por_mt_26_28_mk_14_24_k_22_20_j_10_15_ale_g_wnie_jest_darem_dla_ojca_jest_to_tajemnica_ofiary_kt_r_ojciec_przyj_odwzajemniaj_c_bezgraniczne_oddanie_swego_syna_kiedy_ten_sta_si_pos_uszny_a_do_mierci_por_flp_2_8_swoim_ojcowskim_oddaniem_a_by_to_dar_nowego_ycia_nie_miertelnego_w_zmartwychwstaniu"
+                    android:id="@+id/textView5159"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/przekazuj_c_ko_cio_owi_swoj_ofiar_chrystus_pragn_r_wnie_przyj_za_swoj_duchow_ofiar_ko_cio_a_kt_ry_jest_wezwany_aby_sk_adaj_c_ofiar_chrystusa_ofiarowywa_tak_e_samego_siebie_naucza_nas_o_tym_w_odniesieniu_do_wszystkich_wiernych_sob_r_watyka_ski_ii_uczestnicz_c_w_ofierze_eucharystycznej_w_r_dle_i_zarazem_szczycie_ca_ego_ycia_chrze_cija_skiego_sk_adaj_bogu_bosk_ertw_ofiarn_a_wraz_z_ni_samych_siebie_ede_13"
+                    android:id="@+id/textView5160"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/dziesi_tek_r_a_ca"
+                    android:id="@+id/textView5161"
+                    style="@style/dziesiatek_rozanca"/>
+            <TextView
+                    android:text="@string/ojcze_nasz_zdrowa_maryjo_chwa_a_ojcu"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView5162"/>
+            <TextView
+                    android:text="@string/akt_strzelisty"
+                    android:id="@+id/textView5163"
+                    style="@style/intencje_modlitwy"/>
+
+            <TextView
+                    android:text="@string/objaw_nam_panie_niezg_bion_tajemnic_eucharystii_aby_ros_o_nasze_zdumienie_wobec_jej_wielko_ci_i_aby_wszyscy_wierz_cy_w_ciebie_prze_ywali_j_jako_r_d_o_i_szczyt_ca_ego_ich_ycia"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView5164"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy"
+                    android:id="@+id/textView5165"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy_wyra_one_swoimi_s_owami"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView5166"
+                    android:textStyle="italic"
+                    android:paddingBottom="70dp"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

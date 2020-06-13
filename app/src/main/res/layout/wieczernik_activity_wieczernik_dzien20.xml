@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="16dp"
+        tools:context=".WieczernikDzien20"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="@string/dzie_20_maryja_niewiasta_eucharystii_s_uchaj_ca_s_owa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView5360"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="4sp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingEnd="10sp"/>
+
+    <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView5360"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="108dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="10sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+            <TextView
+                    android:text="@string/modlitwa"
+                    android:id="@+id/textView5361"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/bo_e_wejrzyj_ku_wspomo_eniu_memu_panie_po_piesz_ku_ratunkowi_memu_chwa_a_ojcu_i_synowi_i_duchowi_wi_temu_jak_by_a_na_pocz_tku_teraz_i_zawsze_i_na_wieki_wiek_w_amen"
+                    android:id="@+id/textView5362"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/rozwa_anie_s_owa"
+                    android:id="@+id/textView5363"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_11_27_28_gdy_on_to_m_wi_jaka_kobieta_z_t_umu_g_o_no_zawo_a_a_do_niego_b_ogos_awione_ono_kt_re_ci_nosi_o_i_piersi_kt_re_ssa_e_lecz_on_rzek_owszem_ale_przecie_b_ogos_awieni_ci_kt_rzy_s_uchaj_s_owa_bo_ego_i_zachowuj_je"
+                    android:id="@+id/textView5364"
+                    style="@style/paragraf_Text_optimum"
+                    android:padding="7dp"/>
+            <TextView
+                    android:text="@string/pierwsza_cz_eucharystii_to_liturgia_s_owa_po_obrz_dach_wst_pnych_ws_uchujemy_si_w_or_dzie_kt_re_przychodzi_z_nieba_na_ziemi_po_wys_uchaniu_s_owa_wyra_amy_nasz_wdzi_czno_bogu_uwielbiamy_go_i_wyznajemy_nasz_wiar_wypowiadamy_wiele_aklamacji_i_modlitw_bogu_niech_b_d_dzi_ki_chwa_a_tobie_chryste_wierz_amen_we_wszystkich_chcemy_na_ladowa_maryj_kt_ra_uwa_nie_s_ucha_a_s_owa_i_odpowiedzia_a_na_nie_swoim_fiat"
+                    android:id="@+id/textView5365"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/je_li_eucharystia_jest_tajemnic_wiary_kt_ra_przewy_sza_nasz_intelekt_a_przez_to_zmusza_nas_do_jak_najpe_niejszej_uleg_o_ci_s_owu_bo_emu_nikt_tak_jak_maryja_nie_mo_e_by_wsparciem_i_przewodnikiem_w_takiej_postawie_nasze_powtarzanie_dzie_a_chrystusa_z_ostatniej_wieczerzy_kt_re_jest_wype_nianiem_jego_nakazu_to_czy_cie_na_moj_pami_tk_staje_si_jednocze_nie_przyj_ciem_zaproszenia_maryi_do_okazywania_mu_pos_usze_stwa_bez_wahania_zr_bcie_wszystko_cokolwiek_wam_powie_j_2_5_z_matczyn_trosk_po_wiadczon_podczas_wesela_w_kanie_maryja_wydaje_si_nam_m_wi_nie_wahajcie_si_zaufajcie_s_owu_mojego_syna_on_kt_ry_m_g_przemieni_wod_w_wino_ma_moc_uczyni_z_chleba_i_wina_swoje_cia_o_i_swoj_krew_ofiaruj_c_wierz_cym_w_tej_tajemnicy_yw_pami_tk_swej_paschy_aby_w_ten_spos_b_uczyni_z_siebie_chleb_ycia_ede_54"
+                    android:id="@+id/textView5366"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/dziesi_tek_r_a_ca"
+                    android:id="@+id/textView5367"
+                    style="@style/dziesiatek_rozanca"/>
+            <TextView
+                    android:text="@string/ojcze_nasz_zdrowa_maryjo_chwa_a_ojcu"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView5368"/>
+            <TextView
+                    android:text="@string/akt_strzelisty"
+                    android:id="@+id/textView5369"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/objaw_nam_panie_niezg_bion_tajemnic_eucharystii_aby_ros_o_nasze_zdumienie_wobec_jej_wielko_ci_i_aby_wszyscy_wierz_cy_w_ciebie_prze_ywali_j_jako_r_d_o_i_szczyt_ca_ego_ich_ycia"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView5370"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy"
+                    android:id="@+id/textView5371"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy_wyra_one_swoimi_s_owami"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView5372"
+                    android:textStyle="italic"
+                    android:paddingBottom="70dp"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

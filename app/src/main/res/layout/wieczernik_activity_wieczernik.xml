@@ -150,21 +150,21 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button130tabor"
+                    android:id="@+id/button130wieczernik"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_17_g_ra_przemienienia_g_os_ojca"/>
+                    android:text="@string/dzie_17_eucharystia_buduje_ko_ci_eucharystia_a_wzrost_komunii"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button131tabor"
+                    android:id="@+id/button131wieczernik"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_18_g_ra_przemienienia_prze_ycia_uczni_w"/>
+                    android:text="@string/dzie_18_eucharystia_buduje_ko_ci_eucharystia_a_jedno_chrze_cijan"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button132tabor"
+                    android:id="@+id/button132wieczernik"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_19_ludzka_przemiana_przemiana_umys_u"/>
+                    android:text="@string/dzie_19_maryja_niewiasta_eucharystii_szczeg_lny_tytu_maryi"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

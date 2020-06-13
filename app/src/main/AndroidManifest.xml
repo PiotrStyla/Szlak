@@ -9,7 +9,10 @@
             android:roundIcon="@mipmap/ic_launcher_round_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".WieczernikDzien16"></activity>
+        <activity android:name=".WieczernikDzien19"></activity>
+        <activity android:name=".WieczernikDzien18" />
+        <activity android:name=".WieczernikDzien17" />
+        <activity android:name=".WieczernikDzien16" />
         <activity android:name=".WieczernikDzien15" />
         <activity android:name=".WieczernikDzien14" />
         <activity android:name=".WieczernikDzien13" />

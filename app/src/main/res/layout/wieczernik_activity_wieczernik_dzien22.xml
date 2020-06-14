@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="16dp"
+        tools:context=".WieczernikDzien22"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="@string/dzie_22_maryja_niewiasta_eucharystii_sk_adaj_ca_ofiar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView5387"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="4sp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingEnd="10sp"/>
+
+    <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView5387"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="108dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="10sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+            <TextView
+                    android:text="@string/modlitwa"
+                    android:id="@+id/textView5388"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/bo_e_wejrzyj_ku_wspomo_eniu_memu_panie_po_piesz_ku_ratunkowi_memu_chwa_a_ojcu_i_synowi_i_duchowi_wi_temu_jak_by_a_na_pocz_tku_teraz_i_zawsze_i_na_wieki_wiek_w_amen"
+                    android:id="@+id/textView5389"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/rozwa_anie_s_owa"
+                    android:id="@+id/textView5390"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_2_22_23_gdy_up_yn_y_dni_ich_oczyszczenia_wed_ug_prawa_moj_eszowego_przynie_li_je_do_jerozolimy_aby_je_przedstawi_panu_tak_bowiem_jest_napisane_w_prawie_pa_skim_ka_de_pierworodne_dziecko_p_ci_m_skiej_b_dzie_po_wi_cone_panu"
+                    android:id="@+id/textView5391"
+                    style="@style/paragraf_Text_optimum"
+                    android:padding="7dp"/>
+            <TextView
+                    android:text="@string/przez_ca_e_swoje_ycie_u_boku_chrystusa_nie_tylko_na_kalwarii_maryja_realizowa_a_wymiar_ofiarny_eucharystii_kiedy_zanios_a_dzieci_jezus_do_wi_tyni_w_jerozolimie_aby_je_przedstawi_panu_k_2_22_us_ysza_a_zapowied_starego_symeona_e_to_dziecko_b_dzie_znakiem_sprzeciwu_i_e_miecz_przeszyje_tak_e_jej_dusz_por_k_2_34_35_w_ten_spos_b_zosta_przepowiedziany_dramat_ukrzy_owania_syna_i_w_jakim_sensie_zosta_o_zapowiedziane_stabat_mater_dziewicy_u_st_p_krzy_a_przygotowuj_c_si_dzie_po_dniu_do_wydarzenia_kalwarii_maryja_prze_ywa_jakby_antycypowan_eucharysti_mo_na_by_powiedzie_komuni_duchow_pragnienia_i_ofiary_kt_ra_b_dzie_mia_a_swoje_wype_nienie_w_zjednoczeniu_z_synem_w_m_ce_a_potem_w_okresie_popaschalnym_wyrazi_si_w_jej_uczestnictwie_w_sprawowanej_przez_aposto_w_celebracji_eucharystycznej_pami_tce_m_ki"
+                    android:id="@+id/textView5392"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/jak_wyobrazi_sobie_uczucia_maryi_kt_ra_s_ysza_a_z_ust_piotra_jana_jakuba_i_innych_aposto_w_s_owa_z_ostatniej_wieczerzy_to_jest_cia_o_moje_kt_re_za_was_b_dzie_wydane_k_22_19_to_cia_o_wydane_na_ofiar_i_ponownie_uobecnione_w_znakach_sakramentalnych_by_o_tym_samym_cia_em_kt_re_pocz_o_si_w_jej_onie_przyjmowanie_eucharystii_musia_o_oznacza_dla_maryi_niejako_powt_rne_przyj_cie_w_jej_onie_serca_kt_re_bi_o_rytmem_jej_serca_ponownym_prze_ywaniem_tego_czego_osobi_cie_do_wiadczy_a_pod_krzy_em_ede_56"
+                    android:id="@+id/textView5393"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/dziesi_tek_r_a_ca"
+                    android:id="@+id/textView5394"
+                    style="@style/dziesiatek_rozanca"/>
+            <TextView
+                    android:text="@string/ojcze_nasz_zdrowa_maryjo_chwa_a_ojcu"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView5395"/>
+            <TextView
+                    android:text="@string/akt_strzelisty"
+                    android:id="@+id/textView5396"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/objaw_nam_panie_niezg_bion_tajemnic_eucharystii_aby_ros_o_nasze_zdumienie_wobec_jej_wielko_ci_i_aby_wszyscy_wierz_cy_w_ciebie_prze_ywali_j_jako_r_d_o_i_szczyt_ca_ego_ich_ycia"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView5397"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy"
+                    android:id="@+id/textView5398"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy_wyra_one_swoimi_s_owami"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView5399"
+                    android:textStyle="italic"
+                    android:paddingBottom="70dp"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

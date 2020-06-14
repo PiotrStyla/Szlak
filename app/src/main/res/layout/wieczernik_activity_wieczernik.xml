@@ -174,15 +174,15 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button134tabor"
+                    android:id="@+id/button134wieczernik"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_21_ludzka_przemiana_przemiana_woli"/>
+                    android:text="@string/dzie_21_maryja_niewiasta_eucharystii_przyjmuj_ca_chrystusa"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button135tabor"
+                    android:id="@+id/button135wieczernik"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_22_ludzka_przemiana_przemiana_mowy"/>
+                    android:text="@string/dzie_22_maryja_niewiasta_eucharystii_sk_adaj_ca_ofiar"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

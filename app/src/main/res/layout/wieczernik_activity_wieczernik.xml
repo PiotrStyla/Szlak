@@ -228,7 +228,7 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button143tabor"
+                    android:id="@+id/button143wieczernik"
                     style="@style/button_dni_swiatlo_padding"
                     android:text="@string/dzie_30_powr_t_do_wybranych_my_li"/>
 

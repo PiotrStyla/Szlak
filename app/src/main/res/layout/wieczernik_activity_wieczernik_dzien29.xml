@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="16dp"
+        tools:context=".WieczernikDzien29"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="@string/dzie_29_podsumowanie"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView5482"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="4sp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingEnd="10sp"/>
+
+    <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView5482"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="48dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="10sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+            <TextView
+                    android:text="@string/modlitwa"
+                    android:id="@+id/textView5483"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/bo_e_wejrzyj_ku_wspomo_eniu_memu_panie_po_piesz_ku_ratunkowi_memu_pom_mi_mi_osierny_ojcze_zachowa_w_sercu_eucharystyczne_zdumienie_nie_dopu_aby_mi_spowszednia_o_to_wi_te_i_zbawcze_wydarzenie_sprawowane_na_o_tarzach_wiata_dodaj_mi_si_abym_si_zawsze_dobrze_przygotowywa_do_eucharystii_i_prze_ywa_po_niej_gor_ce_dzi_kczynienie"
+                    android:id="@+id/textView5484"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/chwa_a_ojcu_i_synowi_i_duchowi_wi_temu_jak_by_a_na_pocz_tku_teraz_i_zawsze_i_na_wieki_wiek_w_amen"
+                    android:id="@+id/textView5485"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/rozwa_anie_s_owa"
+                    android:id="@+id/textView5486"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/z_ewangelii_wed_ug_w_mateusza_8_5_10_gdy_wszed_do_kafarnaum_zwr_ci_si_do_niego_setnik_i_prosi_go_m_wi_c_panie_s_uga_m_j_le_y_w_domu_sparali_owany_i_bardzo_cierpi_rzek_mu_jezus_przyjd_i_uzdrowi_go_lecz_setnik_odpowiedzia_panie_nie_jestem_godzien_aby_wszed_pod_dach_m_j_ale_powiedz_tylko_s_owo_a_m_j_s_uga_odzyska_zdrowie_bo_i_ja_cho_podlegam_w_adzy_mam_pod_sob_o_nierzy_m_wi_temu_id_a_idzie_drugiemu_chod_tu_a_przychodzi_a_s_udze_zr_b_to_a_robi_gdy_jezus_to_us_ysza_zdziwi_si_i_rzek_do_tych_kt_rzy_szli_za_nim_zaprawd_powiadam_wam_u_nikogo_w_izraelu_nie_znalaz_em_tak_wielkiej_wiary"
+                    android:id="@+id/textView5487"
+                    style="@style/paragraf_Text_optimum"
+                    android:padding="7dp"/>
+            <TextView
+                    android:text="@string/patrz_c_na_zdziwienie_jezusa_wobec_wielkiej_wiary_setnika_powracam_na_zako_czenie_do_pragnienia_ojca_wi_tego_jana_paw_a_ii_aby_rozbudzi_w_ko_ciele_eucharystyczne_zdumienie_niew_tpliwie_przez_sw_j_d_ugi_pontyfikat_przez_swoje_nauczanie_a_pewnie_jeszcze_bardziej_przez_przyk_ad_swojego_ycia_przyczyni_si_do_rozbudzenia_w_sercach_wielu_os_b_takiego_w_a_nie_zdumienia_rodzi_si_ono_z_wiary_i_daje_cz_owiekowi_si_y_do_g_bszego_wnikni_cia_w_misterium_eucharystii"
+                    android:id="@+id/textView5488"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/w_minionym_miesi_cu_stara_em_si_na_nowo_dostrzec_wielko_samej_tajemnicy_eucharystii_jeszcze_g_biej_uwierzy_e_prze_ywam_w_niej_tajemnic_mierci_i_zmartwychwstania_chrystusa_e_jednocz_si_z_jezusem_w_komunii_wi_tej_e_w_tym_misterium_dokonuje_nasze_zbawienie"
+                    android:id="@+id/textView5489"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/czas_moich_rozwa_a_by_tak_e_refleksj_nad_zwi_zkiem_mi_dzy_eucharysti_i_ko_cio_em_zabieram_ze_sob_szczeg_lnie_pierwsze_zdanie_encykliki_ko_ci_yje_z_eucharystii_ona_kszta_tuje_jedno_wsp_lnoty_wierz_cych_daje_ask_jedno_ci_i_wymaga_zaanga_owania_w_umacnianie_tej_jedno_ci"
+                    android:id="@+id/textView5490"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/w_ostatniej_cz_ci_moja_uwaga_skupia_a_si_na_maryi_kt_r_ojciec_wi_ty_nazwa_niewiast_eucharystii_tym_gorliwiej_chc_si_do_niej_modli_aby_uczy_a_mnie_s_ucha_s_owa_pana_by_z_nim_w_ofierze_i_jednoczy_si_z_nim_w_komunii"
+                    android:id="@+id/textView5491"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/niech_b_g_b_dzie_uwielbiony_w_darze_eucharystii"
+                    android:id="@+id/textView5492"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/dziesi_tek_r_a_ca"
+                    android:id="@+id/textView5493"
+                    style="@style/dziesiatek_rozanca"/>
+            <TextView
+                    android:text="@string/ojcze_nasz_zdrowa_maryjo_chwa_a_ojcu"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView5494"/>
+            <TextView
+                    android:text="@string/akt_strzelisty"
+                    android:id="@+id/textView5495"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/objaw_nam_panie_niezg_bion_tajemnic_eucharystii_aby_ros_o_nasze_zdumienie_wobec_jej_wielko_ci_i_aby_wszyscy_wierz_cy_w_ciebie_prze_ywali_j_jako_r_d_o_i_szczyt_ca_ego_ich_ycia"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView5496"/>
+            <TextView
+                    android:text="@string/zawierzenie"
+                    android:id="@+id/textView5497"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/ojcze_mi_osierny_zawierzam_twemu_mi_osierdziu_wszystkie_intencje_kt_re_nam_poleca_papie_i_inni_pasterze_ko_cio_a_zawierzam_ci_tak_e_sprawy_kt_rymi_yj_na_co_dzie_ojcze_najlepszy_miej_mi_osierdzie_dla_nas_i_ca_ego_wiata"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView5498"
+                    android:textStyle="italic"
+                    android:paddingBottom="70dp"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

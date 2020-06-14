@@ -186,15 +186,15 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button136tabor"
+                    android:id="@+id/button136wieczernik"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_23_ludzka_przemiana_przemiana_pragnie"/>
+                    android:text="@string/dzie_23_maryja_niewiasta_eucharystii_matka_ko_cio_a"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button137tabor"
+                    android:id="@+id/button137wieczernik"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_24_ludzka_przemiana_przemiana_relacji"/>
+                    android:text="@string/dzie_24_maryja_niewiasta_eucharystii_uwielbiaj_ca_boga"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

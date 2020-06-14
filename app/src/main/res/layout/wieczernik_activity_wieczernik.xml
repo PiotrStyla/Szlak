@@ -198,13 +198,13 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button138tabor"
+                    android:id="@+id/button138wieczernik"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_25_ludzka_przemiana_przemiana_ycia"/>
+                    android:text="@string/dzie_25_maryja_niewiasta_eucharystii_w_szkole_maryi_i_wi_tych"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button139tabor"
+                    android:id="@+id/button139wieczernik"
                     style="@style/button_dni_swiatlo_padding"
                     android:text="@string/dzie_26_ostatnie_dni_dzi_kczynienie"/>
             <Button

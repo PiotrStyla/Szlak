@@ -1,6 +1,6 @@
 package pl.diecezja.zr
 
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
 class JordanDzien4 : AppCompatActivity() {

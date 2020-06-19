@@ -44,7 +44,7 @@ android:layout_height="match_parent">
             app:srcCompat="@drawable/radosnatrzeciapoziom"
             android:id="@+id/imageNawiedzenie"
             android:layout_marginTop="16dp"
-            android:contentDescription="@string/obrazzwiastowania"/>
+            android:contentDescription="@string/obraz_narodzenie"/>
     <Button
             android:text="@string/wst_p"
             android:id="@+id/button_Narodzenie_Wstep"

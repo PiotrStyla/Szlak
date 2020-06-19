@@ -41,10 +41,10 @@ android:orientation="vertical">
         <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="120dp"
-                app:srcCompat="@drawable/radosnaczwartapoziom"
-                android:id="@+id/imageNawiedzenie"
+                app:srcCompat="@drawable/galilea"
+                android:id="@+id/imageGalilea"
                 android:layout_marginTop="16dp"
-                android:contentDescription="@string/obrazzwiastowania"/>
+                android:contentDescription="@string/obraz_galilea"/>
         <Button
                 android:text="@string/wst_p"
                 android:id="@+id/button_Galilea_Wstep"

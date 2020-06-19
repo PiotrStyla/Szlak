@@ -44,7 +44,7 @@
                     app:srcCompat="@drawable/radosnaczwartapoziom"
                     android:id="@+id/imageNawiedzenie"
                     android:layout_marginTop="16dp"
-                    android:contentDescription="@string/obrazzwiastowania"/>
+                    android:contentDescription="@string/obraz_ofiarowanie"/>
             <Button
                     android:text="@string/wst_p"
                     android:id="@+id/button_Ofiarowanie_Wstep"

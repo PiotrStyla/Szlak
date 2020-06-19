@@ -44,7 +44,7 @@
                     app:srcCompat="@drawable/radosnapiatapiatapoziom"
                     android:id="@+id/imageNawiedzenie"
                     android:layout_marginTop="16dp"
-                    android:contentDescription="@string/obrazzwiastowania"/>
+                    android:contentDescription="@string/obraz_odnalezienie"/>
             <Button
                     android:text="@string/wst_p"
                     android:id="@+id/button_Odnalezienie_Wstep"

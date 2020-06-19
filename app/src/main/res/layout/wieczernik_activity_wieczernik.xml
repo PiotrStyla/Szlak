@@ -42,10 +42,10 @@
             <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="120dp"
-                    app:srcCompat="@drawable/radosnaczwartapoziom"
-                    android:id="@+id/imageNawiedzenie"
+                    app:srcCompat="@drawable/wieczernik"
+                    android:id="@+id/imageWieczernik"
                     android:layout_marginTop="16dp"
-                    android:contentDescription="@string/obrazzwiastowania"/>
+                    android:contentDescription="@string/obraz_wieczernik"/>
             <Button
                     android:text="@string/wst_p"
                     android:id="@+id/button_Wieczernik_wstep"

@@ -42,7 +42,7 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
             <TextView
-                    android:text="@string/prosz_boga_abym_mia_mo_liwo_porozmawiania_z_kim_na_temat_wydarze_kt_re_dokona_y_si_na_g_rze_tabor_taka_rozmowa_i_dzielenie_si_prze_yciami_jest_wzajemnym_ubogaceniem"
+                    android:text="@string/chrystusowe_przypowie_ci_i_kr_lestwie_bo_ym_a_tak_e_jego_wezwanie_do_nawr_cenia_s_cz_sto_przypominane_w_liturgii_ko_cio_a_stale_wi_c_do_nich_wracam"
                     android:id="@+id/textView5028"
                     android:textStyle="italic"
                     style="@style/paragraf_Text_optimum"/>
@@ -51,47 +51,17 @@
                     android:id="@+id/textView5029"
                     style="@style/modlitwa"/>
             <TextView
-                    android:text="@string/pro_by_z_jutrzni_wi_ta_przemienienia_pa_skiego"
+                    android:text="@string/modlitwa_w_intencjach_ojca_wi_tego"
                     android:id="@+id/textView5030"
-                    android:textAllCaps="true"
+                    android:textStyle="italic"
                     style="@style/paragraf_Text_optimum"
                     android:padding="7dp"/>
             <TextView
-                    android:text="@string/z_ufno_ci_zano_my_nasze_pro_by_do_zbawiciela_kt_ry_cudownie_przemieni_si_na_g_rze_w_obecno_ci_swoich_uczni_w"
+                    android:text="@string/wszechmog_cy_wieczny_bo_e_ty_powierzy_e_ojcu_wi_temu_n_trosk_o_ca_y_ko_ci_nios_cy_wiatu_or_dzie_ewangelii_i_pielgrzymuj_cy_przez_doczesno_do_ycia_wiecznego_z_wiar_polecamy_ci_wszystkie_intencje_kt_re_papie_nosi_w_swoim_sercu_a_szczeg_lnie_te_kt_re_poleca_modlitwie_ca_ego_ko_cio_a_niech_moc_mi_o_ci_objawiona_w_s_owie_g_oszonym_przez_chrystusa_odnawia_oblicze_ziemi_amen"
                     android:id="@+id/textView5031"
                     style="@style/paragraf_Text_optimum"
-                    android:padding="7dp"/>
-            <TextView
-                    android:text="@string/uka_nam_panie_blask_swojej_wiat_o_ci"
-                    android:id="@+id/textView5032"
-                    style="@style/paragraf_Text_optimum"
-                    android:textStyle="italic"
-                    android:padding="7dp"/>
-            <TextView
-                    android:text="@string/ojcze_niesko_czenie_dobry_ty_przemieni_e_swego_mi_owanego_syna_i_objawi_e_si_w_wietlistym_ob_oku_spraw_aby_my_wiernie_s_uchali_s_w_chrystusa"
-                    android:id="@+id/textView5033"
-                    style="@style/paragraf_Text_optimum"
-                    android:padding="7dp"/>
-            <TextView
-                    android:text="@string/bo_e_ty_hojnie_obdarzy_e_swoich_wybranych_szcz_ciem_i_rado_ci_daj_aby_my_znale_li_w_ciele_chrystusa_r_d_o_naszego_ycia"
-                    android:id="@+id/textView5034"
-                    style="@style/paragraf_Text_optimum"
-                    android:padding="7dp"/>
-            <TextView
-                    android:text="@string/bo_e_ty_o_wieci_e_nasze_serca_aby_my_ogl_dali_twoj_chwa_na_obliczu_jezusa_chrystusa_pozw_l_nam_zawsze_si_wpatrywa_w_twojego_umi_owanego_syna"
-                    android:id="@+id/textView5035"
-                    style="@style/paragraf_Text_optimum"
-                    android:padding="7dp"/>
-            <TextView
-                    android:text="@string/bo_e_ty_przez_naszego_zbawiciela_jezusa_chrystusa_objawi_e_nam_powszechny_plan_zbawienia_niech_wiat_o_ewangelii_ogarnie_wszystkich_ludzi"
-                    style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView5036"
-                    android:padding="7dp"/>
-            <TextView
-                    android:text="@string/ojcze_dzi_ki_twojej_mi_o_ci_nazywamy_si_dzie_mi_bo_ymi_i_nimi_jeste_my_spraw_aby_my_si_upodobnili_do_chrystusa_gdy_przyjdzie_w_chwale"
-                    style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView5037"
                     android:padding="70dp"/>
+
 
         </LinearLayout>
     </ScrollView>

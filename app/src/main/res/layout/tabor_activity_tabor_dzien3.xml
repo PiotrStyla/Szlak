@@ -42,6 +42,10 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
             <TextView
+                    android:text="@string/modlitwa"
+                    android:id="@+id/textView4581a"
+                    style="@style/modlitwa"/>
+            <TextView
                     android:text="@string/bo_e_wejrzyj_ku_wspomo_eniu_memu_panie_po_piesz_ku_ratunkowi_memu_umacniaj_mnie_mi_osierny_bo_e_na_drodze_oczyszczenia_kt_r_mnie_prowadzisz_przebacz_mi_grzechy_i_daj_mi_ask_nawr_cenia"
                     android:id="@+id/textView4582"
                     style="@style/paragraf_Text_optimum"/>

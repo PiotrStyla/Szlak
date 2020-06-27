@@ -9,7 +9,7 @@
         tools:context=".KanaDzien30"
         android:id="@+id/linearLayout">
     <TextView
-            android:text="@string/dzie_30_podsumowanie"
+            android:text="@string/dzie_30_powr_t_do_wybranych_my_li"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/textView3991"
@@ -31,7 +31,7 @@
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="24dp"
-            android:layout_marginTop="48dp"
+            android:layout_marginTop="78dp"
             android:scrollbarStyle="outsideOverlay"
             android:clipToPadding="false"
             android:paddingStart="8sp"
@@ -46,7 +46,7 @@
                     android:id="@+id/textView3992"
                     style="@style/modlitwa"/>
             <TextView
-                    android:text="@string/wszechmog_cy_wieczny_bo_e_ty_powierzy_e_ojcu_wi_temu_trosk_o_ca_y_ko_ci_nios_cy_wiatu_or_dzie_ewangelii_i_pielgrzymuj_cy_przez_doczesno_do_ycia_wiecznego_z_wiar_polecamy_ci_wszystkie_intencje_kt_re_papie_nosi_w_swoim_sercu_a_szczeg_lnie_te_kt_re_poleca_modlitwie_ca_ego_ko_cio_a_niech_moc_mi_o_ci_objawiona_w_tajemnicy_chrztu_chrystusa_w_jordanie_odnawia_oblicze_ziemi_amen"
+                    android:text="@string/wszechmog_cy_wieczny_bo_e_ty_powierzy_e_ojcu_wi_temu_trosk_o_ca_y_ko_ci_nios_cy_wiatu_or_dzie_ewangelii_i_pielgrzymuj_cy_przez_doczesno_do_ycia_wiecznego_z_wiar_polecamy_ci_wszystkie_intencje_kt_re_papie_nosi_w_swoim_sercu_a_szczeg_lnie_te_kt_re_poleca_modlitwie_ca_ego_ko_cio_a"
                     android:id="@+id/textView3993"
                     style="@style/paragraf_Text_optimum"
                     android:paddingBottom="70dp"/>

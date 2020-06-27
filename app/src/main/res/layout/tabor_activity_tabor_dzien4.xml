@@ -42,6 +42,10 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
             <TextView
+                    android:text="@string/modlitwa"
+                    android:id="@+id/textView4599a"
+                    style="@style/modlitwa"/>
+            <TextView
                     android:text="@string/bo_e_wejrzyj_ku_wspomo_eniu_memu_panie_po_piesz_ku_ratunkowi_memu_wejrzyj_ojcze_niebieski_na_modlitw_aposto_w_kt_rzy_otrzymali_dar_poznania_tajemnic_serca_twego_syna_aby_wspierali_mnie_w_mojej_miesi_cznej_modlitwie_i_medytacji"
                     android:id="@+id/textView4600"
                     style="@style/paragraf_Text_optimum"/>

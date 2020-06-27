@@ -58,7 +58,7 @@
                     android:id="@+id/textView4267"
                     style="@style/paragraf_Text_optimum"/>
             <TextView
-                    android:text="@string/jezus_w_b_ogos_awie_stwach_dwukrotnie_m_wi_o_sprawiedliwo_ci_najpierw_o_tych_kt_rzy_jej_akn_i_pragn_a_potem_o_tych_kt_rzy_dla_niej_cierpi_prze_ladowanie_wspominam_dzi_pragnienie_jezusa_m_wi_o_nim_w_s_owach_przyszed_em_rzuci_ogie_na_ziemi_i_jak_e_bardzo_pragn_eby_on_ju_zap_on_k_12_49_czy_by_o_to_r_wnie_pragnienie_sprawiedliwo_ci_niew_tpliwie_tak_gdy_duch_wi_ty_kt_ry_jest_symbolizowany_przez_ogie_mia_przekona_wiat_m_in_o_sprawiedliwo_ci_por_j_16_8_10_jezus_jest_pierwszym_kt_ry_jej_pragn_rozumia_j_jednak_inaczej_ni_my_j_zwyczajnie_rozumiemy_odnosi_j_przede_wszystkim_do_swego_ojca_to_ojciec_niebieski_jest_sprawiedliwy_objawi_t_sprawiedliwo_przyjmuj_c_zbawcz_ofiar_syna_wskrzeszaj_c_go_z_martwych_i_daj_c_mu_miejsce_po_swojej_prawicy_w_dzia_aniu_ojca_sprawiedliwo_ci_le_po_czy_a_si_z_mi_osiern_mi_o_ci_ten_sam_czyn_wskrzeszenia_syna_by_r_wnocze_nie_sprawiedliwo_ci_i_mi_o_ci_string_w_wezwaniu_uczcie_si_ode_mnie_jezus_wyr_nia_cicho_i_pokor_serca_s_owa_te_poprzedza_modlitw_uwielbienia_11_25_27_wys_awiam_ci_ojcze_panie_nieba_i_ziemi_e_zakry_e_te_rzeczy_przed_m_drymi_i_roztropnymi_a_objawi_e_je_prostaczkom_tak_ojcze_gdy_takie_by_o_twoje_upodobanie_wszystko_przekaza_mi_ojciec_m_j_nikt_te_nie_zna_syna_tylko_ojciec_ani_ojca_nikt_nie_zna_tylko_syn_i_ten_komu_syn_zechce_objawi"
+                    android:text="@string/galilea15_rozwazanie"
                     android:id="@+id/textView4268"
                     style="@style/paragraf_Text_optimum"/>
             <TextView

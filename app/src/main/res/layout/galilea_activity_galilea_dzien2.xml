@@ -42,6 +42,10 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
             <TextView
+                    android:text="@string/modlitwa"
+                    android:id="@+id/textView4038a"
+                    style="@style/modlitwa"/>
+            <TextView
                     android:text="@string/bo_e_wejrzyj_ku_wspomo_eniu_memu_prosz_ci_dobry_ojcze_o_ask_wytrwa_o_ci_w_modlitwie_pom_mi_codziennie_znajdowa_czas_i_si_y_aby_przerwa_zwyk_e_zaj_cia_i_uda_si_my_l_ku_jezusowi_kt_ry_g_osi_twoje_kr_lestwo_i_wzywa_do_nawr_cenia"
                     android:id="@+id/textView4039"
                     style="@style/paragraf_Text_optimum"/>
@@ -110,7 +114,7 @@
                     android:textStyle="italic"
                     android:paddingBottom="7dp"/>
             <TextView
-                    android:text="@string/ojcze_wszechmog_cy_obdarz_swoim_b_ogos_awie_stwem_ojca_wi_tego_n_i_wszystkich_ludzi_kt_rych_on_poleci_naszej_modlitwie_wiat_zraniony_wojnami_i_prze_ladowaniami_dzieci_oczekuj_ce_mi_o_ci_rodzic_w_narzeczonych_przygotowuj_cych_si_do_ma_e_stwa_alumn_w_pragn_cych_kap_a_stwa_nowicjuszy_oczekuj_cych_na_za_lubiny_z_jezusem_ma_onk_w_zjednoczonych_mi_o_ci_i_rodzic_w_raduj_cych_si_dzie_mi_pracuj_cych_i_bezrobotnych_chorych_samotnych_i_bezdomnych_moich_bliskich_szczeg_lnie_tych_kt_rzy_prze_ywaj_trudne_chwile"
+                    android:text="@string/litania_b_agalna_ojcze_wszechmog_cy_obdarz_swoim_b_ogos_awie_stwem_ojca_wi_tego_n_i_wszystkich_ludzi_kt_rych_on_poleci_naszej_modlitwie_wiat_zraniony_wojnami_i_prze_ladowaniami_dzieci_oczekuj_ce_mi_o_ci_rodzic_w_narzeczonych_przygotowuj_cych_si_do_ma_e_stwa_alumn_w_pragn_cych_kap_a_stwa_nowicjuszy_oczekuj_cych_na_za_lubiny_z_jezusem_ma_onk_w_zjednoczonych_mi_o_ci_i_rodzic_w_raduj_cych_si_dzie_mi_pracuj_cych_i_bezrobotnych_chorych_samotnych_i_bezdomnych_moich_bliskich_szczeg_lnie_tych_kt_rzy_prze_ywaj_trudne_chwile"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView4055"
                     android:paddingBottom="70dp"/>

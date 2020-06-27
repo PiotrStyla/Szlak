@@ -42,6 +42,10 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
             <TextView
+                    android:text="@string/modlitwa"
+                    android:id="@+id/textView4558a"
+                    style="@style/modlitwa"/>
+            <TextView
                     android:text="@string/bo_e_wejrzyj_ku_wspomo_eniu_memu_panie_po_piesz_ku_ratunkowi_memu_pom_mi_panie_cierpliwie_wspina_si_na_wysok_g_r_aby_tam_kontemplowa_przemienione_oblicze_jezusa_mojego_pana_i_zbawiciela_bro_mnie_przed_zniech_ceniem_i_zatrzymaniem_si_w_po_owie_drogi_doprowad_mnie_na_szczyt_z_kt_rego_mog_podziwia_panoram_dziej_w_zbawienia_jakie_przez_wieki_prowadzisz"
                     android:id="@+id/textView4559"
                     android:textStyle="italic"

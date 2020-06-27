@@ -42,6 +42,10 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
             <TextView
+                    android:text="@string/modlitwa"
+                    android:id="@+id/textView4075a"
+                    style="@style/modlitwa"/>
+            <TextView
                     android:text="@string/bo_e_wejrzyj_ku_wspomo_eniu_memu_prowad_mnie_bo_e_swoim_b_ogos_awie_stwem_niech_jego_moc_towarzyszy_mi_ka_dego_dnia"
                     android:id="@+id/textView4076"
                     style="@style/paragraf_Text_optimum"/>

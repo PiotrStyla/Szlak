@@ -42,6 +42,10 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
             <TextView
+                    android:text="@string/modlitwa"
+                    android:id="@+id/textView3574a"
+                    style="@style/modlitwa"/>
+            <TextView
                     android:text="@string/bo_e_wejrzyj_ku_wspomo_eniu_memu_niech_w_ka_dym_dniu_mojego_ycia_i_mojej_modlitwy_towarzyszy_mi_twoje_b_ogos_awie_stwo_niech_mi_pozwoli_zanurzy_si_w_zbawczych_wydarzeniach_jakie_dokona_y_si_w_kanie_galilejskiej_i_umacnia_mnie_w_trudnych_chwilach"
                     android:id="@+id/textView3575"
                     style="@style/paragraf_Text_optimum"/>

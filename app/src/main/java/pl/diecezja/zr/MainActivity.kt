@@ -15,24 +15,32 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val button_wprowadzenie  = findViewById (R.id.button_wprowadzenie) as Button
+        val button_wprowadzenie  = findViewById<Button>(R.id.button_wprowadzenie)
         button_wprowadzenie.setOnClickListener {
             val intent1 = Intent(this, Wprowadzenie::class.java)
             startActivity(intent1)
         }
-        val button_main_do_radosnych  = findViewById (R.id.button2) as Button
+        val button_main_do_radosnych  = findViewById<Button>(R.id.button2)
         button_main_do_radosnych.setOnClickListener {
             val intent2 = Intent(this, Radosne::class.java)
             startActivity(intent2)
         }
-        val buttonMainDoSwiatla  = findViewById (R.id.button3) as Button
+        val buttonMainDoSwiatla  = findViewById<Button>(R.id.button3)
         buttonMainDoSwiatla.setOnClickListener {
             val intent2a = Intent(this, Swiatla::class.java)
             startActivity(intent2a)
         }
+        val buttonMainDoBolesne  = findViewById<Button>(R.id.button4)
+        buttonMainDoBolesne.setOnClickListener {
+            val intent3 = Intent(this, Bolesne::class.java)
+            startActivity(intent3)
+        }
 
     }
-    //menu start
+
+
+
+    //menu start info about app
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         super.onCreateOptionsMenu(menu)

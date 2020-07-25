@@ -15,20 +15,26 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val button_wprowadzenie  = findViewById (R.id.button_wprowadzenie) as Button
-        button_wprowadzenie.setOnClickListener {
+        val buttonWprowadzenie  = findViewById<Button>(R.id.button_wprowadzenie)
+        buttonWprowadzenie.setOnClickListener {
             val intent1 = Intent(this, Wprowadzenie::class.java)
             startActivity(intent1)
         }
-        val button_main_do_radosnych  = findViewById (R.id.button2) as Button
-        button_main_do_radosnych.setOnClickListener {
+        val buttonMainDoRadosnych  = findViewById<Button>(R.id.button2)
+        buttonMainDoRadosnych.setOnClickListener {
             val intent2 = Intent(this, Radosne::class.java)
             startActivity(intent2)
         }
-        val buttonMainDoSwiatla  = findViewById (R.id.button3) as Button
+        val buttonMainDoSwiatla  = findViewById<Button>(R.id.button3)
         buttonMainDoSwiatla.setOnClickListener {
             val intent2a = Intent(this, Swiatla::class.java)
             startActivity(intent2a)
+        }
+
+        val buttonMainDoBolesne  = findViewById<Button>(R.id.button4)
+        buttonMainDoBolesne.setOnClickListener {
+            val intent2b = Intent(this, Bolesne::class.java)
+            startActivity(intent2b)
         }
 
     }

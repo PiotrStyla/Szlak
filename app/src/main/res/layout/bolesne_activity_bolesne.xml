@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF"
+        tools:context=".Bolesne">
+
+
+    <TextView
+            android:id="@+id/textView_Radosne1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:text="@string/tajemnice_bolesne"
+            android:textColor="@color/colorGreen"
+            android:textSize="28sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:contentDescription="@string/ikona_tajemnica_radosna"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView_Radosne1"
+            app:srcCompat="@drawable/ikonaswiatla" />
+
+    <Button
+            android:id="@+id/button_Jordan"
+            style="@style/button_bolesne_tajemnice"
+            android:layout_width="150sp"
+            android:layout_marginTop="16dp"
+            android:text="OGRÓJEC"
+            app:layout_constraintEnd_toStartOf="@+id/button_Kana"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+    <Button
+            android:id="@+id/button_Kana"
+            style="@style/button_swiatla_tajemnice"
+            android:layout_width="150sp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/kana"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/button_Jordan"
+            app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+    <Button
+            android:id="@+id/button_Galilea"
+            style="@style/button_swiatla_tajemnice"
+            android:layout_width="150sp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/galilea"
+            app:layout_constraintEnd_toStartOf="@+id/button_Tabor"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/button_Jordan" />
+
+    <Button
+            android:id="@+id/button_Tabor"
+            style="@style/button_swiatla_tajemnice"
+            android:layout_width="150sp"
+            android:layout_height="wrap_content"
+            android:text="@string/tabor"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/button_Galilea"
+            app:layout_constraintTop_toTopOf="@+id/button_Galilea" />
+
+    <Button
+            android:id="@+id/buttonWieczernik"
+            style="@style/button_swiatla_tajemnice"
+            android:layout_width="150sp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/wieczernik"
+            app:layout_constraintEnd_toStartOf="@+id/button_Rekolekcje_Radosne"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/button_Galilea" />
+
+    <Button
+            android:id="@+id/button_Rekolekcje_Radosne"
+            style="@style/button_swiatla_tajemnice"
+            android:layout_width="150sp"
+            android:layout_height="wrap_content"
+            android:text="@string/rekolekcje1"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/buttonWieczernik"
+            app:layout_constraintTop_toTopOf="@+id/buttonWieczernik" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -9,7 +9,8 @@
             android:roundIcon="@mipmap/ic_launcher_round_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".WieczernikDzien30"></activity>
+        <activity android:name=".Bolesne"></activity>
+        <activity android:name=".WieczernikDzien30" />
         <activity android:name=".WieczernikDzien29" />
         <activity android:name=".WieczernikDzien28" />
         <activity android:name=".WieczernikDzien27" />
@@ -339,7 +340,6 @@
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <action android:name="android.intent.action.VIEW" />
 
                 <category android:name="android.intent.category.LAUNCHER" />

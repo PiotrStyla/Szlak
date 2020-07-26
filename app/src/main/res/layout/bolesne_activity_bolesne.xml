@@ -33,14 +33,14 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView_Radosne1"
-            app:srcCompat="@drawable/ikonaswiatla" />
+            app:srcCompat="@drawable/ikonabolesna" />
 
     <Button
             android:id="@+id/button_Jordan"
             style="@style/button_bolesne_tajemnice"
             android:layout_width="150sp"
             android:layout_marginTop="16dp"
-            android:text="OGRÓJEC"
+            android:text="@string/ogr_jec"
             app:layout_constraintEnd_toStartOf="@+id/button_Kana"
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintStart_toStartOf="parent"

@@ -34,9 +34,9 @@ android:background="#FFFFFF">
         app:layout_constraintEnd_toEndOf="parent"
         android:layout_marginStart="8dp"
         app:layout_constraintStart_toStartOf="parent"
-        android:contentDescription="@string/ikona_tajemnica_radosna" />
+        android:contentDescription="@string/ikona_bolesna_obraz" />
 <Button
-        android:text="OGRÓJEC"
+        android:text="@string/ogr_jec"
         android:id="@+id/button_Jordan"
         style="@style/button_bolesne_tajemnice"
         android:layout_width="150sp"

@@ -9,6 +9,8 @@
             android:roundIcon="@mipmap/ic_launcher_round_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
+        <activity android:name=".OgrojecWstep"></activity>
+        <activity android:name=".Ogrojec" />
         <activity android:name=".Bolesne" />
         <activity android:name=".WieczernikDzien30" />
         <activity android:name=".WieczernikDzien29" />

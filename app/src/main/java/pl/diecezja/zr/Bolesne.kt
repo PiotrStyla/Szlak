@@ -10,10 +10,10 @@ class Bolesne : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.bolesne_activity_bolesne)
 
-        val buttonSwiatlaDoJordan = findViewById<Button>(R.id.button_Jordan)
-        buttonSwiatlaDoJordan.setOnClickListener {
-            val intent3 = Intent(this, Jordan::class.java)
-            startActivity(intent3)
+        val buttonBolesneDoOgrojec = findViewById<Button>(R.id.button_Ogrojec)
+        buttonBolesneDoOgrojec.setOnClickListener {
+            val intentBolesne = Intent(this, Ogrojec::class.java)
+            startActivity(intentBolesne)
         }
 
         val buttonSwiatlaDoKana = findViewById<Button>(R.id.button_Kana)

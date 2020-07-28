@@ -5,16 +5,15 @@ import android.os.Bundle
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
 
-class Jordan : AppCompatActivity() {
-
+class Ogrojec : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.jordan_activity_jordan)
+        setContentView(R.layout.ogrojec_activity_ogrojec)
 
-        val buttonJordanDoWstep = findViewById<Button>(R.id.button_Jordan_Wstep)
-        buttonJordanDoWstep.setOnClickListener {
-            val intentJordanWstep = Intent(this, JordanWstep::class.java)
-            startActivity(intentJordanWstep)
+        val buttonOgrojecDoWstep = findViewById<Button>(R.id.button_Jordan_Wstep)
+        buttonOgrojecDoWstep.setOnClickListener {
+            val intentOgrojecWstep = Intent(this, OgrojecWstep::class.java)
+            startActivity(intentOgrojecWstep)
         }
         val buttonJordanDzien1 = findViewById<Button>(R.id.button114jordan)
         buttonJordanDzien1.setOnClickListener {
@@ -168,3 +167,4 @@ class Jordan : AppCompatActivity() {
         }
     }
 }
+

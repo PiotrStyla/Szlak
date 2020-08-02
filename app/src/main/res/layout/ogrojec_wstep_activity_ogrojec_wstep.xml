@@ -107,7 +107,8 @@
             <TextView
                     android:text="@string/zapowied_tajemnicy_i_je_li_tylko_mo_liwe_r_wnoczesne_ukazanie_przedstawiaj_cej_j_ikony_to_jakby_ods_oni_cie_sceny_na_kt_rej_nale_y_skupi_uwag_rvm_29_od_samego_pocz_tku_potrzebne_jest_skupienie_uwagi_ods_oni_cie_sceny_rozsuni_cie_zas_ony_za_kt_r_kryje_si_wa_ne_wydarzenie_z_ycia_jezusa_i_maryi_takie_dzia_anie_jest_ask_o_kt_r_trzeba_prosi_dlatego_pierwsze_spotkania_w_ka_dym_zeszycie_r_a_cowego_szlaku_maj_charakter_pro_by_o_ask_wej_cia_w_g_b_tajemnicy_kt_r_mam_przez_ca_y_miesi_c_kontemplowa"
                     android:id="@+id/textView5615"
-                    style="@style/paragraf_Text"/>
+                    style="@style/paragraf_Text"
+                    android:paddingBottom="5dp"/>
             <TextView
                     android:text="@string/rozwa_anie_s_owa"
                     android:id="@+id/textView5616"
@@ -116,60 +117,116 @@
             <TextView
                     android:text="@string/po_zapowiedzi_tajemnicy_i_wst_pnej_modlitwie_zatrzymuj_si_na_rozwa_aniu_s_owa_bo_ego_kr_tki_tekst_biblijny_wraz_z_odpowiednim_komentarzem_sprawia_e_moja_uwaga_jeszcze_bardziej_skupia_si_na_tajemnicy_kt_r_rozwa_am_kt_r_prze_ywam_i_kt_ra_przenika_moj_modlitw"
                     android:id="@+id/textView5617"
-                    style="@style/paragraf_Text"/>
-
-
+                    style="@style/paragraf_Text"
+                    android:paddingBottom="5dp"/>
             <TextView
-                    android:text="@string/w_rozumieniu_tego_tematu_pomagaj_mi_s_owa_w_paw_a_aposto_a_pisze_on_w_li_cie_do_rzymian_duch_przychodzi_z_pomoc_naszej_s_abo_ci_gdy_bowiem_nie_umiemy_si_modli_tak_jak_trzeba_sam_duch_przyczynia_si_za_nami_w_b_aganiach_kt_rych_nie_mo_na_wyrazi_s_owami_rz_8_26_w_wietle_tych_s_w_pierwsz_s_abo_ci_w_kt_rej_duch_wi_ty_przychodzi_nam_z_pomoc_jest_s_abo_naszej_modlitwy_to_ona_nasza_modlitwa_potrzebuje_obecno_ci_ducha_wi_tego_aby_sta_a_si_prawdziwym_wydarzeniem_w_kt_rym_cz_owiek_uczestniczy_ca_ym_sercem_ca_dusz_ca_ym_umys_em_i_ca_moc_jest_to_przecie_wydarzenie_w_kt_rym_spotykaj_si_dwie_kochaj_ce_si_osoby_b_g_kocha_mnie_a_ja_kocham_boga_nie_spotykamy_si_na_za_atwianie_interes_w_nie_jest_tylko_z_naszej_strony_spe_nienie_obowi_zku_na_spotkanie_przyprowadza_nas_mi_o"
-                    android:id="@+id/textView3014"
+                    android:text="@string/ojcze_nasz"
+                    android:id="@+id/textView5618"
+                    style="@style/paragraf_Text"
+                    android:textStyle="italic"/>
+            <TextView
+                    android:text="@string/ucz_si_dostrzega_obecno_ojca_niebieskiego_we_wszystkich_tajemnicach_rozwa_anych_w_r_a_cu_w_ka_dej_widz_jezusa_kt_ry_pe_ni_wol_ojca_i_mnie_do_ojca_prowadzi_te_same_s_owa_modlitwy_pa_skiej_s_nieco_inaczej_prze_ywane_w_tajemnicy_zwiastowania_tajemnicy_taboru_tajemnicy_ukrzy_owania_czy_tajemnicy_zes_ania_ducha_wi_tego_ci_gle_si_zwracam_do_ojca_tymi_samymi_s_owami_ale_zmienia_si_wydarzenie_w_kt_re_mnie_ojciec_wprowadza_do_kt_rego_mnie_zaprasza_i_kt_re_prze_ywam_jako_jego_dziecko"
+                    android:id="@+id/textView5619"
+                    style="@style/paragraf_Text"
+                    android:paddingBottom="5dp"/>
+            <TextView
+                    android:text="@string/zdrowa_maryjo"
+                    android:id="@+id/textView5620"
+                    style="@style/paragraf_Text"
+                    android:textStyle="italic"/>
+            <TextView
+                    android:text="@string/wraz_z_ojcze_nasz_i_chwa_a_ojcu_jest_to_centralna_cz_ka_dej_dziesi_tki_r_a_ca_dziesi_razy_powtarzam_modlitw_skierowan_do_maryi_modl_si_do_niej_a_r_wnocze_nie_wraz_z_ni_kontempluj_prze_ywane_wydarzenie_w_kt_rym_ona_uczestniczy_a_modlitwa_pro_by_jednoczy_si_tu_z_modlitw_kontemplacji_to_po_czenie_jest_szczeg_lnym_znakiem_jako_ci_mojej_modlitwy"
+                    android:id="@+id/textView5621"
+                    style="@style/paragraf_Text"
+                    android:paddingBottom="5dp"/>
+            <TextView
+                    android:text="@string/chwa_a_ojcu"
+                    android:id="@+id/textView5622"
+                    style="@style/paragraf_Text"
+                    android:textStyle="italic"/>
+            <TextView
+                    android:text="@string/wypowiedzenie_tekstu_tej_kr_tkiej_modlitwy_jest_proste_zawarcie_w_niej_prawdziwego_uwielbienia_ojca_syna_i_ducha_wi_tego_o_wiele_trudniejsze_realizacja_wskaza_papie_a_jana_paw_a_ii_kt_re_jeszcze_raz_sobie_przypominam_to_upragniony_poziom_modlitwy_papie_pisze_uwielbienie_tr_jcy_przenaj_wi_tszej_na_zako_czenie_ka_dej_dziesi_tki_nie_sprowadzaj_c_si_bynajmniej_do_roli_kr_tkiego_zako_czenia_uzyska_sw_j_w_a_ciwy_ton_kontemplacyjny_aby_niejako_wynie_ducha_ku_wy_ynom_raju_i_da_nam_w_pewien_spos_b_prze_y_do_wiadczenie_taboru_b_d_ce_przedsmakiem_przysz_ej_kontemplacji_dobrze_e_tu_jeste_my_k_9_33_rvm_34"
+                    android:id="@+id/textView5623"
+                    style="@style/paragraf_Text"
+                    android:paddingBottom="5dp"/>
+            <TextView
+                    android:text="@string/akt_strzelisty"
+                    android:id="@+id/textView5624"
+                    style="@style/paragraf_Text"
+                    android:textStyle="italic"/>
+            <TextView
+                    android:text="@string/to_kolejna_pere_ka_ka_dej_dziesi_tki_r_a_ca_we_wsp_lnym_odmawianiu_r_a_ca_pos_ugujemy_si_formu_pochodz_c_z_objawie_fatimskich_w_modlitwie_indywidualnej_stosuj_si_do_wskaza_zawartych_w_li_cie_ojca_wi_tego_o_r_a_cu_zach_ca_on_aby_tre_aktu_strzelistego_wyra_a_a_rozwa_an_tajemnic_powtarzana_przez_miesi_c_modlitwa_niekiedy_zmieniana_pod_wp_ywem_prze_ytej_medytacji_jest_jednym_z_prze_y_kt_re_sprawiaj_e_mi_o_jezusa_i_maryi_objawiona_w_rozwa_anym_zbawczym_wydarzeniu_jeszcze_bardziej_dotyka_serce"
+                    android:id="@+id/textView5625"
+                    style="@style/paragraf_Text"
+                    android:paddingBottom="5dp"/>
+            <TextView
+                    android:text="@string/intencja_modlitwy"
+                    android:id="@+id/textView5626"
+                    style="@style/paragraf_Text"
+                    android:textStyle="italic"/>
+            <TextView
+                    android:text="@string/g_wna_intencja_modlitwy_towarzyszy_nam_od_pocz_tku_a_potem_dochodz_inne_intencje_tak_jest_w_czasie_mszy_wi_tej_kap_an_poleca_bogu_wyr_nion_intencj_a_w_czasie_modlitwy_powszechnej_opr_cz_tej_intencji_pojawiaj_si_inne_wa_ne_dla_ko_cio_a_i_wiata_ten_eucharystyczny_wz_r_jest_proponowany_w_zeszytach_r_a_cowego_szlaku_ywy_r_aniec_modli_si_przede_wszystkim_w_intencjach_kt_re_nosi_w_sercu_ojciec_wi_ty_jest_to_szczeg_lna_wi_modlitewna_z_papie_em_a_przez_niego_z_ca_ym_ko_cio_em_po_odm_wieniu_dziesi_tki_r_a_ca_gdy_otwarty_zosta_skarbiec_ask_ukryty_w_rozwa_anej_tajemnicy_prosimy_jezusa_aby_tymi_askami_hojnie_obdarowa_ludzi_polecamy_mu_spraw_pokoju_na_wiecie_i_problemy_rodzin_prosimy_o_dar_powo_a_i_b_ogos_awie_stwo_dla_tak_wielu_wydarze_jakie_dziej_si_w_ko_ciele"
+                    android:id="@+id/textView5627"
+                    style="@style/paragraf_Text"
+                    android:paddingBottom="5dp"/>
+            <TextView
+                    android:text="@string/wyznanie_wiary"
+                    android:id="@+id/textView5628"
+                    style="@style/paragraf_Text"
+                    android:textStyle="italic"/>
+            <TextView
+                    android:text="@string/przy_odmawianiu_dziesi_tki_r_a_ca_zasadniczo_nie_jest_przewidziane_wyznanie_wiary_nie_znaczy_to_e_nie_ma_potrzeby_spe_nia_kr_tkich_akt_w_wiary_np_wierz_w_to_wszystko_co_rozwa_am_w_tej_tajemnicy_a_niekiedy_r_wnie_odm_wienie_sk_adu_apostolskiego_mojej_modlitwie_musi_towarzyszy_g_boka_wiara_ona_te_dzi_ki_spotkaniu_z_panem_umacnia_si_i_rozwija"
+                    android:id="@+id/textView5629"
+                    style="@style/paragraf_Text"
+                    android:paddingBottom="5dp"/>
+            <TextView
+                    android:text="@string/szko_a_kontemplacji"
+                    android:id="@+id/textView5630"
+                    style="@style/paragraf_Text"
+                    android:textStyle="bold"
+                    android:paddingBottom="7dp"/>
+            <TextView
+                    android:text="@string/prze_ywanie_r_a_cowych_tajemnic_wiat_a_by_o_z_czone_z_dodatkow_refleksj_na_temat_modlitwy_ustnej_rozmy_lania_i_kontemplacji_akcent_by_po_o_ony_na_t_ostatni_umiej_tno_kt_rej_zar_wno_katechizm_ko_cio_a_katolickiego_jak_i_list_w_jana_paw_a_ii_o_r_a_cu_po_wi_caj_najwi_cej_uwagi"
+                    android:id="@+id/textView5631"
                     style="@style/paragraf_Text"/>
             <TextView
-                    android:text="@string/wszyscy_potrzebujemy_pomocy_boga_aby_w_prze_ywaniu_kolejnych_tajemnic_r_a_cowych_podejmowa_autentyczn_medytacj_jest_ona_bardzo_trudna_a_dla_wielu_os_b_ma_o_znana_trzeba_si_jej_nieustannie_uczy_niezale_nie_od_tego_w_jakim_stopniu_kto_ju_t_sztuk_opanowa_chc_wi_c_w_kolejnych_tajemnicach_wiat_a_w_tej_wst_pnej_refleksji_rozwa_a_wskazania_mistrz_w_dotycz_ce_prze_ywania_medytacji_r_a_cowych_pierwsze_wskazanie_dotyczy_rozpoczynania_modlitwy_na_samym_pocz_tku_u_wiadamiam_sobie_swoje_s_abo_ci_ograniczenia_i_braki_wo_am_wi_c_o_pomoc_i_ratunek_wierz_e_duch_wi_ty_b_dzie_mnie_prowadzi"
-                    android:id="@+id/textView3015"
+                    android:text="@string/w_kkk_znajdujemy_a_jedena_cie_punkt_w_ukazuj_cych_pi_kno_wielko_i_cechy_charakterystyczne_kontemplacji_w_wietle_tych_wyja_nie_kontemplacja_ukazuje_si_jako_forma_modlitwy_dost_pna_dla_wszystkich_w_istocie_bardzo_prosta_a_r_wnocze_nie_wprowadzaj_ca_cz_owieka_w_g_bi_spotkania_z_bogiem_dla_przypomnienia_i_ponownej_refleksji_nad_rozwojem_tej_sztuki_modlitwy_przywo_uje_niekt_re_fragmenty_katechizmu_po_wi_cone_tej_tematyce"
+                    android:id="@+id/textView5632"
                     style="@style/paragraf_Text"/>
             <TextView
-                    android:text="@string/kiedy_siostra_ucja_kt_rej_matka_bo_a_objawi_a_si_w_fatimie_wyja_nia_a_spos_b_prze_ywania_pi_ciu_pierwszych_sob_t_miesi_ca_m_wi_a_e_najpi_kniejszym_a_r_wnocze_nie_sprawiaj_cym_najwi_cej_trudno_ci_elementem_nabo_e_stwa_jest_medytacja_patrz_miesi_cznik_r_aniec_maj_2015_s_8_w_nabo_e_stwie_pierwszosobotnim_proponowana_jest_zar_wno_osobna_medytacja_przez_15_minut_jak_te_odmawianie_cz_stki_r_a_ca_kt_re_r_wnie_jest_po_czone_z_medytacj"
-                    android:id="@+id/textView3016"
+                    android:text="@string/_2711_wej_cie_w_kontemplacj_jest_analogiczne_do_wej_cia_w_liturgi_eucharystyczn_jest_nim_skupienie_serca_poddanie_ca_ej_naszej_istoty_tchnieniu_ducha_wi_tego_zamieszkanie_w_domu_pa_skim_jakim_jeste_my_pobudzenie_wiary_by_wej_w_obecno_tego_kt_ry_nas_oczekuje_zrzucenie_wszelkich_masek_i_zwr_cenie_serca_do_kochaj_cego_nas_pana_aby_odda_si_mu_jako_2100_ofiara_kt_ra_zostanie_oczyszczona_i_przekszta_cona"
+                    android:id="@+id/textView5633"
                     style="@style/paragraf_Text"/>
             <TextView
-                    android:text="@string/ta_droga_medytowania_tajemnic_jezusa_i_maryi_proponowana_jest_r_wnie_tym_kt_rzy_codziennie_odmawiaj_dziesi_tk_r_a_ca_najpierw_jest_odczytanie_s_owa_bo_ego_i_chwila_refleksji_a_potem_kontynuacja_tej_medytacji_ju_w_trakcie_odmawiania_tajemnicy_r_a_cowej"
-                    android:id="@+id/textView3017"
+                    android:text="@string/_2713_kontemplacja_jest_wi_c_najprostszym_sposobem_wyra_enia_tajemnicy_2259_modlitwy_jest_ona_darem_ask_nie_mo_na_przyj_jej_inaczej_jak_tylko_w_pokorze_i_ub_stwie_kontemplacja_jest_zwi_zkiem_przymierza_ustanowionym_przez_boga_w_g_bi_naszego_bytupor_jr_31_33_kontemplacja_jest_komuni_tr_jca_wi_ta_kszta_tuje_w_niej_cz_owieka_obraz_bo_y_na_swoje_podobie_stwo"
+                    android:id="@+id/textView5634"
+                    style="@style/paragraf_Text"/>
+            <TextView
+                    android:text="@string/_2714_kontemplacja_jest_tak_e_najbardziej_intensywnym_czasem_modlitwy_w_niej_ojciec_sprawia_w_nas_przez_ducha_swego_wzmocnienie_si_y_wewn_trznego_cz_owieka_by_chrystus_zamieszka_przez_wiar_w_naszych_sercach_i_aby_my_zostali_wkorzenieni_i_ugruntowani_w_mi_o_ci_ef_3_16_17"
+                    android:id="@+id/textView5635"
+                    style="@style/paragraf_Text"/>
+            <TextView
+                    android:text="@string/_2715_kontemplacja_jest_spojrzeniem_wiary_utkwionym_w_jezusa_chrystusa_1380_wpatruj_si_w_niego_a_on_wpatruje_si_we_mnie_m_wi_do_swego_wi_tego_proboszcza_wie_niak_z_ars_modl_cy_si_przed_tabernakulum_ta_uwaga_zwr_cona_na_niego_jest_wyrzeczeniem_si_w_asnego_ja_jego_spojrzenie_oczyszcza_serce_wiat_o_spojrzenia_jezusa_o_wieca_oczy_naszego_serca_uczy_nas_widzie_wszystko_w_wietle_jego_prawdy_i_jego_wsp_czucia_dla_wszystkich_521_ludzi_kontemplacja_kieruje_r_wnie_wzrok_na_misteria_ycia_chrystusa_w_ten_spos_b_uczy_wewn_trznego_poznania_pana_by_go_coraz_bardziej_kocha_i_i_za_nim_por_w_ignacy_loyola_wiczenia_duchowne_104"
+                    android:id="@+id/textView5636"
+                    style="@style/paragraf_Text"/>
+            <TextView
+                    android:text="@string/te_my_li_o_kontemplacji_rozwija_z_w_a_ciw_sobie_g_bi_spojrzenia_ojciec_wi_ty_jan_pawe_ii_w_li_cie_o_r_a_cu_rozwa_a_em_jego_s_owa_prze_ywaj_c_kolejne_etapy_r_a_cowego_szlaku_przypomn_jeden_fragment_r_aniec_w_a_nie_wychodz_c_z_do_wiadczenia_maryi_jest_modlitw_wyra_nie_kontemplacyjn_pozbawiony_tego_wymiaru_okaza_by_si_wyzuty_ze_swej_natury_jak_podkre_la_pawe_vi_je_li_brak_kontemplacji_r_aniec_upodabnia_si_do_cia_a_bez_duszy_i_zachodzi_niebezpiecze_stwo_e_odmawianie_stanie_si_bezmy_lnym_powtarzaniem_formu_oraz_e_b_dzie_w_sprzeczno_ci_z_upomnieniem_chrystusa_kt_ry_powiedzia_na_modlitwie_nie_b_d_cie_gadatliwi_jak_poganie_oni_my_l_e_przez_wzgl_d_na_swe_wielom_wstwo_b_d_wys_uchani_mt_6_7_rvm_12"
+                    android:id="@+id/textView5637"
                     style="@style/paragraf_Text"/>
             <TextView
                     android:text="@string/akt_strzelisty"
-                    android:id="@+id/textView3018"
-                    style="@style/modlitwa"/>
-            <TextView
-                    android:text="@string/z_prze_ywaniem_medytacji_zwi_zany_jest_akt_strzelisty_odmawiany_po_zako_czeniu_dziesi_tki_r_a_ca_cho_by_a_ju_o_tym_mowa_w_tajemnicach_radosnych_to_jednak_wracam_do_tego_tematu_gdy_nale_y_on_do_najbardziej_wymagaj_cych_element_w_tej_modlitwy_jest_takim_dla_wszystkich_kt_rzy_chc_wprowadza_w_yciu_zalecenie_ojca_wi_tego_jana_paw_a_ii_z_listu_o_r_a_cu"
-                    android:id="@+id/textView3019"
-                    style="@style/paragraf_Text"/>
-            <TextView
-                    android:text="@string/wed_ug_powszechnie_przyj_tej_praktyki_w_r_a_cu_po_doksologii_trynitarnej_odmawia_si_akt_strzelisty_r_ny_zale_nie_od_zwyczaj_w_doceniaj_c_warto_takich_inwokacji_trzeba_zauwa_y_e_owocno_kontemplacji_tajemnic_b_dzie_lepiej_wyra_ona_je_li_zadba_si_o_to_by_ka_d_tajemnic_zako_czy_modlitw_o_osi_gni_cie_specyficznych_owoc_w_konkretnej_tajemnicy_w_ten_spos_b_r_aniec_b_dzie_m_g_trafniej_wyrazi_sw_j_zwi_zek_z_yciem_chrze_cija_skim_podpowiada_to_pi_kna_modlitwa_liturgiczna_kt_ra_zach_ca_nas_by_my_prosili_o_osi_gni_cie_przez_rozwa_anie_tajemnic_r_a_ca_tego_e_b_dziemy_na_ladowa_to_co_zawieraj_i_otrzymamy_to_co_obiecuj"
-                    android:id="@+id/textView3021"
-                    style="@style/paragraf_Text"/>
-            <TextView
-                    android:text="@string/w_takiej_modlitwie_ko_cowej_mo_e_wyst_powa_jak_to_ma_ju_miejsce_uzasadniona_r_norodno_r_aniec_uzyskuje_w_ten_spos_b_r_wnie_rysy_bardziej_odpowiadaj_ce_r_nym_tradycjom_duchowym_i_r_nym_wsp_lnotom_chrze_cija_skim_w_tej_perspektywie_nale_a_oby_sobie_yczy_aby_by_y_szerzone_z_nale_ytym_rozeznaniem_duszpasterskim_najbardziej_znacz_ce_propozycje_rvm_35"
-                    android:id="@+id/textView3022"
-                    style="@style/paragraf_Text"/>
-            <TextView
-                    android:text="@string/stara_em_si_te_wskazania_ojca_wi_tego_zachowywa_przy_rozwa_aniu_tajemnic_radosnych_chc_to_czyni_r_wnie_teraz_w_tajemnicach_wiat_a_wybieram_jeden_akt_strzelisty_by_powtarza_go_przez_ca_y_miesi_c_w_czasie_rozwa_ania_tajemnicy_chrztu_chrystusa_w_jordanie"
-                    android:id="@+id/textView3023"
-                    style="@style/paragraf_Text"/>
-            <TextView
-                    android:text="@string/tre_tego_aktu_streszcza_g_wne_tematy_miesi_cznej_medytacji_o_tajemnicy_chrztu_chrystusa_w_jordanie_jest_to_najpierw_modlitwa_o_ducha_wi_tego_gdy_o_tego_ducha_modli_si_jezus_ten_duch_zst_pi_na_niego_i_w_mocy_tego_ducha_wype_nia_wol_ojca_prowadzony_przez_ducha_wi_tego_pragn_wiadczy_o_jezusie_z_nim_odrzuca_pokusy_szatana_i_z_nim_i_do_ludzi_aby_nie_im_pomoc_w_ich_codziennych_trudno_ciach_i_problemach"
-                    android:id="@+id/textView3024"
+                    android:id="@+id/textView5638"
                     style="@style/paragraf_Text"
+                    android:textStyle="bold"
                     android:paddingBottom="7dp"/>
             <TextView
-                    android:text="@string/ojcze_niebieski_ze_lij_na_nas_ducha_wi_tego_aby_my_jego_moc_wiadczyli_o_jezusie_zwyci_ali_pokusy_szatana_i_nie_li_pomoc_ludziom"
-                    android:id="@+id/textView3025"
+                    android:text="@string/mi_osierny_jezu_przebacz_nam_zaniedbania_w_czuwaniu_i_modlitwie_naucz_nas_wiernie_pe_ni_wol_ojca_niebieskiego"
+                    android:id="@+id/textView5639"
                     style="@style/paragraf_Text"
                     android:textStyle="bold"
                     android:paddingBottom="70dp"
                     android:textAlignment="center"/>
-
-
-
+            
         </LinearLayout>
     </ScrollView>
 </androidx.constraintlayout.widget.ConstraintLayout>

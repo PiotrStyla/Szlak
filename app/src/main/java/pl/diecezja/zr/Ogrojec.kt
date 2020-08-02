@@ -10,7 +10,7 @@ class Ogrojec : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.ogrojec_activity_ogrojec)
 
-        val buttonOgrojecDoWstep = findViewById<Button>(R.id.button_Jordan_Wstep)
+        val buttonOgrojecDoWstep = findViewById<Button>(R.id.button_Ogrojec_Wstep)
         buttonOgrojecDoWstep.setOnClickListener {
             val intentOgrojecWstep = Intent(this, OgrojecWstep::class.java)
             startActivity(intentOgrojecWstep)

@@ -57,10 +57,10 @@
                     android:id="@+id/button_Ogrojec_1"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
-                    android:text="@string/dzie_2_pro_ba_o_wiat_o_i_si_y_modlitwa_do_chrystusa"
+                    android:text="@string/dzie_2_wi_ci_m_czennicy"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button115jordan"
+                    android:id="@+id/button_Ogrojec_2"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
                     android:text="@string/dzie_3_pro_ba_o_wiat_o_i_si_y_modlitwa_do_ducha_wi_tego"

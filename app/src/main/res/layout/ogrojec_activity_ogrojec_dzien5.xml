@@ -62,7 +62,7 @@
                     android:id="@+id/textView5707"
                     style="@style/paragraf_Text_optimum"
                     android:textStyle="italic"
-                    />
+                    android:padding="5dp"/>
             <TextView
                     android:text="@string/modlitwa"
                     android:id="@+id/textView5708"

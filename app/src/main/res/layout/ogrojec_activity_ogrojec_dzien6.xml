@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="16dp"
+        tools:context=".OgrojecDzien6"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="@string/dzie_6_modlitwy_jezusa_n_nad_jordanem_i_na_pustyni"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView5722"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="4sp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingEnd="10sp"
+            tools:ignore="RtlSymmetry" />
+
+    <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView5722"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="78dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="10sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+            <TextView
+                    android:text="@string/modlitwa"
+                    android:id="@+id/textView5723"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/i_z_mszy_wotywnej_o_w_janie_chrzcicielu_i_n_bo_e_ty_powo_a_e_wi_tego_jana_chrzciciela_aby_przygotowa_tw_j_lud_na_przyj_cie_chrystusa_pana_udziel_twojemu_ko_cio_owi_daru_rado_ci_w_duchu_wi_tym_i_skieruj_dusze_wszystkich_wiernych_na_drog_zbawienia_i_pokoju_przez_chrystusa_pana_naszego_amen"
+                    android:id="@+id/textView5724"
+                    style="@style/paragraf_Text_optimum"
+                    android:padding="5dp"/>
+            <TextView
+                    android:text="@string/i_ze_wspomnienia_w_sarbeliusza_makhlufa_i_n_bo_e_ty_wezwa_e_wi_tego_sarbeliusza_prezbitera_aby_w_samotno_ci_pustelni_stoczy_duchow_walk_i_nape_ni_e_go_wszelk_pobo_no_ci_spraw_prosimy_aby_my_na_laduj_c_m_k_pana_stali_si_uczestnikami_jego_kr_lestwa_kt_ry_z_tob_yje_i_kr_luje_przez_wszystkie_wieki_wiek_w_amen"
+                    android:id="@+id/textView5725"
+                    style="@style/paragraf_Text_optimum"
+                    android:padding="5dp"/>
+            <TextView
+                    android:text="@string/rozwa_anie_s_owa"
+                    android:id="@+id/textView5726"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_3_21_22_kiedy_ca_y_lud_przyst_powa_do_chrztu_jezus_tak_e_przyj_chrzest_a_gdy_si_modli_otworzy_o_si_niebo_i_duch_wi_ty_zst_pi_na_niego_w_postaci_cielesnej_niby_go_bica_a_nieba_odezwa_si_g_os_ty_jest_m_j_syn_umi_owany_w_tobie_mam_upodobanie"
+                    android:id="@+id/textView5727"
+                    style="@style/paragraf_Text_optimum"
+                    android:padding="5dp"/>
+            <TextView
+                    android:text="@string/rozwa_a_em_ju_modlitw_jezusa_w_czasie_jego_chrztu_jezus_prosi_ojca_o_ducha_wi_tego_mia_rozpocz_nowy_etap_realizacji_swej_misji_wi_za_si_on_z_opuszczeniem_domu_rodzinnego_i_p_j_ciem_do_wiata_dotkni_tego_grzechem_mia_stawi_czo_a_ka_dej_postaci_z_a_jaka_zadomowi_a_si_w_ludzkim_sercu_i_w_yciu_spo_ecznym_jako_prawdziwy_cz_owiek_prosi_o_nowe_umocnienie_duchem_wi_tym_ojciec_wys_uchuje_jego_modlitwy_na_jezusa_zst_puje_duch_wi_ty"
+                    android:id="@+id/textView5728"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/kierowany_nim_jezus_rozpoczyna_nowy_etap_swej_misji_pierwszym_czynem_nie_jest_jednak_p_j_cie_do_ludzi_lecz_odej_cie_od_ludzi_r_d_o_z_a_na_wiecie_jest_w_odwiecznym_kusicielu_trzeba_wi_c_najpierw_nim_si_zaj_z_nim_stoczy_walk_jezus_idzie_wi_c_na_pustynie_modli_si_i_po_ci_czyni_to_czego_p_niej_b_dzie_wymaga_od_aposto_w_t_umacz_c_im_e_wiele_postaci_z_a_mo_na_pokona_tylko_modlitw_i_postem_por_mt_17_21"
+                    android:id="@+id/textView5729"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/walka_z_kusicielem_nie_zako_czy_a_si_na_pustyni_ewangeli_ci_stwierdzaj_e_gdy_diabe_doko_czy_ca_ego_kuszenia_odst_pi_od_niego_a_do_czasu_k_4_13_ogr_jec_i_nast_puj_ce_po_nim_wydarzenia_to_ten_czas_powrotu_szatana_pokusa_wraca_z_now_si_wchodzi_w_sam_modlitw_w_wewn_trzn_blisko_jezusa_z_ojcem_jezus_jest_kuszony_aby_nie_pe_ni_ju_woli_ojca_lecz_p_j_inn_drog_potem_b_dzie_kuszony_by_zej_z_krzy_a_odpowiedzi_jest_najpierw_modlitwa_jezus_jest_z_ojcem_jego_wol_pragnie_wype_ni_do_ko_ca"
+                    android:id="@+id/textView5730"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/dziesi_tek_r_a_ca"
+                    android:id="@+id/textView5731"
+                    style="@style/dziesiatek_rozanca"/>
+            <TextView
+                    android:text="@string/wracaj_c_dzi_w_r_a_cowym_rozwa_aniu_do_modlitwy_jezusa_nad_jordanem_i_na_pustyni_chc_jeszcze_lepiej_zrozumie_znaczenie_modlitwy_i_postu_w_walce_z_pokus"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView5732"/>
+            <TextView
+                    android:text="@string/akt_strzelisty"
+                    android:id="@+id/textView5733"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/mi_osierny_jezu_przebacz_nam_zaniedbania_w_czuwaniu_i_modlitwie_naucz_nas_wiernie_pe_ni_wol_ojca_niebieskiego"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView5734"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy"
+                    android:id="@+id/textView5735"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy_wyra_one_swoimi_s_owami"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView5736"
+                    android:paddingBottom="70dp"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

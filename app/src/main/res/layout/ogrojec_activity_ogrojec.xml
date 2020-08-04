@@ -9,6 +9,7 @@
         android:orientation="vertical">
 
     <ScrollView
+            android:id="@+id/scrollOgrojec"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
         <LinearLayout android:layout_width="match_parent"
@@ -87,16 +88,16 @@
                     android:id="@+id/button_Ogrojec_6"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
-                    android:text="@string/dzie_7_przed_p_j_ciem_nad_jordan_or_dzie_jana_o_cz_owieku"
+                    android:text="@string/dzie_7_modlitwy_jezusa_n_przed_powo_aniem_aposto_w"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button120jordan"
+                    android:id="@+id/button_Ogrojec_7"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
-                    android:text="@string/dzie_8_przed_p_j_ciem_nad_jordan_or_dzie_jana_o_jezusie"
+                    android:text="@string/dzie_8_modlitwy_jezusa_n_przed_rozmno_eniem_chleba"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button121jordan"
+                    android:id="@+id/button_Ogrojec_8"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
                     android:text="@string/dzie_9_przed_p_j_ciem_nad_jordan_za_rz_d_w_tyberiusza"

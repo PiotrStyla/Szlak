@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="16dp"
+        tools:context=".OgrojecDzien3"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="@string/dzie_3_wi_ci_pasterze"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView5675"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="4sp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingEnd="10sp"
+            tools:ignore="RtlSymmetry" />
+
+    <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView5675"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="48dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="10sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+            <TextView
+                    android:text="@string/wi_ci_leonie_i_grzegorzu_m_dlcie_si_za_mn_n_wi_ty_ambro_y_n_wi_ty_hieronimie_n_wi_ty_augustynie_n_wi_ty_atanazy_n_wi_ci_bazyli_i_grzegorzu_z_nazjanzu_n_wi_ty_janie_chryzostomie_n_wi_ty_marcinie_n_wi_ty_patryku_n_wi_ci_cyrylu_i_metody_n_wi_ty_karolu_boromeuszu_n_wi_ty_franciszku_salezy_n_wi_ty_piusie_dziesi_ty_n_wszyscy_wi_ci_biskupi_i_doktorzy_ko_cio_a"
+                    android:id="@+id/textView5676"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/rozwa_anie_s_owa"
+                    android:id="@+id/textView5677"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/dzi_kieruj_moj_my_l_ku_wybitnym_nauczycielom_m_dro_ci_krzy_a_wielu_z_nich_zosta_o_nazwanych_doktorami_ko_cio_a_otrzymali_od_boga_szczeg_lny_dar_wyja_niania_prawd_wiary_po_wi_cili_wiele_uwagi_tajemnicy_modlitwy_i_tajemnicy_krzy_a"
+                    android:id="@+id/textView5678"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/istnieje_g_boki_zwi_zek_mi_dzy_rozumieniem_modlitwy_i_rozumieniem_krzy_a_zazwyczaj_jest_tak_e_ludzie_rozmodleni_do_wiadczaj_szczeg_lnej_jedno_ci_z_cierpi_cym_zbawicielem_s_stale_blisko_niego_przez_swoj_modlitw_otrzymuj_wi_c_tak_e_ask_bycia_blisko_niego_w_cierpieniu_dla_nich_krzy_nie_jest_g_upstwem_tylko_m_dro_ci_bo"
+                    android:id="@+id/textView5679"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/prosz_tych_kt_rym_b_g_da_ask_m_dro_ci_aby_mnie_wspierali_w_codziennym_prze_ywaniu_tajemnicy_modlitwy_pana_jezusa_w_ogr_jcu_oni_pomogli_tak_wielu_braciom_i_siostrom_ja_r_wnie_pragn_przyj_wiat_o_ich_nauki"
+                    android:id="@+id/textView5680"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/dziesi_tek_r_a_ca"
+                    android:id="@+id/textView5681"
+                    style="@style/dziesiatek_rozanca"/>
+            <TextView
+                    android:text="@string/ojcze_nasz_zdrowa_maryjo_chwa_a_ojcu"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView5682"/>
+            <TextView
+                    android:text="@string/akt_strzelisty"
+                    android:id="@+id/textView5683"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/mi_osierny_jezu_przebacz_nam_zaniedbania_w_czuwaniu_i_modlitwie_naucz_nas_wiernie_pe_ni_wol_ojca_niebieskiego"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView5684"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy"
+                    android:id="@+id/textView5685"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/modlitwa_o_pok_j"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView5686"
+                    android:textStyle="italic"
+                    android:padding="5dp"/>
+            <TextView
+                    android:text="@string/o_panie_uczy_z_nas_narz_dzia_twojego_pokoju_aby_my_siali_mi_o_tam_gdzie_panuje_nienawi_wybaczenie_tam_gdzie_panuje_krzywda_n_jedno_tam_gdzie_panuje_zw_tpienie_n_nadziej_tam_gdzie_panuje_rozpacz_n_wiat_o_tam_gdzie_panuje_mrok_n_rado_tam_gdzie_panuje_smutek"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView5687"
+                    android:paddingBottom="5dp"/>
+            <TextView
+                    android:text="@string/spraw_aby_my_mogli_n_nie_tyle_szuka_pociechy_co_pociech_dawa_n_nie_tyle_szuka_zrozumienia_co_rozumie_n_nie_tyle_szuka_mi_o_ci_co_kocha_n_albowiem_daj_c_otrzymujemy_n_wybaczaj_c_zyskujemy_przebaczenie_n_a_umieraj_c_rodzimy_si_do_wiecznego_ycia_n_przez_chrystusa_pana_naszego_amen"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView5688"
+                    android:paddingBottom="70dp"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -100,17 +100,17 @@
                     android:id="@+id/button_Ogrojec_8"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
-                    android:text="@string/dzie_9_przed_p_j_ciem_nad_jordan_za_rz_d_w_tyberiusza"
+                    android:text="@string/dzie_9_modlitwy_jezusa_n_na_g_rze_tabor"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button122jordan"
+                    android:id="@+id/button_Ogrojec_9"
                     style="@style/button_dni_swiatlo_padding"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button123jordan"
+                    android:id="@+id/button_Ogrojec_10"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_10_przed_p_j_ciem_nad_jordan_po_egnanie_z_matk"/>
+                    android:text="@string/dzie_10_modlitwy_jezusa_n_rano_i_wieczorem"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

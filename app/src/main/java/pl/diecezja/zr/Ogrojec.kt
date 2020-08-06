@@ -85,10 +85,10 @@ class Ogrojec : AppCompatActivity() {
             val intentOgrojecDzien14 = Intent(this, OgrojecDzien14::class.java)
             startActivity(intentOgrojecDzien14)
         }
-        val buttonJordanDzien15 = findViewById<Button>(R.id.button128jordan)
-        buttonJordanDzien15.setOnClickListener {
-            val intentJordanDzien15 = Intent(this, JordanDzien15::class.java)
-            startActivity(intentJordanDzien15)
+        val buttonOgrojecDoDzien15 = findViewById<Button>(R.id.button_Ogrojec_15)
+        buttonOgrojecDoDzien15.setOnClickListener {
+            val intentOgrojecDzien15 = Intent(this, OgrojecDzien15::class.java)
+            startActivity(intentOgrojecDzien15)
         }
         val buttonJordanDzien16 = findViewById<Button>(R.id.button129jordan)
         buttonJordanDzien16.setOnClickListener {

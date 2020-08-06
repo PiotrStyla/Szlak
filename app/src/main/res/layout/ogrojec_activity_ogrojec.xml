@@ -126,15 +126,15 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button126jordan"
+                    android:id="@+id/button_Ogrojec_13"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_13_wydarzenia_nad_jordanem_bierze_na_siebie_grzechy_ludzi"/>
+                    android:text="@string/dzie_13_modlitwa_w_ogr_jcu_n_tajemnica_ogrodu"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button127jordan"
+                    android:id="@+id/button_Ogrojec_14"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_14_wydarzenia_nad_jordanem_wype_nia_wol_ojca"/>
+                    android:text="@string/dzie_14_modlitwa_w_ogr_jcu_n_wola_ojca"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

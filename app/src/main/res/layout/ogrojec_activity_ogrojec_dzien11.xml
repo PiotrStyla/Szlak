@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="16dp"
+        tools:context=".OgrojecDzien11"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="@string/dzie_11_modlitwy_jezusa_n_inne_modlitwy_jezusa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView5795"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="4sp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingEnd="10sp"
+            tools:ignore="RtlSymmetry" />
+
+    <ScrollView
+            android:id="@+id/scrollOgrojec11"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView5795"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="78dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="10sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+            <TextView
+                    android:text="@string/modlitwa"
+                    android:id="@+id/textView5796"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/i_ze_wi_ta_w_bart_omieja_aposto_a_i_n_wszechmog_cy_bo_e_utwierd_w_nas_szczer_wiar_kt_ra_czy_a_wi_tego_bart_omieja_aposto_a_z_twoim_synem_i_spraw_za_jego_wstawiennictwem_aby_tw_j_ko_ci_sta_si_dla_wszystkich_narod_w_sakramentem_zbawienia_przez_chrystusa_pana_naszego_amen"
+                    android:id="@+id/textView5797"
+                    style="@style/paragraf_Text_optimum"
+                    android:padding="5dp"/>
+            <TextView
+                    android:text="@string/i_z_mszy_wotywnej_o_w_pawle_apostole_i_n_panie_bo_e_ty_w_cudowny_spos_b_powo_a_e_wi_tego_paw_a_aposto_a_do_szerzenia_ewangelii_spraw_niech_wiara_g_r_g_osi_wobec_kr_l_w_i_narod_w_przenika_ca_y_wiat_aby_tw_j_ko_ci_nieustannie_si_rozwija_przez_chrystusa_pana_naszego_amen"
+                    android:id="@+id/textView5798"
+                    style="@style/paragraf_Text_optimum"
+                    android:padding="5dp"/>
+            <TextView
+                    android:text="@string/rozwa_anie_s_owa"
+                    android:id="@+id/textView5799"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/gdy_jezus_raz_modli_si_na_osobno_ci_a_byli_z_nim_uczniowie_zwr_ci_si_do_nich_z_zapytaniem_za_kogo_uwa_aj_mnie_t_umy_k_9_18_n_gdy_jezus_przebywa_w_jakim_miejscu_na_modlitwie_i_sko_czy_j_rzek_jeden_z_uczni_w_do_niego_panie_naucz_nas_si_modli_jak_i_jan_nauczy_swoich_uczni_w_k_11_1_n_wtedy_przyniesiono_mu_dzieci_aby_w_o_y_na_nie_r_ce_i_pomodli_si_za_nie_a_uczniowie_szorstko_zabraniali_im_tego_lecz_jezus_rzek_dopu_cie_dzieci_i_nie_przeszkadzajcie_im_przyj_do_mnie_do_takich_bowiem_nale_y_kr_lestwo_niebieskie_mt_19_13_14_n_przyprowadzili_mu_g_uchoniemego_i_prosili_go_eby_po_o_y_na_niego_r_k_on_wzi_go_na_bok_osobno_od_t_umu_w_o_y_palce_w_jego_uszy_i_lin_dotkn_mu_j_zyka_a_spojrzawszy_w_niebo_westchn_i_rzek_do_niego_effatha_to_znaczy_otw_rz_si_m_7_32_34_n_w_owym_czasie_jezus_przem_wi_tymi_s_owami_wys_awiam_ci_ojcze_panie_nieba_i_ziemi_e_zakry_e_te_rzeczy_przed_m_drymi_i_roztropnymi_a_objawi_e_je_prostaczkom_tak_ojcze_gdy_takie_by_o_twoje_upodobanie_mt_11_25_26_n_jezus_wzni_s_oczy_do_g_ry_i_rzek_ojcze_dzi_kuj_ci_e_mnie_wys_ucha_ja_wiedzia_em_e_mnie_zawsze_wys_uchujesz_ale_ze_wzgl_du_na_otaczaj_cy_mnie_lud_to_powiedzia_em_aby_uwierzyli_e_ty_mnie_pos_a_to_powiedziawszy_zawo_a_dono_nym_g_osem_azarzu_wyjd_na_zewn_trz_j_11_41_43"
+                    android:id="@+id/textView5800"
+                    style="@style/paragraf_Text_optimum"
+                    android:padding="5dp"/>
+            <TextView
+                    android:text="@string/ka_da_modlitwa_jezusa_opisana_przez_ewangelist_w_jest_przedmiotem_kontemplacji_wpatruj_si_w_mistrza_kt_ry_modli_si_przy_dzieciach_i_doros_ych_przy_uzdrowieniu_i_przy_wskrzeszeniu_przy_wydarzeniach_kt_re_si_dokonuj_na_co_dzie_ewangeli_ci_wielokrotnie_zwracaj_uwag_na_uczni_w_kt_rzy_widz_modl_cego_si_jezusa_prosz_go_aby_nauczy_ich_modli_si_jezus_nauczy_ich_konkretnej_modlitwy_w_kt_rej_zwracamy_si_do_naszego_ojca_w_niebie_jego_szko_a_modlitwy_nie_ograniczy_a_si_jednak_tylko_do_tego_wydarzenia_w_modlitwie_ojcze_nasz_zawar_on_najwa_niejsze_tematy_o_kt_rych_powinni_my_rozmawia_z_ojcem_powr_cimy_do_tego_tekstu_p_niej_w_rozwa_aniach_tajemnic_chwalebnych"
+                    android:id="@+id/textView5801"
+                    style="@style/paragraf_Text_optimum" />
+            <TextView
+                    android:text="@string/teraz_za_podsumowuj_c_rozwa_ania_minionego_tygodnia_pragn_jeszcze_raz_prosi_pana_za_przyczyn_wi_tych_abym_potrafi_przyj_i_wprowadzi_w_swoje_ycie_to_wszystko_co_jezus_mi_objawi_i_czego_chcia_mnie_nauczy_w_ogr_jcu"
+                    android:id="@+id/textView5802"
+                    style="@style/paragraf_Text_optimum"
+                    android:padding="5dp"/>
+            <TextView
+                    android:text="@string/dziesi_tek_r_a_ca"
+                    android:id="@+id/textView5803"
+                    style="@style/dziesiatek_rozanca"/>
+            <TextView
+                    android:text="@string/ojcze_nasz_zdrowa_maryjo_chwa_a_ojcu"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView5804"/>
+            <TextView
+                    android:text="@string/akt_strzelisty"
+                    android:id="@+id/textView5805"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/mi_osierny_jezu_przebacz_nam_zaniedbania_w_czuwaniu_i_modlitwie_naucz_nas_wiernie_pe_ni_wol_ojca_niebieskiego"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView5806"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy"
+                    android:id="@+id/textView5807"
+                    style="@style/intencje_modlitwy"/>
+            <TextView
+                    android:text="@string/intencje_modlitwy_wyra_one_swoimi_s_owami"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView5808"
+                    android:paddingBottom="70dp"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

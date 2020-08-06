@@ -114,15 +114,15 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button124jordan"
+                    android:id="@+id/button_Ogrojec_11"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_11_droga_nad_jordan"/>
+                    android:text="@string/dzie_11_modlitwy_jezusa_n_inne_modlitwy_jezusa"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button125jordan"
+                    android:id="@+id/button_Ogrojec_12"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_12_wydarzenia_nad_jordanem_jezus_si_modli"/>
+                    android:text="@string/dzie_12_modlitwa_w_ogr_jcu_n_po_od_piewaniu_hymnu"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

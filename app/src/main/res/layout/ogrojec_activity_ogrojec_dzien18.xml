@@ -76,7 +76,8 @@
             <TextView
                     android:text="@string/aposto_jan_ze_szczeg_ln_wyrazisto_ci_pokazuje_spotkanie_dw_ch_wiat_w_z_jednej_strony_jest_jezus_kt_ry_wypowiada_s_owa_ja_jestem_to_imi_boga_kryj_ce_w_sobie_wszechmoc_boga_uznaj_to_r_wnie_ci_kt_rzy_przyszli_aby_go_pojma_upadaj_oni_na_ziemi_i_to_dwukrotnie_jezus_ma_nad_nimi_pe_n_w_adz_jednak_dobrowolnie_oddaje_si_w_ich_r_ce"
                     android:id="@+id/textView5914"
-                    style="@style/paragraf_Text_optimum" />
+                    style="@style/paragraf_Text_optimum"
+                    android:padding="5dp"/>
             <TextView
                     android:text="@string/dziesi_tek_r_a_ca"
                     android:id="@+id/textView5915"

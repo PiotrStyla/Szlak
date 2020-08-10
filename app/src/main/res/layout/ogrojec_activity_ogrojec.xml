@@ -186,15 +186,15 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button136jordan"
+                    android:id="@+id/button_Ogrojec_23"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_23_po_prze_yciach_nad_jordanem_pierwsza_pokusa"/>
+                    android:text="@string/dzie_23_godzina_wi_ta_n_droga_jezusa"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button137jordan"
+                    android:id="@+id/button_Ogrojec_24"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_24_po_prze_yciach_nad_jordanem_druga_pokusa"/>
+                    android:text="@string/dzie_24_godzina_wi_ta_n_modlitwa_z_jezusem"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

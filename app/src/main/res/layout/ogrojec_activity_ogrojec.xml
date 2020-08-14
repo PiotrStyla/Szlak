@@ -198,13 +198,13 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button138jordan"
+                    android:id="@+id/button_Ogrojec_25"
                     style="@style/button_dni_swiatlo_padding"
-                    android:text="@string/dzie_25_po_prze_yciach_nad_jordanem_trzecia_pokusa"/>
+                    android:text="@string/dzie_25_godzina_wi_ta_n_pojmanie_jezusa"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button139jordan"
+                    android:id="@+id/button_Ogrojec_26"
                     style="@style/button_dni_swiatlo_padding"
                     android:text="@string/dzie_26_dzi_kczynienie"/>
             <Button

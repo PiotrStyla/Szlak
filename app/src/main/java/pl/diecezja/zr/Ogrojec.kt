@@ -145,25 +145,25 @@ class Ogrojec : AppCompatActivity() {
             val intentOgrojecDzien26 = Intent(this, OgrojecDzien26::class.java)
             startActivity(intentOgrojecDzien26)
         }
-        val buttonJordanDzien27 = findViewById<Button>(R.id.button140jordan)
-        buttonJordanDzien27.setOnClickListener {
-            val intentJordanDzien27 = Intent(this, JordanDzien27::class.java)
-            startActivity(intentJordanDzien27)
+        val buttonOgrojecDoDzien27 = findViewById<Button>(R.id.button_Ogrojec_27)
+        buttonOgrojecDoDzien27.setOnClickListener {
+            val intentOgrojecDzien27 = Intent(this, OgrojecDzien27::class.java)
+            startActivity(intentOgrojecDzien27)
         }
-        val buttonJordanDzien28 = findViewById<Button>(R.id.button141jordan)
-        buttonJordanDzien28.setOnClickListener {
-            val intentJordanDzien28 = Intent(this, JordanDzien28::class.java)
-            startActivity(intentJordanDzien28)
+        val buttonOgrojecDoDzien28 = findViewById<Button>(R.id.button_Ogrojec_28)
+        buttonOgrojecDoDzien28.setOnClickListener {
+            val intentOgrojecDzien28 = Intent(this, OgrojecDzien28::class.java)
+            startActivity(intentOgrojecDzien28)
         }
-        val buttonJordanDzien29 = findViewById<Button>(R.id.button142jordan)
-        buttonJordanDzien29.setOnClickListener {
-            val intentJordanDzien29 = Intent(this, JordanDzien29::class.java)
-            startActivity(intentJordanDzien29)
+        val buttonOgrojecDoDzien29 = findViewById<Button>(R.id.button_Ogrojec_29)
+        buttonOgrojecDoDzien29.setOnClickListener {
+            val intentOgrojecDzien29 = Intent(this, OgrojecDzien29::class.java)
+            startActivity(intentOgrojecDzien29)
         }
-        val buttonJordanDzien30 = findViewById<Button>(R.id.button143jordan)
-        buttonJordanDzien30.setOnClickListener {
-            val intentJordanDzien30 = Intent(this, JordanDzien30::class.java)
-            startActivity(intentJordanDzien30)
+        val buttonOgrojecDoDzien30 = findViewById<Button>(R.id.button_Ogrojec_30)
+        buttonOgrojecDoDzien30.setOnClickListener {
+            val intentOgrojecDzien30 = Intent(this, OgrojecDzien30::class.java)
+            startActivity(intentOgrojecDzien30)
         }
     }
 }

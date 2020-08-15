@@ -9,7 +9,11 @@
             android:roundIcon="@mipmap/ic_launcher_round_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".OgrojecDzien26"></activity>
+        <activity android:name=".OgrojecDzien30"></activity>
+        <activity android:name=".OgrojecDzien29" />
+        <activity android:name=".OgrojecDzien28" />
+        <activity android:name=".OgrojecDzien27" />
+        <activity android:name=".OgrojecDzien26" />
         <activity android:name=".OgrojecDzien25" />
         <activity android:name=".OgrojecDzien24" />
         <activity android:name=".OgrojecDzien23" />

@@ -6,13 +6,13 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginEnd="16dp"
-        tools:context=".OgrojecDzien26"
+        tools:context=".OgrojecDzien27"
         android:id="@+id/linearLayout">
     <TextView
-            android:text="@string/dzie_26_dzi_kczynienie"
+            android:text="@string/dzie_27_apostolstwo"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textView6022"
+            android:id="@+id/textView6036"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="16dp"
             android:layout_marginTop="16dp"
@@ -24,10 +24,10 @@
             tools:ignore="RtlSymmetry" />
 
     <ScrollView
-            android:id="@+id/scrollOgrojec26"
+            android:id="@+id/scrollOgrojec27"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView6022"
+            app:layout_constraintTop_toBottomOf="@+id/textView6036"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
@@ -43,64 +43,58 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
             <TextView
-                    android:text="@string/w_ostatnich_dniach_rozwa_ania_tajemnicy_modlitwy_pana_jezusa_w_ogr_jcu_chc_jak_zwykle_wyrazi_bogu_dzi_kczynienie_i_dokona_podsumowania_prosz_boga_za_przyczyn_maryi_i_wi_tych_aby_mi_o_jezusa_jaka_objawi_a_si_we_wszystkich_wydarzeniach_kt_re_rozwa_a_em_nieustannie_przemienia_a_moje_ycie"
-                    android:id="@+id/textView6023"
-                    style="@style/paragraf_Text_optimum"
-                    android:textStyle="italic"
-                    android:padding="5dp"/>
-            <TextView
                     android:text="@string/modlitwa"
-                    android:id="@+id/textView6024"
+                    android:id="@+id/textView6037"
                     style="@style/modlitwa"/>
             <TextView
-                    android:text="@string/i_ze_wi_ta_wi_tych_cyryla_mnicha_i_metodego_biskupa_patron_w_europy_i_n_bo_e_ty_przez_wi_tych_braci_cyryla_i_metodego_doprowadzi_e_narody_s_owia_skie_do_wiat_a_ewangelii_otw_rz_nasze_serca_na_zrozumienie_twojego_s_owa_i_uczy_z_nas_lud_zjednoczony_w_wyznawaniu_prawdziwej_wiary_przez_chrystusa_pana_naszego_amen"
-                    android:id="@+id/textView6025"
+                    android:text="@string/i_ze_wi_ta_nawr_cenia_w_paw_a_aposto_a_i_n_wszechmog_cy_bo_e_obchodzimy_dzisiaj_nawr_cenie_wi_tego_paw_a_aposto_a_kt_rego_powo_a_e_do_g_oszenia_dobrej_nowiny_wszystkim_narodom_spraw_aby_my_za_jego_przyk_adem_d_yli_do_ciebie_i_wiadczyli_wobec_wiata_o_prawdzie_twojej_ewangelii_przez_chrystusa_pana_naszego_amen"
+                    android:id="@+id/textView6038"
                     style="@style/paragraf_Text_optimum"
                     android:padding="5dp"/>
             <TextView
-                    android:text="@string/i_ze_wspomnienia_w_wincentego_pallottiego_prezbitera_i_n_bo_e_ty_powo_a_e_w_swoim_ko_ciele_wi_tego_wincentego_pallottiego_prezbitera_do_obrony_wiary_i_o_ywiania_mi_o_ci_spraw_askawie_aby_my_wst_puj_c_w_jego_lady_rozpalali_sercem_i_czynem_wiat_o_prawdy_i_mi_o_bratersk_przez_chrystusa_pana_naszego_amen"
-                    android:id="@+id/textView6026"
+                    android:text="@string/i_ze_wspomnienia_w_franciszki_rzymianki_zakonnicy_i_n_wszechmog_cy_bo_e_dzi_ki_twojej_asce_wi_ta_franciszka_rzymianka_da_a_nam_wz_r_wi_tego_ycia_w_ma_e_stwie_i_w_stanie_zakonnym_spraw_aby_my_we_wszystkich_okoliczno_ciach_ycia_wytrwale_tobie_s_u_yli_poznawali_twoj_wol_i_szli_za_tob_przez_chrystusa_pana_naszego_amen"
+                    android:id="@+id/textView6039"
                     style="@style/paragraf_Text_optimum"
                     android:padding="5dp"/>
             <TextView
                     android:text="@string/rozwa_anie_s_owa"
-                    android:id="@+id/textView6027"
+                    android:id="@+id/textView6040"
                     style="@style/modlitwa"/>
             <TextView
-                    android:text="@string/z_pierwszego_listu_w_paw_a_aposto_a_do_tesaloniczan_5_17_21_nieustannie_si_m_dlcie_w_ka_dym_po_o_eniu_dzi_kujcie_taka_jest_bowiem_wola_bo_a_w_jezusie_chrystusie_wzgl_dem_was_ducha_nie_ga_cie_proroctwa_nie_lekcewa_cie_wszystko_badajcie_a_co_szlachetne_zachowujcie"
-                    android:id="@+id/textView6028"
+                    android:text="@string/z_ewangelii_wed_ug_w_ukasza_24_44_48_jezus_rzek_do_nich_to_w_a_nie_znaczy_y_s_owa_kt_re_m_wi_em_do_was_gdy_by_em_jeszcze_z_wami_musi_si_wype_ni_wszystko_co_napisane_jest_o_mnie_w_prawie_moj_esza_u_prorok_w_i_w_psalmach_wtedy_o_wieci_ich_umys_y_aby_rozumieli_pisma_i_rzek_do_nich_tak_jest_napisane_mesjasz_b_dzie_cierpia_i_trzeciego_dnia_zmartwychwstanie_w_imi_jego_g_oszone_b_dzie_nawr_cenie_i_odpuszczenie_grzech_w_wszystkim_narodom_pocz_wszy_od_jerozolimy_wy_jeste_cie_wiadkami_tego"
+                    android:id="@+id/textView6041"
                     style="@style/paragraf_Text_optimum"
                     android:padding="5dp"/>
             <TextView
-                    android:text="@string/aposto_wzywa_nas_aby_my_za_wszystko_dzi_kowali_bogu_dzi_chc_mu_dzi_kowa_za_wielk_lekcj_modlitw_jakiej_udzieli_mi_chrystus_w_ca_ym_swoim_yciu_a_w_spos_b_szczeg_lnie_w_czasie_modlitwy_w_ogr_jcu_powracam_do_wszystkich_temat_w_jakie_rozwa_a_em_w_ko_cz_cym_si_miesi_cu_medytacji_r_a_cowej_z_ka_dego_spotkania_bije_wiat_o_prawdy_w_ka_dym_ukryta_jest_moc_mi_o_ci_ka_da_sprawia_e_moja_modlitwa_jednoczy_si_z_jego_modlitw"
-                    android:id="@+id/textView6029"
+                    android:text="@string/jeste_my_wiadkami_wszystkich_paschalnych_wydarze_dzi_w_modlitwie_r_a_cowej_zastanawiam_si_jak_mog_by_wiadkiem_wielko_ci_wydarze_kt_re_dokona_y_si_w_ogr_jcu_jak_mam_prze_ywa_to_wydarzenie_aby_moja_postawa_by_a_wiadectwem_n_musz_sam_jeszcze_g_biej_prze_ywa_s_owa_modlitwy_jezusa_z_ogr_jca_prze_ycia_jakie_jej_towarzyszy_y_postaw_uczni_w_i_s_owa_jakie_jezus_do_nich_skierowa_n_w_r_d_form_mojego_apostolstwa_b_dzie_zach_ta_do_rozwa_ania_tego_misterium_w_modlitwie_r_a_cowej_szczeg_lnie_tej_kt_ra_po_wi_ca_rozwa_aniu_jednej_tajemnicy_ca_y_miesi_c_a_tak_e_do_prze_ywania_godziny_wi_tej_przynajmniej_w_pierwsze_czwartki_miesi_ca"
+                    android:id="@+id/textView6042"
                     style="@style/paragraf_Text_optimum"
                     android:padding="5dp"/>
 
             <TextView
                     android:text="@string/dziesi_tek_r_a_ca"
-                    android:id="@+id/textView6030"
+                    android:id="@+id/textView6043"
                     style="@style/dziesiatek_rozanca"/>
             <TextView
-                    android:text="@string/dzi_w_mojej_r_a_cowej_modlitwie_chc_przede_wszystkim_dzi_kowa_jezusowi_za_wszystko_co_prze_ywa_em_w_codziennych_medytacjach_tego_miesi_ca"
+                    android:text="@string/prosz_boga_za_przyczyn_maryi_abym_coraz_gorliwiej_prze_ywa_tajemnic_modlitwy_pana_jezusa_w_ogr_jcu"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView6031"/>
+                    android:id="@+id/textView6044"/>
             <TextView
                     android:text="@string/akt_strzelisty"
-                    android:id="@+id/textView6032"
+                    android:id="@+id/textView6045"
                     style="@style/intencje_modlitwy"/>
             <TextView
                     android:text="@string/mi_osierny_jezu_przebacz_nam_zaniedbania_w_czuwaniu_i_modlitwie_naucz_nas_wiernie_pe_ni_wol_ojca_niebieskiego"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView6033"/>
+                    android:id="@+id/textView6046"/>
             <TextView
                     android:text="@string/intencje_modlitwy"
-                    android:id="@+id/textView6034"
+                    android:id="@+id/textView6047"
                     style="@style/intencje_modlitwy"/>
             <TextView
                     android:text="@string/intencje_modlitwy_wyra_one_swoimi_s_owami"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView6035"
+                    android:id="@+id/textView6048"
                     android:paddingBottom="70dp"/>
         </LinearLayout>
     </ScrollView>

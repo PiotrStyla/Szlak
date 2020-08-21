@@ -44,7 +44,7 @@
                 android:orientation="vertical">
             <TextView
                     android:text="@string/dzi_w_mojej_r_a_cowej_modlitwie_powr_c_do_my_li_kt_re_najbardziej_mnie_poruszy_y_podczas_miesi_cznej_medytacji_nad_tajemnic_ogr_jca"
-                    android:id="@+id/textView5500"
+                    android:id="@+id/textView6063"
                     style="@style/paragraf_Text_optimum"
                     android:padding="70dp"/>
 

@@ -1,19 +1,19 @@
 package pl.diecezja.zr
 
 import android.content.Intent
+import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
-import androidx.appcompat.app.AppCompatActivity
 
-class Ogrojec : AppCompatActivity() {
+class Biczowanie : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.ogrojec_activity_ogrojec)
+        setContentView(R.layout.biczowanie_activity_biczowanie)
 
-        val buttonOgrojecDoWstep = findViewById<Button>(R.id.button_Ogrojec_Wstep)
-        buttonOgrojecDoWstep.setOnClickListener {
-            val intentOgrojecWstep = Intent(this, OgrojecWstep::class.java)
-            startActivity(intentOgrojecWstep)
+        val buttonBiczowanieDoWstep = findViewById<Button>(R.id.button_Biczowanie_Wstep)
+        buttonBiczowanieDoWstep.setOnClickListener {
+            val intentBiczowanieWstep = Intent(this, BiczowanieWstep::class.java)
+            startActivity(intentBiczowanieWstep)
         }
         val buttonOgrojecDoDzien1 = findViewById<Button>(R.id.button_Ogrojec_1)
         buttonOgrojecDoDzien1.setOnClickListener {
@@ -167,6 +167,4 @@ class Ogrojec : AppCompatActivity() {
         }
     }
 
-
 }
-

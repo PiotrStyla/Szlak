@@ -16,9 +16,9 @@ class Bolesne : AppCompatActivity() {
             startActivity(intentBolesne)
         }
 
-        val buttonSwiatlaDoKana = findViewById<Button>(R.id.button_Kana)
-        buttonSwiatlaDoKana.setOnClickListener {
-            val intent4 = Intent(this, Kana::class.java)
+        val buttonBolesneDoBiczowanie = findViewById<Button>(R.id.button_Biczowanie)
+        buttonBolesneDoBiczowanie.setOnClickListener {
+            val intent4 = Intent(this, Biczowanie::class.java)
             startActivity(intent4)
         }
         val buttonSwiatlaDoGalilea = findViewById<Button>(R.id.button_Galilea)

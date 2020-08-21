@@ -41,18 +41,18 @@
             android:layout_width="150sp"
             android:layout_marginTop="16dp"
             android:text="@string/ogr_jec"
-            app:layout_constraintEnd_toStartOf="@+id/button_Kana"
+            app:layout_constraintEnd_toStartOf="@+id/button_Biczowanie"
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
     <Button
-            android:id="@+id/button_Kana"
-            style="@style/button_swiatla_tajemnice"
+            android:id="@+id/button_Biczowanie"
+            style="@style/button_bolesne_tajemnice"
             android:layout_width="150sp"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
-            android:text="@string/kana"
+            android:text="@string/biczowanie"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintStart_toEndOf="@+id/button_Ogrojec"

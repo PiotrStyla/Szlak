@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".BiczowanieWstep"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="@string/biczowanie_wst_p"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView6100"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+    <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView6100"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="38dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="5sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+            <TextView
+                    android:text="@string/r_a_cowy_szlak_wyznaczony_rozwa_aniem_kolejnych_tajemnic_prowadzi_od_modlitwy_jezusa_w_ogr_jcu_do_biczowania_udaj_si_wi_c_tam_na_to_miejsce_ka_ni_gdzie_o_nierze_bez_lito_ci_uderzaj_biczami_czyni_c_g_bokie_rany_w_ciele_zbawiciela"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView6101"
+                    android:layout_marginEnd="16dp"
+                    android:textSize="16sp"
+                    android:lineSpacingExtra="3sp"
+                    android:textAlignment="textStart"/>
+            <TextView
+                    android:text="@string/ewangeli_ci_m_wi_niewiele_o_tym_bolesnym_wydarzeniu"
+                    android:id="@+id/textView6102"
+                    style="@style/paragraf_Text"/>
+            <TextView
+                    android:text="Św. Mateusz relacjonuje krótko:"
+                    android:id="@+id/textView6103"
+                    android:textColor="@color/colorRed"
+                    style="@style/paragraf_Text"/>
+            <TextView
+                    android:text=" „Wówczas uwolnił im Barabasza, a Jezusa kazał ubiczować i wydał na ukrzyżowanie” (27,26). "
+                    android:id="@+id/textView6104"
+                    style="@style/paragraf_Text"/>
+            <TextView
+                    android:text="W podobny pisze św. Marek:"
+                    android:textColor="@color/colorRed"
+                    android:id="@+id/textView6105"
+                    style="@style/paragraf_Text" />
+            <TextView
+                    android:text=" „Wtedy Piłat, chcąc zadowolić tłum, uwolnił im Barabasza, Jezusa zaś kazał ubiczować i wydał na ukrzyżowanie” (15,15). Św. Jan mówi jeszcze krócej: „Wówczas Piłat wziął Jezusa i kazał Go ubiczować” (J 19,1). Po tych krótkich informacjach ewangeliści przechodzą do relacji o cierniem ukoronowaniu, które następowało zaraz po biczowaniu."
+                    android:id="@+id/textView6106"
+                    style="@style/paragraf_Text"
+                    android:paddingBottom="5dp"/>
+            <TextView
+                    android:text=" W rozważaniu tej tajemnicy ogromną pomocą są dla mnie słowa Jezusa, w których zapowiada On swoje biczowanie (por. Mk 10,34; Łk 18,33). Pragnę w pierwszym tygodniu moich medytacji skierować moją uwagę ku tym zapowiedziom. Widać z nich, Jezus był świadom tego, co Go czeka. Kilka razy mówił o swojej męce zdążając do Jerozolimy. Przez swoje słowa przygotowywał Apostołów i przygotowuje również mnie na przeżycie Jego biczowania.\n
+	W drugim tygodniu mojej miesięcznej medytacji o biczowaniu chcę się zatrzymać przy przebiegu tego bolesnego wydarzenia. Pomocą będą dla mnie nie tylko teksty biblijne, lecz także informacje o biczowaniu, jakie stosowali Rzymianie, świadectwa świętych oraz badania nad całunem turyńskim."
+                    android:id="@+id/textView6107"
+                    android:textColor="@color/colorRed"
+                    style="@style/paragraf_Text"
+                    android:paddingBottom="5dp"/>
+            <TextView
+                    android:text="Trwając przy Jezusie, przyjmującym z miłością ból biczowania, pragnę w dalszych dniach rozważać znaczenie cierpienia w życiu chrześcijanina i umiejętności przyjmowania tego cierpienia w zjednoczeniu z Jezusem."
+                    android:id="@+id/textView6108"
+                    style="@style/paragraf_Text"
+                    android:paddingBottom="5dp"/>
+            <TextView
+                    android:text=" Niech Maryja, Matka Bolesna, wspiera mnie w tym codziennym powracaniu na miejsce, gdzie żołnierze bez litości biczują Jezusa, a On na złość odpowiada miłością."
+                    android:id="@+id/textView6109"
+                    android:textColor="@color/colorRed"
+                    style="@style/paragraf_Text"
+                    android:paddingBottom="7dp"/>
+            <TextView
+                    android:text="@string/wskazania_mistrz_w"
+                    android:id="@+id/textView6110"
+                    style="@style/paragraf_Text"
+                    android:textStyle="bold"
+                    android:paddingBottom="7dp"/>
+            <TextView
+                    android:text="@string/w_latach_2011_2013_ojciec_wi_ty_benedykt_xvi_prowadzi_cykl_katechez_po_wi_conych_modlitwie_nazwa_je_chrze_cija_sk_szko_modlitwy_jest_ona_ze_wszech_miar_godna_polecenia_chc_wi_c_w_tym_i_w_najbli_szych_miesi_cach_odwo_a_si_do_tego_papieskiego_nauczania_n_ojciec_wi_ty_rozpocz_ten_cykl_katechez_4_maja_2011_roku_pierwsza_z_nich_ma_charakter_wprowadzaj_cy_oto_jej_fragmenty_do_tekstu_dodane_zosta_y_r_dtytu_y"
+                    android:id="@+id/textView6111"
+                    style="@style/paragraf_Text"
+                    android:padding="7dp"/>
+            <TextView
+                    android:text="@string/panie_naucz_nas_modli_si"
+                    android:id="@+id/textView6112"
+                    style="@style/paragraf_Text"
+                    android:paddingBottom="7dp"
+                    android:textAllCaps="true"/>
+            <TextView
+                    android:text="@string/drodzy_bracia_i_siostry_chcia_bym_dzi_rozpocz_now_seri_katechez_chcia_bym_obra_temat_kt_ry_jest_nam_wszystkim_bardzo_bliski_temat_modlitwy_a_zw_aszcza_modlitwy_chrze_cija_skiej_modlitwy_kt_rej_nauczy_nas_jezus_i_nadal_naucza_nas_ko_ci_to_w_jezusie_cz_owiek_rzeczywi_cie_staje_si_zdolny_by_zbli_y_si_do_boga_z_ca_g_bi_i_bezpo_rednio_ci_relacji_ojcostwa_i_synostwa_wraz_z_pierwszymi_uczniami_z_pokorn_ufno_ci_kierujemy_si_wi_c_do_nauczyciela_i_prosimy_go_panie_naucz_nas_si_modli_k_11_1_n_w_najbli_szych_katechezach_czerpi_c_z_pisma_wi_tego_wielkiej_tradycji_ojc_w_ko_cio_a_nauczycieli_duchowo_ci_liturgii_b_dziemy_si_uczy_y_jeszcze_intensywniej_nasz_relacj_z_panem_b_dzie_to_jakby_szko_a_modlitwy_dobrze_wiemy_e_modlitwa_nie_mo_e_by_uwa_ana_za_pewnik_trzeba_si_nauczy_modlitwy_niemal_nabywa_tej_sztuki_ci_gle_na_nowo_tak_e_ci_kt_rzy_s_bardzo_zaawansowani_w_yciu_duchowym_odczuwaj_nieustannie_potrzeb_udania_si_do_szko_y_jezusa_aby_nauczy_si_autentycznej_modlitwy_pierwsz_lekcj_otrzymujemy_od_pana_przez_jego_przyk_ad_ewangelie_opisuj_nam_jezusa_w_nieustannym_i_bezpo_rednim_dialogu_z_ojcem_jest_to_g_boka_komunia_tego_kt_ry_przyszed_na_wiat_nie_aby_czyni_swoj_wol_ale_ojca_kt_ry_go_pos_a_dla_zbawienia_cz_owieka_n_w_tej_pierwszej_katechezie_tytu_em_wst_pu_chcia_bym_zaproponowa_kilka_przyk_ad_w_modlitwy_obecnych_w_kulturach_staro_ytnych_aby_podkre_li_e_praktycznie_zawsze_i_wsz_dzie_by_y_one_kierowane_do_boga_n_jako_przyk_ad_zaczn_od_staro_ytnego_egiptu_cz_owiek_lepy_prosz_c_tam_b_stwo_o_przywr_cenie_wzroku_za_wiadcza_czego_og_lnoludzkiego_czym_jest_czysta_i_prosta_modlitwa_pro_by_cierpi_cego_cz_owieka_modli_si_on_moje_serce_chce_pragnie_ci_zobaczy_ty_kt_ry_pozwoli_e_mu_ujrze_ciemno_ci_stw_rz_dla_mnie_wiat_o_abym_ci_zobaczy_pochyl_nade_mn_swe_oblicze_a_barucq_f_daumas_hymnes_et_pri_res_de_l_egypte_ancienne_paris_1980_abym_ciebie_ujrza_tutaj_znajduje_si_rdze_modlitwy_n_w_religiach_mezopotamii_dominowa_o_tajemnicze_i_parali_uj_ce_poczucie_winy_nie_pozbawione_jednak_nadziei_na_odkupienie_i_wyzwolenie_przez_boga_mo_emy_wi_c_doceni_t_modlitw_cz_owieka_wyznaj_cego_owe_staro_ytne_religie_kt_re_brzmi_bo_e_kt_ry_wybaczasz_nawet_najwi_ksze_winy_odpu_grzech_sp_jrz_panie_na_twego_wyczerpanego_s_ug_i_tchnij_na_niego_wiatr_wybacz_mu_bezzw_ocznie_przenie_ulg_mej_ci_kiej_karze_uwolnij_z_wi_z_w_spraw_aby_zn_w_oddycha_rozerwij_moje_kajdany_uwolnij_mnie_od_side_m_j_seux_hymnes_et_pri_res_aux_dieux_de_babylone_et_d_assyrie_paris_1976_wyra_enia_te_ukazuj_e_cz_owiek_w_swym_poszukiwaniu_boga_cho_niejasno_wyczuwa_w_nim_z_jednej_strony_sw_win_a_z_drugiej_aspekty_mi_osierdzia_i_dobroci_n_w_obr_bie_poga_skiej_religii_staro_ytnej_grecji_jeste_my_wiadkami_bardzo_znacz_cej_ewolucji_modlitwy_cho_nadal_zwracaj_si_o_bo_pomoc_aby_uzyska_wzgl_dy_nieba_we_wszystkich_okoliczno_ciach_ycia_codziennego_oraz_aby_osi_gn_korzy_ci_maj_tkowe_stopniowo_kieruj_si_ku_pro_bom_bardziej_bezinteresownym_pozwalaj_cym_ludziom_wierz_cym_pog_bi_swoj_wi_z_bogiem_i_sta_si_lepszym_na_przyk_ad_wielki_filozof_platon_cytuje_modlitw_swego_nauczyciela_sokratesa_kt_ry_s_usznie_jest_uwa_any_za_jednego_z_tw_rc_w_my_li_zachodniej_sokrates_modli_si_dajcie_mi_to_ebym_pi_knym_by_na_wewn_trz_obym_zawsze_wierzy_e_bogatym_jest_tylko_cz_owiek_m_dry_a_z_ota_obym_tyle_mia_ile_ani_unie_ani_uci_gn_nie_potrafi_nikt_inny_tylko_ten_co_zna_miar_we_wszystkim_trzeba_nam_jeszcze_czego_wi_cej_platon_fajdros_ostatnie_s_owa_chcia_by_on_by_jedynie_pi_knym_wewn_trznie_i_m_drym_a_nie_bogatym_pieni_dzmi_n_w_tych_wybitnych_dzie_ach_literackich_wszystkich_czas_w_jakimi_s_tragedie_greckie_nawet_dzisiaj_po_dwudziestu_pi_ciu_wiekach_czytanych_rozwa_anych_i_przedstawianych_zawarte_s_modlitwy_kt_re_wyra_aj_pragnienie_poznania_boga_i_oddawania_czci_jego_majestatowi_jedna_z_nich_m_wi_o_wsparcie_dla_ziemi_kt_re_ponad_ziemi_masz_sw_siedzib_kimkolwiek_jeste_trudno_to_poj_zeusie_czy_jeste_prawem_natury_czy_te_my_l_miertelnych_do_ciebie_si_zwracam_poniewa_ty_krocz_c_drogami_cichymi_kierujesz_ludzkimi_sprawami_wed_ug_sprawiedliwo_ci_eurypides_trojanki_b_g_pozostaje_nieco_mglisty_a_mimo_to_cz_owiek_poznaje_tego_nieznanego_boga_i_modli_si_do_tego_kt_ry_kieruje_drogami_ziemi_n_w_rozwa_anych_przez_nas_przyk_adach_modlitwy_r_nych_kultur_mo_emy_dostrzec_wiadectwo_wymiaru_religijnego_i_pragnienia_boga_wpisanego_w_serce_ka_dego_cz_owieka_kt_re_otrzymuje_wype_nienie_i_pe_ny_wyraz_w_starym_i_nowym_testamencie_objawienie_rzeczywi_cie_oczyszcza_i_prowadzi_do_pe_ni_pierwotne_pragnienie_cz_owieka_ukierunkowane_ku_bogu_daj_c_mu_w_modlitwie_mo_liwo_g_bszej_relacji_z_ojcem_niebieskim_n_na_pocz_tku_tej_drogi_w_szkole_modlitwy_pragniemy_prosi_pana_boga_aby_o_wieci_nasze_umys_y_i_serca_aby_relacja_z_nim_w_modlitwie_by_a_coraz_bardziej_intensywna_by_a_nieustannym_uczuciem_po_raz_kolejny_powiedzmy_mu_panie_naucz_nas_si_modli_k_11_1"
+                    android:id="@+id/textView6113"
+                    style="@style/paragraf_Text"
+                    android:padding="7dp"/>
+            <TextView
+                    android:text="@string/akt_strzelisty"
+                    android:id="@+id/textView6114"
+                    style="@style/paragraf_Text"
+                    android:paddingBottom="7dp"
+                    android:textAllCaps="true"/>
+            <TextView
+                    android:text="@string/z_wielk_wiar_staram_si_powtarza_wo_anie_aby_pan_nauczy_mnie_modli_si_niech_dzi_ki_jego_asce_r_wnie_modlitwa_r_a_cowa_kt_r_prze_ywam_b_dzie_przenikni_ta_jego_obecno_ci_o_wiecona_jego_wiat_em_ods_aniaj_ca_przede_mn_jego_tajemnice_n_w_rozwa_aniach_tajemnicy_biczowania_pana_jezusa_chc_codziennie_w_akcie_strzelistym_prosi_o_przebaczenie_grzech_w_ask_nawr_cenia_dla_mnie_i_dla_wszystkich_grzesznik_w_a_tak_e_o_umiej_tno_prze_ywania_ka_dego_cierpienia_w_zjednoczeniu_z_cierpi_cym_zbawicielem_tylko_w_nim_i_dzi_ki_niemu_trudne_do_wiadczenia_niekiedy_bolesne_jak_uderzenie_bicz_w_staj_si_narz_dziem_zbawienia_i_daj_mi_udzia_w_dziele_odkupienia_wiata"
+                    android:id="@+id/textView6115"
+                    style="@style/paragraf_Text"
+                    android:textStyle="italic"
+                    android:padding="7dp"/>
+            <TextView
+                    android:text="@string/akt_strzelisty"
+                    android:id="@+id/textView6116"
+                    style="@style/paragraf_Text"
+                    android:textStyle="bold"
+                    android:paddingBottom="7dp"/>
+            <TextView
+                    android:text="Miłosierny Jezu,
+przebacz nam grzechy,
+przez które Cię biczujemy,
+daj łaskę nawrócenia grzesznikom
+i naucz nas przeżywać wszelkie cierpienia
+w zjednoczeniu z Tobą."
+                    android:id="@+id/textView5639"
+                    style="@style/paragraf_Text"
+                    android:textStyle="bold"
+                    android:paddingBottom="70dp"
+                    android:textAlignment="center"
+                    android:textColor="@color/colorRed"/>
+
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

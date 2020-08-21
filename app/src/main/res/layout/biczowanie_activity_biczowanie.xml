@@ -5,18 +5,18 @@
         xmlns:app="http://schemas.android.com/apk/res-auto"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".Ogrojec"
+        tools:context=".Biczowanie"
         android:orientation="vertical">
 
     <ScrollView
-            android:id="@+id/scrollOgrojec"
+            android:id="@+id/scrollBiczowanie"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
         <LinearLayout android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
             <TextView
-                    android:text="@string/tajemnica_i"
+                    android:text="@string/tajemnica_ii"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView"
@@ -28,7 +28,7 @@
                     android:textAlignment="center"
                     android:typeface="sans"/>
             <TextView
-                    android:text="@string/ogr_jec"
+                    android:text="@string/biczowanie"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView3026"
@@ -48,7 +48,7 @@
                     android:contentDescription="@string/obraz_jordan"/>
             <Button
                     android:text="@string/wst_p"
-                    android:id="@+id/button_Ogrojec_Wstep"
+                    android:id="@+id/button_Biczowanie_Wstep"
                     style="@style/button_Bolesne_Wstep"
                     android:layout_marginBottom="12dp"/>
             <Button

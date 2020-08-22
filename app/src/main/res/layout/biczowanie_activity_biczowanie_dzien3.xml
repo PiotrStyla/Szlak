@@ -6,13 +6,13 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginEnd="16dp"
-        tools:context=".BiczowanieDzien2"
+        tools:context=".BiczowanieDzien3"
         android:id="@+id/linearLayout">
     <TextView
-            android:text="@string/dzie_2_wi_ci_m_czennicy"
+            android:text="@string/dzie_3_wi_ci_pasterze"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textView6131"
+            android:id="@+id/textView6142"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="16dp"
             android:layout_marginTop="16dp"
@@ -24,10 +24,10 @@
             tools:ignore="RtlSymmetry" />
 
     <ScrollView
-            android:id="@+id/scrollBiczowanie2"
+            android:id="@+id/scrollBiczowanie3"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView6131"
+            app:layout_constraintTop_toBottomOf="@+id/textView6142"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
@@ -43,43 +43,60 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
             <TextView
-                    android:text="@string/wi_ty_szczepanie_m_dl_si_za_mn_wi_ty_ignacy_antioche_ski_n_wi_ty_polikarpie_n_wi_ty_justynie_n_wi_ty_wawrzy_cze_n_wi_ty_cyprianie_n_wi_ty_bonifacy_n_wi_ty_wojciechu_n_wi_ty_stanis_awie_n_wi_ty_tomaszu_becket_n_wi_ci_janie_i_tomaszu_z_anglii_n_wi_ty_pawle_z_japonii_n_wi_ty_izaaku_i_janie_z_ameryki_n_wi_ty_piotrze_z_polinezji_n_wi_ty_karolu_z_ugandy_n_wi_te_perpetuo_i_felicyto_n_wi_ta_agnieszko_n_wi_ta_mario_goretti_n_wszyscy_wi_ci_m_czennicy"
-                    android:id="@+id/textView6133"
+                    android:text="\nŚwięci Leonie i Grzegorzu, módlcie się za mną,\n
+Święty Ambroży,\n
+Święty Hieronimie,\n
+Święty Augustynie,\n
+Święty Atanazy,\n
+Święci Bazyli i Grzegorzu z Nazjanzu,\n
+Święty Janie Chryzostomie,\n
+Święty Marcinie,\n
+Święty Patryku,\n
+Święci Cyrylu i Metody,\n
+Święty Karolu Boromeuszu,\n
+Święty Franciszku Salezy,\n
+Święty Piusie Dziesiąty,\n
+Wszyscy Święci biskupi i doktorzy Kościoła,"
+                    android:id="@+id/textView6143"
                     style="@style/paragraf_Text_optimum"
                     android:padding="5dp"/>
             <TextView
                     android:text="@string/rozwa_anie_s_owa"
-                    android:id="@+id/textView6134"
+                    android:id="@+id/textView6144"
                     style="@style/modlitwa"/>
             <TextView
-                    android:text="@string/z_ksi_gi_psalm_w_10_1_2_dlaczego_z_dala_stoisz_o_panie_w_czasach_ucisku_si_kryjesz_gdy_wyst_pny_si_pyszni_biedny_jest_w_udr_ce_i_ulega_podst_pom_kt_re_tamten_uknu_n_n_psalmista_pyta_boga_dlaczego_stoi_daleko_gdy_biedy_jest_w_udr_ce_jak_e_g_boko_musia_prze_ywa_to_pytanie_jezus_prawdziwy_syn_bo_y_on_przecie_nigdy_nie_by_daleko_zawsze_by_blisko_cz_owieka_jednak_umys_ludzki_za_lepiony_przez_grzech_nie_potrafi_dostrzec_tej_mi_uj_cej_obecno_ci_boga_ojciec_posy_a_syna_aby_pokaza_ludziom_jego_mi_o_i_jego_obecno_ca_e_ycie_jezusa_a_szczeg_lnie_godziny_jego_m_ki_s_wyrazem_blisko_ci_boga_jezus_jednoczy_si_z_wszystkimi_kt_rych_ci_ar_krzy_a_jest_tak_wielki_i_wydaje_im_si_e_b_g_ich_opu_ci"
-                    android:id="@+id/textView6135"
+                    android:text="Z Księgi Psalmów (14,4): „Czyż się nie opamiętają wszyscy, którzy czynią nieprawość, którzy lud mój pożerają, jak gdyby chleb jedli, którzy nie wzywają Pana?”\n\n
+
+	W różny sposób wzywa Bóg człowieka do opamiętania. Jeśli zszedł na złą drogę, jeśli popełnia nieprawość, powinien zmienić swe postępowanie.\n
+Bóg cierpliwie przemawia, wyjaśnia i zachęca. Jednak wiele osób zamknęło uszy na słowo Pana. Bóg podejmuje więc nowe działanie. Przychodzi na ziemię w ludzkiej postaci i podejmuje cierpienie. Przelewa krew. Umiera na krzyżu.\n
+	Czy tak wielkie cierpienie przyprowadza człowieka do opamiętania? Historia pokazuje, że nie wszyscy się nawracają. Być może i jak trochę zobojętniałem na cierpienie Jezusa. Chcę więc w tym miesiącu z wielką uwagą i miłością rozważać tajemnicę biczowania Jezusa. Proszę Maryję i Świętych o wstawiennictwo w mojej intencji."
+                    android:id="@+id/textView6145"
                     style="@style/paragraf_Text_optimum"
                     android:padding="5dp"/>
             <TextView
                     android:text="@string/dziesi_tek_r_a_ca"
-                    android:id="@+id/textView6136"
+                    android:id="@+id/textView6146"
                     style="@style/dziesiatek_rozanca"/>
             <TextView
                     android:text="@string/ojcze_nasz_zdrowa_maryjo_chwa_a_ojcu"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView6137"/>
+                    android:id="@+id/textView6147"/>
             <TextView
                     android:text="@string/akt_strzelisty"
-                    android:id="@+id/textView6138"
+                    android:id="@+id/textView6148"
                     style="@style/intencje_modlitwy"/>
             <TextView
                     android:text="@string/mi_osierny_jezu_przebacz_nam_grzechy_przez_kt_re_ci_biczujemy_daj_ask_nawr_cenia_grzesznikom_i_naucz_nas_prze_ywa_wszelkie_cierpienia_w_zjednoczeniu_z_tob"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView6139"/>
+                    android:id="@+id/textView6149"/>
             <TextView
                     android:text="@string/intencje_modlitwy"
-                    android:id="@+id/textView6140"
+                    android:id="@+id/textView6150"
                     style="@style/intencje_modlitwy"/>
             <TextView
-                    android:text="@string/wed_ug_w_asnego_uznania"
+                    android:text="Modlitwa błagalna według własnego uznania"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView6141"
+                    android:id="@+id/textView6130"
                     android:textStyle="italic"
                     android:paddingBottom="70dp"/>
         </LinearLayout>

@@ -50,38 +50,37 @@
                     android:id="@+id/textView6102"
                     style="@style/paragraf_Text"/>
             <TextView
-                    android:text="Św. Mateusz relacjonuje krótko:"
+                    android:text="@string/w_mateusz_relacjonuje_kr_tko"
                     android:id="@+id/textView6103"
                     android:textColor="@color/colorRed"
                     style="@style/paragraf_Text"/>
             <TextView
-                    android:text=" „Wówczas uwolnił im Barabasza, a Jezusa kazał ubiczować i wydał na ukrzyżowanie” (27,26). "
+                    android:text="@string/w_wczas_uwolni_im_barabasza_a_jezusa_kaza_ubiczowa_i_wyda_na_ukrzy_owanie_27_26"
                     android:id="@+id/textView6104"
                     style="@style/paragraf_Text"/>
             <TextView
-                    android:text="W podobny pisze św. Marek:"
+                    android:text="@string/w_podobny_pisze_w_marek"
                     android:textColor="@color/colorRed"
                     android:id="@+id/textView6105"
                     style="@style/paragraf_Text" />
             <TextView
-                    android:text=" „Wtedy Piłat, chcąc zadowolić tłum, uwolnił im Barabasza, Jezusa zaś kazał ubiczować i wydał na ukrzyżowanie” (15,15). Św. Jan mówi jeszcze krócej: „Wówczas Piłat wziął Jezusa i kazał Go ubiczować” (J 19,1). Po tych krótkich informacjach ewangeliści przechodzą do relacji o cierniem ukoronowaniu, które następowało zaraz po biczowaniu."
+                    android:text="@string/wtedy_pi_at_chc_c_zadowoli_t_um_uwolni_im_barabasza_jezusa_za_kaza_ubiczowa_i_wyda_na_ukrzy_owanie_15_15_w_jan_m_wi_jeszcze_kr_cej_w_wczas_pi_at_wzi_jezusa_i_kaza_go_ubiczowa_j_19_1_po_tych_kr_tkich_informacjach_ewangeli_ci_przechodz_do_relacji_o_cierniem_ukoronowaniu_kt_re_nast_powa_o_zaraz_po_biczowaniu"
                     android:id="@+id/textView6106"
                     style="@style/paragraf_Text"
                     android:paddingBottom="5dp"/>
             <TextView
-                    android:text=" W rozważaniu tej tajemnicy ogromną pomocą są dla mnie słowa Jezusa, w których zapowiada On swoje biczowanie (por. Mk 10,34; Łk 18,33). Pragnę w pierwszym tygodniu moich medytacji skierować moją uwagę ku tym zapowiedziom. Widać z nich, Jezus był świadom tego, co Go czeka. Kilka razy mówił o swojej męce zdążając do Jerozolimy. Przez swoje słowa przygotowywał Apostołów i przygotowuje również mnie na przeżycie Jego biczowania.\n
-	W drugim tygodniu mojej miesięcznej medytacji o biczowaniu chcę się zatrzymać przy przebiegu tego bolesnego wydarzenia. Pomocą będą dla mnie nie tylko teksty biblijne, lecz także informacje o biczowaniu, jakie stosowali Rzymianie, świadectwa świętych oraz badania nad całunem turyńskim."
+                    android:text="@string/w_rozwa_aniu_tej_tajemnicy_ogromn_pomoc_s_dla_mnie_s_owa_jezusa_w_kt_rych_zapowiada_on_swoje_biczowanie_por_mk_10_34_k_18_33_pragn_w_pierwszym_tygodniu_moich_medytacji_skierowa_moj_uwag_ku_tym_zapowiedziom_wida_z_nich_jezus_by_wiadom_tego_co_go_czeka_kilka_razy_m_wi_o_swojej_m_ce_zd_aj_c_do_jerozolimy_przez_swoje_s_owa_przygotowywa_aposto_w_i_przygotowuje_r_wnie_mnie_na_prze_ycie_jego_biczowania_n_w_drugim_tygodniu_mojej_miesi_cznej_medytacji_o_biczowaniu_chc_si_zatrzyma_przy_przebiegu_tego_bolesnego_wydarzenia_pomoc_b_d_dla_mnie_nie_tylko_teksty_biblijne_lecz_tak_e_informacje_o_biczowaniu_jakie_stosowali_rzymianie_wiadectwa_wi_tych_oraz_badania_nad_ca_unem_tury_skim"
                     android:id="@+id/textView6107"
                     android:textColor="@color/colorRed"
                     style="@style/paragraf_Text"
                     android:paddingBottom="5dp"/>
             <TextView
-                    android:text="Trwając przy Jezusie, przyjmującym z miłością ból biczowania, pragnę w dalszych dniach rozważać znaczenie cierpienia w życiu chrześcijanina i umiejętności przyjmowania tego cierpienia w zjednoczeniu z Jezusem."
+                    android:text="@string/trwaj_c_przy_jezusie_przyjmuj_cym_z_mi_o_ci_b_l_biczowania_pragn_w_dalszych_dniach_rozwa_a_znaczenie_cierpienia_w_yciu_chrze_cijanina_i_umiej_tno_ci_przyjmowania_tego_cierpienia_w_zjednoczeniu_z_jezusem"
                     android:id="@+id/textView6108"
                     style="@style/paragraf_Text"
                     android:paddingBottom="5dp"/>
             <TextView
-                    android:text=" Niech Maryja, Matka Bolesna, wspiera mnie w tym codziennym powracaniu na miejsce, gdzie żołnierze bez litości biczują Jezusa, a On na złość odpowiada miłością."
+                    android:text="@string/niech_maryja_matka_bolesna_wspiera_mnie_w_tym_codziennym_powracaniu_na_miejsce_gdzie_o_nierze_bez_lito_ci_biczuj_jezusa_a_on_na_z_o_odpowiada_mi_o_ci"
                     android:id="@+id/textView6109"
                     android:textColor="@color/colorRed"
                     style="@style/paragraf_Text"
@@ -127,13 +126,8 @@
                     android:textStyle="bold"
                     android:paddingBottom="7dp"/>
             <TextView
-                    android:text="Miłosierny Jezu,
-przebacz nam grzechy,
-przez które Cię biczujemy,
-daj łaskę nawrócenia grzesznikom
-i naucz nas przeżywać wszelkie cierpienia
-w zjednoczeniu z Tobą."
-                    android:id="@+id/textView5639"
+                    android:text="@string/mi_osierny_jezu_przebacz_nam_grzechy_przez_kt_re_ci_biczujemy_daj_ask_nawr_cenia_grzesznikom_i_naucz_nas_prze_ywa_wszelkie_cierpienia_w_zjednoczeniu_z_tob"
+                    android:id="@+id/textView6117"
                     style="@style/paragraf_Text"
                     android:textStyle="bold"
                     android:paddingBottom="70dp"

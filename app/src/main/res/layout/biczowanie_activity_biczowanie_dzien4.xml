@@ -79,7 +79,7 @@
             <TextView
                     android:text="@string/bo_e_od_kt_rego_pochodzi_wszelkie_ojcostwo_w_niebie_i_na_ziemi_ojcze_kt_ry_jeste_mi_o_ci_i_yciem_spraw_aby_ka_da_ludzka_rodzina_na_ziemi_przez_twego_syna_jezusa_chrystusa_quot_narodzonego_z_niewiasty_quot_i_przez_ducha_wi_tego_stawa_a_si_prawdziwym_przybytkiem_ycia_i_mi_o_ci_dla_coraz_to_nowych_pokole_n_spraw_aby_twoja_aska_kierowa_a_my_li_i_uczynki_ma_onk_w_ku_dobru_ich_w_asnych_rodzin_i_wszystkich_rodzin_na_wiecie_n_spraw_aby_m_ode_pokolenie_znajdowa_o_w_rodzinach_mocne_oparcie_dla_swego_cz_owiecze_stwa_i_jego_rozwoju_w_prawdzie_i_mi_o_ci_n_spraw_aby_mi_o_umacniana_ask_sakramentu_ma_e_stwa_okazywa_a_si_mocniejsza_od_wszelkich_s_abo_ci_i_kryzys_w_przez_jakie_nieraz_przechodz_nasze_rodziny_n_spraw_wreszcie_b_agamy_ci_o_to_za_po_rednictwem_wi_tej_rodziny_z_nazaretu_a_eby_ko_ci_w_r_d_wszystkich_narod_w_ziemi_m_g_owocnie_spe_nia_swe_pos_annictwo_w_rodzinach_poprzez_rodziny_przez_chrystusa_pana_naszego_kt_ry_jest_drog_prawd_i_yciem_na_wieki_wiek_w_amen"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView6151"
+                    android:id="@+id/textView6161"
                     android:textStyle="italic"
                     android:paddingBottom="70dp"/>
         </LinearLayout>

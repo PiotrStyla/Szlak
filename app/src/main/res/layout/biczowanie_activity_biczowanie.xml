@@ -82,10 +82,10 @@
                     android:id="@+id/button_Biczowanie_5"
                     style="@style/button_dni_bolesne_padding"/>
             <Button
-                    android:text="@string/dzie_6_modlitwy_jezusa_n_nad_jordanem_i_na_pustyni"
+                    android:text="@string/dzie_6_stary_testament_prorok_izajasz"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ogrojec_6"
+                    android:id="@+id/button_Biczowanie_6"
                     style="@style/button_dni_bolesne_padding"/>
             <Button
                     android:text="@string/dzie_7_modlitwy_jezusa_n_przed_powo_aniem_aposto_w"

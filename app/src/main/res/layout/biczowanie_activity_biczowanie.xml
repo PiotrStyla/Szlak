@@ -73,7 +73,7 @@
                     android:text="@string/dzie_4_wi_ci_ma_onkowie_i_rodzice"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ogrojec_4"
+                    android:id="@+id/button_Biczowanie_4"
                     style="@style/button_dni_bolesne_padding"/>
             <Button
                     android:text="@string/dzie_5_modlitwy_jezusa_w_nazarecie"

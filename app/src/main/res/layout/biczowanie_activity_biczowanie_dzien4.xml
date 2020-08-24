@@ -6,13 +6,13 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginEnd="16dp"
-        tools:context=".BiczowanieDzien3"
+        tools:context=".BiczowanieDzien4"
         android:id="@+id/linearLayout">
     <TextView
-            android:text="@string/dzie_3_wi_ci_pasterze"
+            android:text="@string/dzie_4_wi_ci_ma_onkowie_i_rodzice"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textView6142"
+            android:id="@+id/textView6152"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="16dp"
             android:layout_marginTop="16dp"
@@ -24,15 +24,15 @@
             tools:ignore="RtlSymmetry" />
 
     <ScrollView
-            android:id="@+id/scrollBiczowanie3"
+            android:id="@+id/scrollBiczowanie4"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView6142"
+            app:layout_constraintTop_toBottomOf="@+id/textView6152"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="24dp"
-            android:layout_marginTop="48dp"
+            android:layout_marginTop="78dp"
             android:scrollbarStyle="outsideOverlay"
             android:clipToPadding="false"
             android:paddingStart="8sp"
@@ -43,41 +43,41 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
             <TextView
-                    android:text="@string/wi_ci_leonie_i_grzegorzu_m_dlcie_si_za_mn_n_wi_ty_ambro_y_n_wi_ty_hieronimie_n_wi_ty_augustynie_n_wi_ty_atanazy_n_wi_ci_bazyli_i_grzegorzu_z_nazjanzu_n_wi_ty_janie_chryzostomie_n_wi_ty_marcinie_n_wi_ty_patryku_n_wi_ci_cyrylu_i_metody_n_wi_ty_karolu_boromeuszu_n_wi_ty_franciszku_salezy_n_wi_ty_piusie_dziesi_ty_n_wszyscy_wi_ci_biskupi_i_doktorzy_ko_cio_a"
-                    android:id="@+id/textView6143"
+                    android:text="@string/wi_ty_ludwiku_m_dl_si_za_mn_n_wi_ty_kazimierzu_n_wi_ta_moniko_n_wi_ta_jadwigo_l_ska_n_wi_ta_jadwigo_kr_lowo_n_wi_ta_el_bieto_w_gierska_n_wi_ta_joanno_beretto_mola_n_wi_ci_zelio_i_ludwiku_martin_n_b_ogos_awieni_maria_i_alojzy_quatrocchi_n_wszyscy_wi_ci_ma_onkowie_i_rodzice"
+                    android:id="@+id/textView6153"
                     style="@style/paragraf_Text_optimum"
                     android:padding="5dp"/>
             <TextView
                     android:text="@string/rozwa_anie_s_owa"
-                    android:id="@+id/textView6144"
+                    android:id="@+id/textView6154"
                     style="@style/modlitwa"/>
             <TextView
-                    android:text="@string/z_ksi_gi_psalm_w_14_4_czy_si_nie_opami_taj_wszyscy_kt_rzy_czyni_nieprawo_kt_rzy_lud_m_j_po_eraj_jak_gdyby_chleb_jedli_kt_rzy_nie_wzywaj_pana_n_n_w_r_ny_spos_b_wzywa_b_g_cz_owieka_do_opami_tania_je_li_zszed_na_z_drog_je_li_pope_nia_nieprawo_powinien_zmieni_swe_post_powanie_n_b_g_cierpliwie_przemawia_wyja_nia_i_zach_ca_jednak_wiele_os_b_zamkn_o_uszy_na_s_owo_pana_b_g_podejmuje_wi_c_nowe_dzia_anie_przychodzi_na_ziemi_w_ludzkiej_postaci_i_podejmuje_cierpienie_przelewa_krew_umiera_na_krzy_u_n_czy_tak_wielkie_cierpienie_przyprowadza_cz_owieka_do_opami_tania_historia_pokazuje_e_nie_wszyscy_si_nawracaj_by_mo_e_i_jak_troch_zoboj_tnia_em_na_cierpienie_jezusa_chc_wi_c_w_tym_miesi_cu_z_wielk_uwag_i_mi_o_ci_rozwa_a_tajemnic_biczowania_jezusa_prosz_maryj_i_wi_tych_o_wstawiennictwo_w_mojej_intencji"
-                    android:id="@+id/textView6145"
+                    android:text="@string/z_ksi_gi_psalm_w_129_1_3_bardzo_mnie_gn_bili_od_mojej_m_odo_ci_niech_powie_izrael_bardzo_mnie_gn_bili_od_mojej_m_odo_ci_lecz_nie_zdo_ali_mnie_przem_c_poorali_m_j_grzbiet_oracze_wy_obili_d_ugie_bruzdy_n_niezwyk_e_by_y_do_wiadczenia_a_r_wnocze_nie_prorockie_wizje_psalmisty_jak_e_realistycznie_spe_ni_y_si_powy_sze_s_owa_w_czasie_biczowania_pana_jezusa_g_boko_zosta_o_zranione_jego_cia_o_i_wielki_b_l_zosta_zadany_jego_duszy_jednak_wszystkie_si_y_z_a_jakie_spad_y_nie_niego_nie_zdo_a_y_go_przem_c_jego_mi_o_okaza_a_si_mocniejsza_nic_nie_by_o_w_stanie_jej_z_ama_os_abi_ani_pokona_n_rozwa_aj_c_dzi_s_owa_psalmu_129_modl_si_za_przyczyn_maryi_i_wi_tych_aby_mi_o_jezusa_objawiona_w_biczowaniu_jeszcze_bardziej_przenikn_a_moje_serce_w_najbli_szych_tygodniach_b_d_codziennie_powraca_do_rozwa_ania_tej_mi_o_ci_zdolniej_znie_najwi_ksze_cierpienia_by_ratowa_ukochanego_cz_owieka_oby_ta_miesi_czna_medytacja_przynios_a_b_ogos_awione_owoce_w_moim_yciu"
+                    android:id="@+id/textView6155"
                     style="@style/paragraf_Text_optimum"
                     android:padding="5dp"/>
             <TextView
                     android:text="@string/dziesi_tek_r_a_ca"
-                    android:id="@+id/textView6146"
+                    android:id="@+id/textView6156"
                     style="@style/dziesiatek_rozanca"/>
             <TextView
                     android:text="@string/ojcze_nasz_zdrowa_maryjo_chwa_a_ojcu"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView6147"/>
+                    android:id="@+id/textView6157"/>
             <TextView
                     android:text="@string/akt_strzelisty"
-                    android:id="@+id/textView6148"
+                    android:id="@+id/textView6158"
                     style="@style/intencje_modlitwy"/>
             <TextView
                     android:text="@string/mi_osierny_jezu_przebacz_nam_grzechy_przez_kt_re_ci_biczujemy_daj_ask_nawr_cenia_grzesznikom_i_naucz_nas_prze_ywa_wszelkie_cierpienia_w_zjednoczeniu_z_tob"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView6149"/>
+                    android:id="@+id/textView6159"/>
             <TextView
                     android:text="@string/intencje_modlitwy"
-                    android:id="@+id/textView6150"
+                    android:id="@+id/textView6160"
                     style="@style/intencje_modlitwy"/>
             <TextView
-                    android:text="@string/modlitwa_b_agalna_wed_ug_w_asnego_uznania"
+                    android:text="@string/bo_e_od_kt_rego_pochodzi_wszelkie_ojcostwo_w_niebie_i_na_ziemi_ojcze_kt_ry_jeste_mi_o_ci_i_yciem_spraw_aby_ka_da_ludzka_rodzina_na_ziemi_przez_twego_syna_jezusa_chrystusa_quot_narodzonego_z_niewiasty_quot_i_przez_ducha_wi_tego_stawa_a_si_prawdziwym_przybytkiem_ycia_i_mi_o_ci_dla_coraz_to_nowych_pokole_n_spraw_aby_twoja_aska_kierowa_a_my_li_i_uczynki_ma_onk_w_ku_dobru_ich_w_asnych_rodzin_i_wszystkich_rodzin_na_wiecie_n_spraw_aby_m_ode_pokolenie_znajdowa_o_w_rodzinach_mocne_oparcie_dla_swego_cz_owiecze_stwa_i_jego_rozwoju_w_prawdzie_i_mi_o_ci_n_spraw_aby_mi_o_umacniana_ask_sakramentu_ma_e_stwa_okazywa_a_si_mocniejsza_od_wszelkich_s_abo_ci_i_kryzys_w_przez_jakie_nieraz_przechodz_nasze_rodziny_n_spraw_wreszcie_b_agamy_ci_o_to_za_po_rednictwem_wi_tej_rodziny_z_nazaretu_a_eby_ko_ci_w_r_d_wszystkich_narod_w_ziemi_m_g_owocnie_spe_nia_swe_pos_annictwo_w_rodzinach_poprzez_rodziny_przez_chrystusa_pana_naszego_kt_ry_jest_drog_prawd_i_yciem_na_wieki_wiek_w_amen"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView6151"
                     android:textStyle="italic"

@@ -108,9 +108,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ogrojec_10"
+                    android:id="@+id/button_Biczowanie_10"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_10_modlitwy_jezusa_n_rano_i_wieczorem"/>
+                    android:text="@string/dzie_10_trzeci_zapowied_m_ki"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

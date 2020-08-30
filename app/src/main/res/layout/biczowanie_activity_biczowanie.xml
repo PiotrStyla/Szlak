@@ -114,9 +114,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ogrojec_11"
+                    android:id="@+id/button_Biczowanie_11"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_11_modlitwy_jezusa_n_inne_modlitwy_jezusa"/>
+                    android:text="@string/dzie_11_p_acz_nad_jerozolim"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

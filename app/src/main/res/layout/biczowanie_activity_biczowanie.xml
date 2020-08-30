@@ -88,22 +88,22 @@
                     android:id="@+id/button_Biczowanie_6"
                     style="@style/button_dni_bolesne_padding"/>
             <Button
-                    android:text="@string/dzie_7_modlitwy_jezusa_n_przed_powo_aniem_aposto_w"
+                    android:text="@string/dzie_7_stary_testament_ksi_ga_m_dro_ci"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ogrojec_7"
+                    android:id="@+id/button_Biczowanie_7"
                     style="@style/button_dni_bolesne_padding"/>
             <Button
-                    android:text="@string/dzie_8_modlitwy_jezusa_n_przed_rozmno_eniem_chleba"
+                    android:text="@string/dzie_8_pierwsza_zapowied_m_ki"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ogrojec_8"
+                    android:id="@+id/button_Biczowanie_8"
                     style="@style/button_dni_bolesne_padding"/>
             <Button
-                    android:text="@string/dzie_9_modlitwy_jezusa_n_na_g_rze_tabor"
+                    android:text="@string/dzie_9_druga_zapowied_m_ki"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ogrojec_9"
+                    android:id="@+id/button_Biczowanie_9"
                     style="@style/button_dni_bolesne_padding"/>
             <Button
                     android:layout_width="match_parent"

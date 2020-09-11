@@ -126,9 +126,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ogrojec_13"
+                    android:id="@+id/button_Biczowanie_13"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_13_modlitwa_w_ogr_jcu_n_tajemnica_ogrodu"/>
+                    android:text="@string/dzie_13_w_czasie_przes_uchania"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

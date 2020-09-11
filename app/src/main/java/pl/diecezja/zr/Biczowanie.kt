@@ -85,10 +85,10 @@ class Biczowanie : AppCompatActivity() {
             val intentBiczowanieDzien14 = Intent(this, BiczowanieDzien14::class.java)
             startActivity(intentBiczowanieDzien14)
         }
-        val buttonOgrojecDoDzien15 = findViewById<Button>(R.id.button_Ogrojec_15)
-        buttonOgrojecDoDzien15.setOnClickListener {
-            val intentOgrojecDzien15 = Intent(this, OgrojecDzien15::class.java)
-            startActivity(intentOgrojecDzien15)
+        val buttonBiczowanieDoDzien15 = findViewById<Button>(R.id.button_Biczowanie_15)
+        buttonBiczowanieDoDzien15.setOnClickListener {
+            val intentBiczowanieDzien15 = Intent(this, BiczowanieDzien15::class.java)
+            startActivity(intentBiczowanieDzien15)
         }
         val buttonOgrojecDoDzien16 = findViewById<Button>(R.id.button_Ogrojec_16)
         buttonOgrojecDoDzien16.setOnClickListener {

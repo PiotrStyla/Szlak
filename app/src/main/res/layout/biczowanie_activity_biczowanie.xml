@@ -138,9 +138,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ogrojec_15"
+                    android:id="@+id/button_Biczowanie_15"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_15_modlitwa_w_ogr_jcu_n_modlitwa_walki"/>
+                    android:text="@string/dzie_15_biczowanie_w_opisie_ewangelist_w"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

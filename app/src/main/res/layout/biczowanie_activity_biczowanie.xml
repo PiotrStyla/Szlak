@@ -120,9 +120,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ogrojec_12"
+                    android:id="@+id/button_Biczowanie_12"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_12_modlitwa_w_ogr_jcu_n_po_od_piewaniu_hymnu"/>
+                    android:text="@string/dzie_12_okrutnie_ubiczowany_po_pojmaniu"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

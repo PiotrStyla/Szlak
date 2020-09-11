@@ -55,25 +55,25 @@ class Biczowanie : AppCompatActivity() {
             val intentBiczowanieDzien8 = Intent(this, BiczowanieDzien8::class.java)
             startActivity(intentBiczowanieDzien8)
         }
-        val buttonBiczowanieDzien9 = findViewById<Button>(R.id.button_Biczowanie_9)
-        buttonBiczowanieDzien9.setOnClickListener {
+        val buttonBiczowanieDoDzien9 = findViewById<Button>(R.id.button_Biczowanie_9)
+        buttonBiczowanieDoDzien9.setOnClickListener {
             val intentBiczowanieDzien9 = Intent(this, BiczowanieDzien9::class.java)
             startActivity(intentBiczowanieDzien9)
         }
-        val buttonBiczowanieDzien10 = findViewById<Button>(R.id.button_Biczowanie_10)
-        buttonBiczowanieDzien10.setOnClickListener {
+        val buttonBiczowanieDoDzien10 = findViewById<Button>(R.id.button_Biczowanie_10)
+        buttonBiczowanieDoDzien10.setOnClickListener {
             val intentBiczowanieDzien10 = Intent(this, BiczowanieDzien10::class.java)
             startActivity(intentBiczowanieDzien10)
         }
-        val buttonBiczowanieDzien11 = findViewById<Button>(R.id.button_Biczowanie_11)
-        buttonBiczowanieDzien11.setOnClickListener {
+        val buttonBiczowanieDoDzien11 = findViewById<Button>(R.id.button_Biczowanie_11)
+        buttonBiczowanieDoDzien11.setOnClickListener {
             val intentBiczowanieDzien11 = Intent(this, BiczowanieDzien11::class.java)
             startActivity(intentBiczowanieDzien11)
         }
-        val buttonOgrojecDoDzien12 = findViewById<Button>(R.id.button_Ogrojec_12)
-        buttonOgrojecDoDzien12.setOnClickListener {
-            val intentOgrojecDzien12 = Intent(this, OgrojecDzien12::class.java)
-            startActivity(intentOgrojecDzien12)
+        val buttonBiczowanieDoDzien12 = findViewById<Button>(R.id.button_Biczowanie_12)
+        buttonBiczowanieDoDzien12.setOnClickListener {
+            val intentBiczowanieDzien12 = Intent(this, BiczowanieDzien12::class.java)
+            startActivity(intentBiczowanieDzien12)
         }
         val buttonOgrojecDoDzien13 = findViewById<Button>(R.id.button_Ogrojec_13)
         buttonOgrojecDoDzien13.setOnClickListener {

@@ -132,9 +132,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ogrojec_14"
+                    android:id="@+id/button_Biczowanie_14"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_14_modlitwa_w_ogr_jcu_n_wola_ojca"/>
+                    android:text="@string/dzie_14_biczowanie_u_rzymian"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

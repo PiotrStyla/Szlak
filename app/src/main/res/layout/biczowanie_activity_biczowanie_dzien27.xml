@@ -6,13 +6,13 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginEnd="16dp"
-        tools:context=".BiczowanieDzien26"
+        tools:context=".BiczowanieDzien27"
         android:id="@+id/linearLayout">
     <TextView
-            android:text="@string/dzie_26_ostatnie_dni_dzi_kczynienie"
+            android:text="@string/dzie_27_apostolstwo"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textView6396"
+            android:id="@+id/textView6408"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="16dp"
             android:layout_marginTop="16dp"
@@ -24,10 +24,10 @@
             tools:ignore="RtlSymmetry" />
 
     <ScrollView
-            android:id="@+id/scrollBiczowanie26"
+            android:id="@+id/scrollBiczowanie27"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView6396"
+            app:layout_constraintTop_toBottomOf="@+id/textView6408"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
@@ -43,54 +43,48 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
             <TextView
-                    android:text="@string/spotkanie_z_wielkim_cierpieniem_chrystusa_a_tak_e_cierpieniem_ludzi_i_wiadectwem_ycia_tylu_wi_tych_jest_wielkim_prze_yciem_w_ostatnich_dniach_mojej_miesi_cznej_medytacji_r_a_cowej_pragn_za_wszystkie_aski_podzi_kowa_i_modli_si_o_to_aby_obraz_jezusa_biczowanego_za_grzechy_ludzi_zawsze_by_mocno_odci_ni_ty_w_moim_sercu"
-                    android:id="@+id/textView6397"
-                    style="@style/paragraf_Text_optimum"
-                    android:textStyle="italic"
-                    android:padding="5dp"/>
-            <TextView
                     android:text="@string/modlitwa"
-                    android:id="@+id/textView6398"
+                    android:id="@+id/textView6409"
                     style="@style/modlitwa"/>
             <TextView
                     android:text="@string/maryjo_matko_bolesna_m_dl_si_za_nami_n_wi_ci_aposto_owie_m_dlcie_si_za_nami_n_wi_ci_uczniowie_pa_scy_m_dlcie_si_za_nami"
-                    android:id="@+id/textView6399"
+                    android:id="@+id/textView6410"
                     style="@style/paragraf_Text_optimum"
                     android:textStyle="italic"
                     android:padding="5dp"/>
             <TextView
                     android:text="@string/rozwa_anie_s_owa"
-                    android:id="@+id/textView6400"
+                    android:id="@+id/textView6411"
                     style="@style/modlitwa"/>
             <TextView
-                    android:text="@string/z_listu_w_paw_a_aposto_a_do_rzymian_8_3_co_bowiem_by_o_niemo_liwe_dla_prawa_poniewa_cia_o_czyni_o_je_bezsilnym_tego_dokona_b_g_on_to_zes_a_syna_swego_w_ciele_podobnym_do_cia_a_grzesznego_i_dla_usuni_cia_grzechu_wyda_w_tym_ciele_wyrok_pot_piaj_cy_grzech_n_n_ka_dy_dzie_ycia_jezusa_chrystusa_jest_ubogaceniem_wiata_ratunkiem_ludzi_wiat_em_dla_narod_w_szczeg_lnym_jednak_znakiem_jego_mi_o_ci_jest_czas_m_ki_i_ukrzy_owania_n_rozwa_a_em_w_minionych_tygodniach_jego_biczowanie_mam_je_stale_przed_oczyma_pragn_ten_obraz_zachowa_dzi_kuj_panu_e_podj_t_m_k_dla_usuni_cia_grzechu_e_w_swoim_ciele_wyda_wyrok_pot_piaj_cy_grzech_dzi_kuj_mu_r_wnie_za_to_e_mog_em_si_do_niego_zbli_y_e_mog_em_przychodzi_codziennie_przez_ca_y_miesi_c_aby_w_jego_ranach_rozpoznawa_w_asne_grzechy_i_w_jego_mi_o_ci_odnajdywa_nadziej"
-                    android:id="@+id/textView6401"
+                    android:text="@string/z_pierwszego_listu_w_paw_a_aposto_a_do_koryntian_2_1_5_tak_te_i_ja_przyszed_szy_do_was_bracia_nie_przyby_em_aby_b_yszcz_c_s_owem_i_m_dro_ci_g_osi_wam_wiadectwo_bo_e_postanowi_em_bowiem_b_d_c_w_r_d_was_nie_zna_niczego_wi_cej_jak_tylko_jezusa_chrystusa_i_to_ukrzy_owanego_i_stan_em_przed_wami_w_s_abo_ci_i_w_boja_ni_i_z_wielkim_dr_eniem_a_mowa_moja_i_moje_g_oszenie_nauki_nie_mia_y_nic_z_uwodz_cych_przekonywaniem_s_w_m_dro_ci_lecz_by_y_ukazywaniem_ducha_i_mocy_aby_wiara_wasza_opiera_a_si_nie_na_m_dro_ci_ludzkiej_lecz_na_mocy_bo_ej_n_n_jak_mam_g_osi_ewangeli_o_jezusie_chrystusie_kt_ry_dla_mnie_wycierpia_biczowanie_i_przez_swoj_m_k_zg_adzi_moje_grzechy_przede_wszystkim_musz_si_sam_zapatrze_w_zbawiciela_tak_jak_wi_ty_pawe_kt_ry_stwierdza_e_ponad_wszystko_stawia_poznanie_chrystusa_i_to_ukrzy_owanego_n_wed_ug_aposto_a_narod_w_nie_chodzi_o_jakie_wyszukane_s_owa_lub_nie_do_odparcia_argumenty_trzeba_do_ko_ca_zaufa_bogu_w_chwilach_trudnych_w_godzinie_ciemno_ci_w_moim_w_asnym_biczowaniu_jakie_spada_na_mnie_przez_r_ne_do_wiadczenia_yciowe_trzeba_wykaza_e_moja_wiara_nie_opiera_si_na_ludzkiej_m_dro_ci_lecz_na_mocy_bo_ej_ta_moc_uzdalnia_mnie_do_znoszenia_wszystkiego_co_niesie_codzienno"
+                    android:id="@+id/textView6412"
                     style="@style/paragraf_Text_optimum"
                     android:padding="5dp"/>
             <TextView
                     android:text="@string/dziesi_tek_r_a_ca"
-                    android:id="@+id/textView6402"
+                    android:id="@+id/textView6413"
                     style="@style/dziesiatek_rozanca"/>
             <TextView
-                    android:text="@string/dzi_w_mojej_r_a_cowej_modlitwie_chc_przede_wszystkim_dzi_kowa_jezusowi_za_wszystko_co_prze_ywa_em_w_codziennych_medytacjach_tego_miesi_ca"
+                    android:text="@string/prosz_boga_za_przyczyn_maryi_abym_coraz_gorliwiej_prze_ywa_tajemnic_ukrzy_owania_pana_jezusa_w_ogr_jcu"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView6403"/>
+                    android:id="@+id/textView6414"/>
             <TextView
                     android:text="@string/akt_strzelisty"
-                    android:id="@+id/textView6404"
+                    android:id="@+id/textView6415"
                     style="@style/intencje_modlitwy"/>
             <TextView
                     android:text="@string/mi_osierny_jezu_przebacz_nam_grzechy_przez_kt_re_ci_biczujemy_daj_ask_nawr_cenia_grzesznikom_i_naucz_nas_prze_ywa_wszelkie_cierpienia_w_zjednoczeniu_z_tob"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView6405"/>
+                    android:id="@+id/textView6416"/>
             <TextView
                     android:text="@string/intencje_modlitwy"
-                    android:id="@+id/textView6406"
+                    android:id="@+id/textView6417"
                     style="@style/intencje_modlitwy"/>
             <TextView
                     android:text="@string/intencje_modlitwy_wyra_one_swoimi_s_owami"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView6407"
+                    android:id="@+id/textView6418"
                     android:textStyle="italic"
                     android:paddingBottom="70dp"/>
         </LinearLayout>

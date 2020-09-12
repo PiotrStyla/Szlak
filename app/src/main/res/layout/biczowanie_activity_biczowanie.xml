@@ -150,15 +150,15 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ogrojec_17"
+                    android:id="@+id/button_Biczowanie_17"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_17_modlitwa_w_ogr_jcu_n_senno_aposto_w"/>
+                    android:text="@string/dzie_17_biczowanie_w_opisach_innych_mistyk_w"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ogrojec_18"
+                    android:id="@+id/button_Biczowanie_18"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_18_modlitwa_w_ogr_jcu_n_wiadectwo_jana"/>
+                    android:text="@string/dzie_18_biczowanie_wed_ug_ca_unu_tury_skiego"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

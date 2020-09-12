@@ -186,9 +186,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ogrojec_23"
+                    android:id="@+id/button_Biczowanie_23"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_23_godzina_wi_ta_n_droga_jezusa"/>
+                    android:text="@string/dzie_23_zbawcze_cierpienie_cierpienie_odkupione"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

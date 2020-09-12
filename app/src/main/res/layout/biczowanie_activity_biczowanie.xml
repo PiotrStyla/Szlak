@@ -180,9 +180,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ogrojec_22"
+                    android:id="@+id/button_Biczowanie_22"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_22_godzina_wi_ta_n_adorowanie_jezusa"/>
+                    android:text="@string/dzie_22_zbawcze_cierpienie_odpowied_dana_w_chrystusie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

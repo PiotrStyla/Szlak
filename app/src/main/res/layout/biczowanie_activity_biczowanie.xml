@@ -144,9 +144,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ogrojec_16"
+                    android:id="@+id/button_Biczowanie_16"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_16_modlitwa_w_ogr_jcu_n_zosta_wys_uchany"/>
+                    android:text="@string/dzie_16_biczowanie_w_wizji_w_faustyny"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

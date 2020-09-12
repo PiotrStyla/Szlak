@@ -174,9 +174,9 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ogrojec_21"
+                    android:id="@+id/button_Biczowanie_21"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_21_godzina_wi_ta_n_obecno_jezusa"/>
+                    android:text="@string/dzie_21_zbawcze_cierpienie_pytanie_o_sens_cierpienia"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

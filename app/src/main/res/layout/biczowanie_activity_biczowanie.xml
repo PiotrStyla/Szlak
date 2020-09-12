@@ -192,15 +192,15 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ogrojec_24"
+                    android:id="@+id/button_Biczowanie_24"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_24_godzina_wi_ta_n_modlitwa_z_jezusem"/>
+                    android:text="@string/dzie_24_zbawcze_cierpienie_przyk_ad_maryi"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ogrojec_25"
+                    android:id="@+id/button_Biczowanie_25"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_25_godzina_wi_ta_n_pojmanie_jezusa"/>
+                    android:text="@string/dzie_25_zbawcze_cierpienie_mi_osierny_samarytanin"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

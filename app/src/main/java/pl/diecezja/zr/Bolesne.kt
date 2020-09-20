@@ -21,10 +21,10 @@ class Bolesne : AppCompatActivity() {
             val intent4 = Intent(this, Biczowanie::class.java)
             startActivity(intent4)
         }
-        val buttonSwiatlaDoGalilea = findViewById<Button>(R.id.button_Galilea)
-        buttonSwiatlaDoGalilea.setOnClickListener {
-            val intent5 = Intent(this, Galilea::class.java)
-            startActivity(intent5)
+        val buttonBolesneDoCierniem = findViewById<Button>(R.id.button_Cierniem)
+        buttonBolesneDoCierniem.setOnClickListener {
+            val intentCierniem = Intent(this, CierniemUkoronowanie::class.java)
+            startActivity(intentCierniem)
         }
         val buttonRadosneDoTabor = findViewById<Button>(R.id.button_Tabor)
         buttonRadosneDoTabor.setOnClickListener {

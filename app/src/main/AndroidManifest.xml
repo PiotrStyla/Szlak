@@ -9,7 +9,9 @@
             android:roundIcon="@mipmap/ic_launcher_round_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".BiczowanieDzien30"></activity>
+        <activity android:name=".CierniemUkoronowanieWstep"></activity>
+        <activity android:name=".CierniemUkoronowanie" />
+        <activity android:name=".BiczowanieDzien30" />
         <activity android:name=".BiczowanieDzien29" />
         <activity android:name=".BiczowanieDzien28" />
         <activity android:name=".BiczowanieDzien27" />

@@ -28,7 +28,7 @@
                     android:textAlignment="center"
                     android:typeface="sans"/>
             <TextView
-                    android:text="Cierniem Ukoronowanie"
+                    android:text="@string/cierniem_ukoronowanie"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView3026"
@@ -55,7 +55,7 @@
                     android:text="@string/dzie_1_pro_ba_o_wiat_o"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Biczowanie_1"
+                    android:id="@+id/button_CierniemUkronowanie_1"
                     style="@style/button_dni_bolesne_padding"/>
             <Button
                     android:text="@string/dzie_2_wi_ci_m_czennicy"

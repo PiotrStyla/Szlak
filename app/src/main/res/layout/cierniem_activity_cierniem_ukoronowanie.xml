@@ -76,22 +76,22 @@
                     android:id="@+id/button_CierniemUkoronowanie_4"
                     style="@style/button_dni_bolesne_padding"/>
             <Button
-                    android:text="@string/dzie_5_stary_testament_prorok_izajasz"
+                    android:text="@string/dzie_5_ecce_homo_zlekcewa_ony_b_g"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Biczowanie_5"
+                    android:id="@+id/button_CierniemUkoronowanie_5"
                     style="@style/button_dni_bolesne_padding"/>
             <Button
-                    android:text="@string/dzie_6_stary_testament_prorok_izajasz"
+                    android:text="@string/dzie_6_ecce_homo_sponiewierany_cz_owiek"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Biczowanie_6"
+                    android:id="@+id/button_CierniemUkoronowanie_6"
                     style="@style/button_dni_bolesne_padding"/>
             <Button
-                    android:text="@string/dzie_7_stary_testament_ksi_ga_m_dro_ci"
+                    android:text="@string/dzie_7_ecce_homo_opluty_prorok"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Biczowanie_7"
+                    android:id="@+id/button_CierniemUkoronowanie_7"
                     style="@style/button_dni_bolesne_padding"/>
             <Button
                     android:text="@string/dzie_8_pierwsza_zapowied_m_ki"

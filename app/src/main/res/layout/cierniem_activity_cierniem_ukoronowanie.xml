@@ -94,23 +94,23 @@
                     android:id="@+id/button_CierniemUkoronowanie_7"
                     style="@style/button_dni_bolesne_padding"/>
             <Button
-                    android:text="@string/dzie_8_pierwsza_zapowied_m_ki"
+                    android:text="@string/dzie_8_ecce_homo_poni_ony_kap_an"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Biczowanie_8"
+                    android:id="@+id/button_CierniemUkoronowanie_8"
                     style="@style/button_dni_bolesne_padding"/>
             <Button
-                    android:text="@string/dzie_9_druga_zapowied_m_ki"
+                    android:text="@string/dzie_9_ecce_homo_wy_miany_kr_l"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Biczowanie_9"
+                    android:id="@+id/button_CierniemUkoronowanie_9"
                     style="@style/button_dni_bolesne_padding"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Biczowanie_10"
+                    android:id="@+id/button_CierniemUkoronowanie_10"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_10_trzeci_zapowied_m_ki"/>
+                    android:text="@string/dzie_10_ecce_homo_odrzucony_mesjasz"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

@@ -9,7 +9,10 @@
             android:roundIcon="@mipmap/ic_launcher_round_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".CierniemUkoronowanieDzien17"></activity>
+        <activity android:name=".CierniemUkoronowanieDzien20"></activity>
+        <activity android:name=".CierniemUkoronowanieDzien19" />
+        <activity android:name=".CierniemUkoronowanieDzien18" />
+        <activity android:name=".CierniemUkoronowanieDzien17" />
         <activity android:name=".CierniemUkoronowanieDzien16" />
         <activity android:name=".CierniemUkoronowanieDzien15" />
         <activity android:name=".CierniemUkoronowanieDzien14" />

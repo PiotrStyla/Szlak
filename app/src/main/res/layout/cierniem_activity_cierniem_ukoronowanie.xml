@@ -174,15 +174,15 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Biczowanie_21"
+                    android:id="@+id/button_CierniemUkoronowanie_21"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_21_zbawcze_cierpienie_pytanie_o_sens_cierpienia"/>
+                    android:text="@string/dzie_21_droga_nawr_cenia_uzna_w_asn_grzeszno"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Biczowanie_22"
+                    android:id="@+id/button_CierniemUkoronowanie_22"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_22_zbawcze_cierpienie_odpowied_dana_w_chrystusie"/>
+                    android:text="@string/dzie_22_droga_nawr_cenia_uni_y_si_jak_dziecko"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

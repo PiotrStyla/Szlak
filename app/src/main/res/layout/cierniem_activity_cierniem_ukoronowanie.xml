@@ -144,15 +144,15 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Biczowanie_16"
+                    android:id="@+id/button_CierniemUkoronowanie_16"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_16_biczowanie_w_wizji_w_faustyny"/>
+                    android:text="@string/dzie_16_korona_cierniowa_kiedy_j_zdj_to_z_g_owy_jezusa"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Biczowanie_17"
+                    android:id="@+id/button_CierniemUkoronowanie_17"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_17_biczowanie_w_opisach_innych_mistyk_w"/>
+                    android:text="@string/dzie_17_korona_cierniowa_co_si_z_ni_dzia_o_p_niej"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

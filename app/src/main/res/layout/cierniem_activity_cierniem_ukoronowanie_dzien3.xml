@@ -24,7 +24,7 @@
             tools:ignore="RtlSymmetry" />
 
     <ScrollView
-            android:id="@+id/scrollBiczowanie3"
+            android:id="@+id/scrollCierniemUkoronowanie3"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             app:layout_constraintTop_toBottomOf="@+id/textView6532"

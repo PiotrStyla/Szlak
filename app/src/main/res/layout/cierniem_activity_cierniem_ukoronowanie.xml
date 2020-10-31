@@ -126,21 +126,21 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Biczowanie_13"
+                    android:id="@+id/button_CierniemUkoronowanie_13"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_13_w_czasie_przes_uchania"/>
+                    android:text="@string/dzie_13_korona_cierniowa_jaki_mia_a_kszta_t"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Biczowanie_14"
+                    android:id="@+id/button_CierniemUkoronowanie_14"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_14_biczowanie_u_rzymian"/>
+                    android:text="@string/dzie_14_korona_cierniowa_dlaczego_o_nierze_j_na_o_yli"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Biczowanie_15"
+                    android:id="@+id/button_CierniemUkoronowanie_15"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_15_biczowanie_w_opisie_ewangelist_w"/>
+                    android:text="@string/dzie_15_korona_cierniowa_jaki_b_l_zadawa_a_jezusowi"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

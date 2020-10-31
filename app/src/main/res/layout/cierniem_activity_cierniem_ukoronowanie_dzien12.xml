@@ -43,12 +43,7 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
             <TextView
-                    android:text="Jezus przeżywał w sercu i zapowiadał swoją mękę wielokrotnie. Rozpoczęła się ona już w
-Ogrójcu, na modlitwie. Był to przede wszystkim ból serca, którego miłość została odrzucona. Ból
-był tak wielki, że z czoła spływał pot zmieszany z krwią.\n
-Od tej chwili męka narastała. Doznawał cierpień od tych, którzy Go pojmali i prowadzili, od
-przesłuchujących Go, od straży świątynnej, a w końcu od żołnierzy rzymskich, którzy na rozkaz
-Piłata Go ubiczowali. Te właśnie cierpienia Zbawiciela pragnę rozważać w tym tygodniu."
+                    android:text="@string/jezus_w_sercu_prze_ywa_i_zapowiada_swoj_m_k_wielokrotnie_rozpocz_a_si_ona_ju_w_ogr_jcu_na_modlitwie_by_to_przede_wszystkim_b_l_serca_kt_rego_mi_o_zosta_a_odrzucona_b_l_by_tak_wielki_e_z_czo_a_sp_ywa_pot_zmieszany_z_krwi_n_od_tej_chwili_m_ka_narasta_a_doznawa_cierpie_od_tych_kt_rzy_go_pojmali_i_prowadzili_od_przes_uchuj_cych_go_od_stra_y_wi_tynnej_a_w_ko_cu_od_o_nierzy_rzymskich_kt_rzy_na_rozkaz_pi_ata_go_ubiczowali_te_w_a_nie_cierpienia_zbawiciela_pragn_rozwa_a_w_tym_tygodniu"
                     android:id="@+id/textView6632"
                     style="@style/paragraf_Text_optimum"
                     android:textStyle="italic"
@@ -58,15 +53,7 @@ Piłata Go ubiczowali. Te właśnie cierpienia Zbawiciela pragnę rozważać w t
                     android:id="@+id/textView6633"
                     style="@style/modlitwa"/>
             <TextView
-                    android:text="Błogosławiona Karolino Kózkówna (+1914), od dzieciństwa żyłaś pięknie. Oddałaś życie w
-obronie czystości mając szesnaście lat. Na wielu obrazach widzimy cię z różańcem w ręku.
-Wpraszaj nam łaskę umiłowania modlitwy różańcowej i wspieraj ludzi młodych, aby pozostali
-wierni Bogu.\n
-Błogosławiona Klaro Szczęsna (+1916), twoje pragnienie służby Bogu i ludziom prowadziło
-cię na wyżyny życia duchowego. Wbrew trudnościom, jakie były w okresie zaborów sama
-organizowałaś pomoc dla potrzebujących i pociągałaś do tej służby innych. Zostałaś
-współzałożycielką wraz ze św. Józefem Sebastianem Pleczarem, Zgromadzenia Sióstr Sercanek.
-Pomóż nam jeszcze bardziej ukochać Serce Jezusa i Jemu zawierzyć całe życie."
+                    android:text="@string/b_ogos_awiona_karolino_k_zk_wna_1914_od_dzieci_stwa_y_a_pi_knie_odda_a_ycie_w_obronie_czysto_ci_maj_c_szesna_cie_lat_na_wielu_obrazach_widzimy_ci_z_r_a_cem_w_r_ku_wpraszaj_nam_ask_umi_owania_modlitwy_r_a_cowej_i_wspieraj_ludzi_m_odych_aby_pozostali_wierni_bogu_n_b_ogos_awiona_klaro_szcz_sna_1916_twoje_pragnienie_s_u_by_bogu_i_ludziom_prowadzi_o_ci_na_wy_yny_ycia_duchowego_wbrew_trudno_ciom_jakie_by_y_w_okresie_zabor_w_sama_organizowa_a_pomoc_dla_potrzebuj_cych_i_poci_ga_a_do_tej_s_u_by_innych_zosta_a_wsp_za_o_ycielk_wraz_ze_w_j_zefem_sebastianem_pleczarem_zgromadzenia_si_str_sercanek_pom_nam_jeszcze_bardziej_ukocha_serce_jezusa_i_jemu_zawierzy_ca_e_ycie"
                     android:id="@+id/textView6634"
                     style="@style/paragraf_Text_optimum"
                     android:padding="5dp"/>
@@ -75,27 +62,7 @@ Pomóż nam jeszcze bardziej ukochać Serce Jezusa i Jemu zawierzyć całe życi
                     android:id="@+id/textView6635"
                     style="@style/modlitwa"/>
             <TextView
-                    android:text="Z Ewangelii według św. Mateusza (27,27-29): „Żołnierze namiestnika zabrali Jezusa z sobą
-do pretorium i zgromadzili koło Niego całą kohortę. Rozebrali Go z szat i narzucili na Niego
-płaszcz szkarłatny. Uplótłszy wieniec z ciernia włożyli Mu na głowę, a do prawej ręki dali Mu
-trzcinę. Potem przyklękali przed Nim i szydzili z Niego, mówiąc: «Witaj, królu żydowski!»”.\n\n
-W krajach ródziemnomorskich, pó pustynnych ros y ś ł ł różnego rodzaju ciernie, jak niskopienne
-akacje, akant, tarń, oset, głóg. Było one przed zasiewami zbierane i palone, by ich popiołem użyźnić ziemię,
-a także, by nie utrudniały wzrostu roślin. Prorok Jeremiasz pisze: „Tak mówi Pan do ludzi z Judy i
-mieszkańców Jerozolimy: «Wykarczujcie swoje karczowiska i nie rzucajcie nasienia w ciernie»” (4,3). Do
-tego obrazu odwołuje się Pan Jezus w przypowieści o siewcy. Niektóre ziarna padły między ciernie i nie
-mogły wyrosnąć, gdyż były zagłuszane. Stąd ciernie są również symbolem sił przeciwnych rozwojowi
-królestwa Bożego.\n
-Przypuszcza się, że żołnierze uczynili koronę cierniową z rośliny nazywanej „spina Christi”.
-Jest to roślina ciernista, wyższa niż np. krzew porzeczki, osiągająca nawet wysokość kilku metrów.
-Rosła wszędzie, gdzie była jakaś kępa lub nie uprawiona ziemia. Na gałązkach tej rośliny wyrastały
-długie nawet na kilka centymetrów. Na niektórych gałązkach były też kolce zakręcone jak haczyk
-od wędki. Te pierwsze kłuły ciało i to głęboko, a drugie wbijały się tak, że trudno było je oderwać.
-Jedne i drugie kolce były bardzo twarde i ostre. Nie łamały się więc zbyt łatwo, natomiast bez trudu
-wbijały się w ludzkie ciało.\n
-Już sama myśl o takim narzędziu tortur budzi przerażenie. Jakież musiało być cierpienie Jezusa,
-kiedy na Jego głowo nałożono takie gałązki cierni? Jak wielka jest Jego miłość, że przyjął dobrowolnie tę
-mękę?"
+                    android:text="@string/z_ewangelii_wed_ug_w_mateusza_27_27_29_o_nierze_namiestnika_zabrali_jezusa_z_sob_do_pretorium_i_zgromadzili_ko_o_niego_ca_kohort_rozebrali_go_z_szat_i_narzucili_na_niego_p_aszcz_szkar_atny_upl_t_szy_wieniec_z_ciernia_w_o_yli_mu_na_g_ow_a_do_prawej_r_ki_dali_mu_trzcin_potem_przykl_kali_przed_nim_i_szydzili_z_niego_m_wi_c_witaj_kr_lu_ydowski_n_n_w_krajach_r_dziemnomorskich_p_pustynnych_ros_y_r_nego_rodzaju_ciernie_jak_niskopienne_akacje_akant_tar_oset_g_g_by_o_one_przed_zasiewami_zbierane_i_palone_by_ich_popio_em_u_y_ni_ziemi_a_tak_e_by_nie_utrudnia_y_wzrostu_ro_lin_prorok_jeremiasz_pisze_tak_m_wi_pan_do_ludzi_z_judy_i_mieszka_c_w_jerozolimy_wykarczujcie_swoje_karczowiska_i_nie_rzucajcie_nasienia_w_ciernie_4_3_do_tego_obrazu_odwo_uje_si_pan_jezus_w_przypowie_ci_o_siewcy_niekt_re_ziarna_pad_y_mi_dzy_ciernie_i_nie_mog_y_wyrosn_gdy_by_y_zag_uszane_st_d_ciernie_s_r_wnie_symbolem_si_przeciwnych_rozwojowi_kr_lestwa_bo_ego_n_przypuszcza_si_e_o_nierze_uczynili_koron_cierniow_z_ro_liny_nazywanej_spina_christi_jest_to_ro_lina_ciernista_wy_sza_ni_np_krzew_porzeczki_osi_gaj_ca_nawet_wysoko_kilku_metr_w_ros_a_wsz_dzie_gdzie_by_a_jaka_k_pa_lub_nie_uprawiona_ziemia_na_ga_zkach_tej_ro_liny_wyrasta_y_d_ugie_nawet_na_kilka_centymetr_w_na_niekt_rych_ga_zkach_by_y_te_kolce_zakr_cone_jak_haczyk_od_w_dki_te_pierwsze_k_u_y_cia_o_i_to_g_boko_a_drugie_wbija_y_si_tak_e_trudno_by_o_je_oderwa_jedne_i_drugie_kolce_by_y_bardzo_twarde_i_ostre_nie_ama_y_si_wi_c_zbyt_atwo_natomiast_bez_trudu_wbija_y_si_w_ludzkie_cia_o_n_ju_sama_my_l_o_takim_narz_dziu_tortur_budzi_przera_enie_jakie_musia_o_by_cierpienie_jezusa_kiedy_na_jego_g_owo_na_o_ono_takie_ga_zki_cierni_jak_wielka_jest_jego_mi_o_e_przyj_dobrowolnie_t_m_k"
                     android:id="@+id/textView6624"
                     style="@style/paragraf_Text_optimum"
                     android:padding="5dp"/>

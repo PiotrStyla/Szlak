@@ -125,20 +125,20 @@ class CierniemUkoronowanie : AppCompatActivity() {
             val intentCierniemUkoronowanieDzien22 = Intent(this, CierniemUkoronowanieDzien22::class.java)
             startActivity(intentCierniemUkoronowanieDzien22)
         }
-        val buttonBiczowanieDoDzien23 = findViewById<Button>(R.id.button_Biczowanie_23)
-        buttonBiczowanieDoDzien23.setOnClickListener {
-            val intentBiczowanieDzien23 = Intent(this, BiczowanieDzien23::class.java)
-            startActivity(intentBiczowanieDzien23)
+        val buttonCierniemUkoronowanieDoDzien23 = findViewById<Button>(R.id.button_CierniemUkoronowanie_23)
+        buttonCierniemUkoronowanieDoDzien23.setOnClickListener {
+            val intentCierniemUkoronowanieDzien23 = Intent(this, CierniemUkoronowanieDzien23::class.java)
+            startActivity(intentCierniemUkoronowanieDzien23)
         }
-        val buttonBiczowanieDoDzien24 = findViewById<Button>(R.id.button_Biczowanie_24)
-        buttonBiczowanieDoDzien24.setOnClickListener {
-            val intentBiczowanieDzien24 = Intent(this, BiczowanieDzien24::class.java)
-            startActivity(intentBiczowanieDzien24)
+        val buttonCierniemUkoronowanieDoDzien24 = findViewById<Button>(R.id.button_CierniemUkoronowanie_24)
+        buttonCierniemUkoronowanieDoDzien24.setOnClickListener {
+            val intentCierniemUkoronowanieDzien24 = Intent(this, CierniemUkoronowanieDzien24::class.java)
+            startActivity(intentCierniemUkoronowanieDzien24)
         }
-        val buttonBiczowanieDoDzien25 = findViewById<Button>(R.id.button_Biczowanie_25)
-        buttonBiczowanieDoDzien25.setOnClickListener {
-            val intentBiczowanieDzien25 = Intent(this, BiczowanieDzien25::class.java)
-            startActivity(intentBiczowanieDzien25)
+        val buttonCierniemUkoronowanieDoDzien25 = findViewById<Button>(R.id.button_CierniemUkoronowanie_25)
+        buttonCierniemUkoronowanieDoDzien25.setOnClickListener {
+            val intentCierniemUkoronowanieDzien25 = Intent(this, CierniemUkoronowanieDzien25::class.java)
+            startActivity(intentCierniemUkoronowanieDzien25)
         }
         val buttonBiczowanieDoDzien26 = findViewById<Button>(R.id.button_Biczowanie_26)
         buttonBiczowanieDoDzien26.setOnClickListener {

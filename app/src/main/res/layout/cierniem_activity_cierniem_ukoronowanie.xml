@@ -186,21 +186,21 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Biczowanie_23"
+                    android:id="@+id/button_CierniemUkoronowanie_23"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_23_zbawcze_cierpienie_cierpienie_odkupione"/>
+                    android:text="@string/dzie_23_droga_nawr_cenia_zaprze_si_samego_siebie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Biczowanie_24"
+                    android:id="@+id/button_CierniemUkoronowanie_24"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_24_zbawcze_cierpienie_przyk_ad_maryi"/>
+                    android:text="@string/dzie_24_droga_nawr_cenia_piel_gnowa_pokor"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Biczowanie_25"
+                    android:id="@+id/button_CierniemUkoronowanie_25"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_25_zbawcze_cierpienie_mi_osierny_samarytanin"/>
+                    android:text="@string/dzie_25_droga_nawr_cenia_przyj_godno_dziecka_bo_ego"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

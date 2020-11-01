@@ -140,15 +140,15 @@ class CierniemUkoronowanie : AppCompatActivity() {
             val intentCierniemUkoronowanieDzien25 = Intent(this, CierniemUkoronowanieDzien25::class.java)
             startActivity(intentCierniemUkoronowanieDzien25)
         }
-        val buttonBiczowanieDoDzien26 = findViewById<Button>(R.id.button_Biczowanie_26)
-        buttonBiczowanieDoDzien26.setOnClickListener {
-            val intentBiczowanieDzien26 = Intent(this, BiczowanieDzien26::class.java)
-            startActivity(intentBiczowanieDzien26)
+        val buttonCierniemUkoronowanieDoDzien26 = findViewById<Button>(R.id.button_CierniemUkoronowanie_26)
+        buttonCierniemUkoronowanieDoDzien26.setOnClickListener {
+            val intentCierniemUkoronowanieDzien26 = Intent(this, CierniemUkoronowanieDzien26::class.java)
+            startActivity(intentCierniemUkoronowanieDzien26)
         }
-        val buttonBiczowanieDoDzien27 = findViewById<Button>(R.id.button_Biczowanie_27)
-        buttonBiczowanieDoDzien27.setOnClickListener {
-            val intentBiczowanieDzien27 = Intent(this, BiczowanieDzien27::class.java)
-            startActivity(intentBiczowanieDzien27)
+        val buttonCierniemUkoronowanieDoDzien27 = findViewById<Button>(R.id.button_CierniemUkoronowanie_27)
+        buttonCierniemUkoronowanieDoDzien27.setOnClickListener {
+            val intentCierniemUkoronowanieDzien27 = Intent(this, CierniemUkoronowanieDzien27::class.java)
+            startActivity(intentCierniemUkoronowanieDzien27)
         }
         val buttonBiczowanieDoDzien28 = findViewById<Button>(R.id.button_Biczowanie_28)
         buttonBiczowanieDoDzien28.setOnClickListener {

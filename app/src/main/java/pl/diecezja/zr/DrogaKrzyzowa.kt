@@ -5,10 +5,10 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 
-class CierniemUkoronowanie : AppCompatActivity() {
+class DrogaKrzyzowa : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.cierniem_activity_cierniem_ukoronowanie)
+        setContentView(R.layout.droga_activity_droga_krzyzowa)
 
         val buttonCierniemUkoronowanieDoWstep = findViewById<Button>(R.id.button_Cierniem_Ukoronowanie_Wstep)
         buttonCierniemUkoronowanieDoWstep.setOnClickListener {
@@ -54,7 +54,7 @@ class CierniemUkoronowanie : AppCompatActivity() {
         buttonCierniemUkoronowanieDoDzien8.setOnClickListener {
             val intentCierniemUkoronowanieDzien8 = Intent(this, CierniemUkoronowanieDzien8::class.java)
             startActivity(intentCierniemUkoronowanieDzien8)
-    }
+        }
         val buttonCierniemUkoronowanieDoDzien9 = findViewById<Button>(R.id.button_CierniemUkoronowanie_9)
         buttonCierniemUkoronowanieDoDzien9.setOnClickListener {
             val intentCierniemUkoronowanieDzien9 = Intent(this, CierniemUkoronowanieDzien9::class.java)

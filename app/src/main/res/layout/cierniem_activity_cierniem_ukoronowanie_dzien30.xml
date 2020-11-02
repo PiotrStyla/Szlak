@@ -32,7 +32,7 @@
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="24dp"
-            android:layout_marginTop="48dp"
+            android:layout_marginTop="78dp"
             android:scrollbarStyle="outsideOverlay"
             android:clipToPadding="false"
             android:paddingStart="8sp"
@@ -53,9 +53,10 @@
                     style="@style/modlitwa"/>
             <TextView
                     android:text="@string/ojcze_mi_osierny_zawierzam_twemu_mi_osierdziu_wszystkie_intencje_kt_re_nam_poleca_papie_i_inni_pasterze_ko_cio_a_zawierzam_ci_tak_e_wszystkich_ludzi_kt_rych_nosz_w_sercu_i_wszystkie_sprawy_kt_rymi_yj_na_co_dzie_ojcze_najlepszy_miej_mi_osierdzie_dla_nas_i_ca_ego_wiata"
-                    android:id="@+id/textView6824"
+                    android:id="@+id/textView6834"
                     style="@style/paragraf_Text_optimum"
-                    android:padding="70dp"/>
+                    android:textStyle="italic"
+                    android:paddingBottom="70dp"/>
         </LinearLayout>
     </ScrollView>
 </androidx.constraintlayout.widget.ConstraintLayout>

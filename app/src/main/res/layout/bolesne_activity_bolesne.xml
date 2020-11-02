@@ -65,17 +65,17 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:text="Ukoronowanie"
-            app:layout_constraintEnd_toStartOf="@+id/button_Tabor"
+            app:layout_constraintEnd_toStartOf="@+id/button_Droga"
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/button_Ogrojec" />
 
     <Button
-            android:id="@+id/button_Tabor"
-            style="@style/button_swiatla_tajemnice"
+            android:id="@+id/button_Droga"
+            style="@style/button_bolesne_tajemnice"
             android:layout_width="150sp"
             android:layout_height="wrap_content"
-            android:text="@string/tabor"
+            android:text="DROGA KRZYŻOWA"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintStart_toEndOf="@+id/button_Cierniem"

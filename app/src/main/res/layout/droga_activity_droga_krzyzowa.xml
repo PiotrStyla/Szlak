@@ -55,19 +55,19 @@
                     android:text="@string/dzie_1_pro_ba_o_wiat_o"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_CierniemUkronowanie_1"
+                    android:id="@+id/button_Droga_Krzyzowa_1"
                     style="@style/button_dni_bolesne_padding"/>
             <Button
                     android:text="@string/dzie_2_wi_ci_m_czennicy"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_CierniemUkoronowanie_2"
+                    android:id="@+id/button_Droga_Krzyzowa_2"
                     style="@style/button_dni_bolesne_padding"/>
             <Button
                     android:text="@string/dzie_3_wi_ci_pasterze"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_CierniemUkoronowanie_3"
+                    android:id="@+id/button_Droga_Krzyzowa_3"
                     style="@style/button_dni_bolesne_padding"/>
             <Button
                     android:text="@string/dzie_4_wi_ci_ma_onkowie_i_rodzice"

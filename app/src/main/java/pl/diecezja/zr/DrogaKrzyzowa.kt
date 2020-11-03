@@ -10,10 +10,10 @@ class DrogaKrzyzowa : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.droga_activity_droga_krzyzowa)
 
-        val buttonCierniemUkoronowanieDoWstep = findViewById<Button>(R.id.button_Cierniem_Ukoronowanie_Wstep)
-        buttonCierniemUkoronowanieDoWstep.setOnClickListener {
-            val intentCierniemUkoronowanieWstep = Intent(this, CierniemUkoronowanieWstep::class.java)
-            startActivity(intentCierniemUkoronowanieWstep)
+        val buttonDrogaKrzyzowaDoWstep = findViewById<Button>(R.id.button_Droga_Krzyzowa_Wstep)
+        buttonDrogaKrzyzowaDoWstep.setOnClickListener {
+            val intentDrogaKrzyzowaWstep = Intent(this, DrogaKrzyzowaWstep::class.java)
+            startActivity(intentDrogaKrzyzowaWstep)
         }
         val buttonCierniemUkoronowanieDoDzien1 = findViewById<Button>(R.id.button_CierniemUkronowanie_1)
         buttonCierniemUkoronowanieDoDzien1.setOnClickListener {

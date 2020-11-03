@@ -9,14 +9,14 @@
         android:orientation="vertical">
 
     <ScrollView
-            android:id="@+id/scrollCierniemUkoronowanie"
+            android:id="@+id/DrogaKrzyzowa"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
         <LinearLayout android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
             <TextView
-                    android:text="@string/tajemnica_iii"
+                    android:text="@string/tajemnica_iv"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView"
@@ -28,7 +28,7 @@
                     android:textAlignment="center"
                     android:typeface="sans"/>
             <TextView
-                    android:text="@string/cierniem_ukoronowanie"
+                    android:text="@string/droga_krzy_owa"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/textView3026"
@@ -48,7 +48,7 @@
                     android:contentDescription="@string/obraz_jordan"/>
             <Button
                     android:text="@string/wst_p"
-                    android:id="@+id/button_Cierniem_Ukoronowanie_Wstep"
+                    android:id="@+id/button_Droga_Krzyzowa_Wstep"
                     style="@style/button_Bolesne_Wstep"
                     android:layout_marginBottom="12dp"/>
             <Button

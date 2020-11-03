@@ -94,23 +94,23 @@
                     android:id="@+id/button_Droga_Krzyzowa_7"
                     style="@style/button_dni_bolesne_padding"/>
             <Button
-                    android:text="@string/dzie_8_ecce_homo_poni_ony_kap_an"
+                    android:text="@string/dzie_8_wyrok_danie_t_umu"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_CierniemUkoronowanie_8"
+                    android:id="@+id/button_Droga_Krzyzowa_8"
                     style="@style/button_dni_bolesne_padding"/>
             <Button
-                    android:text="@string/dzie_9_ecce_homo_wy_miany_kr_l"
+                    android:text="@string/dzie_9_wyrok_decyzja_urz_dnika"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_CierniemUkoronowanie_9"
+                    android:id="@+id/button_Droga_Krzyzowa_9"
                     style="@style/button_dni_bolesne_padding"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_CierniemUkoronowanie_10"
+                    android:id="@+id/button_Droga_Krzyzowa_10"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_10_ecce_homo_odrzucony_mesjasz"/>
+                    android:text="@string/dzie_10_wyrok_skutek_grzechu"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

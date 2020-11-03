@@ -76,22 +76,22 @@
                     android:id="@+id/button_Droga_Krzyzowa_4"
                     style="@style/button_dni_bolesne_padding"/>
             <Button
-                    android:text="@string/dzie_5_ecce_homo_zlekcewa_ony_b_g"
+                    android:text="@string/dzie_5_proces_i_wyrok_decyzja_wysokiej_rady"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_CierniemUkoronowanie_5"
+                    android:id="@+id/button_Droga_Krzyzowa_5"
                     style="@style/button_dni_bolesne_padding"/>
             <Button
-                    android:text="@string/dzie_6_ecce_homo_sponiewierany_cz_owiek"
+                    android:text="@string/dzie_6_proces_i_wyrok_decyzja_sanhedrynu"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_CierniemUkoronowanie_6"
+                    android:id="@+id/button_Droga_Krzyzowa_6"
                     style="@style/button_dni_bolesne_padding"/>
             <Button
-                    android:text="@string/dzie_7_ecce_homo_opluty_prorok"
+                    android:text="@string/dzie_7_proces_i_wyrok_decyzja_pi_ata"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_CierniemUkoronowanie_7"
+                    android:id="@+id/button_Droga_Krzyzowa_7"
                     style="@style/button_dni_bolesne_padding"/>
             <Button
                     android:text="@string/dzie_8_ecce_homo_poni_ony_kap_an"

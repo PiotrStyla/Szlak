@@ -6,13 +6,13 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginEnd="16dp"
-        tools:context=".DrogaKrzyzowaDzien3"
+        tools:context=".DrogaKrzyzowaDzien4"
         android:id="@+id/linearLayout">
     <TextView
-            android:text="@string/dzie_3_wi_ci_pasterze"
+            android:text="@string/dzie_4_wi_ci_ma_onkowie_i_rodzice"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textView6868"
+            android:id="@+id/textView6879"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="16dp"
             android:layout_marginTop="16dp"
@@ -24,15 +24,15 @@
             tools:ignore="RtlSymmetry" />
 
     <ScrollView
-            android:id="@+id/scrollDrogaKrzyzowa3"
+            android:id="@+id/scrollDrogaKrzyzowa4"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView6868"
+            app:layout_constraintTop_toBottomOf="@+id/textView6879"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="24dp"
-            android:layout_marginTop="48dp"
+            android:layout_marginTop="78dp"
             android:scrollbarStyle="outsideOverlay"
             android:clipToPadding="false"
             android:paddingStart="8sp"
@@ -43,49 +43,49 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
             <TextView
-                    android:text="@string/wi_ci_leonie_i_grzegorzu_m_dlcie_si_za_mn_n_wi_ty_ambro_y_n_wi_ty_hieronimie_n_wi_ty_augustynie_n_wi_ty_atanazy_n_wi_ci_bazyli_i_grzegorzu_z_nazjanzu_n_wi_ty_janie_chryzostomie_n_wi_ty_marcinie_n_wi_ty_patryku_n_wi_ci_cyrylu_i_metody_n_wi_ty_karolu_boromeuszu_n_wi_ty_franciszku_salezy_n_wi_ty_piusie_dziesi_ty_n_wszyscy_wi_ci_biskupi_i_doktorzy_ko_cio_a"
-                    android:id="@+id/textView6869"
+                    android:text="@string/wi_ty_ludwiku_m_dl_si_za_mn_n_wi_ty_kazimierzu_n_wi_ta_moniko_n_wi_ta_jadwigo_l_ska_n_wi_ta_jadwigo_kr_lowo_n_wi_ta_el_bieto_w_gierska_n_wi_ta_joanno_beretto_mola_n_wi_ci_zelio_i_ludwiku_martin_n_b_ogos_awieni_maria_i_alojzy_quatrocchi_n_wszyscy_wi_ci_ma_onkowie_i_rodzice"
+                    android:id="@+id/textView6880"
                     style="@style/paragraf_Text_optimum"
                     android:padding="5dp"/>
             <TextView
                     android:text="@string/rozwa_anie_s_owa"
-                    android:id="@+id/textView6870"
+                    android:id="@+id/textView6881"
                     style="@style/modlitwa"/>
             <TextView
-                    android:text="@string/z_ksi_gi_psalm_w_17_11_okr_aj_mnie_teraz_ich_kroki_nat_aj_swe_oczy_by_mnie_powali_na_ziemi_n_n_wraz_ze_wi_tymi_rozwa_am_te_s_owa_psalmisty_w_nauczaniu_pasterzy_ko_cio_a_odnajduj_wiat_o_dla_g_bszego_zrozumienia_upadk_w_jezusa_jakie_prze_y_na_drodze_krzy_owej_prosz_ich_o_wstawiennictwo_abym_m_g_otrzyma_wiat_o_lepszego_rozumienia_tajemnicy_jezusowej_m_ki_po_biczowaniu_i_cierniem_koronowaniu_po_upokorzeniu_i_wy_mianiu_nast_puje_droga_krzy_owa_naznaczona_kolejnym_cierpieniem_i_upadkami_n_pragn_aby_mi_o_jak_okaza_nam_wszystkim_zbawiciel_dotkn_a_jeszcze_bardziej_umys_w_i_serc_wszystkich_ludzi_prosz_o_to_wzywaj_c_wstawiennictwa_i_za_wstawiennictwem_wi_tych_pasterzy_ko_cio_a"
-                    android:id="@+id/textView6871"
+                    android:text="@string/z_ksi_gi_psalm_w_1_1_3_szcz_liwy_m_kt_ry_nie_idzie_za_rad_wyst_pnych_nie_wchodzi_na_drog_grzesznik_w_i_nie_siada_w_kole_szyderc_w_lecz_ma_upodobanie_w_prawie_pana_nad_jego_prawem_rozmy_la_dniem_i_noc_jest_on_jak_drzewo_zasadzone_nad_p_yn_c_wod_kt_re_wydaje_owoc_w_swoim_czasie_a_li_cie_jego_nie_wi_dn_co_uczyni_pomy_lnie_wypada_n_n_ksi_ga_psalm_w_rozpoczyna_si_od_ukazania_dw_ch_dr_g_ycia_jedna_cechuje_si_wyst_pkami_grzechami_i_szyderstwami_a_druga_polega_na_upodobaniu_w_prawie_pana_nad_kt_rym_cz_owiek_rozmy_la_dniem_i_noc_n_cho_zdecydowanie_wybieram_drog_wierno_ci_bogu_to_jednak_do_wiadczam_r_wnie_s_abo_ci_i_upadk_w_z_tym_wi_ksz_determinacj_pragn_rozmy_la_nam_m_k_jezusa_dniem_i_noc_tam_bowiem_jest_r_d_o_si_y_wiat_o_w_ciemno_ci_i_lekarstwo_na_grzechy_n_prosz_wi_tych_ma_onk_w_i_rodzic_w_aby_umacniali_mnie_w_codziennej_medytacji_r_a_cowej_w_kt_rej_spotykam_jezusa_d_wigaj_cego_krzy_z_mi_o_ci_do_mnie"
+                    android:id="@+id/textView882"
                     style="@style/paragraf_Text_optimum"
                     android:padding="5dp"/>
             <TextView
                     android:text="@string/dziesi_tek_r_a_ca"
-                    android:id="@+id/textView6872"
+                    android:id="@+id/textView6883"
                     style="@style/dziesiatek_rozanca"/>
             <TextView
                     android:text="@string/ojcze_nasz_zdrowa_maryjo_chwa_a_ojcu"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView6873"/>
+                    android:id="@+id/textView6884"/>
             <TextView
                     android:text="@string/akt_strzelisty"
-                    android:id="@+id/textView6874"
+                    android:id="@+id/textView6885"
                     style="@style/intencje_modlitwy"/>
             <TextView
                     android:text="@string/mi_osierny_jezu_przebacz_nam_grzechy_przez_kt_re_ci_poni_amy_daj_ask_nawr_cenia_grzesznikom_i_naucz_nas_prze_ywa_wszelkie_upokorzenia_w_zjednoczeniu_z_tob"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView6875"/>
+                    android:id="@+id/textView6886"/>
             <TextView
                     android:text="@string/intencje_modlitwy"
-                    android:id="@+id/textView6876"
+                    android:id="@+id/textView6887"
                     style="@style/intencje_modlitwy"/>
             <TextView
-                    android:text="@string/modlitwa_o_dobry_wyb_r_drogi_yciowej"
+                    android:text="@string/modlitwa_w_intencji_rodzin_ko_cz_ca_or_dzie_nadzwyczajnego_synodu_biskup_w_po_wi_conego_rodzinie_przekazana_18_pa_dziernika_2014_roku"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView6877"
-                    android:textStyle="italic"
-                    android:paddingBottom="5dp"/>
+                    android:id="@+id/textView6888"
+                    android:textStyle="italic"/>
             <TextView
-                    android:text="@string/bo_e_m_dro_ci_i_rady_ty_patrzysz_w_serca_wszystkich_ludzi_i_dla_ka_dego_przygotowa_e_miejsce_na_tym_wiecie_da_e_nam_talenty_i_zdolno_ci_aby_my_je_rozwijali_realizuj_c_swoje_powo_anie_i_s_u_c_z_mi_o_ci_innym_ludziom_n_wejrzyj_na_wszystkich_kt_rzy_stoj_przed_wyborem_drogi_yciowej_pom_im_wybra_to_co_ty_dla_nich_zamierzy_e_i_do_czego_przysposobi_e_ich_jeszcze_w_onie_matki_wezwanym_do_ycia_ma_e_skiego_daj_spotka_t_osob_z_kt_r_prze_yj_szcz_liwe_ycie_powo_anych_do_kap_a_stwa_lub_ycia_konsekrowanego_nama_swoim_duchem_aby_wielkodusznie_odpowiedzieli_na_twoje_wezwanie_tych_kt_rzy_musz_zdecydowa_o_kierunku_studi_w_i_wyborze_zawodu_nape_nij_swoim_wiat_em_aby_nie_zabrak_o_im_m_dro_ci_i_dalekowzroczno_ci_n_bo_e_nasz_ojcze_naucz_nas_wszystkich_wiernie_wype_nia_twoj_wol_w_kt_rej_objawia_si_twoja_niesko_czona_m_dro_i_mi_o_przez_chrystusa_pana_naszego_amen"
+                    android:text="@string/ojcze_daj_wszystkim_rodzinom_obecno_ma_onk_w_m_nych_i_m_drych_kt_rzy_byliby_r_d_em_rodziny_wolnej_i_zjednoczonej_n_ojcze_daj_rodzicom_by_mieli_dom_gdzie_mogliby_y_ze_swoj_rodzin_w_pokoju_n_ojcze_daj_dzieciom_by_by_y_znakiem_ufno_ci_i_nadziei_a_m_odym_odwag_sta_ego_i_wiernego_zaanga_owania_n_ojcze_daj_wszystkim_mo_liwo_zarabiania_na_chleb_w_asnymi_r_koma_zasmakowania_pokoju_ducha_i_ywego_podtrzymywania_pochodni_wiary_nawet_w_czasach_ciemno_ci_n_ojcze_daj_nam_wszystkim_by_my_widzieli_rozkwit_twojego_ko_cio_a_coraz_bardziej_wiernego_i_wiarygodnego_miasta_sprawiedliwego_i_humanitarnego_wiata_kt_ry_kocha_prawd_sprawiedliwo_i_mi_osierdzie"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView6878"
+                    android:id="@+id/textView6889"
+                    android:textStyle="italic"
                     android:paddingBottom="70dp"/>
         </LinearLayout>
     </ScrollView>

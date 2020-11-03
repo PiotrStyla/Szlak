@@ -30,10 +30,10 @@ class DrogaKrzyzowa : AppCompatActivity() {
             val intentDrogaKrzyzowaDzien3 = Intent(this, DrogaKrzyzowaDzien3::class.java)
             startActivity(intentDrogaKrzyzowaDzien3)
         }
-        val buttonCierniemUkoronowanieDoDzien4 = findViewById<Button>(R.id.button_CierniemUkoronowanie_4)
-        buttonCierniemUkoronowanieDoDzien4.setOnClickListener {
-            val intentCierniemUkoronowanieDzien4 = Intent(this, CierniemUkoronowanieDzien4::class.java)
-            startActivity(intentCierniemUkoronowanieDzien4)
+        val buttonDrogaKrzyzowaDoDzien4 = findViewById<Button>(R.id.button_Droga_Krzyzowa_4)
+        buttonDrogaKrzyzowaDoDzien4.setOnClickListener {
+            val intentDrogaKrzyzowaDzien4 = Intent(this, DrogaKrzyzowaDzien4::class.java)
+            startActivity(intentDrogaKrzyzowaDzien4)
         }
         val buttonCierniemUkoronowanieDoDzien5 = findViewById<Button>(R.id.button_CierniemUkoronowanie_5)
         buttonCierniemUkoronowanieDoDzien5.setOnClickListener {

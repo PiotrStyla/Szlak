@@ -114,21 +114,21 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_CierniemUkoronowanie_11"
+                    android:id="@+id/button_Droga_Krzyzowa_11"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_11_ecce_homo_wzgardzona_mi_o"/>
+                    android:text="@string/dzie_11_umycie_r_k_nie_jestem_winien"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_CierniemUkoronowanie_12"
+                    android:id="@+id/button_Droga_Krzyzowa_12"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_12_korona_cierniowa_z_czego_j_zrobiono"/>
+                    android:text="@string/dzie_12_niesienie_krzy_a_krzy"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_CierniemUkoronowanie_13"
+                    android:id="@+id/button_Droga_Krzyzowa_13"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_13_korona_cierniowa_jaki_mia_a_kszta_t"/>
+                    android:text="@string/dzie_13_niesienie_krzy_a_droga"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

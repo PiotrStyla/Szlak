@@ -80,25 +80,25 @@ class DrogaKrzyzowa : AppCompatActivity() {
             val intentDrogaKrzyzowaDzien13 = Intent(this, DrogaKrzyzowaDzien13::class.java)
             startActivity(intentDrogaKrzyzowaDzien13)
         }
-        val buttonCierniemUkoronowanieDoDzien14 = findViewById<Button>(R.id.button_CierniemUkoronowanie_14)
-        buttonCierniemUkoronowanieDoDzien14.setOnClickListener {
-            val intentCierniemUkoronowanieDzien14 = Intent(this, CierniemUkoronowanieDzien14::class.java)
-            startActivity(intentCierniemUkoronowanieDzien14)
+        val buttonDrogaKrzyzowaDoDzien14 = findViewById<Button>(R.id.button_Droga_Krzyzowa_14)
+        buttonDrogaKrzyzowaDoDzien14.setOnClickListener {
+            val intentDrogaKrzyzowaDzien14 = Intent(this, DrogaKrzyzowaDzien14::class.java)
+            startActivity(intentDrogaKrzyzowaDzien14)
         }
-        val buttonCierniemUkoronowanieDoDzien15 = findViewById<Button>(R.id.button_CierniemUkoronowanie_15)
-        buttonCierniemUkoronowanieDoDzien15.setOnClickListener {
-            val intentCierniemUkoronowanieDzien15 = Intent(this, CierniemUkoronowanieDzien15::class.java)
-            startActivity(intentCierniemUkoronowanieDzien15)
+        val buttonDrogaKrzyzowaDoDzien15 = findViewById<Button>(R.id.button_Droga_Krzyzowa_15)
+        buttonDrogaKrzyzowaDoDzien15.setOnClickListener {
+            val intentDrogaKrzyzowaDzien15 = Intent(this, DrogaKrzyzowaDzien15::class.java)
+            startActivity(intentDrogaKrzyzowaDzien15)
         }
-        val buttonCierniemUkoronowanieDoDzien16 = findViewById<Button>(R.id.button_CierniemUkoronowanie_16)
-        buttonCierniemUkoronowanieDoDzien16.setOnClickListener {
-            val intentCierniemUkoronowanieDzien16 = Intent(this, CierniemUkoronowanieDzien16::class.java)
-            startActivity(intentCierniemUkoronowanieDzien16)
+        val buttonDrogaKrzyzowaDoDzien16 = findViewById<Button>(R.id.button_Droga_Krzyzowa_16)
+        buttonDrogaKrzyzowaDoDzien16.setOnClickListener {
+            val intentDrogaKrzyzowaDzien16 = Intent(this, DrogaKrzyzowaDzien16::class.java)
+            startActivity(intentDrogaKrzyzowaDzien16)
         }
-        val buttonCierniemUkoronowanieDoDzien17 = findViewById<Button>(R.id.button_CierniemUkoronowanie_17)
-        buttonCierniemUkoronowanieDoDzien17.setOnClickListener {
-            val intentCierniemUkoronowanieDzien17 = Intent(this, CierniemUkoronowanieDzien17::class.java)
-            startActivity(intentCierniemUkoronowanieDzien17)
+        val buttonDrogaKrzyzowaDoDzien17 = findViewById<Button>(R.id.button_Droga_Krzyzowa_17)
+        buttonDrogaKrzyzowaDoDzien17.setOnClickListener {
+            val intentDrogaKrzyzowaDzien17 = Intent(this, DrogaKrzyzowaDzien17::class.java)
+            startActivity(intentDrogaKrzyzowaDzien17)
         }
         val buttonCierniemUkoronowanieDoDzien18 = findViewById<Button>(R.id.button_CierniemUkoronowanie_18)
         buttonCierniemUkoronowanieDoDzien18.setOnClickListener {

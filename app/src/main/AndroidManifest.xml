@@ -9,7 +9,11 @@
             android:roundIcon="@mipmap/ic_launcher_round_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".DrogaKrzyzowaDzien13"></activity>
+        <activity android:name=".DrogaKrzyzowaDzien16"></activity>
+        <activity android:name=".DrogaKrzyzowaDzien17" />
+        <activity android:name=".DrogaKrzyzowaDzien15" />
+        <activity android:name=".DrogaKrzyzowaDzien14" />
+        <activity android:name=".DrogaKrzyzowaDzien13" />
         <activity android:name=".DrogaKrzyzowaDzien12" />
         <activity android:name=".DrogaKrzyzowaDzien11" />
         <activity android:name=".DrogaKrzyzowaDzien10" />

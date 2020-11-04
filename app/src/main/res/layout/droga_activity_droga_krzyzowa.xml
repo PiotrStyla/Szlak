@@ -132,27 +132,27 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_CierniemUkoronowanie_14"
+                    android:id="@+id/button_Droga_Krzyzowa_14"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_14_korona_cierniowa_dlaczego_o_nierze_j_na_o_yli"/>
+                    android:text="@string/dzie_14_niesienie_krzy_a_ramiona"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_CierniemUkoronowanie_15"
+                    android:id="@+id/button_Droga_Krzyzowa_15"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_15_korona_cierniowa_jaki_b_l_zadawa_a_jezusowi"/>
+                    android:text="@string/dzie_15_niesienie_krzy_a_kolano"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_CierniemUkoronowanie_16"
+                    android:id="@+id/button_Droga_Krzyzowa_16"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_16_korona_cierniowa_kiedy_j_zdj_to_z_g_owy_jezusa"/>
+                    android:text="@string/dzie_16_niesienie_krzy_a_matka"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_CierniemUkoronowanie_17"
+                    android:id="@+id/button_Droga_Krzyzowa_17"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_17_korona_cierniowa_co_si_z_ni_dzia_o_p_niej"/>
+                    android:text="@string/dzie_17_niesienie_krzy_a_pomagaj_cy"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

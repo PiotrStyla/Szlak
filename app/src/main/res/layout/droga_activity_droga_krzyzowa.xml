@@ -156,21 +156,21 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_CierniemUkoronowanie_18"
+                    android:id="@+id/button_Droga_Krzyzowa_18"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_18_korona_cierniowa_jak_ciernie_dotyka_y_wi_tych"/>
+                    android:text="@string/dzie_18_niesienie_krzy_a_obserwuj_cy"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_CierniemUkoronowanie_19"
+                    android:id="@+id/button_Droga_Krzyzowa_19"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_19_droga_nawr_cenia_odrzuci_rajsk_pokus"/>
+                    android:text="@string/dzie_19_na_ladowanie_chrystusa_wolny_wyb_r"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_CierniemUkoronowanie_20"
+                    android:id="@+id/button_Droga_Krzyzowa_20"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_20_droga_nawr_cenia_pokona_potr_jn_po_dliwo"/>
+                    android:text="@string/dzie_20_na_ladowa_zaprze_siebie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

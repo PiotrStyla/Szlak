@@ -174,21 +174,21 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_CierniemUkoronowanie_21"
+                    android:id="@+id/button_Droga_Krzyzowa_21"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_21_droga_nawr_cenia_uzna_w_asn_grzeszno"/>
+                    android:text="@string/dzie_21_na_ladowa_bra_krzy"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_CierniemUkoronowanie_22"
+                    android:id="@+id/button_Droga_Krzyzowa_22"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_22_droga_nawr_cenia_uni_y_si_jak_dziecko"/>
+                    android:text="@string/dzie_22_na_ladowa_krzy_codzienny"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_CierniemUkoronowanie_23"
+                    android:id="@+id/button_Droga_Krzyzowa_23"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_23_droga_nawr_cenia_zaprze_si_samego_siebie"/>
+                    android:text="@string/dzie_23_na_ladowa_by_uczniem"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

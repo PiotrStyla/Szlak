@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="16dp"
+        tools:context=".DrogaKrzyzowaDzien30"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="@string/dzie_30_powr_t_do_wybranych_my_li"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView7172"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="4sp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingEnd="10sp"
+            tools:ignore="RtlSymmetry" />
+
+    <ScrollView
+            android:id="@+id/scrollDrogaKrzyzowa30"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView7172"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="78dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="10sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+            <TextView
+                    android:text="@string/dzi_w_mojej_r_a_cowej_modlitwie_powr_c_do_my_li_kt_re_najbardziej_mnie_poruszy_y_podczas_miesi_cznej_medytacji_nad_tajemnic_ukrzy_owania_pana_jezusa"
+                    android:id="@+id/textView7173"
+                    style="@style/paragraf_Text_optimum"
+                    android:padding="5dp"/>
+            <TextView
+                    android:text="@string/zawierzenie"
+                    android:id="@+id/textView7174"
+                    style="@style/modlitwa"/>
+            <TextView
+                    android:text="@string/zawierzenie_mi_osierdziu_bo_emu_w_faustyny_n_n_uciekam_si_do_twego_mi_osierdzia_bo_e_askawy_kt_ry_sam_jeden_jest_tylko_dobry_cho_n_dza_moja_wielka_i_przewinienia_liczne_jednak_ufam_mi_osierdziu_twemu_bo_jest_b_g_mi_osierdzia_i_od_wiek_w_nie_s_yszano_ani_nie_pami_ta_ziemia_ani_niebo_by_dusza_ufaj_ca_mi_osierdziu_twemu_zosta_a_zawiedziona_o_bo_e_lito_ci_ty_sam_jeden_usprawiedliwi_mnie_mo_esz_i_nie_odrzucisz_mnie_nigdy_gdy_si_udaj_skruszona_do_mi_osiernego_serca_twego_u_kt_rego_nikt_nie_dozna_odmowy_cho_by_by_najwi_kszym_grzesznikiem_dzienniczek_1730"
+                    android:id="@+id/textView7175"
+                    style="@style/paragraf_Text_optimum"
+                    android:textStyle="italic"
+                    android:paddingBottom="70dp"/>
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

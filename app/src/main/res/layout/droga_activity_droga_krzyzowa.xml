@@ -210,19 +210,19 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_CierniemUkoronowanie_27"
+                    android:id="@+id/button_Droga_Krzyzowa_27"
                     style="@style/button_dni_bolesne_padding"
                     android:text="@string/dzie_27_apostolstwo"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_CierniemUkoronowanie_28"
+                    android:id="@+id/button_Droga_Krzyzowa_28"
                     style="@style/button_dni_bolesne_padding"
                     android:text="@string/dzie_28_pokuta_i_eucharystia"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_CierniemUkoronowanie_29"
+                    android:id="@+id/button_Droga_Krzyzowa_29"
                     style="@style/button_dni_bolesne_padding"
                     android:text="@string/dzie_29_podsumowanie"/>
             <Button

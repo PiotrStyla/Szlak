@@ -55,17 +55,17 @@ android:background="#FFFFFF">
         android:layout_marginEnd="32dp"
         app:layout_constraintBottom_toTopOf="@+id/button_Droga"/>
 <Button
-        android:text="Ukoronowanie"
+        android:text="@string/ukoronowanie"
         android:layout_width="150sp"
         android:layout_height="wrap_content"
         android:id="@+id/button_Cierniem"
         style="@style/button_bolesne_tajemnice"
         app:layout_constraintTop_toBottomOf="@+id/button_Ogrojec"
-        app:layout_constraintBottom_toTopOf="@+id/buttonWieczernik"
+        app:layout_constraintBottom_toTopOf="@+id/button_Ukrzyzowanie"
         app:layout_constraintStart_toStartOf="parent"
         android:layout_marginStart="32dp"/>
 <Button
-        android:text="DROGA KRZYŻOWA"
+        android:text="@string/droga_krzyzowa"
         android:layout_width="150sp"
         android:layout_height="wrap_content"
         android:id="@+id/button_Droga"
@@ -75,11 +75,11 @@ android:background="#FFFFFF">
         app:layout_constraintEnd_toEndOf="parent"
         android:layout_marginEnd="32dp"/>
 <Button
-        android:text="@string/wieczernik"
+        android:text="@string/ukrzy_owanie"
         android:layout_width="150sp"
         android:layout_height="wrap_content"
-        android:id="@+id/buttonWieczernik"
-        style="@style/button_swiatla_tajemnice"
+        android:id="@+id/button_Ukrzyzowanie"
+        style="@style/button_bolesne_tajemnice"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button_Cierniem"
         app:layout_constraintStart_toStartOf="parent"

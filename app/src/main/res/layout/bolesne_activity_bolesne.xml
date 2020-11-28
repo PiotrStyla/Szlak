@@ -64,7 +64,7 @@
             android:layout_width="150sp"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
-            android:text="Ukoronowanie"
+            android:text="@string/ukoronowanie"
             app:layout_constraintEnd_toStartOf="@+id/button_Droga"
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintStart_toStartOf="parent"
@@ -75,19 +75,19 @@
             style="@style/button_bolesne_tajemnice"
             android:layout_width="150sp"
             android:layout_height="wrap_content"
-            android:text="DROGA KRZYŻOWA"
+            android:text="@string/droga_krzy_owa"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintStart_toEndOf="@+id/button_Cierniem"
             app:layout_constraintTop_toTopOf="@+id/button_Cierniem" />
 
     <Button
-            android:id="@+id/buttonWieczernik"
-            style="@style/button_swiatla_tajemnice"
+            android:id="@+id/button_Ukrzyzowanie"
+            style="@style/button_bolesne_tajemnice"
             android:layout_width="150sp"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
-            android:text="@string/wieczernik"
+            android:text="@string/ukrzy_owanie"
             app:layout_constraintEnd_toStartOf="@+id/button_Rekolekcje_Radosne"
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintStart_toStartOf="parent"
@@ -101,6 +101,6 @@
             android:text="@string/rekolekcje1"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.5"
-            app:layout_constraintStart_toEndOf="@+id/buttonWieczernik"
-            app:layout_constraintTop_toTopOf="@+id/buttonWieczernik" />
+            app:layout_constraintStart_toEndOf="@+id/button_Ukrzyzowanie"
+            app:layout_constraintTop_toTopOf="@+id/button_Ukrzyzowanie" />
 </androidx.constraintlayout.widget.ConstraintLayout>

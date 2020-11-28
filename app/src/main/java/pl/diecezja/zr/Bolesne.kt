@@ -31,10 +31,10 @@ class Bolesne : AppCompatActivity() {
             val intentDroga = Intent(this, DrogaKrzyzowa ::class.java)
             startActivity(intentDroga)
         }
-        val buttonSwiatlaDoWieczernik = findViewById<Button>(R.id.buttonWieczernik)
-        buttonSwiatlaDoWieczernik.setOnClickListener {
-            val intent7 = Intent(this, Wieczernik::class.java)
-            startActivity(intent7)
+        val buttonBolesneDoUkrzyzowanie = findViewById<Button>(R.id.button_Ukrzyzowanie)
+        buttonBolesneDoUkrzyzowanie.setOnClickListener {
+            val intentUkrzyzowanie = Intent(this, Ukrzyzowanie::class.java)
+            startActivity(intentUkrzyzowanie)
         }
         val buttonRadosneDoRekolekcje = findViewById<Button>(R.id.button_Rekolekcje_Radosne)
         buttonRadosneDoRekolekcje.setOnClickListener {

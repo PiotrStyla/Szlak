@@ -126,21 +126,21 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Droga_Krzyzowa_13"
+                    android:id="@+id/button_Ukrzyzowanie_13"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_13_niesienie_krzy_a_droga"/>
+                    android:text="@string/dzie_13_siedem_s_w_z_krzy_a_dzi_ze_mn_b_dziesz_w_raju"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Droga_Krzyzowa_14"
+                    android:id="@+id/button_Ukrzyzowanie_14"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_14_niesienie_krzy_a_ramiona"/>
+                    android:text="@string/dzie_14_siedem_s_w_z_krzy_a_oto_matka_twoja"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Droga_Krzyzowa_15"
+                    android:id="@+id/button_Ukrzyzowanie_15"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_15_niesienie_krzy_a_kolano"/>
+                    android:text="@string/dzie_15_siedem_s_w_z_krzy_a_bo_e_m_j_czemu_mnie_opu_ci"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

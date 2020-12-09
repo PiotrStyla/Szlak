@@ -94,16 +94,16 @@
                     android:id="@+id/button_Ukrzyzowanie_7"
                     style="@style/button_dni_bolesne_padding"/>
             <Button
-                    android:text="@string/dzie_8_wyrok_danie_t_umu"
+                    android:text="@string/dzie_8_ukrzy_owanie_wyszydzenie"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Droga_Krzyzowa_8"
+                    android:id="@+id/button_Ukrzyzowanie_8"
                     style="@style/button_dni_bolesne_padding"/>
             <Button
-                    android:text="@string/dzie_9_wyrok_decyzja_urz_dnika"
+                    android:text="@string/dzie_9_ukrzy_owanie_ciemno_ci"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Droga_Krzyzowa_9"
+                    android:id="@+id/button_Ukrzyzowanie_9"
                     style="@style/button_dni_bolesne_padding"/>
             <Button
                     android:layout_width="match_parent"

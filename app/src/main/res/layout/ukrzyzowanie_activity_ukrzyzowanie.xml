@@ -108,21 +108,21 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Droga_Krzyzowa_10"
+                    android:id="@+id/button_Ukrzyzowanie_10"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_10_wyrok_skutek_grzechu"/>
+                    android:text="@string/dzie_10_ukrzy_owanie_przebicie_boku"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Droga_Krzyzowa_11"
+                    android:id="@+id/button_Ukrzyzowanie_11"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_11_umycie_r_k_nie_jestem_winien"/>
+                    android:text="@string/dzie_11_ukrzy_owanie_niezwyk_e_wydarzenia"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Droga_Krzyzowa_12"
+                    android:id="@+id/button_Ukrzyzowanie_12"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_12_niesienie_krzy_a_krzy"/>
+                    android:text="@string/dzie_12_siedem_s_w_z_krzy_a_ojcze_przebacz_im"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

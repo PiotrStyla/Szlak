@@ -6,13 +6,13 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginEnd="16dp"
-        tools:context=".UkrzyzowanieDzien15"
+        tools:context=".UkrzyzowanieDzien25"
         android:id="@+id/linearLayout">
     <TextView
-            android:text="@string/dzie_15_siedem_s_w_z_krzy_a_bo_e_m_j_czemu_mnie_opu_ci"
+            android:text="@string/dzie_25_po_mierci_jezusa_zst_pienie_chrystusa_do_otch_ani"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textView7365"
+            android:id="@+id/textView7476"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="16dp"
             android:layout_marginTop="16dp"
@@ -24,15 +24,15 @@
             tools:ignore="RtlSymmetry" />
 
     <ScrollView
-            android:id="@+id/scrollUkrzyzowanie15"
+            android:id="@+id/scrollUkrzyzowanie25"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView7365"
+            app:layout_constraintTop_toBottomOf="@+id/textView7476"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="24dp"
-            android:layout_marginTop="108dp"
+            android:layout_marginTop="78dp"
             android:scrollbarStyle="outsideOverlay"
             android:clipToPadding="false"
             android:paddingStart="8sp"
@@ -44,47 +44,47 @@
                 android:orientation="vertical">
             <TextView
                     android:text="@string/modlitwa"
-                    android:id="@+id/textView7366"
+                    android:id="@+id/textView7477"
                     style="@style/modlitwa"/>
             <TextView
-                    android:text="@string/s_b_adolf_piotr_szel_ek_1950_biskup_pomocniczy_p_ocki_w_latach_1918_1925_biskup_diecezjalny_ucki_w_latach_1926_1950_n_s_b_barbara_samulowska_1950_zakonnica_szarytka_misjonarka_oraz_wizjonerka_kt_rej_w_1877_gdy_by_a_jeszcze_m_od_dziewczyn_objawi_a_si_matka_bo_a_w_gietrzwa_dzie_n_s_b_kunegunda_siwiec_1955_tercjarka_karmelita_ska_i_mistyczka_nigdy_nie_ucz_szcza_a_do_szko_y_czyta_i_pisa_nauczy_a_si_od_miejscowego_g_rala_do_wiadcza_a_objawie_jezusa_chrystusa_matki_bo_ej_oraz_wi_tych_n_s_b_r_a_czacka_1961_zakonnica_opiekunka_niewidomych_za_o_ycielka_towarzystwa_opieki_nad_ociemnia_ymi_i_zgromadzenia_si_str_franciszkanek_s_u_ebnic_krzy_a_w_wieku_22_lat_zupe_nie_straci_a_wzrok_w_asn_lepot_potraktowa_a_jako_wezwanie_do_zaj_cia_si_innymi_niewidomymi"
-                    android:id="@+id/textView7367"
+                    android:text="@string/w_mojej_modlitwie_do_chrystusa_ukrzy_owanego_pragn_wspomnie_r_wnie_moich_rodzic_w_katechet_w_duszpasterzy_i_bardzo_wielu_ludzi_kt_rzy_stali_si_dla_mnie_wiadkami_trwania_przy_krzy_u_chrystusa_wierz_e_dzi_r_wnie_wstawiaj_si_u_boga_w_mojej_intencji_ja_za_polecam_ich_jego_mi_osierdziu"
+                    android:id="@+id/textView7478"
                     style="@style/paragraf_Text_optimum"
                     android:padding="5dp"/>
 
             <TextView
                     android:text="@string/rozwa_anie_s_owa"
-                    android:id="@+id/textView7368"
+                    android:id="@+id/textView7479"
                     style="@style/modlitwa"/>
             <TextView
-                    android:text="@string/ukrzyzowanie15_rozwazanie_slowa"
-                    android:id="@+id/textView7369"
+                    android:text="@string/z_pierwszego_listu_w_piotra_aposto_a_4_6_dlatego_nawet_umar_ym_g_oszono_ewangeli_aby_wprawdzie_podlegli_s_dowi_jak_ludzie_w_ciele_yli_jednak_w_duchu_po_bo_emu_n_n_w_mojej_modlitwie_chc_by_przy_jezusie_r_wnie_w_jego_zst_pieniu_do_otch_ani_jest_to_tajemnica_kt_ra_dotyczy_ludzi_umar_ych_przed_jezusem_a_tak_e_ludzi_wszystkich_czas_w_i_wszystkich_miejsc_rozwa_am_nauk_katechizmu_ko_cio_a_katolickiego_na_ten_temat_n_liczne_wypowiedzi_nowego_testamentu_wed_ug_kt_rych_jezus_zosta_wskrzeszony_z_martwych_dz_3_15_rz_8_11_1_kor_15_20_zak_adaj_e_przed_zmartwychwstaniem_przebywa_on_w_krainie_zmar_ychpor_hbr_13_20_takie_jest_pierwsze_znaczenie_jakie_przepowiadanie_apostolskie_nada_o_zst_pieniu_jezusa_do_piekie_jezus_do_wiadczy_mierci_jak_wszyscy_ludzie_i_jego_dusza_do_czy_a_do_nich_w_krainie_umar_ych_jezus_zst_pi_tam_jednak_jako_zbawiciel_og_aszaj_c_dobr_nowin_uwi_zionym_duchom_jezus_nie_zst_pi_do_piekie_1033_by_wyzwoli_pot_pionychsynod_rzymski_745_ds_587_ani_eby_zniszczy_piek_o_pot_pionychpor_benedykt_xii_cum_dudum_ds_1011_klemens_list_super_quibusdam_ds_1077_ale_by_wyzwoli_sprawiedliwych_kt_rzy_go_poprzedzili_kkk_632_633_por_synod_toleda_ski_iv_625_ds_485_por_tak_e_mt_27_52_53_n_zst_pienie_do_piekie_jest_ca_kowitym_wype_nieniem_ewangelicznego_g_oszenia_zbawienia_jest_ostateczn_faz_mesja_skiego_pos_ania_jezusa_faz_skondensowan_w_czasie_ale_ogromnie_szerok_w_swym_rzeczywistym_znaczeniu_rozci_gni_cia_odkupie_czego_605_dzie_a_na_wszystkich_ludzi_wszystkich_czas_w_i_wszystkich_miejsc_aby_wszyscy_ci_kt_rzy_s_zbawieni_stali_si_uczestnikami_odkupienia_kkk_634"
+                    android:id="@+id/textView7480"
                     style="@style/paragraf_Text_optimum"
                     android:padding="5dp"/>
             <TextView
                     android:text="@string/dziesi_tek_r_a_ca"
-                    android:id="@+id/textView7370"
+                    android:id="@+id/textView7481"
                     style="@style/dziesiatek_rozanca"/>
             <TextView
                     android:text="@string/ojcze_nasz_zdrowa_maryjo_chwa_a_ojcu"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView7371"/>
+                    android:id="@+id/textView7482"/>
             <TextView
                     android:text="@string/akt_strzelisty"
-                    android:id="@+id/textView7372"
+                    android:id="@+id/textView7483"
                     style="@style/intencje_modlitwy"/>
             <TextView
                     android:text="@string/mi_osierny_jezu_przebacz_nam_grzechy_przez_kt_re_ci_krzy_ujemy_daj_ask_nawr_cenia_grzesznikom_i_naucz_nas_sk_ada_swoje_ycie_w_ofierze_za_ludzi"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView7373"/>
+                    android:id="@+id/textView7484"/>
             <TextView
                     android:text="@string/intencje_modlitwy"
-                    android:id="@+id/textView7374"
+                    android:id="@+id/textView7485"
                     style="@style/intencje_modlitwy"/>
             <TextView
                     android:text="@string/intencje_modlitwy_wyra_one_swoimi_s_owami"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView7375"
+                    android:id="@+id/textView7486"
                     android:textStyle="italic"
                     android:paddingBottom="70dp"/>
         </LinearLayout>

@@ -144,91 +144,91 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Droga_Krzyzowa_16"
+                    android:id="@+id/button_Ukrzyzowanie_16"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_16_niesienie_krzy_a_matka"/>
+                    android:text="@string/dzie_16_siedem_s_w_z_krzy_a_pragn"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Droga_Krzyzowa_17"
+                    android:id="@+id/button_Ukrzyzowanie_17"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_17_niesienie_krzy_a_pomagaj_cy"/>
+                    android:text="@string/dzie_17_siedem_s_w_z_krzy_a_wykona_o_si"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Droga_Krzyzowa_18"
+                    android:id="@+id/button_Ukrzyzowanie_18"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_18_niesienie_krzy_a_obserwuj_cy"/>
+                    android:text="@string/dzie_18_siedem_s_w_z_krzy_a_ojcze_w_twoje_r_ce"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Droga_Krzyzowa_19"
+                    android:id="@+id/button_Ukrzyzowanie_19"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_19_na_ladowanie_chrystusa_wolny_wyb_r"/>
+                    android:text="@string/dzie_19_po_mierci_jezusa_pro_ba_j_zefa_z_arymatei"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Droga_Krzyzowa_20"
+                    android:id="@+id/button_Ukrzyzowanie_20"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_20_na_ladowa_zaprze_siebie"/>
+                    android:text="@string/dzie_20_po_mierci_jezusa_wydanie_cia_a_jezusa"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Droga_Krzyzowa_21"
+                    android:id="@+id/button_Ukrzyzowanie_21"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_21_na_ladowa_bra_krzy"/>
+                    android:text="@string/dzie_21_po_mierci_jezusa_zdj_cie_z_krzy_a"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Droga_Krzyzowa_22"
+                    android:id="@+id/button_Ukrzyzowanie_22"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_22_na_ladowa_krzy_codzienny"/>
+                    android:text="@string/dzie_22_po_mierci_jezusa_powierzenie_cia_a_maryi"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Droga_Krzyzowa_23"
+                    android:id="@+id/button_Ukrzyzowanie_23"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_23_na_ladowa_by_uczniem"/>
+                    android:text="@string/dzie_23_po_mierci_jezusa_z_o_enie_do_grobu"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Droga_Krzyzowa_24"
+                    android:id="@+id/button_Ukrzyzowanie_24"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_24_na_ladowa_kocha"/>
+                    android:text="@string/dzie_24_po_mierci_jezusa_postawienie_stra_y"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Droga_Krzyzowa_25"
+                    android:id="@+id/button_Ukrzyzowanie_25"
                     style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_25_na_ladowa_w_duchu_wi_tym"/>
+                    android:text="@string/dzie_25_po_mierci_jezusa_zst_pienie_chrystusa_do_otch_ani"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Droga_Krzyzowa_26"
+                    android:id="@+id/button_Ukrzyzowanie_26"
                     style="@style/button_dni_bolesne_padding"
                     android:text="@string/dzie_26_ostatnie_dni_dzi_kczynienie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Droga_Krzyzowa_27"
+                    android:id="@+id/button_Ukrzyzowanie_27"
                     style="@style/button_dni_bolesne_padding"
                     android:text="@string/dzie_27_apostolstwo"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Droga_Krzyzowa_28"
+                    android:id="@+id/button_Ukrzyzowanie_28"
                     style="@style/button_dni_bolesne_padding"
                     android:text="@string/dzie_28_pokuta_i_eucharystia"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Droga_Krzyzowa_29"
+                    android:id="@+id/button_Ukrzyzowanie_29"
                     style="@style/button_dni_bolesne_padding"
                     android:text="@string/dzie_29_podsumowanie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_CierniemUkoronowanie_30"
+                    android:id="@+id/button_Ukrzyzowanie_30"
                     style="@style/button_dni_bolesne_padding"
                     android:text="@string/dzie_30_powr_t_do_wybranych_my_li"/>
 

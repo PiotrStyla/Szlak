@@ -6,13 +6,13 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginEnd="16dp"
-        tools:context=".UkrzyzowanieDzien15"
+        tools:context=".UkrzyzowanieDzien28"
         android:id="@+id/linearLayout">
     <TextView
-            android:text="@string/dzie_15_siedem_s_w_z_krzy_a_bo_e_m_j_czemu_mnie_opu_ci"
+            android:text="@string/dzie_28_pokuta_i_eucharystia"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textView7365"
+            android:id="@+id/textView7510"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="16dp"
             android:layout_marginTop="16dp"
@@ -24,15 +24,15 @@
             tools:ignore="RtlSymmetry" />
 
     <ScrollView
-            android:id="@+id/scrollUkrzyzowanie15"
+            android:id="@+id/scrollUkrzyzowanie28"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView7365"
+            app:layout_constraintTop_toBottomOf="@+id/textView7510"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="24dp"
-            android:layout_marginTop="108dp"
+            android:layout_marginTop="78dp"
             android:scrollbarStyle="outsideOverlay"
             android:clipToPadding="false"
             android:paddingStart="8sp"
@@ -44,47 +44,47 @@
                 android:orientation="vertical">
             <TextView
                     android:text="@string/modlitwa"
-                    android:id="@+id/textView7366"
+                    android:id="@+id/textView7511"
                     style="@style/modlitwa"/>
             <TextView
-                    android:text="@string/s_b_adolf_piotr_szel_ek_1950_biskup_pomocniczy_p_ocki_w_latach_1918_1925_biskup_diecezjalny_ucki_w_latach_1926_1950_n_s_b_barbara_samulowska_1950_zakonnica_szarytka_misjonarka_oraz_wizjonerka_kt_rej_w_1877_gdy_by_a_jeszcze_m_od_dziewczyn_objawi_a_si_matka_bo_a_w_gietrzwa_dzie_n_s_b_kunegunda_siwiec_1955_tercjarka_karmelita_ska_i_mistyczka_nigdy_nie_ucz_szcza_a_do_szko_y_czyta_i_pisa_nauczy_a_si_od_miejscowego_g_rala_do_wiadcza_a_objawie_jezusa_chrystusa_matki_bo_ej_oraz_wi_tych_n_s_b_r_a_czacka_1961_zakonnica_opiekunka_niewidomych_za_o_ycielka_towarzystwa_opieki_nad_ociemnia_ymi_i_zgromadzenia_si_str_franciszkanek_s_u_ebnic_krzy_a_w_wieku_22_lat_zupe_nie_straci_a_wzrok_w_asn_lepot_potraktowa_a_jako_wezwanie_do_zaj_cia_si_innymi_niewidomymi"
-                    android:id="@+id/textView7367"
+                    android:text="@string/ukrzyzowanie28_modlitwa"
+                    android:id="@+id/textView7512"
                     style="@style/paragraf_Text_optimum"
                     android:padding="5dp"/>
 
             <TextView
                     android:text="@string/rozwa_anie_s_owa"
-                    android:id="@+id/textView7368"
+                    android:id="@+id/textView7513"
                     style="@style/modlitwa"/>
             <TextView
-                    android:text="@string/ukrzyzowanie15_rozwazanie_slowa"
-                    android:id="@+id/textView7369"
+                    android:text="@string/z_pierwszego_listu_wi_tego_paw_a_aposto_a_do_koryntian_11_23_26_ja_bowiem_otrzyma_em_od_pana_to_co_wam_przekaza_em_e_pan_jezus_tej_nocy_kiedy_zosta_wydany_wzi_chleb_i_dzi_ki_uczyniwszy_po_ama_i_rzek_to_jest_cia_o_moje_za_was_wydane_czy_cie_to_na_moj_pami_tk_podobnie_sko_czywszy_wieczerz_wzi_kielich_m_wi_c_ten_kielich_jest_nowym_przymierzem_we_krwi_mojej_czy_cie_to_ile_razy_pi_b_dziecie_na_moj_pami_tk_ilekro_bowiem_spo_ywacie_ten_chleb_albo_pijecie_kielich_mier_pa_sk_g_osicie_a_przyjdzie_n_n_mier_pa_ska_przyjdzie_to_szczeg_lny_wyraz_wiary_w_paw_a_sprawowanie_eucharystii_to_nie_tylko_obrz_d_upami_tniaj_cy_dawne_wydarzenia_w_niej_prawdziwie_uobecnia_si_m_ka_pana_ze_wszystkimi_jej_szczeg_ami_n_ka_dy_dzie_medytacji_r_a_cowej_nad_tajemnic_ukrzy_owania_jezusa_przyczyni_si_do_g_bszego_prze_ywania_eucharystii_dzi_ki_asce_pana_ro_nie_moja_wiara_e_gdy_kap_an_powtarza_s_owa_i_gesty_chrystusa_z_ostatniej_wieczerzy_gdy_jest_mowa_o_ciele_wydanym_i_krwi_przelanej_prawdziwie_mier_pa_ska_przychodzi_uczestnicy_eucharystii_zostaj_ni_ogarni_ci_mi_o_zbawiciela_ich_dotyka_na_miar_ich_otwarcia_dokonuje_cud_w_w_ich_sercach_i_ca_ym_ich_yciu_n_modl_si_do_maryi_i_wzywam_wstawiennictwa_niebieskich_or_downik_w_abym_coraz_g_biej_prze_ywa_zar_wno_sakrament_pokuty_jak_i_eucharysti"
+                    android:id="@+id/textView7514"
                     style="@style/paragraf_Text_optimum"
                     android:padding="5dp"/>
             <TextView
                     android:text="@string/dziesi_tek_r_a_ca"
-                    android:id="@+id/textView7370"
+                    android:id="@+id/textView7515"
                     style="@style/dziesiatek_rozanca"/>
             <TextView
                     android:text="@string/ojcze_nasz_zdrowa_maryjo_chwa_a_ojcu"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView7371"/>
+                    android:id="@+id/textView7516"/>
             <TextView
                     android:text="@string/akt_strzelisty"
-                    android:id="@+id/textView7372"
+                    android:id="@+id/textView74517"
                     style="@style/intencje_modlitwy"/>
             <TextView
                     android:text="@string/mi_osierny_jezu_przebacz_nam_grzechy_przez_kt_re_ci_krzy_ujemy_daj_ask_nawr_cenia_grzesznikom_i_naucz_nas_sk_ada_swoje_ycie_w_ofierze_za_ludzi"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView7373"/>
+                    android:id="@+id/textView7518"/>
             <TextView
                     android:text="@string/intencje_modlitwy"
-                    android:id="@+id/textView7374"
+                    android:id="@+id/textView7519"
                     style="@style/intencje_modlitwy"/>
             <TextView
                     android:text="@string/intencje_modlitwy_wyra_one_swoimi_s_owami"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView7375"
+                    android:id="@+id/textView7520"
                     android:textStyle="italic"
                     android:paddingBottom="70dp"/>
         </LinearLayout>

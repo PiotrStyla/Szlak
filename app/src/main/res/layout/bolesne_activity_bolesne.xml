@@ -95,7 +95,7 @@
 
     <Button
             android:id="@+id/button_Rekolekcje_Radosne"
-            style="@style/button_swiatla_tajemnice"
+            style="@style/button_bolesne_tajemnice"
             android:layout_width="150sp"
             android:layout_height="wrap_content"
             android:text="@string/rekolekcje1"

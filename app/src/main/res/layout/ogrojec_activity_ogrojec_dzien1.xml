@@ -64,7 +64,8 @@
             <TextView
                     android:text="@string/wi_ty_piotrze_m_dl_si_za_mn_wi_ty_pawle_wi_ty_andrzeju_wi_ty_janie_wi_ty_jakubie_wi_ty_tomaszu_wi_ty_mateuszu_wi_ty_filipie_wi_ty_bart_omieju_wi_ty_jakubie_wi_ty_szymonie_wi_ty_tadeuszu_wi_ty_macieju_wszyscy_wi_ci_aposto_owie"
                     android:id="@+id/textView5645"
-                    style="@style/paragraf_Text_optimum" />
+                    style="@style/paragraf_Text_optimum"
+                    android:padding="7dp"/>
             <TextView
                     android:text="@string/rozwa_anie_s_owa"
                     android:id="@+id/textView5646"
@@ -75,17 +76,14 @@
                     style="@style/paragraf_Text_optimum"
                     android:padding="7dp"/>
             <TextView
-                    android:text="@string/patrz_c_na_zdziwienie_jezusa_wobec_wielkiej_wiary_setnika_powracam_na_zako_czenie_do_pragnienia_ojca_wi_tego_jana_paw_a_ii_aby_rozbudzi_w_ko_ciele_eucharystyczne_zdumienie_niew_tpliwie_przez_sw_j_d_ugi_pontyfikat_przez_swoje_nauczanie_a_pewnie_jeszcze_bardziej_przez_przyk_ad_swojego_ycia_przyczyni_si_do_rozbudzenia_w_sercach_wielu_os_b_takiego_w_a_nie_zdumienia_rodzi_si_ono_z_wiary_i_daje_cz_owiekowi_si_y_do_g_bszego_wnikni_cia_w_misterium_eucharystii"
-                    android:id="@+id/textView5648"
-                    style="@style/paragraf_Text_optimum" />
-            <TextView
                     android:text="@string/powracam_dzi_do_tej_pro_by_jednego_z_uczni_w_jezusa_chc_si_uczy_modlitwy_od_samego_mistrza_chc_przej_t_drog_jak_przeszli_aposto_owie_zanim_nadszed_dzie_modlitwy_w_ogr_jcu_uczniowie_widzieli_jak_jezus_si_modli_w_r_nych_miejscach_i_r_nych_porach_dnia_s_yszeli_te_jego_nauczanie_na_ten_temat_m_wi_o_modlitwie_w_przypowie_ciach_i_wyja_nia_jej_tajemnic_uczniom"
                     android:id="@+id/textView5649"
                     style="@style/paragraf_Text_optimum" />
             <TextView
                     android:text="@string/cho_temat_modlitwy_w_jaki_spos_b_jest_obecny_w_ka_dej_tajemnicy_r_a_cowej_to_jednak_tylko_jedna_tajemnica_ma_swoim_tytule_s_owo_modlitwa_jakby_w_r_d_wielu_lekcji_modlitwy_jakich_udzieli_jezus_uczniom_tak_s_owami_jak_i_przyk_adem_ycia_modlitwa_w_ogr_jcu_mia_a_szczeg_lne_znaczenia_to_kr_tka_modlitwa_w_a_ciwie_jedno_zdanie_ale_w_nim_kryje_si_to_co_najwa_niejsze_w_modlitwie_i_w_yciu"
                     android:id="@+id/textView5650"
-                    style="@style/paragraf_Text_optimum" />
+                    style="@style/paragraf_Text_optimum"
+                    />
             <TextView
                     android:text="@string/dziesi_tek_r_a_ca"
                     android:id="@+id/textView5651"

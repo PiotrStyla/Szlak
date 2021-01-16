@@ -40,12 +40,12 @@
                     android:textAlignment="center"/>
 
             <ImageView
+                    android:id="@+id/imageChrzest"
                     android:layout_width="match_parent"
                     android:layout_height="120dp"
-                    app:srcCompat="@drawable/chrzest"
-                    android:id="@+id/imageChrzest"
                     android:layout_marginTop="16dp"
-                    android:contentDescription="@string/obraz_jordan"/>
+                    android:contentDescription="@string/obraz_jordan"
+                    app:srcCompat="@drawable/droga_krzyzowa" />
             <Button
                     android:text="@string/wst_p"
                     android:id="@+id/button_Droga_Krzyzowa_Wstep"

@@ -42,7 +42,7 @@
             <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="120dp"
-                    app:srcCompat="@drawable/chrzest"
+                    app:srcCompat="@drawable/biczowanie"
                     android:id="@+id/imageChrzest"
                     android:layout_marginTop="16dp"
                     android:contentDescription="@string/obraz_jordan"/>

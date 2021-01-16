@@ -111,7 +111,8 @@
                     android:text="@string/rozwa_anie_s_owa"
                     android:id="@+id/textView5616"
                     style="@style/paragraf_Text"
-                    android:textStyle="italic"/>
+                    android:textStyle="italic"
+                    android:padding="7dp"/>
             <TextView
                     android:text="@string/po_zapowiedzi_tajemnicy_i_wst_pnej_modlitwie_zatrzymuj_si_na_rozwa_aniu_s_owa_bo_ego_kr_tki_tekst_biblijny_wraz_z_odpowiednim_komentarzem_sprawia_e_moja_uwaga_jeszcze_bardziej_skupia_si_na_tajemnicy_kt_r_rozwa_am_kt_r_prze_ywam_i_kt_ra_przenika_moj_modlitw"
                     android:id="@+id/textView5617"

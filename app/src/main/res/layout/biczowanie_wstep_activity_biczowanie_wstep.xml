@@ -52,7 +52,6 @@
             <TextView
                     android:text="@string/w_mateusz_relacjonuje_kr_tko"
                     android:id="@+id/textView6103"
-                    android:textColor="@color/colorRed"
                     style="@style/paragraf_Text"/>
             <TextView
                     android:text="@string/w_wczas_uwolni_im_barabasza_a_jezusa_kaza_ubiczowa_i_wyda_na_ukrzy_owanie_27_26"
@@ -60,7 +59,6 @@
                     style="@style/paragraf_Text"/>
             <TextView
                     android:text="@string/w_podobny_pisze_w_marek"
-                    android:textColor="@color/colorRed"
                     android:id="@+id/textView6105"
                     style="@style/paragraf_Text" />
             <TextView
@@ -71,7 +69,6 @@
             <TextView
                     android:text="@string/w_rozwa_aniu_tej_tajemnicy_ogromn_pomoc_s_dla_mnie_s_owa_jezusa_w_kt_rych_zapowiada_on_swoje_biczowanie_por_mk_10_34_k_18_33_pragn_w_pierwszym_tygodniu_moich_medytacji_skierowa_moj_uwag_ku_tym_zapowiedziom_wida_z_nich_jezus_by_wiadom_tego_co_go_czeka_kilka_razy_m_wi_o_swojej_m_ce_zd_aj_c_do_jerozolimy_przez_swoje_s_owa_przygotowywa_aposto_w_i_przygotowuje_r_wnie_mnie_na_prze_ycie_jego_biczowania_n_w_drugim_tygodniu_mojej_miesi_cznej_medytacji_o_biczowaniu_chc_si_zatrzyma_przy_przebiegu_tego_bolesnego_wydarzenia_pomoc_b_d_dla_mnie_nie_tylko_teksty_biblijne_lecz_tak_e_informacje_o_biczowaniu_jakie_stosowali_rzymianie_wiadectwa_wi_tych_oraz_badania_nad_ca_unem_tury_skim"
                     android:id="@+id/textView6107"
-                    android:textColor="@color/colorRed"
                     style="@style/paragraf_Text"
                     android:paddingBottom="5dp"/>
             <TextView
@@ -82,7 +79,6 @@
             <TextView
                     android:text="@string/niech_maryja_matka_bolesna_wspiera_mnie_w_tym_codziennym_powracaniu_na_miejsce_gdzie_o_nierze_bez_lito_ci_biczuj_jezusa_a_on_na_z_o_odpowiada_mi_o_ci"
                     android:id="@+id/textView6109"
-                    android:textColor="@color/colorRed"
                     style="@style/paragraf_Text"
                     android:paddingBottom="7dp"/>
             <TextView
@@ -131,8 +127,7 @@
                     style="@style/paragraf_Text"
                     android:textStyle="bold"
                     android:paddingBottom="70dp"
-                    android:textAlignment="center"
-                    android:textColor="@color/colorRed"/>
+                    android:textAlignment="center" />
 
         </LinearLayout>
     </ScrollView>

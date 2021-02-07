@@ -61,7 +61,8 @@
                     android:text="@string/pragn_t_prawd_rozwa_a_w_kolejnych_dniach_nadchodz_cego_tygodnia_gdy_jest_to_r_wnie_wielka_pomoc_w_g_bszym_prze_ywaniu_r_a_cowej_tajemnicy_modlitwy_pana_jezusa_w_ogr_jcu"
                     android:id="@+id/textView5925"
                     style="@style/paragraf_Text_optimum"
-                    android:textStyle="italic"/>
+                    android:textStyle="italic"
+                    android:padding="7dp"/>
             <TextView
                     android:text="@string/modlitwa"
                     android:id="@+id/textView5926"

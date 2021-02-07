@@ -70,10 +70,6 @@
                     android:id="@+id/textView5832"
                     style="@style/paragraf_Text_optimum" />
             <TextView
-                    android:text="@string/aposto_owie_mimo_wcze_niejszych_jezusowych_zapowiedzi_m_ki_i_mimo_d_ugiego_przebywania_z_jezusem_nie_byli_w_stanie_uwierzy_w_jego_s_owa_weszli_wi_c_w_modlitw_jezusa_w_ogr_jcu_a_potem_w_czas_m_ki_z_ca_ym_baga_em_ludzkich_tylko_wyobra_e_przekona_i_s_abo_ci_one_jednak_p_k_y_jak_ba_ka_mydlana_zderzenie_z_rzeczywisto_ci_modlitwy_w_ogr_jcu_i_pojmania_jezusa_a_potem_jego_m_ki_wyzwoli_o_ich_w_ludzkiego_tylko_sposobu_my_lenia"
-                    android:id="@+id/textView5833"
-                    style="@style/paragraf_Text_optimum" />
-            <TextView
                     android:text="@string/jezus_rozpoczynaj_c_publiczn_dzia_alno_odszukuje_g_wnego_sprawc_ludzkich_nieszcz_znajduje_go_na_pustyni_mo_na_powiedzie_e_tak_teraz_wygl_da_miejsce_kt_re_kiedy_by_o_ogrodem_dzia_alno_z_ego_ducha_przemienia_ogr_d_w_pustyni_ycie_w_mier_szcz_cie_w_p_acz_jedno_w_podzia_mi_o_w_nienawi_jezus_idzie_na_miejsce_gdzie_kr_luje_ksi_tego_wiata_aby_go_zdemaskowa_aby_ukaza_kierunki_jego_dzia_ania_i_aby_pokaza_jak_z_nim_walczy_jezus_jest_r_wnie_w_stanie_zamieni_pustyni_w_ogr_d_por_iz_51_3"
                     android:id="@+id/textView5834"
                     style="@style/paragraf_Text_optimum"/>

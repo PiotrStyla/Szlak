@@ -77,7 +77,7 @@
                     android:id="@+id/textView6140"
                     style="@style/intencje_modlitwy"/>
             <TextView
-                    android:text="@string/wed_ug_w_asnego_uznania"
+                    android:text="@string/intencje_modlitwy_wyra_one_swoimi_s_owami"
                     style="@style/paragraf_Text_optimum"
                     android:id="@+id/textView6141"
                     android:textStyle="italic"

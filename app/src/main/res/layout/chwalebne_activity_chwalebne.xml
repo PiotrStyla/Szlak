@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Chwalebne">
+
+    <TextView
+            android:id="@+id/textView_Bolesne"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:text="@string/tajemnice_bolesne"
+            android:textColor="@color/colorRed"
+            android:textSize="28sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:contentDescription="@string/ikona_tajemnica_radosna"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView_Bolesne"
+            app:srcCompat="@drawable/ikonabolesna" />
+
+    <Button
+            android:id="@+id/button_Zmartwychwstanie"
+            style="@style/button_chwalebne_tajemnice"
+            android:layout_width="150sp"
+            android:layout_marginTop="16dp"
+            android:text="Zmartwychwstanie"
+            app:layout_constraintEnd_toStartOf="@+id/button_Biczowanie"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+    <Button
+            android:id="@+id/button_Biczowanie"
+            style="@style/button_bolesne_tajemnice"
+            android:layout_width="150sp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/biczowanie"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/button_Zmartwychwstanie"
+            app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+    <Button
+            android:id="@+id/button_Cierniem"
+            style="@style/button_bolesne_tajemnice"
+            android:layout_width="150sp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/ukoronowanie"
+            app:layout_constraintEnd_toStartOf="@+id/button_Droga"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/button_Zmartwychwstanie" />
+
+    <Button
+            android:id="@+id/button_Droga"
+            style="@style/button_bolesne_tajemnice"
+            android:layout_width="150sp"
+            android:layout_height="wrap_content"
+            android:text="@string/droga_krzy_owa"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/button_Cierniem"
+            app:layout_constraintTop_toTopOf="@+id/button_Cierniem" />
+
+    <Button
+            android:id="@+id/button_Ukrzyzowanie"
+            style="@style/button_bolesne_tajemnice"
+            android:layout_width="150sp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/ukrzy_owanie"
+            app:layout_constraintEnd_toStartOf="@+id/button_Rekolekcje_Radosne"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/button_Cierniem" />
+
+    <Button
+            android:id="@+id/button_Rekolekcje_Radosne"
+            style="@style/button_bolesne_tajemnice"
+            android:layout_width="150sp"
+            android:layout_height="wrap_content"
+            android:text="@string/rekolekcje1"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/button_Ukrzyzowanie"
+            app:layout_constraintTop_toTopOf="@+id/button_Ukrzyzowanie" />
+</androidx.constraintlayout.widget.ConstraintLayout>

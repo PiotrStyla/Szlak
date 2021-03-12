@@ -37,6 +37,12 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent2b)
         }
 
+        val buttonMainDoChwalebne  = findViewById<Button>(R.id.button5)
+        buttonMainDoChwalebne.setOnClickListener {
+            val intent2b = Intent(this, Chwalebne::class.java)
+            startActivity(intent2b)
+        }
+
     }
     //menu start
 

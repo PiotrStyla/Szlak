@@ -80,6 +80,6 @@
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="@+id/button4"
-            android:textColor="#EF6C00"
+            android:textColor="@color/colorGold"
             tools:ignore="SmallSp" />
 </androidx.constraintlayout.widget.ConstraintLayout>

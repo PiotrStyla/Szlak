@@ -14,7 +14,7 @@
             android:layout_marginTop="16dp"
             android:layout_marginEnd="16dp"
             android:text="Tajemnice Chwalebne"
-            android:textColor="#FF9100"
+            android:textColor="@color/colorGold"
             android:textSize="28sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"

@@ -7,14 +7,14 @@
         tools:context=".Chwalebne">
 
     <TextView
-            android:id="@+id/textView_Bolesne"
+            android:id="@+id/textView_Chwalebne"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
             android:layout_marginTop="16dp"
             android:layout_marginEnd="16dp"
-            android:text="@string/tajemnice_bolesne"
-            android:textColor="@color/colorRed"
+            android:text="Tajemnice Chwalebne"
+            android:textColor="#FF9100"
             android:textSize="28sp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -30,7 +30,7 @@
             android:contentDescription="@string/ikona_tajemnica_radosna"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView_Bolesne"
+            app:layout_constraintTop_toBottomOf="@+id/textView_Chwalebne"
             app:srcCompat="@drawable/ikonabolesna" />
 
     <Button
@@ -38,7 +38,7 @@
             style="@style/button_chwalebne_tajemnice"
             android:layout_width="150sp"
             android:layout_marginTop="16dp"
-            android:text="Zmartwychwstanie"
+            android:text="Zmartwych\n-wstanie"
             app:layout_constraintEnd_toStartOf="@+id/button_Biczowanie"
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintStart_toStartOf="parent"

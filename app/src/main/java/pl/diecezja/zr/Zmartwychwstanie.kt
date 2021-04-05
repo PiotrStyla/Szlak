@@ -10,12 +10,12 @@ class Zmartwychwstanie : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.zmartwychwstanie_activity_zmartwychwstanie)
 
-        val buttonUkrzyzowanieDoWstep = findViewById<Button>(R.id.button_Ukrzyzowanie_Wstep)
-        buttonUkrzyzowanieDoWstep.setOnClickListener {
-            val intentUkrzyzowanieDoWstep = Intent(this, Ukrzyzowanie_Wstep::class.java)
-            startActivity(intentUkrzyzowanieDoWstep)
+        val buttonZmartwychwstanieDoWstep = findViewById<Button>(R.id.button_Zmartwychwstanie_Wstep)
+        buttonZmartwychwstanieDoWstep.setOnClickListener {
+            val intentZmartwychwstanieDoWstep = Intent(this, Zmartwychwstanie_Wstep::class.java)
+            startActivity(intentZmartwychwstanieDoWstep)
         }
-        val buttonUkrzyzowanieDoDzien1 = findViewById<Button>(R.id.button_Ukrzyzowanie_1)
+        val buttonUkrzyzowanieDoDzien1 = findViewById<Button>(R.id.button_Zmartwychwstanie_1)
         buttonUkrzyzowanieDoDzien1.setOnClickListener {
             val intentUkrzyzowanieDzien1 = Intent(this, UkrzyzowanieDzien1::class.java)
             startActivity(intentUkrzyzowanieDzien1)

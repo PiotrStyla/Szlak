@@ -9,7 +9,8 @@
             android:roundIcon="@mipmap/ic_launcher_round_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".Zmartwychwstanie"></activity>
+        <activity android:name=".Zmartwychwstanie_Wstep"></activity>
+        <activity android:name=".Zmartwychwstanie" />
         <activity android:name=".Chwalebne" />
         <activity android:name=".UkrzyzowanieDzien30" />
         <activity android:name=".UkrzyzowanieDzien29" />

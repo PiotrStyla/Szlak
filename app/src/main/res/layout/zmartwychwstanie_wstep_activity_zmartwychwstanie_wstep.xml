@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Zmartwychwstanie_Wstep"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="Zmartychwstanie - Wstęp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView8000"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+    <ScrollView
+            android:id="@+id/Zmartwychwstanie_Wstep"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView8000"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="48dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="5sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+            <TextView
+                    android:text="@string/rozwa_anie_bolesnych_tajemnic_by_o_wielkim_prze_yciem_przez_niemal_p_roku_dzie_w_dzie_udawa_em_si_moj_modlitw_i_medytacj_na_te_miejsca_w_kt_rych_jezus_prze_ywa_swoj_m_k_wpatrywa_em_si_w_rany_widoczne_na_ciele_zbawiciela_a_przede_wszystkim_stara_em_si_by_blisko_jego_serca_kt_re_cierpia_o_bardziej_ni_cia_o_dzi_kuj_mi_osiernemu_bogu_za_dar_tych_medytacji_coraz_bardziej_je_doceniam_pami_taj_c_o_s_owach_jezusa_skierowanych_do_w_faustyny_jedna_godzina_rozwa_ania_mojej_bolesnej_m_ki_wi_ksz_zas_ug_ma_ani_eli_ca_y_rok_biczowania_si_a_do_krwi_rozwa_anie_moich_bolesnych_ran_jest_dla_ciebie_z_wielkim_po_ytkiem_a_mnie_sprawia_wielk_rado_dzienniczek_369_r_wnie_rozwa_anie_tajemnic_chwalebnych_ma_ogromne_znaczenie_o_pierwszej_z_nich_o_zmartwychwstaniu_jezusa_w_pawe_aposto_pisze_je_li_chrystus_nie_zmartwychwsta_daremne_jest_nasze_nauczanie_pr_na_jest_tak_e_wasza_wiara_okazuje_si_bowiem_e_my_byli_fa_szywymi_wiadkami_boga_skoro_umarli_nie_zmartwychwstaj_przeciwko_bogu_wiadczyli_my_e_z_martwych_wskrzesi_chrystusa_skoro_umarli_nie_zmartwychwstaj_to_i_chrystus_nie_zmartwychwsta_a_je_eli_chrystus_nie_zmartwychwsta_daremna_jest_wasza_wiara_i_a_dot_d_pozostajecie_w_swoich_grzechach_1_kor_15_14_19_s_owa_te_mobilizuj_do_pe_nego_zaanga_owania_umys_u_i_serca_w_rozwa_anie_tajemnicy_zmartwychwstania_i_nast_puj_cych_po_niej_innych_tajemnicach_okre_lonych_jako_chwalebne_s_takimi_gdy_ukazuj_rzeczywisto_kt_ra_jest_po_drugiej_stronie_mierci_tam_nie_ma_ju_grzechu_ani_brudu_skazy_ani_zmarszczki_brak_w_ani_niedoskona_o_ci_wszystko_jest_przenikni_te_boskim_pi_knem_niebiesk_wiat_o_ci_rajskim_szcz_ciem_my_jednak_pozostaj_cy_po_tej_stronie_bramy_mierci_do_wiadczamy_tej_chwalebnej_rzeczywisto_ci_tylko_cz_ciowo_na_miar_naszej_wiary_i_zjednoczenia_z_jezusem_prosz_gor_co_matk_naj_wi_tsz_aby_by_a_przy_mnie_ka_dego_dnia_w_rozwa_aniu_tak_wielkiej_i_tak_zasadniczej_dla_mojego_ycia_prawdy_wiary_modl_si_przez_jej_wstawiennictwo_o_ask_g_bszego_zjednoczenia_z_jezusem_zmartwychwsta_ym"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView8001"
+                    android:layout_marginEnd="16dp"
+                    android:textSize="16sp"
+                    android:lineSpacingExtra="3sp"
+                    android:textAlignment="textStart"
+                    android:padding="8dp"/>
+
+            <TextView
+                    android:text="@string/wskazania_mistrz_w"
+                    android:id="@+id/textView8002"
+                    style="@style/paragraf_Text"
+                    android:textStyle="bold"
+                    android:paddingBottom="7dp"/>
+            <TextView
+                    android:text="@string/w_kolejnych_tajemnicach_chwalebnej_cz_ci_r_a_ca_pragn_zwr_ci_jeszcze_wi_ksz_uwag_na_zjednoczenie_w_modlitwie_z_maryj_w_li_cie_apostolskim_rosarium_virginis_mariae_w_jan_pawe_ii_uczy_nas_kontemplowa_chrystusa_z_maryj_upodabnia_si_do_chrystusa_z_maryj_prosi_chrystusa_z_maryj_i_g_osi_chrystusa_z_maryj_rozwa_a_em_te_papieskie_wskazania_w_tajemnicach_wiat_a_n_w_tajemnicach_chwalebnych_pragn_g_biej_wnikn_w_akty_oddania_si_maryi_chc_rozpoczyna_codzienne_rozwa_anie_r_a_cowej_tajemnicy_od_aktu_zawierzenia_si_jej_aby_jeszcze_bardziej_z_ni_si_zjednoczy_i_z_ni_prze_ywa_tajemnice_zbawienia_n_we_wst_pnej_refleksji_nad_wskazaniami_mistrz_w_kieruj_uwag_na_kilka_d_u_szych_akt_w_oddania_s_one_bardzo_bogate_w_tre_i_nale_y_je_nie_tylko_odmawia_lecz_tak_e_rozwa_a_na_pocz_tek_rozwa_am_fragmenty_homilii_w_jana_paw_a_ii_wyg_oszonej_w_cz_stochowie_4_czerwca_1979_roku_w_czasie_jego_pierwszej_pielgrzymki_do_ojczyzny_papie_nazwa_si_wtedy_cz_owiekiem_zawierzenia_i_wyja_nia_jak_wielkie_znaczenie_ma_ca_kowite_i_pe_ne_oddanie_si_maryi_jego_postawa_wyrazi_a_si_w_spos_b_szczeg_lny_w_s_owach_totus_tuus"
+                    android:id="@+id/textView8003"
+                    style="@style/paragraf_Text"
+                    android:padding="10dp"/>
+            <TextView
+                    android:text="@string/wszystko_zawierzy_maryi"
+                    android:id="@+id/textView8004"
+                    style="@style/paragraf_Text"
+                    android:paddingBottom="7dp"
+                    android:textAllCaps="true"/>
+            <TextView
+                    android:text="@string/wszystko_zawierzyc_maryi_text"
+                    android:id="@+id/textView8005"
+                    style="@style/paragraf_Text"
+                    android:padding="10dp"/>
+            <TextView
+                    android:text="@string/akt_strzelisty"
+                    android:id="@+id/textView8006"
+                    style="@style/paragraf_Text"
+                    android:textStyle="bold"
+                    android:textAlignment="center"
+                    android:paddingBottom="8dp"/>
+            <TextView
+                    android:text="@string/powy_szy_tekst_nie_m_wi_o_zmartwychwstaniu_chrystusa_m_wi_natomiast_wiele_o_relacji_ucznia_jezusa_do_maryi_ukazuje_potrzeb_zawierzeniu_jej_ca_ego_ycia_dzi_zawierzam_jej_bezcenny_skarb_jakim_jest_moje_prze_ywanie_tajemnicy_zwyci_stwa_jezusa_nad_mierci_grzechem_i_szatanem_n_chc_zbli_a_si_z_ni_do_zmartwychwsta_ego_jezusa_pragn_z_ni_cieszy_si_zmartwychwstaniem_z_ni_spe_nia_akty_wiary_i_mi_o_ci_wobec_tego_kt_ry_przychodzi_jako_zwyci_zca_i_przynosi_dar_nowego_ycia_n_jej_wstawiennictwa_przywo_uj_r_wnie_w_odmawianiu_aktu_strzelistego_na_zako_czenie_dziesi_tki_r_a_ca_prosz_w_nim_o_ask_uczestnictwa_w_zwyci_stwie_chrystusa_nad_grzechem_mierci_i_szatanem_otrzymuj_ten_udzia_gdy_z_wiar_i_mi_o_ci_zwracam_si_do_zbawiciela_zwracam_si_za_z_maryj_jego_i_moj_matk_niepokalan_matk_ko_cio_a_dostrzegam_jej_obecno_przy_mnie_licz_na_t_obecno_pok_adam_w_niej_wielkie_nadzieje_jej_modlitwa_wi_cej_znaczy_ni_moja_jej_macierzy_skie_wstawiennictwo_ma_ogromn_moc"
+                    android:id="@+id/textView8007"
+                    style="@style/paragraf_Text"
+                    android:padding="10dp"/>
+            <TextView
+                    android:text="@string/przez_wstawiennictwo_n_niepokalanej_matki_ko_cio_a_n_prosimy_ci_mi_osierny_ojcze_n_o_ask_uczestnictwa_n_w_zwyci_stwie_jezusa_n_nad_grzechem_mierci_i_szatanem"
+                    android:id="@+id/textView8009"
+                    style="@style/paragraf_Text"
+                    android:textStyle="bold"
+                    android:paddingBottom="70dp"
+                    android:textAlignment="center" />
+
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

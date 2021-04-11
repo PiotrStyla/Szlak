@@ -52,11 +52,9 @@ class MainActivity : AppCompatActivity() {
         return true
     }
 
-    override fun onOptionsItemSelected(item: MenuItem?): Boolean {
-        if (item != null) {
-            if(item.itemId == R.id.action_about){
-                showInfo()
-            }
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        if(item.itemId == R.id.action_about){
+            showInfo()
         }
         return true
     }

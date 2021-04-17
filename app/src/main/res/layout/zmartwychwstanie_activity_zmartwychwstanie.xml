@@ -70,47 +70,47 @@
                     android:id="@+id/button_Zmartwychwstanie_3"
                     style="@style/button_dni_chwalebne_padding"/>
             <Button
-                    android:text="@string/dzie_4_wi_ci_ma_onkowie_i_rodzice"
+                    android:text="@string/dzie_4_matko_mi_osierdzia"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ukrzyzowanie_4"
-                    style="@style/button_dni_bolesne_padding"/>
+                    android:id="@+id/button_Zmartwychwstanie_4"
+                    style="@style/button_dni_chwalebne_padding"/>
             <Button
-                    android:text="@string/dzie_5_ukrzy_owanie_zdj_cie_szat"
+                    android:text="@string/dzie_5_dar_spotkania_spotkanie_z_matk"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ukrzyzowanie_5"
-                    style="@style/button_dni_bolesne_padding"/>
+                    android:id="@+id/button_Zmartwychwstanie_5"
+                    style="@style/button_dni_chwalebne_padding"/>
             <Button
-                    android:text="@string/dzie_6_ukrzy_owanie_przybicie_do_krzy_a"
+                    android:text="@string/dzie_6_spotkanie_z_niewiastami"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ukrzyzowanie_6"
-                    style="@style/button_dni_bolesne_padding"/>
+                    android:id="@+id/button_Zmartwychwstanie_6"
+                    style="@style/button_dni_chwalebne_padding"/>
             <Button
-                    android:text="@string/dzie_7_ukrzy_owanie_wywy_szenie_nad_ziemi"
+                    android:text="@string/dzie_7_spotkanie_z_mari_magdalen"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ukrzyzowanie_7"
-                    style="@style/button_dni_bolesne_padding"/>
+                    android:id="@+id/button_Zmartwychwstanie_7"
+                    style="@style/button_dni_chwalebne_padding"/>
             <Button
-                    android:text="@string/dzie_8_ukrzy_owanie_wyszydzenie"
+                    android:text="@string/dzie_8_spotkanie_z_uczniami_id_cymi_do_emaus"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ukrzyzowanie_8"
-                    style="@style/button_dni_bolesne_padding"/>
+                    android:id="@+id/button_Zmartwychwstanie_8"
+                    style="@style/button_dni_chwalebne_padding"/>
             <Button
-                    android:text="@string/dzie_9_ukrzy_owanie_ciemno_ci"
+                    android:text="@string/dzie_9_spotkanie_z_aposto_ami_w_jerozolimie"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ukrzyzowanie_9"
-                    style="@style/button_dni_bolesne_padding"/>
+                    android:id="@+id/button_Zmartwychwstanie_9"
+                    style="@style/button_dni_chwalebne_padding"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ukrzyzowanie_10"
-                    style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_10_ukrzy_owanie_przebicie_boku"/>
+                    android:id="@+id/button_Zmartwychwstanie_10"
+                    style="@style/button_dni_chwalebne_padding"
+                    android:text="@string/dzie_10_spotkanie_z_aposto_ami_nad_jeziorem"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

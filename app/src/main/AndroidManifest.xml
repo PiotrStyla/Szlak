@@ -9,7 +9,14 @@
             android:roundIcon="@mipmap/ic_launcher_round_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".ZmartwychwstanieDzien3"></activity>
+        <activity android:name=".ZmartwychwstanieDzien10"></activity>
+        <activity android:name=".ZmartwychwstanieDzien9" />
+        <activity android:name=".ZmartwychwstanieDzien8" />
+        <activity android:name=".ZmartwychwstanieDzien7" />
+        <activity android:name=".ZmartwychwstanieDzien6" />
+        <activity android:name=".ZmartwychwstanieDzien5" />
+        <activity android:name=".ZmartwychwstanieDzien4" />
+        <activity android:name=".ZmartwychwstanieDzien3" />
         <activity android:name=".ZmartwychwstanieDzien2" />
         <activity android:name=".ZmartwychwstanieDzien1" />
         <activity android:name=".Zmartwychwstanie_Wstep" />

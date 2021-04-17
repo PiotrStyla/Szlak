@@ -6,13 +6,13 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginEnd="16dp"
-        tools:context=".ZmartwychwstanieDzien3"
+        tools:context=".ZmartwychwstanieDzien7"
         android:id="@+id/linearLayout">
     <TextView
-            android:text="@string/dzie_3_matko_aski_bo_ej"
+            android:text="@string/dzie_7_spotkanie_z_mari_magdalen"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textView8035"
+            android:id="@+id/textView8082"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="16dp"
             android:layout_marginTop="16dp"
@@ -24,15 +24,15 @@
             tools:ignore="RtlSymmetry" />
 
     <ScrollView
-            android:id="@+id/scrollZmartwychwstanie3"
+            android:id="@+id/scrollZmartwychwstanie7"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView8035"
+            app:layout_constraintTop_toBottomOf="@+id/textView8082"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="24dp"
-            android:layout_marginTop="48dp"
+            android:layout_marginTop="78dp"
             android:scrollbarStyle="outsideOverlay"
             android:clipToPadding="false"
             android:paddingStart="8sp"
@@ -43,52 +43,49 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
             <TextView
-                    android:text="@string/modlitwa"
-                    android:id="@+id/textView8036"
-                    style="@style/modlitwa"/>
-            <TextView
-                    android:text="@string/maryjo_dla_ubogich_i_cierpi_cych_otwieraj_serca_zamo_nych_bezrobotnym_daj_spotka_pracodawc_wyrzucanym_na_bruk_pom_znale_dach_nad_g_ow_rodzinom_daj_mi_o_kt_ra_pozwala_przetrwa_wszelkie_trudno_ci_m_odym_pokazuj_drog_i_perspektywy_na_przysz_o_dzieci_otocz_p_aszczem_swej_opieki_aby_nie_ulega_y_zgorszeniu_wsp_lnoty_zakonne_o_ywiaj_ask_wiary_nadziei_i_mi_o_ci_kap_an_w_ucz_na_ladowa_twojego_syna_w_oddawaniu_co_dnia_ycia_za_owce_biskupom_upraszaj_wiat_o_ducha_wi_tego_aby_prowadzili_ten_ko_ci_jedn_i_prost_drog_do_bram_kr_lestwa_twojego_syna_z_aktu_oddania_w_jana_paw_a_ii_kalwaria_19_08_2002"
-                    android:id="@+id/textView8037"
+                    android:text="@string/zawierzenie_maryi_w_asnymi_s_owami"
+                    android:id="@+id/textView8083"
                     style="@style/paragraf_Text_optimum"
+                    android:textStyle="bold"
                     android:padding="5dp"/>
             <TextView
                     android:text="@string/rozwa_anie_s_owa"
-                    android:id="@+id/textView8038"
+                    android:id="@+id/textView8084"
                     style="@style/modlitwa"/>
             <TextView
-                    android:text="@string/z_listu_w_paw_a_aposto_a_do_rzymian_11_33_36_o_g_boko_ci_bogactw_m_dro_ci_i_wiedzy_boga_jak_e_niezbadane_s_jego_wyroki_i_nie_do_wy_ledzenia_jego_drogi_kto_bowiem_pozna_my_l_pana_albo_kto_by_jego_doradc_lub_kto_go_pierwszy_obdarowa_aby_nawzajem_otrzyma_odp_at_albowiem_z_niego_i_przez_niego_i_dla_niego_jest_wszystko_jemu_chwa_a_na_wieki_amen_n_n_maryjo_matko_aski_bo_ej_z_woli_odwiecznego_ojca_przez_twoje_po_rednictwo_otrzymujemy_wszelkie_aski_prosz_ci_wi_c_tak_e_dzisiaj_o_ask_g_bszego_poznania_tajemnicy_zmartwychwstania_chrystusa_twojego_syna_jej_zbawcza_moc_objawi_a_si_r_wnie_w_twoim_yciu_dzi_ki_zwyci_stwu_chrystusa_zosta_a_uprzedzaj_co_zachowana_od_grzechu_i_obdarzona_pe_ni_aski_n_niech_moja_medytacja_kt_r_b_d_podejmowa_ka_dego_dnia_budzi_we_mnie_coraz_wi_ksze_zdumienie_wobec_wielko_ci_daru_jaki_zosta_cz_owiekowi_ofiarowany_w_zmartwychwstaniu_jezusa_pom_mi_uwielbia_niezbadane_wyroki_bo_e_jego_niezg_bion_m_dro_i_jego_niesko_czon_mi_o"
-                    android:id="@+id/textView8039"
+                    android:text="@string/z_ewangelii_wed_ug_w_jana_20_11a_14b_16_maria_magdalena_sta_a_przed_grobem_p_acz_c_odwr_ci_a_si_i_ujrza_a_stoj_cego_jezusa_ale_nie_wiedzia_a_e_to_jezus_rzek_do_niej_jezus_niewiasto_czemu_p_aczesz_kogo_szukasz_ona_za_s_dz_c_e_to_jest_ogrodnik_powiedzia_a_do_niego_panie_je_li_ty_go_przenios_e_powiedz_mi_gdzie_go_po_o_y_e_a_ja_go_wezm_jezus_rzek_do_niej_mario_a_ona_obr_ciwszy_si_powiedzia_a_do_niego_po_hebrajsku_rabbuni_to_znaczy_nauczycielu_n_n_w_mojej_modlitwie_udaj_si_do_ogrodu_w_kt_rym_znajdowa_si_gr_b_jezusa_i_gdzie_maria_magdalena_poszukuje_swego_mistrza_i_nauczyciela_staram_si_wczu_we_wszystkie_jej_prze_ycia_przede_wszystkim_jednak_rozwa_am_to_co_m_wi_i_co_czyni_jezus_n_zy_marii_magdaleny_by_y_wyrazem_jej_b_lu_one_kaza_y_jej_pozosta_przy_grobie_i_szuka_cia_a_umi_owanego_mistrza_a_z_drugiej_strony_zas_oni_y_jej_go_i_nie_mog_a_go_rozpozna_gdy_przyszed_jezus_jednak_widz_c_jej_b_l_i_pragnienie_spotkania_z_nim_zwraca_si_do_niej_po_imieniu_wtedy_wszystko_si_zmienia_gdy_s_yszy_swoje_imi_otwieraj_si_jej_oczy_widzi_inaczej_rozpoznaje_pana_i_wypowiada_jego_imi_n_spotkanie_jezusa_z_mari_magdalen_podobnie_jak_spotkanie_z_niewiastami_ma_charakter_bardzo_osobisty_mo_na_powiedzie_intymny_to_nie_jest_nauczenie_rzesz_ani_t_umaczenie_wa_nych_prawd_to_jest_przede_wszystkim_osobiste_spotkanie_jezus_przychodzi_i_daje_si_pozna_gdy_to_rozpoznanie_nast_puje_serce_i_dusz_cz_owieka_nape_nia_wiat_o_b_l_przemienia_si_w_uniesienie_smutek_zamienia_si_w_rado_poczucie_zagubienia_staje_si_poczuciem_odnalezienia_ciemno_zostaje_rozja_niona_wiat_o_ci_pytania_kt_re_dr_czy_y_umys_znajduj_odpowied_kt_ra_w_pe_ni_satysfakcjonuje_to_jakby_zniech_cony_i_na_wp_umar_y_cz_owiek_powraca_do_ycia_to_duchowe_zmartwychwstanie_n_cuda_te_dokonuj_si_przez_spotkanie_z_jezusem_ono_jest_najwa_niejsze_ono_decyduje_o_to_samo_ci_chrze_cijanina_jego_on_cz_owiekiem_kt_ry_spotka_zmartwychwsta_ego_z_tego_spotkania_rodzi_si_wszystko_inne"
+                    android:id="@+id/textView8085"
                     style="@style/paragraf_Text_optimum"
                     android:padding="5dp"/>
             <TextView
                     android:text="@string/dziesi_tek_r_a_ca"
-                    android:id="@+id/textView8040"
+                    android:id="@+id/textView8086"
                     style="@style/dziesiatek_rozanca"/>
             <TextView
                     android:text="@string/ojcze_nasz_zdrowa_maryjo_chwa_a_ojcu"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView8041"/>
+                    android:id="@+id/textView8087"/>
             <TextView
                     android:text="@string/akt_strzelisty"
-                    android:id="@+id/textView8042"
+                    android:id="@+id/textView8088"
                     style="@style/intencje_modlitwy"/>
             <TextView
                     android:text="@string/przez_wstawiennictwo_niepokalanej_matki_ko_cio_a_prosimy_ci_mi_osierny_ojcze_o_ask_uczestnictwa_w_zwyci_stwie_jezusa_nad_grzechem_mierci_i_szatanem"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView8043"/>
+                    android:id="@+id/textView8089"/>
             <TextView
                     android:text="@string/intencje_modlitwy"
-                    android:id="@+id/textView8044"
+                    android:id="@+id/textView8090"
                     style="@style/intencje_modlitwy"/>
             <TextView
                     android:text="@string/ojcze_mi_osierny_zawierzam_twemu_mi_osierdziu_wszystkie_intencje_kt_re_nam_poleca_papie_i_inni_pasterze_ko_cio_a_zawierzam_ci_tak_e_sprawy_kt_rymi_yj_na_co_dzie_ojcze_najlepszy_miej_mi_osierdzie_dla_nas_i_ca_ego_wiata_o"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView8045"
+                    android:id="@+id/textView8091"
                     android:paddingBottom="7dp"/>
             <TextView
                     android:text="@string/intencje_modlitwy_wyra_one_swoimi_s_owami"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView8046"
+                    android:id="@+id/textView8092"
                     android:textStyle="italic"
                     android:paddingBottom="70dp"/>
         </LinearLayout>

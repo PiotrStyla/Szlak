@@ -6,13 +6,13 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginEnd="16dp"
-        tools:context=".ZmartwychwstanieDzien3"
+        tools:context=".ZmartwychwstanieDzien4"
         android:id="@+id/linearLayout">
     <TextView
-            android:text="@string/dzie_3_matko_aski_bo_ej"
+            android:text="@string/dzie_4_matko_mi_osierdzia"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/textView8035"
+            android:id="@+id/textView8047"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="16dp"
             android:layout_marginTop="16dp"
@@ -24,10 +24,10 @@
             tools:ignore="RtlSymmetry" />
 
     <ScrollView
-            android:id="@+id/scrollZmartwychwstanie3"
+            android:id="@+id/scrollZmartwychwstanie4"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView8035"
+            app:layout_constraintTop_toBottomOf="@+id/textView8047"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="8dp"
             app:layout_constraintStart_toStartOf="parent"
@@ -44,51 +44,51 @@
                 android:orientation="vertical">
             <TextView
                     android:text="@string/modlitwa"
-                    android:id="@+id/textView8036"
+                    android:id="@+id/textView8048"
                     style="@style/modlitwa"/>
             <TextView
-                    android:text="@string/maryjo_dla_ubogich_i_cierpi_cych_otwieraj_serca_zamo_nych_bezrobotnym_daj_spotka_pracodawc_wyrzucanym_na_bruk_pom_znale_dach_nad_g_ow_rodzinom_daj_mi_o_kt_ra_pozwala_przetrwa_wszelkie_trudno_ci_m_odym_pokazuj_drog_i_perspektywy_na_przysz_o_dzieci_otocz_p_aszczem_swej_opieki_aby_nie_ulega_y_zgorszeniu_wsp_lnoty_zakonne_o_ywiaj_ask_wiary_nadziei_i_mi_o_ci_kap_an_w_ucz_na_ladowa_twojego_syna_w_oddawaniu_co_dnia_ycia_za_owce_biskupom_upraszaj_wiat_o_ducha_wi_tego_aby_prowadzili_ten_ko_ci_jedn_i_prost_drog_do_bram_kr_lestwa_twojego_syna_z_aktu_oddania_w_jana_paw_a_ii_kalwaria_19_08_2002"
-                    android:id="@+id/textView8037"
+                    android:text="@string/matko_naj_wi_tsza_pani_kalwaryjska_wypraszaj_tak_e_i_mnie_si_y_cia_a_i_ducha_abym_wype_ni_do_ko_ca_misj_kt_r_mi_zleci_zmartwychwsta_y_tobie_oddaj_wszystkie_owoce_mego_ycia_i_pos_ugi_tobie_zawierzam_losy_ko_cio_a_tobie_polecam_m_j_nar_d_tobie_ufam_i_tobie_raz_jeszcze_wyznaj_totus_tuus_maria_totus_tuus_amen_z_aktu_oddania_w_jana_paw_a_ii_kalwaria_19_08_2002"
+                    android:id="@+id/textView8049"
                     style="@style/paragraf_Text_optimum"
                     android:padding="5dp"/>
             <TextView
                     android:text="@string/rozwa_anie_s_owa"
-                    android:id="@+id/textView8038"
+                    android:id="@+id/textView8050"
                     style="@style/modlitwa"/>
             <TextView
-                    android:text="@string/z_listu_w_paw_a_aposto_a_do_rzymian_11_33_36_o_g_boko_ci_bogactw_m_dro_ci_i_wiedzy_boga_jak_e_niezbadane_s_jego_wyroki_i_nie_do_wy_ledzenia_jego_drogi_kto_bowiem_pozna_my_l_pana_albo_kto_by_jego_doradc_lub_kto_go_pierwszy_obdarowa_aby_nawzajem_otrzyma_odp_at_albowiem_z_niego_i_przez_niego_i_dla_niego_jest_wszystko_jemu_chwa_a_na_wieki_amen_n_n_maryjo_matko_aski_bo_ej_z_woli_odwiecznego_ojca_przez_twoje_po_rednictwo_otrzymujemy_wszelkie_aski_prosz_ci_wi_c_tak_e_dzisiaj_o_ask_g_bszego_poznania_tajemnicy_zmartwychwstania_chrystusa_twojego_syna_jej_zbawcza_moc_objawi_a_si_r_wnie_w_twoim_yciu_dzi_ki_zwyci_stwu_chrystusa_zosta_a_uprzedzaj_co_zachowana_od_grzechu_i_obdarzona_pe_ni_aski_n_niech_moja_medytacja_kt_r_b_d_podejmowa_ka_dego_dnia_budzi_we_mnie_coraz_wi_ksze_zdumienie_wobec_wielko_ci_daru_jaki_zosta_cz_owiekowi_ofiarowany_w_zmartwychwstaniu_jezusa_pom_mi_uwielbia_niezbadane_wyroki_bo_e_jego_niezg_bion_m_dro_i_jego_niesko_czon_mi_o"
-                    android:id="@+id/textView8039"
+                    android:text="@string/z_ewangelii_wed_ug_w_jana_11_21_24_marta_rzek_a_do_jezusa_panie_gdyby_tu_by_m_j_brat_by_nie_umar_lecz_i_teraz_wiem_e_b_g_da_ci_wszystko_o_cokolwiek_by_prosi_boga_rzek_do_niej_jezus_brat_tw_j_zmartwychwstanie_rzek_a_marta_do_niego_wiem_e_zmartwychwstanie_w_czasie_zmartwychwstania_w_dniu_ostatecznym_rzek_do_niej_jezus_ja_jestem_zmartwychwstaniem_i_yciem_kto_we_mnie_wierzy_cho_by_i_umar_y_b_dzie_n_n_maryjo_matko_mi_osierdzia_twoje_matczyne_serce_z_trosk_pochyla_si_nad_wszystkimi_dzie_mi_z_ufno_ci_zwracam_si_do_ciebie_z_pro_b_o_ask_g_bszego_rozumienia_tajemnicy_zmartwychwstania_twojego_syna_gdy_on_zapowiada_to_wydarzenie_swoim_uczniom_nie_potrafili_zrozumie_o_czym_m_wi_gdy_m_wi_do_marty_e_on_jest_zmartwychwstaniem_i_yciem_a_kto_w_niego_wierzy_cho_by_i_umar_y_b_dzie_ona_r_wnie_tylko_cz_ciowo_mog_a_poj_to_misterium_n_pragn_z_tob_najlepsza_matko_rozwa_a_w_nadchodz_cych_dniach_objawienia_si_zmartwychwsta_ego_swoim_uczniom_poznawa_przemieniaj_c_wszystko_moc_jego_zwyci_stwa_nad_mierci_grzechem_i_szatanem_a_tak_e_do_wiadcza_jego_obecno_ci_w_yciu_ko_cio_a_wspieraj_mnie_w_mojej_duchowej_w_dr_wce_aby_aska_mi_osierdzia_dotkn_a_r_wnie_mojego_serca"
+                    android:id="@+id/textView8051"
                     style="@style/paragraf_Text_optimum"
                     android:padding="5dp"/>
             <TextView
                     android:text="@string/dziesi_tek_r_a_ca"
-                    android:id="@+id/textView8040"
+                    android:id="@+id/textView8052"
                     style="@style/dziesiatek_rozanca"/>
             <TextView
                     android:text="@string/ojcze_nasz_zdrowa_maryjo_chwa_a_ojcu"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView8041"/>
+                    android:id="@+id/textView8053"/>
             <TextView
                     android:text="@string/akt_strzelisty"
-                    android:id="@+id/textView8042"
+                    android:id="@+id/textView8054"
                     style="@style/intencje_modlitwy"/>
             <TextView
                     android:text="@string/przez_wstawiennictwo_niepokalanej_matki_ko_cio_a_prosimy_ci_mi_osierny_ojcze_o_ask_uczestnictwa_w_zwyci_stwie_jezusa_nad_grzechem_mierci_i_szatanem"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView8043"/>
+                    android:id="@+id/textView8055"/>
             <TextView
                     android:text="@string/intencje_modlitwy"
-                    android:id="@+id/textView8044"
+                    android:id="@+id/textView8056"
                     style="@style/intencje_modlitwy"/>
             <TextView
                     android:text="@string/ojcze_mi_osierny_zawierzam_twemu_mi_osierdziu_wszystkie_intencje_kt_re_nam_poleca_papie_i_inni_pasterze_ko_cio_a_zawierzam_ci_tak_e_sprawy_kt_rymi_yj_na_co_dzie_ojcze_najlepszy_miej_mi_osierdzie_dla_nas_i_ca_ego_wiata_o"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView8045"
+                    android:id="@+id/textView8057"
                     android:paddingBottom="7dp"/>
             <TextView
                     android:text="@string/intencje_modlitwy_wyra_one_swoimi_s_owami"
                     style="@style/paragraf_Text_optimum"
-                    android:id="@+id/textView8046"
+                    android:id="@+id/textView8058"
                     android:textStyle="italic"
                     android:paddingBottom="70dp"/>
         </LinearLayout>

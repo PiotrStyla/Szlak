@@ -144,21 +144,21 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ukrzyzowanie_16"
-                    style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_16_siedem_s_w_z_krzy_a_pragn"/>
+                    android:id="@+id/button_Zmartwychwstanie_16"
+                    style="@style/button_dni_chwalebne_padding"
+                    android:text="@string/dzie_16_dzie_spotkania_dzie_wi_towania"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ukrzyzowanie_17"
-                    style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_17_siedem_s_w_z_krzy_a_wykona_o_si"/>
+                    android:id="@+id/button_Zmartwychwstanie_17"
+                    style="@style/button_dni_chwalebne_padding"
+                    android:text="@string/dzie_17_dzie_spotkania_dzie_apostolstwa"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ukrzyzowanie_18"
-                    style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_18_siedem_s_w_z_krzy_a_ojcze_w_twoje_r_ce"/>
+                    android:id="@+id/button_Zmartwychwstanie_18"
+                    style="@style/button_dni_chwalebne_padding"
+                    android:text="@string/dzie_18_dzie_spotkania_dzie_wi_ty"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

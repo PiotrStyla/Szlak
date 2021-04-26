@@ -180,21 +180,21 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ukrzyzowanie_22"
-                    style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_22_po_mierci_jezusa_powierzenie_cia_a_maryi"/>
+                    android:id="@+id/button_Zmartwychwstanie_22"
+                    style="@style/button_dni_chwalebne_padding"
+                    android:text="@string/dzie_22_nowe_stworzenie_nowa_pie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ukrzyzowanie_23"
-                    style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_23_po_mierci_jezusa_z_o_enie_do_grobu"/>
+                    android:id="@+id/button_Zmartwychwstanie_23"
+                    style="@style/button_dni_chwalebne_padding"
+                    android:text="@string/dzie_23_nowe_stworzenie_nowa_wsp_lnota"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ukrzyzowanie_24"
-                    style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_24_po_mierci_jezusa_postawienie_stra_y"/>
+                    android:id="@+id/button_Zmartwychwstanie_24"
+                    style="@style/button_dni_chwalebne_padding"
+                    android:text="@string/dzie_24_nowe_stworzenie_nowe_niebiosa_i_nowa_ziemia"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

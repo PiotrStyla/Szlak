@@ -120,20 +120,20 @@ class Zmartwychwstanie : AppCompatActivity() {
             val intentZmartwychwstanieDzien21 = Intent(this, ZmartwychwstanieDzien21::class.java)
             startActivity(intentZmartwychwstanieDzien21)
         }
-        val buttonUkrzyzowanieDoDzien22 = findViewById<Button>(R.id.button_Ukrzyzowanie_22)
-        buttonUkrzyzowanieDoDzien22.setOnClickListener {
-            val intentUkrzyzowanieDzien22 = Intent(this, UkrzyzowanieDzien22::class.java)
-            startActivity(intentUkrzyzowanieDzien22)
+        val buttonZmartwychwstanieDoDzien22 = findViewById<Button>(R.id.button_Zmartwychwstanie_22)
+        buttonZmartwychwstanieDoDzien22.setOnClickListener {
+            val intentZmartwychwstanieDzien22 = Intent(this, ZmartwychwstanieDzien22::class.java)
+            startActivity(intentZmartwychwstanieDzien22)
         }
-        val buttonUkrzyzowanieDoDzien23 = findViewById<Button>(R.id.button_Ukrzyzowanie_23)
-        buttonUkrzyzowanieDoDzien23.setOnClickListener {
-            val intentUkrzyzowanieDzien23 = Intent(this, UkrzyzowanieDzien23::class.java)
-            startActivity(intentUkrzyzowanieDzien23)
+        val buttonZmartwychwstanieDoDzien23 = findViewById<Button>(R.id.button_Zmartwychwstanie_23)
+        buttonZmartwychwstanieDoDzien23.setOnClickListener {
+            val intentZmartwychwstanieDzien23 = Intent(this, ZmartwychwstanieDzien23::class.java)
+            startActivity(intentZmartwychwstanieDzien23)
         }
-        val buttonUkrzyzowanieDoDzien24 = findViewById<Button>(R.id.button_Ukrzyzowanie_24)
-        buttonUkrzyzowanieDoDzien24.setOnClickListener {
-            val intentUkrzyzowanieDzien24 = Intent(this, UkrzyzowanieDzien24::class.java)
-            startActivity(intentUkrzyzowanieDzien24)
+        val buttonZmartwychwstanieDoDzien24 = findViewById<Button>(R.id.button_Zmartwychwstanie_24)
+        buttonZmartwychwstanieDoDzien24.setOnClickListener {
+            val intentZmartwychwstanieDzien24 = Intent(this, ZmartwychwstanieDzien24::class.java)
+            startActivity(intentZmartwychwstanieDzien24)
         }
         val buttonUkrzyzowanieDoDzien25 = findViewById<Button>(R.id.button_Ukrzyzowanie_25)
         buttonUkrzyzowanieDoDzien25.setOnClickListener {

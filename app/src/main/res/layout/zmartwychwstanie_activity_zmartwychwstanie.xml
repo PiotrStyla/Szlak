@@ -162,21 +162,21 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ukrzyzowanie_19"
-                    style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_19_po_mierci_jezusa_pro_ba_j_zefa_z_arymatei"/>
+                    android:id="@+id/button_Zmartwychwstanie_19"
+                    style="@style/button_dni_chwalebne_padding"
+                    android:text="@string/dzie_19_nowe_stworzenie_nowy_cz_owiek"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ukrzyzowanie_20"
-                    style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_20_po_mierci_jezusa_wydanie_cia_a_jezusa"/>
+                    android:id="@+id/button_Zmartwychwstanie_20"
+                    style="@style/button_dni_chwalebne_padding"
+                    android:text="@string/dzie_20_nowe_stworzenie_nowe_serce"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ukrzyzowanie_21"
-                    style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_21_po_mierci_jezusa_zdj_cie_z_krzy_a"/>
+                    android:id="@+id/button_Zmartwychwstanie_21"
+                    style="@style/button_dni_chwalebne_padding"
+                    android:text="@string/dzie_21_nowe_stworzenie_nowe_ycie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

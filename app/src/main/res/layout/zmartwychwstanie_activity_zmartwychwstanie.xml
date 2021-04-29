@@ -198,20 +198,20 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ukrzyzowanie_25"
-                    style="@style/button_dni_bolesne_padding"
-                    android:text="@string/dzie_25_po_mierci_jezusa_zst_pienie_chrystusa_do_otch_ani"/>
+                    android:id="@+id/button_Zmartwychwstanie_25"
+                    style="@style/button_dni_chwalebne_padding"
+                    android:text="@string/dzie_25_wszystko_nowe"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ukrzyzowanie_26"
-                    style="@style/button_dni_bolesne_padding"
+                    android:id="@+id/button_Zmartwychwstanie_26"
+                    style="@style/button_dni_chwalebne_padding"
                     android:text="@string/dzie_26_ostatnie_dni_dzi_kczynienie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ukrzyzowanie_27"
-                    style="@style/button_dni_bolesne_padding"
+                    android:id="@+id/button_Zmartwychwstanie_27"
+                    style="@style/button_dni_chwalebne_padding"
                     android:text="@string/dzie_27_apostolstwo"/>
             <Button
                     android:layout_width="match_parent"

@@ -216,20 +216,20 @@
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ukrzyzowanie_28"
-                    style="@style/button_dni_bolesne_padding"
+                    android:id="@+id/button_Zmartwychwstanie_28"
+                    style="@style/button_dni_chwalebne_padding"
                     android:text="@string/dzie_28_pokuta_i_eucharystia"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ukrzyzowanie_29"
-                    style="@style/button_dni_bolesne_padding"
+                    android:id="@+id/button_Zmartwychwstanie_29"
+                    style="@style/button_dni_chwalebne_padding"
                     android:text="@string/dzie_29_podsumowanie"/>
             <Button
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/button_Ukrzyzowanie_30"
-                    style="@style/button_dni_bolesne_padding"
+                    android:id="@+id/button_Zmartwychwstanie_30"
+                    style="@style/button_dni_chwalebne_padding"
                     android:text="@string/dzie_30_powr_t_do_wybranych_my_li"/>
 
 

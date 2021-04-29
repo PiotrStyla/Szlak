@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="16dp"
+        tools:context=".ZmartwychwstanieDzien30"
+        android:id="@+id/linearLayout">
+    <TextView
+            android:text="@string/dzie_30_podsumowanie"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView8336"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:lineSpacingExtra="4sp"
+            app:layout_constraintTop_toTopOf="parent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingEnd="10sp"
+            tools:ignore="RtlSymmetry" />
+
+    <ScrollView
+            android:id="@+id/scrollZmartwychwstanie30"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView8336"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="48dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:clipToPadding="false"
+            android:paddingStart="8sp"
+            android:paddingTop="10sp"
+            android:paddingEnd="5sp"
+            android:paddingBottom="5sp">
+        <LinearLayout android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+            <TextView
+                    android:text="@string/akt_zawierzenia_maryi"
+                    android:id="@+id/textView8337"
+                    style="@style/dziesiatek_rozanca"/>
+            <TextView
+                    android:text="@string/ja_grzesznik_niewierny_odnawiam_i_zatwierdzam_dzisiaj_przed_twoim_obliczem_przyrzeczenia_chrztu_w_wyrzekam_si_na_zawsze_szatana_jego_pychy_i_jego_dzie_ca_kowicie_oddaj_si_jezusowi_chrystusowi_m_dro_ci_wcielonej_aby_za_nim_i_nios_c_m_j_krzy_po_wszystkie_dni_ycia_abym_za_by_mu_wierniejszy_ni_dot_d_obieram_ciebie_dzi_maryjo_w_obliczu_ca_ego_dworu_niebieskiego_za_moj_matk_i_pani_oddaj_ci_i_po_wi_cam_jako_tw_j_niewolnik_cia_o_i_dusz_swoj_dobra_wewn_trzne_i_zewn_trzne_nawet_warto_dobrych_moich_uczynk_w_przesz_ych_obecnych_i_przysz_ych_pozostawiaj_c_ci_ca_kowite_i_zupe_ne_prawo_rozporz_dzania_mn_i_wszystkim_bez_wyj_tku_co_do_mnie_nale_y_wed_ug_twego_upodobania_ku_wi_kszej_chwale_boga_w_czasie_i_wieczno_ci_w_ludwik_maria_grignion_de_montfort"
+                    style="@style/paragraf_Text_optimum"
+                    android:id="@+id/textView8338"
+                    android:paddingBottom="70dp"/>
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

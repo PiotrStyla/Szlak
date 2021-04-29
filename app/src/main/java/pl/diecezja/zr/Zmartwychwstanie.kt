@@ -150,20 +150,20 @@ class Zmartwychwstanie : AppCompatActivity() {
             val intentZmartwychwstanieDzien27 = Intent(this, ZmartwychwstanieDzien27::class.java)
             startActivity(intentZmartwychwstanieDzien27)
         }
-        val buttonUkrzyzowanieDoDzien28 = findViewById<Button>(R.id.button_Ukrzyzowanie_28)
-        buttonUkrzyzowanieDoDzien28.setOnClickListener {
-            val intentUkrzyzowanieDzien28 = Intent(this, UkrzyzowanieDzien28::class.java)
-            startActivity(intentUkrzyzowanieDzien28)
+        val buttonZmartwychwstanieDoDzien28 = findViewById<Button>(R.id.button_Zmartwychwstanie_28)
+        buttonZmartwychwstanieDoDzien28.setOnClickListener {
+            val intentZmartwychwstanieDzien28 = Intent(this, ZmartwychwstanieDzien28::class.java)
+            startActivity(intentZmartwychwstanieDzien28)
         }
-        val buttonUkrzyzowanieDoDzien29 = findViewById<Button>(R.id.button_Ukrzyzowanie_29)
-        buttonUkrzyzowanieDoDzien29.setOnClickListener {
-            val intentUkrzyzowanieDzien29 = Intent(this, UkrzyzowanieDzien29::class.java)
-            startActivity(intentUkrzyzowanieDzien29)
+        val buttonZmartwychwstanieDoDzien29 = findViewById<Button>(R.id.button_Zmartwychwstanie_29)
+        buttonZmartwychwstanieDoDzien29.setOnClickListener {
+            val intentZmartwychwstanieDzien29 = Intent(this, ZmartwychwstanieDzien29::class.java)
+            startActivity(intentZmartwychwstanieDzien29)
         }
-        val buttonUkrzyzowanieDoDzien30 = findViewById<Button>(R.id.button_Ukrzyzowanie_30)
-        buttonUkrzyzowanieDoDzien30.setOnClickListener {
-            val intentUkrzyzowanieDzien30 = Intent(this, UkrzyzowanieDzien30::class.java)
-            startActivity(intentUkrzyzowanieDzien30)
+        val buttonZmartwychwstanieDoDzien30 = findViewById<Button>(R.id.button_Zmartwychwstanie_30)
+        buttonZmartwychwstanieDoDzien30.setOnClickListener {
+            val intentZmartwychwstanieDzien30 = Intent(this, ZmartwychwstanieDzien30::class.java)
+            startActivity(intentZmartwychwstanieDzien30)
         }
     }
 }
